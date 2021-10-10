@@ -1,0 +1,42 @@
+From jose@monkey.org Fri Aug 12 11:55:00 2016 +0000
+Return-Path: my.navyfederal@response.nfcu.org
+Delivered-To: jose@monkey.org
+X-FDA: 71840083560.08.money96_82ed5871c0c2f
+X-Spam-Summary: 86,7.5,0,f6ffb4ba2f65ffab,d41d8cd98f00b204,my.navyfederal@response.nfcu.org,,RULES_HIT:2:41:72:355:375:379:387:455:474:493:539:540:541:542:543:567:836:962:967:969:973:978:979:983:988:989:1155:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1535:1546:1571:1587:1588:1589:1593:1594:1606:1631:1653:1685:1730:1747:1777:1792:1801:1803:2073:2076:2194:2196:2198:2199:2200:2201:2393:2525:2527:2539:2543:2553:2561:2566:2610:2682:2685:2737:2741:2859:2890:2891:2892:2894:2897:2900:2901:2909:2910:2915:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3352:3586:3770:3863:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4321:4383:4384:4395:4605:5007:6117:6119:6248:6261:6657:6669:6674:6678:6996:6997:7212:7809:7882:7903:7974:7996:8516:8518:8599:8603:8957:8987:9025:9388:9411:9908:9944:10210:10346:11257:11289:11473:11658:11914:12043:12219:1
+X-HE-Tag: money96_82ed5871c0c2f
+X-Filterd-Recvd-Size: 6743
+Received: from mx.hiexmedellin.com (mx.hicucuta.com [190.90.167.31])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 12 Aug 2016 11:54:59 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mx.hiexmedellin.com (Postfix) with ESMTP id CFEFB166C22;
+	Fri, 12 Aug 2016 06:14:45 -0500 (COT)
+Received: from mx.hiexmedellin.com ([127.0.0.1])
+	by localhost (mx.hiexmedellin.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id Oo5Kmqmvw86x; Fri, 12 Aug 2016 06:14:45 -0500 (COT)
+Received: from localhost (localhost [127.0.0.1])
+	by mx.hiexmedellin.com (Postfix) with ESMTP id F07C0166AB1;
+	Fri, 12 Aug 2016 06:14:44 -0500 (COT)
+X-Virus-Scanned: amavisd-new at hiexmedellin.com
+Received: from mx.hiexmedellin.com ([127.0.0.1])
+	by localhost (mx.hiexmedellin.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id g3Ck7nIZlNiB; Fri, 12 Aug 2016 06:14:44 -0500 (COT)
+Received: from User (weston-69.65.81.127.myacc.net [69.65.81.127])
+	by mx.hiexmedellin.com (Postfix) with ESMTPA id 765BA166843;
+	Fri, 12 Aug 2016 06:14:38 -0500 (COT)
+From: "Navy Federal"<My.NavyFederal@response.nfcu.org>
+Subject: Verify Online Banking
+Date: Fri, 12 Aug 2016 07:15:31 -0400
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20160812111438.765BA166843@mx.hiexmedellin.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 330

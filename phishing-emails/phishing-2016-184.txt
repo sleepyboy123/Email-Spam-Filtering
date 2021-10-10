@@ -1,0 +1,24 @@
+From jose@monkey.org Thu Apr 21 17:31:53 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71430878106.23.event73_84da29e09640a
+X-Spam-Summary: 30,2,0,a4b74c956729ee67,d41d8cd98f00b204,codewizard@approject.com,:codewizard@approject.com,RULES_HIT:41:355:379:871:988:989:1260:1313:1314:1345:1381:1437:1516:1518:1528:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2559:2562:2917:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:9898:10004:10394:10400:11604:11658:11914:12166:12196:12340:12561:13110:13439:21080:21326:30001:30026:30054:30055:30070,0,RBL:209.188.112.37:@approject.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:36,LUA_SUMMARY:none
+X-HE-Tag: event73_84da29e09640a
+X-Filterd-Recvd-Size: 60973
+Received: from rio.newmex.com (rio.newmex.com [209.188.112.37])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 21 Apr 2016 17:31:52 +0000 (UTC)
+Received: from IRM2.Edelweiss.local (209-188-117-77.taosnet.com [209.188.117.77])
+	by rio.newmex.com (Postfix) with ESMTP id 0686BB420B8;
+	Thu, 21 Apr 2016 11:31:13 -0600 (MDT)
+Content-Type: multipart/mixed; boundary="===============1415576235=="
+MIME-Version: 1.0
+Subject: Your USAA Checking/Savings Account Banking Bill
+To: Recipients <codewizard@approject.com>
+From: "USAA" <codewizard@approject.com>
+Date: Thu, 21 Apr 2016 11:25:13 -0600
+Message-Id: <20160421173114.0686BB420B8@rio.newmex.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 183

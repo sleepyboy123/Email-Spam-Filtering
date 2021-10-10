@@ -1,0 +1,32 @@
+From jose@monkey.org Fri Jul 29 02:09:14 2016 +0000
+Return-Path: thelashes@embmail.com
+Delivered-To: jose@monkey.org
+X-FDA: 71787804228.23.van51_1657e8f850055
+X-Spam-Summary: 2,0,0,5909fc06817eaf3c,d41d8cd98f00b204,thelashes@embmail.com,:thelashes@embmail.com,RULES_HIT:41:327:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:7652:10004:10400:11604:11658:11914:12043:12340:12517:12519:12561:13110:13439:14721:21080:21433:30026:30054:30055,0,RBL:205.219.233.9:@embmail.com:.lbl8.mailshell.net-62.6.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:66,LUA_SUMMARY:none
+X-HE-Tag: van51_1657e8f850055
+X-Filterd-Recvd-Size: 39217
+Received: from smtp.centurylink.net (mail.centurylink.net [205.219.233.9])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 29 Jul 2016 02:09:13 +0000 (UTC)
+Return-Path: <thelashes@embmail.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=IpdcS/3g c=1 sm=1 tr=0 a=T8Df+/kC4oVlsA8Mnn5S1A==:117 a=T8Df+/kC4oVlsA8Mnn5S1A==:17 a=9cA053aazHEA:10 a=PqCfyzlyTWAA:10 a=KXl77lDgDEgIEtoqJYcA:9 a=tclcd6dtLQvEqt9_mmAA:9 a=_W_S_7VecoQA:10 a=PXTzs1PSiS8A:10 a=wIgzXvyaXucVNcSokP8A:9 a=n3BslyFRqc0A:10
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: dGhlbGFzaGVzQGVtYmFycW1haWwuY29t
+Authentication-Results:  smtp02.agate.dfw.synacor.com smtp.user=thelashes; auth=pass (LOGIN)
+Received: from [71.42.152.203] ([71.42.152.203:9347] helo=OGSYS-T.corp.blackbrushenergy.com)
+	by smtp.centurylink.net (envelope-from <thelashes@embmail.com>)
+	(ecelerity 3.5.1.37854 r(Momo-dev:3.5.1.0)) with ESMTPA
+	id 8E/D8-12412-5CABA975; Thu, 28 Jul 2016 22:09:11 -0400
+Content-Type: multipart/mixed; boundary="===============0359181571=="
+Message-ID: <8E.D8.12412.5CABA975@smtp02.agate.dfw.synacor.com>
+MIME-Version: 1.0
+Subject: Transfer on Hold
+To: Recipients <thelashes@embmail.com>
+From: "USAA" <thelashes@embmail.com>
+Date: Thu, 28 Jul 2016 21:09:06 -0500
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 311

@@ -1,0 +1,32 @@
+From jose@monkey.org Tue Jul  5 04:35:11 2016 +0000
+Return-Path: info@zimbra.com
+Delivered-To: jose@monkey.org
+X-FDA: 71701080822.03.lace19_2d37f70708211
+X-Spam-Summary: 53,3.2,0,62d774bc124914f8,d41d8cd98f00b204,info@zimbra.com,:,RULES_HIT:41:72:355:379:493:800:836:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1543:1566:1575:1588:1589:1592:1594:1711:1714:1719:1730:1749:1777:1792:2194:2199:2525:2527:2553:2557:2559:2562:2610:2682:2685:2859:2890:2899:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3392:3586:3642:3769:3866:3867:3868:3871:3872:3873:3884:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:5007:6238:6261:6650:6671:6672:6996:6997:8603:8957:9025:9388:9411:9416:9468:9908:10008:10249:10250:10400:11473:11480:11657:11658:11914:12043:12438:12517:12519:12555:12740:12776:13007:13008:13139:13235:13237:13439:14094:14181:14596:14655:14721:14828:21080:21259:21433:21436:30001:30022:30026:30054:30070:30075:30083:30090,0,RBL:203.84.158.67:@zimbra.com:.lbl8.mailshell.net-62.4.113.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5
+X-HE-Tag: lace19_2d37f70708211
+X-Filterd-Recvd-Size: 5411
+Received: from mail.indomog.com (mail.indomog.com [203.84.158.67])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  5 Jul 2016 04:35:10 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.indomog.com (Postfix) with ESMTP id 90CC3125BECE
+	for <jose@monkey.org>; Tue,  5 Jul 2016 10:39:46 +0700 (WIT)
+X-Virus-Scanned: amavisd-new at indomog.com
+Received: from mail.indomog.com ([127.0.0.1])
+	by localhost (mail.indomog.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9+YX6-bG3fOh for <jose@monkey.org>;
+	Tue,  5 Jul 2016 10:39:46 +0700 (WIT)
+Received: from amitasc1.amitasc1.j9.internal.cloudapp.net (unknown [104.214.106.163])
+	by mail.indomog.com (Postfix) with ESMTPSA id 9BD56B7E5C96
+	for <jose@monkey.org>; Tue,  5 Jul 2016 09:26:07 +0700 (WIT)
+Content-Type: multipart/alternative; boundary="===============1372950012=="
+MIME-Version: 1.0
+Subject: Account Verification
+To: jose@monkey.org
+From: "Zimbra Alert" <info@zimbra.com>
+Date: Tue, 05 Jul 2016 02:26:05 +0000
+Message-Id: <20160705022608.9BD56B7E5C96@mail.indomog.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 289

@@ -1,0 +1,134 @@
+From jose@monkey.org Thu Apr 19 14:48:15 2018 +0000
+Return-Path: ljiljana.pajeska@mint.hr
+Delivered-To: jose@monkey.org
+X-FDA: 74072232150.34.ship60_2ad8f95162547
+X-Spam-Summary: 50,0,0,6c96d9815c061d15,d41d8cd98f00b204,ljiljana.pajeska@mint.hr,:ljiljana.pajeska@mint.hr,RULES_HIT:10:72:152:334:355:368:369:379:599:960:962:967:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1345:1359:1381:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1730:1776:1792:1801:2194:2198:2199:2200:2525:2527:2540:2551:2561:2564:2682:2685:2859:2892:2895:2900:2901:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3354:3521:3522:3523:3586:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4605:4860:5007:6238:6261:6650:6678:6703:7576:7782:7903:7904:8512:8514:8518:8583:8603:8777:8957:9025:9121:9149:9388:9545:9855:10049:10205:10261:10346:10394:11233:11651:11656:11657:11855:11875:11914:12043:12050:12291:12438:12555:12657:12661:12679:12683:12895:13005:13017:13018:13019:13025:13139:13237:13893:14096:14110:14141:14659:21063:21080:21325:21364:21433:21451:21627:30021:30022:30028:30034:30054:300
+X-HE-Tag: ship60_2ad8f95162547
+X-Filterd-Recvd-Size: 100364
+Received: from owa.mint.hr (owa.mint.hr [212.92.198.35])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 19 Apr 2018 14:48:14 +0000 (UTC)
+X-Assp-Version: 2.5.5(16366) on MINT-ASSP.mint.local
+X-Assp-ID: MINT-ASSP.mint.local m1-49253-00992
+X-Assp-Session: 7F0810EFEDD0 (mail 1)
+X-Assp-Envelope-From: Ljiljana.Pajeska@mint.hr
+X-Assp-Intended-For: jordan.francis@waynehealth.org
+X-Assp-Intended-For: jordan.schelin@allegiance.com
+X-Assp-Intended-For: jordanzimmerman@zadv.com
+X-Assp-Intended-For: joon.kim@ngc.com
+X-Assp-Intended-For: joppenheim@virtua.org
+X-Assp-Intended-For: jordan@musclepharm.com
+X-Assp-Intended-For: jorgen@lg-marknader.se
+X-Assp-Intended-For: JorgeZuniga@creighton.edu
+X-Assp-Intended-For: jorkaskyj@michigan.gov
+X-Assp-Intended-For: joreilly@mpsaz.org
+X-Assp-Intended-For: Jorge.Perez@c-ghospital.org
+X-Assp-Intended-For: jorge.pinto@novabase.pt
+X-Assp-Intended-For: jonsmart@cs.com
+X-Assp-Intended-For: jonesG@DNC.org
+X-Assp-Intended-For: jonesg@nacmem.org
+X-Assp-Intended-For: jonesj@apsu.edu
+X-Assp-Intended-For: jonathon.hartman@uhhospitals.org
+X-Assp-Intended-For: jonebria@ohsu.edu
+X-Assp-Intended-For: Jones@ascensionhealth.org
+X-Assp-Intended-For: joni.vallier@alegent.org
+X-Assp-Intended-For: jonipaulsen@catholichealth.net
+X-Assp-Intended-For: jonpaul.croom@hma.com
+X-Assp-Intended-For: jonesj@somc.org
+X-Assp-Intended-For: jonesmr@upmc.edu
+X-Assp-Intended-For: joseph.baar@Uhhospitals.org
+X-Assp-Intended-For: joseph.baumgaertner@pvhmc.org
+X-Assp-Intended-For: joseph.bedosky@uhhospitals.org
+X-Assp-Intended-For: Joseph-DeVirgilio@smh.com
+X-Assp-Intended-For: joseph.allen@ihs.gov
+X-Assp-Intended-For: joseph.arata@dhs.gov
+X-Assp-Intended-For: joseph.bokar@case.edu
+X-Assp-Intended-For: joseph.bryant@bnsf.com
+X-Assp-Intended-For: joseph.buendia@mercy.net
+X-Assp-Intended-For: joseph.berlesky@rwjuh.edu
+X-Assp-Intended-For: Joseph.Biasi@edocorp.com
+X-Assp-Intended-For: joseph.blackstad@bpsne.net
+X-Assp-Intended-For: joseph@ppsurgery.com
+X-Assp-Intended-For: jorzechowski@gianteagle.com
+X-Assp-Intended-For: jose@monkey.org
+X-Assp-Intended-For: jose@ppponline.org
+X-Assp-Intended-For: jorr@papillion.org
+X-Assp-Intended-For: jorsini@nm.org
+X-Assp-Intended-For: jorsini@scripps.org
+X-Assp-Intended-For: josepg.calabrese@uhhospitals.org
+X-Assp-Intended-For: joseph@apfc.com
+X-Assp-Intended-For: joseph@midstatesd.net
+X-Assp-Intended-For: jose.guardiola@tamucc.edu
+X-Assp-Intended-For: jose.morillo@hma.com
+X-Assp-Intended-For: jose_de_dios@sil.org
+X-Assp-Intended-For: jon.stewart@kp.org
+X-Assp-Intended-For: jon.stignani@spps.org
+X-Assp-Intended-For: jon_abeles@health-partners.org
+X-Assp-Intended-For: jon.rowzie@hma.com
+X-Assp-Intended-For: jon.schroeder@woh.rr.com
+X-Assp-Intended-For: jon.skinner@netscape.net
+X-Assp-Intended-For: jonathan@cumberlandbusiness.com
+X-Assp-Intended-For: jonathan@jcwi.org.uk
+X-Assp-Intended-For: jonathan.acorn@fraserhealth.ca
+X-Assp-Intended-For: jon_albrecht@acmestores.com
+X-Assp-Intended-For: jon_vanzomeren@acsmi.com
+X-Assp-Intended-For: jonabeles@catholichealth.net
+X-Assp-Intended-For: jon.rolland@nypro.com
+X-Assp-Intended-For: jon.davis@almacardinals.org
+X-Assp-Intended-For: jon.ewing@mediasurface.com
+X-Assp-Intended-For: jon.faber@uhhospitals.org
+X-Assp-Intended-For: jon.cashman@lexstra.co.uk
+X-Assp-Intended-For: jon.darling@us.army.mil
+X-Assp-Intended-For: jon.davidson@uhhospitals.org
+X-Assp-Intended-For: jon.jaeb@kci1.com
+X-Assp-Intended-For: jon.lanz@dynamix.com
+X-Assp-Intended-For: jon.nedry@hma.com
+X-Assp-Intended-For: jon.frantsvog@bhshealth.org
+X-Assp-Intended-For: jon.garner@ole.com
+X-Assp-Intended-For: jon.george@uhhospitals.org
+X-Assp-Intended-For: jonathan.ross@uhhospitals.org
+X-Assp-Intended-For: jonathan.sasser@wellstar.org
+X-Assp-Intended-For: jonathan.stamler@case.edu
+X-Assp-Intended-For: jonathan.mccarthy@waynehealth.org
+X-Assp-Intended-For: jonathan.miller@UHhospitals.org
+X-Assp-Intended-For: jonathan.pace@UHhospitals.org
+X-Assp-Intended-For: jonathan_ayers@idexx.com
+X-Assp-Intended-For: jonathansimpson@cableone.net
+X-Assp-Intended-For: jonathantimmis@catholichealth.net
+X-Assp-Intended-For: jonathan.terry@hma.com
+X-Assp-Intended-For: jonathan.witmer-rich@law.csuohio.edu
+X-Assp-Intended-For: jonathan.wynbrandt@uhhospitals.org
+X-Assp-Intended-For: jonathan.liu@codestreet.com
+X-Assp-Intended-For: jonathan.croopnick@sturdymemorial.org
+X-Assp-Intended-For: jonathan.david@cableone.net
+X-Assp-Intended-For: jonathan.erikson@netscape.net
+X-Assp-Intended-For: jonathan.aldridge@aurorafashions.com
+X-Assp-Intended-For: jonathan.anthony@questdiagnostics.com
+X-Assp-Intended-For: Jonathan.Bentrim@fhlb-pgh.com
+X-Assp-Intended-For: jonathan.hernandez@mail.com
+X-Assp-Intended-For: jonathan.lakin@globaldawn.com
+X-Assp-Intended-For: jonathan.lass@uhhospitals.org
+X-Assp-Intended-For: jonathan.fanaroff@uhhospitals.org
+X-Assp-Intended-For: Jonathan.Gold@hc.msu.edu
+X-Assp-Intended-For: jonathan.hedger@hcmed.org
+X-Assp-Original-Subject: RE: Service Help Desk
+X-Assp-Client-TLS: yes
+From: Ljiljana Pajeska <Ljiljana.Pajeska@mint.hr>
+To: Ljiljana Pajeska <Ljiljana.Pajeska@mint.hr>
+Subject: RE: Service Help Desk
+Thread-Topic: Service Help Desk
+Thread-Index: AdPX4gUSql+z/oPFSKe7NCLHmuXOtgACis8Y
+Date: Thu, 19 Apr 2018 14:46:20 +0000
+Message-ID: <53798AD8F93D6149AD226034300D86180183EA33C0@Hades.mint.local>
+References: <53798AD8F93D6149AD226034300D86180183EA1255@Hades.mint.local>
+In-Reply-To: <53798AD8F93D6149AD226034300D86180183EA1255@Hades.mint.local>
+Accept-Language: en-US, hr-HR
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative;
+	boundary="_000_53798AD8F93D6149AD226034300D86180183EA33C0Hadesmintloca_"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 467

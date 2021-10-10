@@ -1,0 +1,23 @@
+From jose@monkey.org Tue Oct  4 06:41:58 2016 +0000
+Return-Path: accountvalidation-usaa@tls.com
+Delivered-To: jose@monkey.org
+X-FDA: 72031621116.22.trip77_2e0eb3f61a15f
+X-Spam-Summary: 10,1,0,d41d8cd98f00b204,d41d8cd98f00b204,accountvalidation-usaa@tls.com,:accountvalidation-usaa@tls.com,RULES_HIT:41:379:871:988:989:1193:1254:1260:1313:1314:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10400:11537:11604:11658:11914:12340:12561:13110:13439:14829:21080:30001:30007:30026:30054:30055:30069,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:0:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: trip77_2e0eb3f61a15f
+X-Filterd-Recvd-Size: 125684
+Received: from smtpbig004.earthlinkbusiness.com (smtpbig004.earthlinkbusiness.com [69.95.226.24])
+	by imf22.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue,  4 Oct 2016 06:41:56 +0000 (UTC)
+Received: (qmail 260 invoked from network); 4 Oct 2016 05:04:23 -0000
+Received: from unknown (HELO ?107.7.74.69?) (107.7.74.69)
+  by smtpbig004.onecommunications.net with SMTP; 4 Oct 2016 05:04:23 -0000
+Content-Type: multipart/mixed; boundary="===============1365213684=="
+MIME-Version: 1.0
+Subject: Your USAA Bank Account Validation Has Expired
+To: Recipients <accountvalidation-usaa@tls.com>
+From: "USAA" <accountvalidation-usaa@tls.com>
+Date: Mon, 03 Oct 2016 23:57:48 -0400
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 382

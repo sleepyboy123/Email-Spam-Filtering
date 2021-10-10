@@ -1,0 +1,41 @@
+From jose@monkey.org Thu May 14 09:52:09 2020 +0000
+Return-Path: mail@quiltessentials.biz
+Delivered-To: jose@monkey.org
+X-FDA: 76814858778.24.heart85_873a35665b022
+X-Spam-Summary: 75,0,0,1ce92bb99adca08c,d41d8cd98f00b204,mail@quiltessentials.biz,,RULES_HIT:4:41:72:355:375:379:495:800:962:967:968:973:978:983:988:989:1021:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1593:1594:1710:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2568:2610:2627:2682:2685:2693:2731:2734:2737:2828:2859:2892:2895:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3503:3504:3586:3865:3866:3867:3868:3870:3872:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:4552:5007:6117:6119:6238:6248:6261:6669:6688:7809:7903:8511:8583:8599:8603:8825:8957:9025:9080:9153:9388:9416:9545:9908:10004:10346:10489:11473:11657:11658:11914:12043:12050:12297:12438:12517:12519:12555:12663:12679:12740:12812:12895:12903:12955:12958:12959:12967:12968:12986:13139:13161:13180:13229:13436:13439:13546:13870:14096:14827:14917:18000:21080:21121:21212:21433:21450:21451:21483:
+X-HE-Tag: heart85_873a35665b022
+X-Filterd-Recvd-Size: 18292
+Received: from mail.kaba.bydgoszcz.pl (mail.kaba.bydgoszcz.pl [188.165.18.100])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 May 2020 09:52:09 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.kaba.bydgoszcz.pl (Postfix) with ESMTP id 67A359C1809
+	for <jose@monkey.org>; Thu, 14 May 2020 11:51:58 +0200 (CEST)
+Received: from mail.kaba.bydgoszcz.pl ([127.0.0.1])
+	by localhost (mail.kaba.bydgoszcz.pl [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id Cc6i_7M7iwPi for <jose@monkey.org>;
+	Thu, 14 May 2020 11:51:58 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.kaba.bydgoszcz.pl (Postfix) with ESMTP id F29149C10C4
+	for <jose@monkey.org>; Thu, 14 May 2020 11:51:57 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at mail.kaba.bydgoszcz.pl
+Received: from mail.kaba.bydgoszcz.pl ([127.0.0.1])
+	by localhost (mail.kaba.bydgoszcz.pl [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id dFY8tBWFVDsQ for <jose@monkey.org>;
+	Thu, 14 May 2020 11:51:57 +0200 (CEST)
+Received: from quiltessentials.biz (unknown [196.50.5.112])
+	by mail.kaba.bydgoszcz.pl (Postfix) with ESMTPSA id 2A59F9C0518
+	for <jose@monkey.org>; Thu, 14 May 2020 11:51:54 +0200 (CEST)
+From: monkey.org  <mail@quiltessentials.biz>
+To: jose@monkey.org
+Subject: jose@monkey.org Messages could not be delivered.
+Date: 14 May 2020 10:51:55 +0100
+Message-ID: <20200514105155.7B86E0DBF53F6AC7@quiltessentials.biz>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 61

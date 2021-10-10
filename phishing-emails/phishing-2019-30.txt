@@ -1,0 +1,32 @@
+From jose@monkey.org Mon Feb 11 10:28:51 2019 +0000
+Return-Path: riz@yoafrica.com
+Delivered-To: jose@monkey.org
+X-FDA: 75152960862.08.duck81_876bd7ae02d38
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,riz@yoafrica.com,:,RULES_HIT:30001:30016:30026:30054:30070,0,RBL:196.2.64.18:@yoafrica.com:.lbl8.mailshell.net-62.18.247.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: duck81_876bd7ae02d38
+X-Filterd-Recvd-Size: 9219
+Received: from moringa.iwayafrica.co.zw (bluegum.iwayafrica.co.zw [196.2.64.18])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 11 Feb 2019 10:28:50 +0000 (UTC)
+Received: from [41.190.57.110] (helo=mail.windmill.co.zw)
+	by moringa.iwayafrica.co.zw with esmtp (Exim 4.89)
+	(envelope-from <riz@yoafrica.com>)
+	id 1gt8lf-0005fS-8N
+	for jose@monkey.org; Mon, 11 Feb 2019 12:24:51 +0200
+Received: from yoafrica.com (unknown [136.164.221.1])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.windmill.co.zw (Postfix) with ESMTPS id A8A6AB6E59
+	for <jose@monkey.org>; Mon, 11 Feb 2019 12:29:28 +0200 (CAT)
+From: monkey.org  <riz@yoafrica.com>
+To: jose@monkey.org
+Subject: jose@monkey.org Unusual Sign in.
+Date: 11 Feb 2019 02:28:47 -0800
+Message-ID: <20190211022847.F66AB0D0D931E9F3@yoafrica.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_CB75F2DC.27352240"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 30

@@ -1,0 +1,26 @@
+From jose@monkey.org Thu Nov 19 23:19:47 2015 +0000
+Return-Path: usaadoc@secureserver.us.uk
+Delivered-To: jose@monkey.org
+X-FDA: 70872919614.18.berry27_1b292e928ae4c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 10,1,0,da8fb20584f6e7e4,d41d8cd98f00b204,usaadoc@secureserver.us.uk,:usaadoc@secureserver.us.uk,RULES_HIT:4:41:72:379:392:800:967:969:973:983:988:989:1147:1193:1208:1221:1254:1260:1263:1313:1314:1381:1431:1432:1433:1434:1437:1461:1516:1517:1518:1571:1575:1594:1685:1699:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2540:2568:2610:2612:2638:2682:2685:2737:2741:2859:2890:2891:2894:2903:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3154:3352:3863:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4362:4605:4699:4700:5007:6238:6248:6261:6669:6675:6678:6687:6688:7208:7774:7809:7903:8509:8516:8568:8599:8603:8784:8957:9025:9060:9080:9121:9149:9177:9388:9908:10004:10030:10049:10149:10346:10946:11026:11233:11527:11537:11657:11658:11914:11967:12043:12438:12555:12561:12663:12679:12729:12737:12776:12812:12973:13005:13017:13018:13019:13025:13110:13139:13200:13229:13236:13237:13893:13972:14001:14096:14129:14195:14515
+X-HE-Tag: berry27_1b292e928ae4c
+X-Filterd-Recvd-Size: 16137
+Received: from smtp004.earthlinkbusiness.com (smtp004.earthlinkbusiness.com [69.95.226.14])
+	by imf26.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Thu, 19 Nov 2015 23:19:46 +0000 (UTC)
+Received: (qmail 2120 invoked from network); 19 Nov 2015 23:16:41 -0000
+Received: from unknown (HELO ?192.168.1.251?) (63.131.1.58)
+  by smtp004.earthlinkbusiness.com with SMTP; 19 Nov 2015 23:16:41 -0000
+Content-Type: multipart/alternative; boundary="===============1364883411=="
+MIME-Version: 1.0
+Subject: IMPORTANT DOCUMENT CONCERNING THE SAFETY OF YOUR ACCOUNT
+To: Recipients <usaadoc@secureserver.us.uk>
+From: "USAA" <usaadoc@secureserver.us.uk>
+Date: Thu, 19 Nov 2015 18:16:35 -0500
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 256

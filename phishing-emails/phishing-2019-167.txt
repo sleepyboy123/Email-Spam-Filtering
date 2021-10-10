@@ -1,0 +1,35 @@
+From jose@monkey.org Sat Aug 31 10:44:59 2019 +0000
+Return-Path: bemar@bolaadebanjo.com
+Delivered-To: jose@monkey.org
+X-FDA: 75882390318.52.grape91_2b79984ff5601
+X-Spam-Summary: 50,0,0,fd62fe082528018b,d41d8cd98f00b204,bemar@bolaadebanjo.com,:,RULES_HIT:1:41:72:355:375:379:495:800:962:967:973:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1566:1571:1588:1589:1592:1593:1594:1623:1714:1730:1747:1777:1792:2198:2199:2393:2525:2527:2543:2565:2610:2636:2682:2685:2693:2828:2859:2890:2894:2895:2898:2902:2910:2915:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3585:3586:3865:3866:3867:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4603:4605:5007:6117:6119:6261:6300:6650:6653:6669:6674:6678:7903:8513:8583:8599:8603:8957:8960:9025:9080:9388:9416:9908:10004:10049:10231:10346:11657:11658:11914:12043:12294:12295:12297:12438:12517:12519:12555:12776:12783:12891:12903:12955:12958:12959:12967:12968:12986:13132:13139:13227:13229:13231:13439:14096:14254:14829:14877:21080:21347:21349:21433:21450:21451:21524:21627:21740:
+X-HE-Tag: grape91_2b79984ff5601
+X-Filterd-Recvd-Size: 12397
+Received: from officedesk.bolaadebanjo.com (officedesk.bolaadebanjo.com [206.189.61.140])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 31 Aug 2019 10:44:58 +0000 (UTC)
+Received: from bolaadebanjo.com (unknown [8.39.235.245])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by officedesk.bolaadebanjo.com (Postfix) with ESMTPSA id 771B528108D
+	for <jose@monkey.org>; Sat, 31 Aug 2019 10:35:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bolaadebanjo.com;
+	s=default; t=1567247745;
+	bh=TeDsj1d/oZzbLWDRyFfnhoAu+9vRVWrbh2UYgcFmHEk=;
+	h=From:To:Subject:Date;
+	b=h7p/eN9OZ7JFx7mRl0zZqjze5Ijj2VpJFyXS+b5rVzm9P2K/UBh+Pe1IV3E2AZIQl
+	 nEw+HHP0gLPr++6bZaLjno1/faAhqkfs3XCPHOw0HTw2cRKntkTrBvEOKGSijWZdCY
+	 JDO3WR9clUjwWdMsEcBlP6RLQPiF29i5QSIexxoE=
+From: monkey.org Support<bemar@bolaadebanjo.com>
+To: jose@monkey.org
+Subject: Account Update [2019] Service
+Date: 31 Aug 2019 03:35:45 -0700
+Message-ID: <20190831033545.CCE580964AD13F1C@bolaadebanjo.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 166

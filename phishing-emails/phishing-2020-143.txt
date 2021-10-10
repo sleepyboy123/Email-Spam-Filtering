@@ -1,0 +1,48 @@
+From jose@monkey.org Mon Nov 16 09:50:06 2020 +0000
+Return-Path: Wellsfargo_Online@knology.net
+Delivered-To: jose@monkey.org
+X-FDA: 77489810412.08.BABB358
+Received: from mail.alfahd.com (mail.alfahd.com [199.250.195.26])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP id C584210057262
+	for <jose@monkey.org>; Mon, 16 Nov 2020 09:50:04 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=alfahd.com;
+	 s=default; h=Date:From:To:Subject:MIME-Version:Content-Type:Sender:Reply-To:
+	Message-ID:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=ZaO9ll6UEI1xN+Mm8pCxaHlWarttWIbeo4p2dao96hw=; b=gxQRvRPu6T5mdkDd6sqPkzj9o2
+	wgo9jNkCXbib/xZ3sy/ga42E0MxpdJxiBJ/QiGaQx5edR0cI/fW5L7HKV+cIvVBfjzCSsIxn2s3RP
+	nvMVYRFRagUC6zGMCv4Iccl0bxsa/Nahv03NXFX/ODB00YbBqRY/xyvFq/rVLlGVs7l8kPC8+V3DA
+	CMGnhSRONdmRBYTgxPEyEBVgdX7NPraVm1ymOVF3pRYibDuEto5Z2ckQ75hEiHGypItl2Mpxy8W3L
+	V4S1+SlZE4phc064lWCQGxnL1YiK8PttmDj5CKsXRQZyHhK81HtUVgDaLxzLTaQQyC1nMubGnlwFn
+	QS6f1d2g==;
+Received: from [186.225.119.170] (port=47402 helo=WIN-BNELSKT1E7E.us-east-2.compute.internal)
+	by mail.alfahd.com with esmtpa (Exim 4.93)
+	(envelope-from <Wellsfargo_Online@knology.net>)
+	id 1keb87-0000mw-S2; Mon, 16 Nov 2020 04:49:01 -0500
+Content-Type: multipart/mixed; boundary="===============1637008161=="
+MIME-Version: 1.0
+Subject: A New Wells Fargo. Bill Pay: Payee'(s) Added.
+To: Recipients <Wellsfargo_Online@knology.net>
+From: " " <Wellsfargo_Online@knology.net>
+Date: Mon, 16 Nov 2020 09:47:29 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.alfahd.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - knology.net
+X-Get-Message-Sender-Via: mail.alfahd.com: authenticated_id: workshopryd@alfahd.com
+X-Authenticated-Sender: mail.alfahd.com: workshopryd@alfahd.com
+Received-SPF: none (knology.net>: No applicable sender policy available) receiver=imf03.b.tucows.com; identity=mailfrom; envelope-from="<Wellsfargo_Online@knology.net>"; helo=mail.alfahd.com; client-ip=199.250.195.26
+X-Spam-Summary: 40,2.5,0,a9e181b3cf3e7b64,d41d8cd98f00b204,wellsfargo_online@knology.net,jose@monkey.org,RULES_HIT:41:69:379:677:871:973:978:988:989:1254:1260:1313:1314:1319:1381:1437:1516:1517:1518:1537:1566:1575:1594:1699:1711:1714:1730:1747:1764:1777:1792:2194:2199:2393:2539:2549:2890:2892:2897:2900:3138:3139:3140:3141:3142:3865:3866:3867:3868:3870:3873:4042:4310:4362:5007:6227:6653:6687:6748:7281:7652:7907:8501:8829:8957:9010:10011:10128:10265:10394:10400:10849:11604:11658:12295:12297:12561:12679:13116:13132:13231:13439:14036:14828:21080:21450:21627:21789:21838:21939:21984:30001:30007:30009:30014:30019:30025:30026:30028:30029:30034:30037:30038:30046:30052:30054:30055:30062:30064:30066:30069:30070:30075:30080:30089:30090:30091,0,RBL:186.225.119.170:@knology.net:jose@monkey.org.lbl8.mailshell.net-64.201.201.201 62.22.4.100;04y838igefzxzeesqddhirjtitgdhyfenjg8ou8oqqp79zfinubjo7axegpg4ih.msaxx1b5e6m966e7gq7yp71gopqod5absccp8ie76auh8g5wshfod4jso5hoawx.c9c4ib8htykiqacpeqjghen81shg-lbl8
+ .mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:none,Custom_rules:0:3:0,LFtime:23,LUA_SUMMARY:none
+X-HE-Tag: 1605520204-482906
+X-Spam-Status: No, score=15.16
+X-Stat-Signature: g4a3gf3ob98qogc5nd6rgbtizh7apzfr
+X-Rspamd-Queue-Id: C584210057262
+X-Rspamd-Server: rspam05
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 142

@@ -1,0 +1,39 @@
+From jose@monkey.org Fri Apr 19 13:45:06 2019 +0000
+Return-Path: americanexpress@hmdnsgroup.com
+Delivered-To: jose@monkey.org
+X-FDA: 75396585012.24.pail63_49a8a5af2410a
+X-Spam-Summary: 2,0,0,9072f95ccba5cbcd,d41d8cd98f00b204,americanexpress@hmdnsgroup.com,:americanexpress@hmdnsgroup.com,RULES_HIT:2:4:41:152:355:379:677:871:962:967:973:988:989:1000:1189:1260:1263:1313:1314:1345:1381:1432:1433:1434:1436:1437:1516:1517:1549:1571:1575:1588:1589:1592:1594:1685:1730:1747:1764:1777:1792:1823:2194:2198:2199:2200:2393:2525:2527:2539:2549:2559:2565:2682:2685:2734:2741:2859:2891:2892:2900:2907:2909:2919:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4052:4321:4361:4384:5007:6119:6261:6300:6354:6506:6650:6669:6674:6678:6747:6748:7210:7281:7652:7774:7940:8516:8599:8603:8829:9010:9025:9388:10004:10049:10265:10394:11026:11604:11658:11914:12043:12295:12438:12517:12519:12555:12963:12986:13374:14096:14659:21080:21433:21450:21451:21524:21611:21627:21789:21795:21881:30009:30054:30055:30056:30064:30070:30075:30080,0,RBL:63.247.140.123:@hmdnsgroup.com:.lb
+X-HE-Tag: pail63_49a8a5af2410a
+X-Filterd-Recvd-Size: 16705
+Received: from bosch.hmdnsgroup.com (bosch.hmdnsgroup.com [63.247.140.123])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 19 Apr 2019 13:45:05 +0000 (UTC)
+Received: from [63.247.140.24] (port=35496 helo=bosch.hmdnsgroup.com)
+	by bosch.hmdnsgroup.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.91)
+	(envelope-from <AmericanExpress@hmdnsgroup.com>)
+	id 1hHToz-0004iV-4h; Fri, 19 Apr 2019 09:44:53 -0400
+From: "American Express" <AmericanExpress@hmdnsgroup.com>
+To: americanexpress@hmdnsgroup.com
+Subject: Reminder - An important concern that need to be fixed
+Date: Fri, 19 Apr 2019 09:44:27 -0400
+MIME-Version: 1.0
+Message-ID: <1555679025e89957a6d99c3951e3944fff6fa94cda_@hmdnsgroup.com>
+Content-Type: multipart/mixed; boundary="--=_Next_1A81_20161108_EC11.4.5.2391"
+X-HMDNSGroup-MailScanner-Information: Please contact the ISP for more information
+X-HMDNSGroup-MailScanner-ID: 1hHToz-0004iV-4h
+X-HMDNSGroup-MailScanner: Found to be clean
+X-HMDNSGroup-MailScanner-SpamCheck: 
+X-HMDNSGroup-MailScanner-From: americanexpress@hmdnsgroup.com
+X-Spam-Status: No
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - bosch.hmdnsgroup.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - hmdnsgroup.com
+X-Get-Message-Sender-Via: bosch.hmdnsgroup.com: mailgid no entry from get_recent_authed_mail_ips_entry
+X-Authenticated-Sender: bosch.hmdnsgroup.com: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 91

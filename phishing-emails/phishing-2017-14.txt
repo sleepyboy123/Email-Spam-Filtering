@@ -1,0 +1,29 @@
+From jose@monkey.org Mon Jan  9 02:35:37 2017 +0000
+Return-Path: c.servces@customermail.com
+Delivered-To: jose@monkey.org
+X-FDA: 72382993914.04.linen36_31221e991b114
+X-Spam-Summary: 64,4,0,b520452e0b52b381,d41d8cd98f00b204,c.servces@customermail.com,:c.servces@customermail.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1523:1536:1569:1575:1588:1592:1594:1711:1714:1730:1748:1764:1766:1782:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:7652:10010:10400:11604:11658:11845:11914:12043:12196:12340:12561:13110:13439:14721:14791:14827:21080:21212:21433:30026:30054:30055,0,RBL:68.99.120.39:@customermail.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:25,LUA_SUMMARY:none
+X-HE-Tag: linen36_31221e991b114
+X-Filterd-Recvd-Size: 110746
+Received: from dukecmfep04.coxmail.com (dukecmfep04.coxmail.com [68.99.120.39])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 Jan 2017 02:35:37 +0000 (UTC)
+Received: from dukecmimpo02.coxmail.com ([68.99.120.135])
+          by dukecmfep04.coxmail.com
+          (InterMail vM.8.01.05.08 201-2260-151-120-20120517) with ESMTP
+          id <20170109023436.MHOP15387.dukecmfep04.coxmail.com@dukecmimpo02.coxmail.com>;
+          Sun, 8 Jan 2017 21:34:36 -0500
+Received: from [10.1.10.51] ([172.18.18.217])
+	by dukecmimpo02.coxmail.com with bizsmtp
+	id W2Jw1u00U4h0NJL012a4l8; Sun, 08 Jan 2017 21:34:34 -0500
+Content-Type: multipart/mixed; boundary="===============1508917246=="
+MIME-Version: 1.0
+Subject: USAA Electronic Wire Transfer Message
+To: Recipients <C.Servces@customermail.com>
+From: "USAA" <C.Servces@customermail.com>
+Date: Sun, 08 Jan 2017 21:33:31 -0500
+Message-Id: <20170109023436.MHOP15387.dukecmfep04.coxmail.com@dukecmimpo02.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 13

@@ -1,0 +1,38 @@
+From jose@monkey.org Tue Jul 25 05:40:46 2017 +0000
+Return-Path: e-marketing@hsbc.com.hk
+Delivered-To: jose@monkey.org
+X-FDA: 73098334050.16.glue82_23a4f48f9370b
+X-Spam-Summary: 75,0,0,a8a8f3a00b5a6b42,d41d8cd98f00b204,e-marketing@hsbc.com.hk,,RULES_HIT:2:41:69:72:152:355:379:455:602:800:962:967:969:973:983:988:989:1189:1208:1221:1260:1261:1313:1314:1345:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1551:1566:1571:1573:1575:1588:1589:1592:1594:1606:1685:1714:1730:1775:1792:2198:2199:2525:2538:2539:2557:2559:2567:2570:2610:2682:2685:2693:2703:2859:2891:2897:2933:2937:2939:2942:2945:2947:2951:2954:3022:3148:3366:3622:3740:3769:3867:3868:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6117:6119:6261:6650:7652:7782:7903:8583:8603:8829:8906:8957:9025:9080:9121:9908:10346:11658:12217:13139:13166:13229:13237:14829,0,RBL:198.57.177.246-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:123,LUA_SUMMARY:none
+X-HE-Tag: glue82_23a4f48f9370b
+X-Filterd-Recvd-Size: 141943
+Received: from server.hollandi.com (server.hollandi.com [198.57.177.246])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 25 Jul 2017 05:40:44 +0000 (UTC)
+Received: from [127.0.0.1] (port=58014 helo=hollandi.com)
+	by server.hollandi.com with esmtpa (Exim 4.87)
+	(envelope-from <e-marketing@hsbc.com.hk>)
+	id 1dZsHb-0007ap-HE; Tue, 25 Jul 2017 05:21:23 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_a454dd15b26a8bb93d4686a42747135e"
+Date: Tue, 25 Jul 2017 05:21:21 +0000
+From: HSBC Bank Service <e-marketing@hsbc.com.hk>
+To: undisclosed-recipients:;
+Subject: Fwd: Wire Transfer
+Message-ID: <234596a85066937a6d7f7d8100f84844@hollandi.com>
+X-Sender: e-marketing@hsbc.com.hk
+User-Agent: Roundcube Webmail/1.1.4
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.hollandi.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - hsbc.com.hk
+X-Get-Message-Sender-Via: server.hollandi.com: authenticated_id: plaza.hollandi@hollandi.com
+X-Authenticated-Sender: server.hollandi.com: plaza.hollandi@hollandi.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 255

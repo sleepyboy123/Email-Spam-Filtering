@@ -1,0 +1,30 @@
+From jose@monkey.org Mon May  1 17:45:06 2017 +0000
+Return-Path: us@ntt.net
+Delivered-To: jose@monkey.org
+X-FDA: 72791711412.02.day50_66aafaba13028
+X-Spam-Summary: 46,2.8,0,b0669921314ed97c,d41d8cd98f00b204,us@ntt.net,:us@ntt.net,RULES_HIT:1:2:41:72:355:379:455:800:962:967:969:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1744:1776:1792:1803:2196:2198:2199:2200:2525:2527:2560:2567:2610:2682:2685:2693:2737:2859:2890:2891:2894:2900:2903:2915:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3226:3352:3865:3867:3868:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4321:4605:4700:5007:6238:6248:6261:6678:6687:6688:7208:7652:7809:7903:8509:8516:8568:8599:8603:8957:9025:9149:9388:9416:9908:10019:10030:10049:10346:11026:11233:11657:11658:11914:12043:12050:12051:12438:12555:12561:12729:12737:12776:12812:12903:12986:13038:13132:13139:13231:13234:13235:13236:13237:13294:13374:13439:13868:14096:14516:14651:14829:21067:21080:21220:21326:21433:21450:21451:21524:30001:30003:
+X-HE-Tag: day50_66aafaba13028
+X-Filterd-Recvd-Size: 11422
+Received: from mail.orcon.net.nz (unknown [219.88.242.59])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  1 May 2017 17:45:05 +0000 (UTC)
+Received: from [192.168.1.150] (default-rdns.vocus.co.nz [60.234.58.133] (may be forged))
+	by mail.orcon.net.nz (8.14.3/8.14.3/Debian-9.4) with ESMTP id v41GjuZo007006;
+	Tue, 2 May 2017 05:27:43 +1200
+Message-Id: <201705011727.v41GjuZo007006@mail.orcon.net.nz>
+Content-Type: multipart/alternative; boundary="===============1631829901=="
+MIME-Version: 1.0
+Subject: Your New Incoming E-Payment Is Pending
+To: Recipients <us@ntt.net>
+From: "USAA.Web.Services" <us@ntt.net>
+Date: Tue, 02 May 2017 05:26:20 +1200
+X-Bayes-Prob: 0.0001 (Score 0: No Bayes scoring rules defined, tokens from: outbound)
+X-Spam-Score: -0.17 () [Hold at 3.00] HTML_MESSAGE:0.001,RDNS_NONE:1.274,SINGLE_HEADER_2K:1.03,TO_EQ_FM_DIRECT_MX:0.51,T_REMOTE_IMAGE:0.01,CC(NZ:-3)
+X-CanIt-Geo: ip=60.234.58.133; country=NZ; region=Auckland; city=Auckland; latitude=-36.8500; longitude=174.7650; http://maps.google.com/maps?q=-36.8500,174.7650&z=6
+X-CanItPRO-Stream: base:outbound
+X-Canit-Stats-ID: 01Tf5rHGB - d18d09adfbb8 - 20170502 (trained as not-spam)
+X-Scanned-By: CanIt (www . roaringpenguin . com)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 161

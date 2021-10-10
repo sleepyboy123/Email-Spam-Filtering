@@ -1,0 +1,41 @@
+From jose@monkey.org Fri Feb  7 11:07:21 2020 +0000
+Return-Path: krasimir@hillclinic.com
+Delivered-To: jose@monkey.org
+X-FDA: 76463054682.39.waves06_5d510c0243524
+X-Spam-Summary: 75,0,0,181a3c4db7b6d2b2,d41d8cd98f00b204,krasimir@hillclinic.com,:,RULES_HIT:2:41:72:355:375:379:455:495:800:967:973:978:983:988:989:1208:1224:1260:1261:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1513:1515:1516:1517:1521:1535:1546:1561:1571:1593:1594:1606:1685:1699:1714:1730:1747:1777:1792:1803:2198:2199:2393:2525:2538:2553:2565:2610:2682:2685:2828:2859:2890:2895:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4605:5007:6261:6650:6669:6678:8516:8603:8885:9025:10004:10346:11658:11914:12043:12295:12297:12517:12519:12555:12740:12895:12956:12958:12967:13141:13230:13439:18000:21080:21433:21450:21451:21524:21554:21627:21657:21660:21740:21810:21819:21939:30001:30022:30054:30067:30069:30070:30090,0,RBL:213.145.102.244-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_r
+X-HE-Tag: waves06_5d510c0243524
+X-Filterd-Recvd-Size: 7161
+Received: from mail.hillclinic.com (mail.hillclinic.com [213.145.102.244])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  7 Feb 2020 11:07:21 +0000 (UTC)
+Received: from localhost (localhost.localhost [127.0.0.1])
+	by mail.hillclinic.com (Postfix) with ESMTP id ACE6BB1B81C
+	for <jose@monkey.org>; Fri,  7 Feb 2020 13:05:55 +0200 (EET)
+Received: from mail.hillclinic.com ([127.0.0.1])
+	by localhost (mail.hillclinic.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 2FlCKswjWkEf for <jose@monkey.org>;
+	Fri,  7 Feb 2020 13:05:55 +0200 (EET)
+Received: from localhost (localhost.localhost [127.0.0.1])
+	by mail.hillclinic.com (Postfix) with ESMTP id 3EDB7B1C3F4
+	for <jose@monkey.org>; Fri,  7 Feb 2020 13:05:55 +0200 (EET)
+X-Virus-Scanned: amavisd-new at mail.hillclinic.com
+Received: from mail.hillclinic.com ([127.0.0.1])
+	by localhost (mail.hillclinic.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4P0bqrZsabrs for <jose@monkey.org>;
+	Fri,  7 Feb 2020 13:05:55 +0200 (EET)
+Received: from hillclinic.com (unknown [45.143.223.110])
+	by mail.hillclinic.com (Postfix) with ESMTPSA id C0B1EB1C2C3
+	for <jose@monkey.org>; Fri,  7 Feb 2020 13:05:54 +0200 (EET)
+From: monkey.org  <krasimir@hillclinic.com>
+To: jose@monkey.org
+Subject: jose@monkey.org have stopped processing incoming emails.
+Date: 07 Feb 2020 11:06:11 -0800
+Message-ID: <20200207110610.B4F47A77C2F0F27D@hillclinic.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 21

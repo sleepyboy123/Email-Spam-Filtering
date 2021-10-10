@@ -1,0 +1,46 @@
+From 201305633@ufh.ac.za  Tue Sep 22 14:53:23 2015
+Return-Path: <201305633@ufh.ac.za>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id CA3B7F409E
+	for <jose@login.monkey.org>; Tue, 22 Sep 2015 14:53:23 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 848AF34E369
+	for <jose@login.monkey.org>; Tue, 22 Sep 2015 19:53:23 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70661929086.09.coast36_57aec95cc365f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,0750375a4c81b3d4,d41d8cd98f00b204,201305633@ufh.ac.za,,RULES_HIT:10:41:72:355:379:474:555:582:960:962:967:973:978:983:988:989:1021:1029:1152:1189:1190:1202:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1542:1559:1575:1588:1589:1592:1594:1691:1711:1714:1730:1749:1777:1792:2525:2526:2527:2528:2561:2564:2682:2685:2859:2902:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3620:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4048:4321:4379:5007:6117:6658:6659:6678:6688:7688:8583:8603:8885:8957:9025:9059:9111:9388:9411:9855:9868:9908:10004:10026:10049:10197:10346:10400:10919:11245:11656:11658:11855:11914:12043:12331:12438:12519:12521:12555:12660:12855:13095:13139:13237:14093:14096,0,RBL:196.21.104.6-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: coast36_57aec95cc365f
+X-Filterd-Recvd-Size: 4124
+Received: from al-mailx.ufh.ac.za (al-mailx.ufh.ac.za [196.21.104.6])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Sep 2015 19:53:22 +0000 (UTC)
+Received: from AL-ICT-EXHT01.ufh-domain.local (172.20.0.101) by
+ AL-EXEDGE.ufh-domain.local (172.20.0.104) with Microsoft SMTP Server (TLS) id
+ 15.0.847.32; Tue, 22 Sep 2015 21:48:04 +0200
+Received: from AL-STD-EXMB01.ufh-student.local ([::1]) by
+ AL-ICT-EXHT01.ufh-domain.local ([::1]) with mapi id 14.03.0181.006; Tue, 22
+ Sep 2015 21:50:40 +0200
+From: "Zakuza, Thabisile Yvone" <201305633@ufh.ac.za>
+Subject:
+Thread-Index: AdD1bunjBLjz+9bOTdCDL1NaAUmTpw==
+Date: Tue, 22 Sep 2015 19:50:39 +0000
+Message-ID: <7BE8CF31990F8A40B6B81E4C4E0042380105CCF253@AL-STD-EXMB01.ufh-student.local>
+Accept-Language: en-ZA, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.20.128.37]
+Content-Type: multipart/alternative;
+	boundary="_000_7BE8CF31990F8A40B6B81E4C4E0042380105CCF253ALSTDEXMB01uf_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 183

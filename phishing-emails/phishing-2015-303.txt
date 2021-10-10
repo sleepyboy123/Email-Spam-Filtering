@@ -1,0 +1,34 @@
+From jose@monkey.org Thu Dec  3 04:54:31 2015 +0000
+Return-Path: noreply@emailserver.domain.com
+Delivered-To: jose@monkey.org
+X-FDA: 70920937542.24.goose58_447a316cc6d13
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,3,0,d8101c767f6d84bb,d41d8cd98f00b204,noreply@emailserver.domain.com,,RULES_HIT:1:2:41:72:152:355:379:387:455:543:962:967:969:973:978:983:988:989:1021:1189:1208:1216:1221:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1515:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1714:1730:1776:1792:1803:2084:2194:2198:2199:2200:2525:2527:2561:2564:2682:2685:2693:2859:2890:2894:2895:2897:2898:2906:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3350:3740:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4250:4321:4552:4603:5007:6117:6119:6239:6261:6669:6684:7903:8599:8603:9015:9025:9344:9388:9411:9416:9908:9979:10114:10215:10241:11658:11914:12043:12438:12517:12519:12555:12776:13019:13126:13163:13227:13229:13235:13236:13237:13302:13303:13894:14096:14659:30001:30021:30022:30054:30070,0,RBL:115.178.24.8:@emailserver.domain.com:.lbl8.mailshell.net-62.16.128.100 64.201.201.201,CacheIP:none
+X-HE-Tag: goose58_447a316cc6d13
+X-Filterd-Recvd-Size: 12414
+Received: from hosting02.digi.com.kh (hosting.digi.com.kh [115.178.24.8])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  3 Dec 2015 04:54:30 +0000 (UTC)
+Received: from hosting02.digi.com.kh (localhost [IPv6:::1])
+	by hosting02.digi.com.kh (Postfix) with ESMTPSA id 767E2ED8022A;
+	Thu,  3 Dec 2015 11:31:33 +0700 (ICT)
+Received: from www.etisalat.com.ng (www.etisalat.com.ng [41.190.2.247]) by
+ webmail.digi.net.kh (Horde Framework) with HTTP; Thu, 03 Dec 2015 04:31:33
+ +0000
+Date: Thu, 03 Dec 2015 04:31:33 +0000
+Message-ID: <20151203043133.Horde.2Cl7-TcbTT8ugI2NZWFEfM9@webmail.digi.net.kh>
+From: EMAIL ADMINISTRATOR <Noreply@emailserver.domain.com>
+To: 
+Subject: Email Upgrade
+Importance: High
+X-Priority: 1 (Highest)
+User-Agent: Horde Application Framework 5
+Content-Type: multipart/alternative; boundary="=_KaUH9LYfic67niMOZSVmH2X"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 303

@@ -1,0 +1,50 @@
+From jose@monkey.org Mon Feb  1 20:48:37 2016 +0000
+Return-Path: limitedinc@fajarbenua.co.id
+Delivered-To: jose@monkey.org
+X-FDA: 71141069874.19.stamp71_67c74efbe1851
+Authentication-Results: auth.b.hostedemail.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=fajarbenua.co.id header.i=@fajarbenua.co.id
+	header.b=ho7np36P; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 60,1,0,103f6fbd996fd3da,d41d8cd98f00b204,limitedinc@fajarbenua.co.id,:,RULES_HIT:41:46:72:150:152:355:379:455:871:960:962:967:968:969:973:978:979:983:988:989:1000:1001:1021:1189:1197:1208:1221:1256:1260:1261:1263:1313:1314:1345:1381:1430:1431:1432:1433:1434:1436:1437:1516:1517:1545:1556:1571:1573:1575:1588:1589:1592:1594:1605:1676:1685:1730:1747:1777:1792:1801:1803:2194:2198:2199:2200:2393:2525:2527:2528:2538:2539:2567:2610:2682:2685:2693:2741:2859:2890:2892:2895:2897:2901:2909:2916:2917:2919:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3167:3552:3554:3585:3586:3770:3863:3865:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4093:4321:4383:4384:4395:4508:4605:4713:6096:6117:6119:6238:6248:6261:6300:6354:6506:6650:6653:6669:6747:7211:7266:7281:7398:7688:7809:7875:7882:7903:8516:8603:8957:9025:9040:9072:9121:9388:9392:9908:10004:10049:10128:10305:10346:11026:11233:11289:11529:11656
+X-HE-Tag: stamp71_67c74efbe1851
+X-Filterd-Recvd-Size: 89779
+Received: from mail.fajarbenua.co.id (mail.fajarbenua.co.id [115.85.74.134])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  1 Feb 2016 20:48:32 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.fajarbenua.co.id (Postfix) with ESMTP id 9F1AE25E28DF
+	for <jose@monkey.org>; Tue,  2 Feb 2016 03:46:27 +0700 (WIT)
+X-DKIM: OpenDKIM Filter v2.2.2 mail.fajarbenua.co.id 9F1AE25E28DF
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=fajarbenua.co.id;
+	s=selector; t=1454359587;
+	bh=SKNRM7bWkMO8UxcRcvmszTcZsI2yio326iFh0jrY7ZA=;
+	h=From:To:Reply-To:Date:Subject:MIME-Version:Content-Type:
+	 Message-ID;
+	b=ho7np36PwKpoUK/StHUmmCTzBSHIlvA28DB7WcTAlU9sA/m0hfG45FSLjDyaXDaqR
+	 8Bx4BCZorUSqOHfDxuoEp4DGpb1gWG+rfUPdI7PfENGvT3uKqWGt9OIuypugjjUpqp
+	 sL4YKwDFb7Ve9yWQKU4SvjCtPFllKnzo+B+IPvTQ=
+X-Virus-Scanned: amavisd-new at fajarbenua.co.id
+Received: from mail.fajarbenua.co.id ([127.0.0.1])
+	by localhost (mail.fajarbenua.co.id [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nyZP5q7yPm-O for <jose@monkey.org>;
+	Tue,  2 Feb 2016 03:46:26 +0700 (WIT)
+Received: from netPC (unknown [36.72.156.225])
+	by mail.fajarbenua.co.id (Postfix) with ESMTPSA id 447E525E28D6
+	for <jose@monkey.org>; Tue,  2 Feb 2016 03:46:26 +0700 (WIT)
+From: "=?utf-8?Q?Service=20Account?=" <LimitedINC@fajarbenua.co.id> 
+To: "jose@monkey.org" <jose@monkey.org>
+Reply-To: LimitedINC@fajarbenua.co.id
+Date: Tue, 02 Feb 2016 03:48:13 +0700
+Subject: =?utf-8?Q?Suspicious=20activities=20(CASE=20=23PP-016?=
+	=?utf-8?Q?-498-536-847)?=
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="_=aspNetEmail=_d81e4ce0cadc444da4dedbf68d76a945"
+Message-ID: <NETPC71acd72649ba4dc995063f083f666542@netPC>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 43

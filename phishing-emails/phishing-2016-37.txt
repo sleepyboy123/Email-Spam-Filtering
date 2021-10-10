@@ -1,0 +1,80 @@
+From jose@monkey.org Fri Jan 29 07:26:14 2016 +0000
+Return-Path: noreply@ebucks.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 71128161426.22.soda54_36045d7bf9444
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,c2709231b4072e43,d41d8cd98f00b204,noreply@ebucks.co.za,,RULES_HIT:41:53:72:379:387:455:474:539:540:541:542:543:567:677:800:871:967:973:978:979:983:988:989:1000:1147:1155:1208:1254:1260:1263:1308:1309:1313:1314:1381:1431:1432:1433:1434:1437:1516:1517:1543:1550:1575:1587:1594:1686:1699:1711:1730:1747:1764:1777:1792:1823:2073:2076:2084:2198:2199:2380:2393:2525:2568:2612:2682:2685:2693:2790:2859:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3167:3352:3586:3664:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4383:4418:4605:5007:6239:6261:6354:6506:6669:6678:6688:6747:6748:7210:7281:7398:7556:7903:8518:8599:8603:8660:8885:8957:9025:9059:9072:9080:9177:9344:9388:9403:9411:9908:10004:10049:10265:10346:10394:10400:10459:11604:11658:11914:12043:12050:12217:12517:12519:12555:12776:13110:13139:13148:13230:14036:14093:14196:14347:14659:30001:30003:30007:30009:30012:30019:30021:30022:30025:30037:3003
+X-HE-Tag: soda54_36045d7bf9444
+X-Filterd-Recvd-Size: 639895
+Received: from joh.johnsebben.com (unknown [198.20.243.106])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 29 Jan 2016 07:26:11 +0000 (UTC)
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+X-No-Relay: not in my network
+Received: from User (s17712364.onlinehome-server.com [74.208.227.157])
+	by joh.johnsebben.com (Postfix) with ESMTPA id 8542E45C6B42;
+	Fri, 29 Jan 2016 01:13:35 -0600 (CST)
+From: "eBucks"<noreply@ebucks.co.za>
+Subject: eBucks Wallet Statement
+Date: Fri, 29 Jan 2016 02:13:47 -0500
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00B9_01C2A9A6.22802EB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 36

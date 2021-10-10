@@ -1,0 +1,30 @@
+From jose@monkey.org Fri Jun  9 03:29:43 2017 +0000
+Return-Path: www@ursula.andersenit.dk
+Delivered-To: jose@monkey.org
+X-FDA: 72931079046.19.seat28_8ef641b0bd20b
+X-Spam-Summary: 30,2,0,07d2207b18d835ab,d41d8cd98f00b204,www@ursula.andersenit.dk,:,RULES_HIT:46:72:150:153:327:355:375:379:474:541:543:560:882:960:962:967:973:978:982:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1430:1431:1432:1433:1434:1436:1437:1515:1516:1517:1545:1571:1588:1589:1592:1593:1594:1605:1623:1710:1730:1747:1777:1792:1801:1803:2198:2199:2393:2525:2527:2528:2543:2560:2565:2682:2685:2693:2731:2828:2859:2890:2892:2894:2895:2896:2898:2899:2902:2915:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4605:5007:6261:6300:6650:6659:6669:6688:7628:7782:7903:7904:8568:8583:8599:8603:9025:9059:9072:9388:9390:9392:9411:9416:9868:9908:10007:10049:10346:10919:11656:11657:11914:12043:12114:12219:12438:12555:12679:12891:12956:12958:12959:12963:13025:13139:13141:13230:13302:13374:13439:13894:14096:14106:21080:21325:21407:21433:21450:
+X-HE-Tag: seat28_8ef641b0bd20b
+X-Filterd-Recvd-Size: 31033
+Received: from ursula.andersenit.dk (ursula.andersenit.dk [87.238.248.214])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  9 Jun 2017 03:29:42 +0000 (UTC)
+Received: by ursula.andersenit.dk (Postfix, from userid 80)
+	id 793DCA4883; Fri,  9 Jun 2017 07:37:02 +0200 (CEST)
+X-AIT-Server-Origin: ursula.andersenit.dk
+X-AIT-Path-Origin: /usr/local/www/naturstadiondk/www/images/stories
+X-AIT-Rev: 1.1
+To: jose@monkey.org
+Subject: =?UTF-8?Q?Account_Confirmation?=
+X-PHP-Script: www.naturstadion.dk/images/stories/dark2.php for 65.158.123.43
+Date: Fri, 9 Jun 2017 07:37:02 +0200
+From: Netflix <exemple@ursula.andersenit.dk>
+Message-ID: <a25f75db4b04a50f25f03b176ce82ec8@www.naturstadion.dk>
+X-Priority: 1
+X-Mailer: PHPMailer 5.2.10 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 215

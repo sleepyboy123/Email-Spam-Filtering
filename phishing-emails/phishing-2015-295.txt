@@ -1,0 +1,32 @@
+From jose@monkey.org Tue Dec 22 02:07:55 2015 +0000
+Return-Path: usaa.services.info.protect@mail.com
+Delivered-To: jose@monkey.org
+X-FDA: 70989464910.18.shock55_ae624fb78822
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 7,0,0,5909fc06817eaf3c,d41d8cd98f00b204,usaa.services.info.protect@mail.com,:usaa.services.info.protect@mail.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12043:12166:12340:12561:13110:21080:30001:30026:30054:30055:30069:30070,0,RBL:68.99.120.49:@mail.com:.lbl8.mailshell.net-62.20.0.32 64.201.201.201;68.99.120.49-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: shock55_ae624fb78822
+X-Filterd-Recvd-Size: 218332
+Received: from dukecmwbtp01.coxmail.com (dukecmwbtp01.coxmail.com [68.99.120.49])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Dec 2015 02:07:54 +0000 (UTC)
+Received: from dukecmimpo01.coxmail.com ([68.99.120.134])
+          by dukecmfep04.coxmail.com
+          (InterMail vM.8.01.05.08 201-2260-151-120-20120517) with ESMTP
+          id <20151222002120.KELI24022.dukecmfep04.coxmail.com@dukecmimpo01.coxmail.com>;
+          Mon, 21 Dec 2015 19:21:20 -0500
+Received: from TSSERVER.afcmed.local ([172.18.18.217])
+	by dukecmimpo01.coxmail.com with bizsmtp
+	id wNcx1r00f4h0NJL01QMKP0; Mon, 21 Dec 2015 19:21:21 -0500
+Content-Type: multipart/mixed; boundary="===============1638316626=="
+MIME-Version: 1.0
+Subject: USAA Checking/Savings Account Security Verification Statement
+To: Recipients <USAA.Services.info.Protect@mail.com>
+From: "USAA" <USAA.Services.info.Protect@mail.com>
+Date: Mon, 21 Dec 2015 17:27:22 -0700
+Message-Id: <20151222002120.KELI24022.dukecmfep04.coxmail.com@dukecmimpo01.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 295

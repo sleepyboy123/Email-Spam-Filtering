@@ -1,0 +1,56 @@
+From jose@monkey.org Thu Nov 26 03:31:01 2020 +0000
+Return-Path: smtpfox-b1wvh@theannualgolf.com
+Delivered-To: jose@monkey.org
+X-FDA: 77525143122.34.E9C4A72
+Received: from 162-241-137-172.unifiedlayer.com (unknown [162.241.137.172])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP id 9C749800C5A0
+	for <jose@monkey.org>; Thu, 26 Nov 2020 03:15:11 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=theannualgolf.com; s=default; h=Content-Transfer-Encoding:Content-Type:
+	MIME-Version:Message-ID:Date:Subject:To:From:Sender:Reply-To:Cc:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=2Mt6EWXdF3enZ2IhvlF0Jne70ClQEFK0mc/0ezEaZrc=; b=ayerEfuxCqtzkvRDq1co2dqhyv
+	ZUvRRbPE6fJY+5DDtmWD40+h19htfw7507Hy2DzFfvWIizVLAsZj+fH0OZR5OSvOjRo5b0KjFx91A
+	95sINcTMgVRIGunzDXyXAdDLtyNA5N44cm7nhU3nqEuok7q3BWKOeg85LXFcMlHCrji4W8kPT/tiZ
+	V6r+yj4TpjgZRzo9rY/MsNnpyQw2xY+ltK38CqRfy1sPMiC/HfeYz7TrxNfc+9sJt5BdKhXhMb/oW
+	GYujpGUnH5jmWvlvxu2gT24DqIgWx+I0m85dF4GQA2+aIK9Pi+x1n7R9KOT5/7JsW7DMEZThEg9J4
+	vTWeZMSg==;
+Received: from ec2-54-169-201-84.ap-southeast-1.compute.amazonaws.com ([54.169.201.84]:61262 helo=theannualgolf.com)
+	by jay.jaynisbett.com with esmtpa (Exim 4.93)
+	(envelope-from <smtpfox-b1wvh@theannualgolf.com>)
+	id 1ki7kS-0006o2-Hp
+	for jose@monkey.org; Wed, 25 Nov 2020 21:15:09 -0600
+From: "DHL International GmbH"<smtpfox-b1wvh@theannualgolf.com>
+To: jose@monkey.org
+Subject: DHL Express Shipments: New Parcel Received.
+Date: 26 Nov 2020 03:15:06 +0000
+Message-ID: <20201126031506.66E220562EA5C704@theannualgolf.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - jay.jaynisbett.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - theannualgolf.com
+X-Get-Message-Sender-Via: jay.jaynisbett.com: authenticated_id: smtpfox-b1wvh@theannualgolf.com
+X-Authenticated-Sender: jay.jaynisbett.com: smtpfox-b1wvh@theannualgolf.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Status: No, score=7.84
+X-Stat-Signature: 5xi4r8yty8bnzp3488ffzhedk4zw7i8u
+X-Rspamd-Queue-Id: 9C749800C5A0
+X-Rspamd-Server: rspam05
+Received-SPF: none (theannualgolf.com>: No applicable sender policy available) receiver=imf20.b.tucows.com; identity=mailfrom; envelope-from="<smtpfox-b1wvh@theannualgolf.com>"; helo=162-241-137-172.unifiedlayer.com; client-ip=162.241.137.172
+X-HE-DKIM-Result: pass/pass
+X-Spam-Summary: 90,9.5,0,bfc823724e8e05dd,d41d8cd98f00b204,smtpfox-b1wvh@theannualgolf.com,jose@monkey.org,RULES_HIT:4:41:72:355:375:379:493:495:560:800:836:960:962:967:969:973:978:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1437:1513:1515:1516:1517:1521:1571:1589:1593:1594:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2538:2539:2549:2561:2567:2610:2682:2685:2828:2859:2892:2900:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3421:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4361:4700:5007:6119:6120:6238:6248:6653:6669:6674:6678:6703:6996:6997:7602:7809:7903:8518:8583:8599:8603:8957:8987:9025:9059:9060:9080:9108:9388:9416:9908:9973:10009:10346:10849:11026:11473:11657:11658:12043:12297:12324:12438:12555:12740:12895:12955:12958:12959:12986:13139:13439:14096:14196:14294:15012:18000:21067:21080:21121:21325:21347:21433:21450:21451:21483:21524:21627:21740:21789:21
+ 790:21810:21819:21939:21958:22119:30019:30021:30022:30026:30046:30054:30055:30064:30067:30070:30075,0,RBL:54.169.201.84:@theannualgolf.com:jose@monkey.org.lbl8.mailshell.net-64.201.201.201 62.6.204.100;04y8mxyhrxj3xm9cap613bxrt7iciorwmyt3pjqb1e9i87747einmec9efnxheh.1y7q5t7nojhx4pmn8nuyadgwotnuswchmyrw759nzqbg9ne4hd1sp1jj76izm3t.rf6fgar3wq1s6ifcwtjf1yn7w4ttt3d84j5mmowqu5tdawuwezxe9kso-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:62,LUA_SUMMARY:none
+X-HE-Tag: 1606360511-399605
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 148

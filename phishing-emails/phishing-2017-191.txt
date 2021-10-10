@@ -1,0 +1,36 @@
+From jose@monkey.org Fri May 19 01:45:45 2017 +0000
+Return-Path: bicjamnagar@vxpress.in
+Delivered-To: jose@monkey.org
+X-FDA: 72854612250.12.kick41_31c28c3d20105
+X-Spam-Summary: 2,0,0,f5de680c02344c28,d41d8cd98f00b204,bicjamnagar@vxpress.in,,RULES_HIT:41:379:387:539:540:541:542:543:567:988:989:1133:1155:1254:1260:1308:1309:1313:1314:1381:1437:1516:1518:1533:1536:1575:1587:1594:1711:1714:1730:1747:1764:1777:1792:2073:2076:2194:2199:2393:2559:2562:3138:3139:3140:3141:3142:3421:3622:3865:3873:4361:5007:6261:6653:8784:8957:9108:10004:11527:11537:11658:11914:12196:12225:12522:14659:14686:21627:30054:30070,0,RBL:103.13.98.120:@vxpress.in:.lbl8.mailshell.net-62.2.117.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:61,LUA_SUMMARY:none
+X-HE-Tag: kick41_31c28c3d20105
+X-Filterd-Recvd-Size: 163135
+Received: from mail.vxpress.in (mail120.technomail.in [103.13.98.120])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 19 May 2017 01:45:41 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=mail.vxpress.in; h=reply-to
+	:from:subject:date:mime-version:content-type; s=dkim1; bh=Gpl9j3
+	+D3sFem6/oZXCx1+mN46E=; b=Kt36OwZ0BE5Ksi6Ne6R4t2Z7RX+8BPkuqx2IXZ
+	/ksXqdm8gY3ct44SyghvWpbEN2fLmwgviFE4LJ/RF9itYTRTYRf+TCUUw/GACPp4
+	2d6rFKL8GVQjeDvjjuJ3G2dtVUrv9HV466vzXMvtxSQgmtTPbkBP/4pVdZBs7ALO
+	OyQByAbZe2xTEXsFUcaXBUOJUw0fd9C+nf82TiZbcB5mfuambcfczUV/k19Sx8z3
+	pPzGZ0KGeluePut4xq19v1zY9u53p49NY2hu9edhMGfuVbnSx20YxmoSKXNHfJOc
+	8JED4/KsvNbngnwSVDTeEBtenPbbVNiXgbkwI768EN42F8jg==
+Received: (qmail 22017 invoked by uid 89); 18 May 2017 22:18:11 -0000
+Received: from unknown (HELO User) (bicjamnagar@vxpress.in@111.90.139.249)
+  by mail.vxpress.in with ESMTPA; 18 May 2017 22:18:11 -0000
+Reply-To: <rgfusa99@gmail.com>
+From: "Nguyen Huong (Purchasing Manager)"<bicjamnagar@vxpress.in>
+Subject: Revised PI=SC7712-AZY-2017-05-19
+Date: Thu, 18 May 2017 15:16:29 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0057_01C2A9A6.5A491E7A"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 191

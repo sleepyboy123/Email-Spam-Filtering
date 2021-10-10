@@ -1,0 +1,40 @@
+From jose@monkey.org Sun Sep  8 20:52:30 2019 +0000
+Return-Path: bounces+4848987-4a97-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75912951660.41.fold03_8a3d9c52bdd4b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+4848987-4a97-jose=monkey.org@sendgrid.net,:,RULES_HIT:2539:30001:30006:30009:30016:30054:30055:30057:30064:30068:30069:30070:30075:30080:30090,0,RBL:149.72.206.22:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: fold03_8a3d9c52bdd4b
+X-Filterd-Recvd-Size: 61246
+Received: from wrqvczks.outbound-mail.sendgrid.net (wrqvczks.outbound-mail.sendgrid.net [149.72.206.22])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  8 Sep 2019 20:52:29 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=4ha42SeXkNRQP7narJkot8bNPf4=; b=AyxQGuViWV0n+gy+6CpLE4Cza6Ctr
+	BbrP0vlRdzqfJq2rMM4cP6xRVpRbp1aIMztJiiKgpGP+ZnCRo0RYGpjVqSC79HcT
+	6IMwyGOstZhDOsoyYxzwXKAxNNkOw96TiMW1vRyTPCBZOTxEr1eKE1Z+59LTuDj0
+	jEkzYP8mp4bV14=
+Received: by filter1147p1las1.sendgrid.net with SMTP id filter1147p1las1-20132-5D756A0C-D
+        2019-09-08 20:52:28.955510516 +0000 UTC m=+444344.042158543
+Received: from WIN-K609A0OTK3F (ec2-3-86-251-87.compute-1.amazonaws.com [3.86.251.87])
+	by ismtpd0017p1iad2.sendgrid.net (SG) with ESMTP id j4x236N4RSSUXGYD5zl1Tg
+	for <jose@monkey.org>; Sun, 08 Sep 2019 20:52:28.845 +0000 (UTC)
+MIME-Version: 1.0
+From: "Navy_Federal_Credit" <rm@metrostate.edu>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Sun, 08 Sep 2019 20:52:29 +0000 (UTC)
+Subject: We received your request
+Content-Type: multipart/alternative;
+ boundary=--boundary_402823_692a7243-eb2b-4286-8567-b36cc38cf9e6
+Message-ID: <j4x236N4RSSUXGYD5zl1Tg@ismtpd0017p1iad2.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtB1/EJl1N3b12tN1l1tf0PXzUgFCip6916fnR
+ rJlcWTVi31nY9xBgSega+XDdt/Gcd3QsTf4Ix+Na5gFw7/d7xetVUrDrRQTWI1eH891UsYnOQCwynJ
+ k2eoeDpbvzTX5QlkUwCRmrdZqpS1eEQHVu593v53MjiPsUeejpTlokddCU7VnB4DuVsEhpWTOZxDsR
+ 4=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 172

@@ -1,0 +1,40 @@
+From jose@monkey.org Tue Aug 20 10:12:14 2019 +0000
+Return-Path: 0102016cae833de2-78768e75-12c2-45fd-925a-649181133f3f-000000@eu-west-1.amazonses.com
+Delivered-To: jose@monkey.org
+X-FDA: 75842390988.23.lip79_87e14b692e450
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,0102016cae833de2-78768e75-12c2-45fd-925a-649181133f3f-000000@eu-west-1.amazonses.com,:,RULES_HIT:2106:3623:30001:30007:30019:30021:30026:30029:30034:30039:30054:30055:30074:30075,0,RBL:54.240.6.53:@eu-west-1.amazonses.com:.lbl8.mailshell.net-62.18.114.100 66.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:12:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: lip79_87e14b692e450
+X-Filterd-Recvd-Size: 6186
+Received: from a6-53.smtp-out.eu-west-1.amazonses.com (a6-53.smtp-out.eu-west-1.amazonses.com [54.240.6.53])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 20 Aug 2019 10:12:13 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ah3ticwgoxrrd7v3cgapho7yamxfqvc3; d=fattureincloud.it;
+	t=1566295932;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding;
+	bh=TDwvPeAQJI2J9WLx/YsrTe8taSoAGiBLoQKeAZ5KjiY=;
+	b=2qK31zBV96VekE0oXT2S/+1oe1L76a11NtF6PM3meen8uKkMN4GhgFxV24OLF8GE
+	quajrS1S1hfJB2nuiODymjTqC3Dpw7UgfOX+FtcIo52sa66sYVkN8XySiNDlLavQsfW
+	ASQbyp4WW/GMpQCNyQYAkEj4fAl9ov2zZUEKBd9k=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=ihchhvubuqgjsxyuhssfvqohv7z3u4hn; d=amazonses.com; t=1566295932;
+	h=Date:To:From:Subject:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding:Feedback-ID;
+	bh=TDwvPeAQJI2J9WLx/YsrTe8taSoAGiBLoQKeAZ5KjiY=;
+	b=ATl0uxT84XuAGKvc/IZO1S7GdI5Ezlm/RuVoLsSg3FzeMR/jRIqlkSWzcutscFgK
+	D4dzg0waFVXnjQ5PDxZxV4tOw+WZaPueW8VXYLQa5P64YmQVYRtsYrY031Q117OvKPs
+	YtiqnFHIQ6IBg6WhMrzOnE8fD2wcKWaKkG+hmtQY=
+Date: Tue, 20 Aug 2019 10:12:12 +0000
+To: jose@monkey.org
+From: "creditdptbankofamerica@gmail.com" <no-reply@fattureincloud.it>
+Subject: Fund Transfer Notification
+Message-ID: <0102016cae833de2-78768e75-12c2-45fd-925a-649181133f3f-000000@eu-west-1.amazonses.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2a500b615720aeacdd553dc65d3d4447"
+Content-Transfer-Encoding: 8bit
+X-SES-Outgoing: 2019.08.20-54.240.6.53
+Feedback-ID: 1.eu-west-1.igMdGnnNqSbi95YFWGrrGL4UO1OFQ9v0XKZDCFIncb4=:AmazonSES
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 156

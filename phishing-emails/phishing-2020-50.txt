@@ -1,0 +1,39 @@
+From jose@monkey.org Mon Mar 30 02:48:22 2020 +0000
+Return-Path: noreply@pabbly.com
+Delivered-To: jose@monkey.org
+X-FDA: 76650494844.27.tooth04_4905bf75d7812
+X-Spam-Summary: 10,1,0,e47af31554a9475b,d41d8cd98f00b204,noreply@pabbly.com,,RULES_HIT:2:41:46:72:150:152:355:379:541:543:962:967:969:973:978:983:988:989:1021:1189:1208:1212:1221:1256:1260:1263:1313:1314:1345:1381:1430:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1568:1570:1571:1575:1588:1589:1592:1594:1606:1714:1730:1776:1792:1803:2084:2107:2198:2199:2525:2527:2528:2543:2560:2565:2610:2682:2685:2859:2890:2892:2895:2898:2902:2913:2915:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3873:3874:3902:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:4118:4321:4365:4470:5007:6117:6119:6248:6261:6650:6651:6653:6669:6678:6684:6688:7875:7903:7933:8603:8784:8957:9025:9344:9388:9392:9688:9908:10049:10214:10231:10299:10346:11026:11473:11529:11657:11658:11914:11984:12043:12114:12295:12551:12555:12679:12986:13019:13038:13139:13156:13163:13191:13192:13228:13229:13236:13237:13374:13870:14096:14516:14659:14829:14985:21063:2
+X-HE-Tag: tooth04_4905bf75d7812
+X-Filterd-Recvd-Size: 7768
+Received: from mail6.highinbox.com (mail6.highinbox.com [103.79.1.6])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 30 Mar 2020 02:48:21 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; s=key1; d=pabbly.com;
+ h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type; i=noreply@pabbly.com;
+ bh=pGxxIPLMGLT342zW2JtmKxmKsFkWe6aj7Qy0XsyoqP4=;
+ b=p+Y4Nmfd4NkXAh9S92B4QvvN8JoMXK6r2j8rE07hZRDIa2TvpDIRhZ0psiJOMGWN1s4T4YohKJue
+   JRwKOmvWtdRnVhmaYsjob9QqjxvfOMc/LD4tCclXu2L0BIIFV+RVXpUVkeDni09S+ObP/g8jm60d
+   sEagMVWxOj1NhtAF/q0=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=formget.com;
+ h=Date:From:Reply-To:To:Subject:Message-ID:Mime-Version:Content-Type;
+ bh=sAcbX7LZFD6Y/SLQl/Vt1HPrLU8=;
+ b=AUhKBgupTgtrvflhp8iqZmlK/6sJNCGd4mtVA824WoNpEGR68b0ofPhDB9EAxASr0lkgcJsawxtf
+   T6ofPXHiPjKl1ns7/kMKJf6QX8pl0E+lWew2X7fwQdiTCxB7DNaS9/aGhDGKWyW8cCBRi13IIM2C
+   goNDuPyFnB1p4YraRGY=
+User-Agent: FormGet
+Date: Mon, 30 Mar 2020 02:52:43 +0000
+From: "payment@support.amazon.com" <noreply@pabbly.com>
+Return-Path: <noreply@pabbly.com>
+Reply-To: "payment@support.amazon.com" <payment@support.amazon.com>
+To: jose@monkey.org
+Subject: =?UTF-8?Q?OTP:_992493_to_authenticate_payment?=
+X-Sender: noreply@pabbly.com
+X-Mailer: FormGet
+X-Priority: 3 (Normal)
+Message-ID: <5e815efb88670@pabbly.com>
+Mime-Version: 1.0
+Content-Type: multipart/alternative; boundary="B_ALT_5e815efb88733"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 49

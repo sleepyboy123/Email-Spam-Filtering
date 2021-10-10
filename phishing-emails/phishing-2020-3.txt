@@ -1,0 +1,66 @@
+From jose@monkey.org Thu Jan  9 13:03:17 2020 +0000
+Return-Path: admin@monkey.org
+Delivered-To: jose@monkey.org
+X-FDA: 76358111634.60.flesh15_90feada3e6315
+X-Spam-Summary: 85,1,0,6a2a5dccf0e874be,d41d8cd98f00b204,admin@monkey.org,:,RULES_HIT:2:41:46:72:150:153:355:375:379:495:800:962:967:973:983:988:989:1021:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1535:1588:1589:1593:1594:1606:1730:1747:1777:1792:2393:2525:2527:2553:2565:2610:2682:2685:2828:2859:2892:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3352:3865:3866:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4119:5007:6117:6119:6261:6300:6678:7782:7809:7903:8514:8518:8583:8599:8603:9025:9388:10004:10346:11473:11638:11639:11658:11914:11984:12043:12291:12297:12517:12519:12555:12683:12740:12895:12955:12986:13161:13181:13229:13255:13439:13546:14095:14096:14149:14246:18000:21080:21433:21451:21483:21524:21554:21627:21810:21819:30019:30022:30054:30075:30090:30091,0,RBL:219.93.6.6-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not 
+X-HE-Tag: flesh15_90feada3e6315
+X-Filterd-Recvd-Size: 8826
+Received: from smtp01.ljt.org.my (unknown [219.93.6.6])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  9 Jan 2020 13:03:16 +0000 (UTC)
+X-ASG-Debug-ID: 1578574984-111ecf38e61d4c550001-6JlXpt
+Received: from mail.ljt.org.my ([10.46.1.3]) by smtp01.ljt.org.my with ESMTP id F5B0r9EpxP8dqCNQ (version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO) for <jose@monkey.org>; Thu, 09 Jan 2020 21:03:04 +0800 (+08)
+X-Barracuda-Envelope-From: admin@monkey.org
+X-Barracuda-RBL-Trusted-Forwarder: 10.46.1.3
+Received: from localhost (localhost [127.0.0.1])
+	by mail.ljt.org.my (Postfix) with ESMTP id 586905458849
+	for <jose@monkey.org>; Thu,  9 Jan 2020 18:55:49 +0800 (+08)
+Received: from mail.ljt.org.my ([127.0.0.1])
+	by localhost (mail.ljt.org.my [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id cbH6SX7NLbPm for <jose@monkey.org>;
+	Thu,  9 Jan 2020 18:55:45 +0800 (+08)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.ljt.org.my (Postfix) with ESMTP id EB796544266E
+	for <jose@monkey.org>; Thu,  9 Jan 2020 15:11:21 +0800 (+08)
+X-Virus-Scanned: amavisd-new at mail.ljt.org.my
+Received: from mail.ljt.org.my ([127.0.0.1])
+	by localhost (mail.ljt.org.my [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id j-E09CEUoOR0 for <jose@monkey.org>;
+	Thu,  9 Jan 2020 15:11:21 +0800 (+08)
+Received: from imagene.co.kr (unknown [103.133.109.78])
+	by mail.ljt.org.my (Postfix) with ESMTPSA id 269C755C5914
+	for <jose@monkey.org>; Thu,  9 Jan 2020 10:44:18 +0800 (+08)
+From: "monkey.org" <admin@monkey.org>
+X-Barracuda-RBL-IP: 103.133.109.78
+X-Barracuda-Effective-Source-IP: UNKNOWN[103.133.109.78]
+X-Barracuda-Apparent-Source-IP: 103.133.109.78
+To: jose@monkey.org
+Subject: jose@monkey.org =?UTF-8?B?6rK96rOgIFvshJzruYTsiqTqsIAg7KSR64uo65CY7JeI7Iq164uI64ukXQ==?=
+Date: 08 Jan 2020 18:44:17 -0800
+X-ASG-Orig-Subj: jose@monkey.org =?UTF-8?B?6rK96rOgIFvshJzruYTsiqTqsIAg7KSR64uo65CY7JeI7Iq164uI64ukXQ==?=
+Message-ID: <20200108184416.60559ADF7F381160@monkey.org>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Barracuda-Connect: UNKNOWN[10.46.1.3]
+X-Barracuda-Start-Time: 1578574984
+X-Barracuda-Encrypted: ECDHE-RSA-AES256-GCM-SHA384
+X-Barracuda-URL: https://10.46.1.5:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at ljt.org.my
+X-Barracuda-Scan-Msg-Size: 4745
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.01
+X-Barracuda-Spam-Status: No, SCORE=0.01 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=9.0 KILL_LEVEL=8.0 tests=BSF_SC0_SA_TO_FROM_DOMAIN_MATCH, HTML_MESSAGE, MIME_HTML_ONLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.79226
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.01 BSF_SC0_SA_TO_FROM_DOMAIN_MATCH Sender Domain Matches Recipient
+	                           Domain
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 2

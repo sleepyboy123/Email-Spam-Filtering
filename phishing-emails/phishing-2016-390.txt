@@ -1,0 +1,35 @@
+From jose@monkey.org Sun Oct  9 15:40:17 2016 +0000
+Return-Path: navy-fedar.federal@zoomtown.com
+Delivered-To: jose@monkey.org
+X-FDA: 72051121674.21.rule46_59cb1b9cd2011
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,navy-fedar.federal@zoomtown.com,:navy-fedar.federal@zoomtown.com,RULES_HIT:41:327:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:7652:8634:10004:10400:11604:11658:11914:12166:12340:12561:13439:21080:30001:30007:30026:30054:30055:30069,0,RBL:64.8.71.14:@zoomtown.com:.lbl8.mailshell.net-62.2.0.100 66.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:83,LUA_SUMMARY:none
+X-HE-Tag: rule46_59cb1b9cd2011
+X-Filterd-Recvd-Size: 32819
+Received: from smtp.fuse.net (smtpout.cincibell.syn-alias.com [64.8.71.14])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  9 Oct 2016 15:40:16 +0000 (UTC)
+Return-Path: <navy-fedar.federal@zoomtown.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=Q4+Q2M+a c=1 sm=1 tr=0 a=s2DzAKcUwyn+m4V/HSUOBg==:117 a=s2DzAKcUwyn+m4V/HSUOBg==:17 a=KXl77lDgDEgIEtoqJYcA:9 a=tclcd6dtLQvEqt9_mmAA:9 a=wPNLvfGTeEIA:10 a=I9yQCIHuAAAA:8 a=sn8q3RQP8Knhj-ym0lQA:9 a=n3BslyFRqc0A:10 a=-nPcYdlf6b1cW1LP-pqQ:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: bmF2eS1mZWRhci5mZWRlcmFsQHpvb210b3duLmNvbQ==
+X_CMAE_Category: , ,
+X-CNFS-Analysis: 
+X-CM-Score: 
+X-Scanned-by: Cloudmark Authority Engine
+Received: from [216.196.217.130] ([216.196.217.130:62439] helo=Debbie-Win7PC.cityservice.local)
+	by smtpout.cincibell.syn-alias.com (envelope-from <navy-fedar.federal@zoomtown.com>)
+	(ecelerity 3.6.2.43620 r(Platform:3.6.2.0)) with ESMTP
+	id 8C/37-02171-4D46AF75; Sun, 09 Oct 2016 11:40:14 -0400
+Content-Type: multipart/mixed; boundary="===============0466358159=="
+Message-ID: <8C.37.02171.4D46AF75@smtp02.cbt.cmh.synacor.com>
+MIME-Version: 1.0
+Subject: Your NFCU Bank Account Needs Urgent Verification
+To: Recipients <navy-fedar.federal@zoomtown.com>
+From: "Navy Federal Credit Union" <navy-fedar.federal@zoomtown.com>
+Date: Sun, 09 Oct 2016 11:37:18 -0400
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 389

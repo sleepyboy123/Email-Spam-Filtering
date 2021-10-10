@@ -1,0 +1,45 @@
+From jose@monkey.org Tue Jun  6 03:57:40 2017 +0000
+Return-Path: newsletter@indiaretailnews.com
+Delivered-To: jose@monkey.org
+X-FDA: 72920263080.12.alarm98_42fa8720a7849
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,newsletter@indiaretailnews.com,:,RULES_HIT:2539:30001:30021:30022:30026:30045:30054:30067:30075:30079:30090:30091,0,RBL:185.141.165.30:@indiaretailnews.com:.lbl8.mailshell.net-62.18.6.100 64.95.201.95,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:64,LUA_SUMMARY:none
+X-HE-Tag: alarm98_42fa8720a7849
+X-Filterd-Recvd-Size: 11226
+Received: from ivyfpysq.tradebriefs.com (email2.indiaretailnews.com [185.141.165.30])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  6 Jun 2017 03:57:40 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=indiaretailnews.com; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=lHsCUc52wDdS0dO8++UHdLB6x/jIFSF+NBAeIU1KTw0=; b=n72BgGaHSmGEVR3PjY0klVDZn
+	n0O7IPJI/SNYPq3zbsFkRcHl2357vNeJIVcC0bWhmM3xPsmRtV2NDl3TEYU+7qqX3cvaJFG77edX9
+	oTEeDF4zAdg0E9R6K1OuZNFeXUE0wyAWJTRo0igrsogTXbSnjJ6mgW0FgST/0U/k9xjJQ=;
+Received: from [72.235.38.211] (port=44785 helo=termserver.waikoloaland.com)
+	by ivyfpysq.tradebriefs.com with esmtpa (Exim 4.87)
+	(envelope-from <newsletter@indiaretailnews.com>)
+	id 1dI5cg-000166-8p
+	for jose@monkey.org; Tue, 06 Jun 2017 05:57:38 +0200
+Content-Type: multipart/alternative; boundary="===============1153630939=="
+MIME-Version: 1.0
+Subject: Your mailbox is running out of data storage
+To: jose@monkey.org
+From: "Mail Team (C) 2017" <newsletter@indiaretailnews.com>
+Date: Mon, 05 Jun 2017 17:57:36 -1000
+X-Priority: 1 (High)
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ivyfpysq.tradebriefs.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - indiaretailnews.com
+X-Get-Message-Sender-Via: ivyfpysq.tradebriefs.com: authenticated_id: newsletter@indiaretailnews.com
+X-Authenticated-Sender: ivyfpysq.tradebriefs.com: newsletter@indiaretailnews.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 209

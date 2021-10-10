@@ -1,0 +1,25 @@
+From jose@monkey.org Fri May  6 16:58:14 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71485225308.03.shoes20_817ced318843f
+X-Spam-Summary: 2,0,0,1d2748b377913ed5,d41d8cd98f00b204,codewizard@approject.com,:codewizard@approject.com,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1525:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2540:2559:2562:2917:3138:3139:3140:3141:3142:3876:3877:5007:6114:6264:6642:6687:6748:7281:7398:7809:9898:10004:10394:10400:11604:11658:11914:12196:12340:12561:13110:13439:21080:21326,0,RBL:191.53.232.23:@approject.com:.lbl8.mailshell.net-62.8.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: shoes20_817ced318843f
+X-Filterd-Recvd-Size: 32892
+Received: from MGF-IBM2.SAAE.UNAI (unknown [191.53.232.23])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  6 May 2016 16:58:09 +0000 (UTC)
+Received: from MGF-IBM2.SAAE.UNAI ([127.0.0.1]) by MGF-IBM2.SAAE.UNAI with Microsoft SMTPSVC(8.0.9200.16384);
+	 Fri, 6 May 2016 13:18:52 -0300
+Content-Type: multipart/mixed; boundary="===============1808104563=="
+MIME-Version: 1.0
+Subject: Your USAA Checking/Savings Account Untrusted Authorization
+To: Recipients <codewizard@approject.com>
+From: "USAA" <codewizard@approject.com>
+Date: Fri, 06 May 2016 13:18:52 -0300
+Return-Path: codewizard@approject.com
+Message-ID: <MGF-IBM2KkpLTkUD5eu00005fca@MGF-IBM2.SAAE.UNAI>
+X-OriginalArrivalTime: 06 May 2016 16:18:52.0311 (UTC) FILETIME=[FABC3270:01D1A7B2]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 204

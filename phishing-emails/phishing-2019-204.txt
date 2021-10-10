@@ -1,0 +1,35 @@
+From jose@monkey.org Tue Oct 22 15:55:03 2019 +0000
+Return-Path: alerts@psecu.com
+Delivered-To: jose@monkey.org
+X-FDA: 76071869286.17.jelly29_65a1e6577c14e
+X-Spam-Summary: 50,0,0,e840aa65a335c612,d41d8cd98f00b204,alerts@psecu.com,:alerts@psecu.com,RULES_HIT:2:41:72:355:379:962:967:969:973:983:988:989:1189:1208:1221:1260:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1559:1571:1575:1588:1592:1594:1606:1714:1730:1748:1777:1792:2198:2199:2525:2527:2560:2563:2610:2682:2685:2859:2890:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3865:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4605:5007:6096:6261:6650:6678:6687:7652:8511:8518:8583:8603:9025:9080:9468:9908:10004:10346:11473:11529:11657:11658:11914:12043:12050:12297:12555:12561:12740:12895:12986:13110:13139:13237:13439:13546:14096:14194:14985:21080:21433:21450:21451:21483:21524:21554:21611:21627:21810:21838:21972:30001:30016:30026:30054,0,RBL:64.8.71.22:@psecu.com:.lbl8.mailshell.net-62.4.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,C
+X-HE-Tag: jelly29_65a1e6577c14e
+X-Filterd-Recvd-Size: 7732
+Received: from smtp.zoominternet.net (mailrelay.armstrong.synacor.com [64.8.71.22])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Oct 2019 15:54:54 +0000 (UTC)
+Return-Path: <alerts@psecu.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.3 cv=cZWsUULM c=1 sm=1 tr=0 a=Qm7GKbNR0eOzwXqrLdVb0Q==:117 a=Qm7GKbNR0eOzwXqrLdVb0Q==:17 a=KGjhK52YXX0A:10 a=XobE76Q3jBoA:10 a=XCzNhTxBZI4A:10 a=KXl77lDgDEgIEtoqJYcA:9 a=uG3r9SemXvz_DlDo9ukA:9 a=wPNLvfGTeEIA:10 a=i03BzuXDAAAA:8 a=5sWQQmbp-im7L1RkNuoA:9 a=_A-SZShXGqW8QwE9:21 a=_W_S_7VecoQA:10 a=u6_YviWoQmoA:10 a=QsekZt0_09AA:10 a=xsaDDriepnw46L0KzkMA:9 a=mpd-woop7mMA:10 a=PZBz_6FZhEqAY3Wd_dYU:22
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: YWxlcnRzQHBzZWN1LmNvbQ==
+X_CMAE_Category: , ,
+X-CNFS-Analysis: 
+X-CM-Score: 
+X-Scanned-by: Cloudmark Authority Engine
+Received: from [72.23.238.32] ([72.23.238.32:43706] helo=EC2AMAZ-BNF4K1O.ec2.internal)
+	by smtp.zoominternet.net (envelope-from <alerts@psecu.com>)
+	(ecelerity 3.6.2.43620 r(Platform:3.6.2.0)) with ESMTP
+	id 0D/CD-32243-9462FAD5; Tue, 22 Oct 2019 11:54:51 -0400
+Content-Type: multipart/alternative; boundary="===============1488515221=="
+Message-ID: <0D.CD.32243.9462FAD5@smtp02.armstrong.cmh.synacor.com>
+MIME-Version: 1.0
+Subject: PSECU Security Assistance
+To: Recipients <alerts@psecu.com>
+From: "PSECU" <alerts@psecu.com>
+Date: Tue, 22 Oct 2019 11:54:46 -0400
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 203

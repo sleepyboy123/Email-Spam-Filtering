@@ -1,0 +1,26 @@
+From jose@monkey.org Tue Sep 29 05:10:48 2020 +0000
+Return-Path: noreply-enotification@monkey.org
+Delivered-To: jose@monkey.org
+X-FDA: 77314924176.02.veil46_2c1779e27187
+X-Spam-Summary: 75,0,0,fb70a096dac995a5,d41d8cd98f00b204,noreply-enotification@monkey.org,,RULES_HIT:2:41:72:355:375:379:800:962:967:969:973:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1535:1566:1588:1589:1606:1714:1730:1747:1777:1792:1803:2198:2199:2393:2525:2527:2539:2553:2559:2563:2610:2682:2685:2693:2859:2890:2895:2896:2898:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4250:4552:5007:6261:6674:7809:8518:8603:9025:9040:9149:9908:10004:10346:11473:11658:11914:12043:12555:12660:12740:12895:12955:12958:12986:13139:13190:13229:14096:14827:14829:21067:21080:21325:21347:21433:21450:21451:21524:21627:21660:21740:21795:21804:21809:21810:21819:21939:30001:30003:30022:30054:30070:30090,0,RBL:153.149.169.15:@monkey.org:.lbl8.mailshell.net-64.201.201.201 62.14.10.100;04yrjhqw9qjf37tbnihzeknxe4w3joftjzjs5iju1xhxcrw5mh7qj6onogcguym.6wf
+X-HE-Tag: veil46_2c1779e27187
+X-Filterd-Recvd-Size: 6118
+Received: from mail.novelty-garage.com (153-149-169-15.compute.jp-e1.cloudn-service.com [153.149.169.15])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 29 Sep 2020 05:10:48 +0000 (UTC)
+Received: from monkey.org (unknown [89.36.217.82])
+	by mail.novelty-garage.com (Postfix) with ESMTPA id 63B3B1454C
+	for <jose@monkey.org>; Tue, 29 Sep 2020 04:43:24 +0000 (UTC)
+Reply-To: jose@monkey.org
+From: monkey.org Notification Service <noreply-enotification@monkey.org
+To: jose@monkey.org
+Subject: Suspension Notice
+Date: 29 Sep 2020 06:43:22 +0200
+Message-ID: <20200929064322.4AF5AF5A58F0DE78@monkey.org>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 132

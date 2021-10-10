@@ -1,0 +1,22 @@
+From jose@monkey.org Fri Dec 23 19:03:08 2016 +0000
+Return-Path: secure.payment.service@service.com
+Delivered-To: jose@monkey.org
+X-FDA: 72323792856.16.snow20_728f3aff4273d
+X-Spam-Summary: 50,3,0,d41d8cd98f00b204,d41d8cd98f00b204,secure.payment.service@service.com,:,RULES_HIT:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3043:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6642:6747:6748:7281:7398:10004:11604:11845:11914:12340:12836:13110:14659:14829:21080:30054:30055,0,RBL:169.229.202.26:@service.com:.lbl8.mailshell.net-62.4.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:8,LUA_SUMMARY:none
+X-HE-Tag: snow20_728f3aff4273d
+X-Filterd-Recvd-Size: 109871
+Received: from service.com (rfs-3-04.its.berkeley.edu [169.229.202.26])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 23 Dec 2016 19:03:06 +0000 (UTC)
+From: "USAA"<secure.payment.service@service.com>
+To: jose@monkey.org
+Subject: USAA Incoming Wire Transfer 
+Date: 23 Dec 2016 11:03:02 -0800
+Message-ID: <20161223110302.4171CC30D8C4B7AA@service.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_B21457D9.3F1A0AF2"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 480

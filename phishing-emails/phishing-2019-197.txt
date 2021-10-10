@@ -1,0 +1,33 @@
+From jose@monkey.org Tue Oct 15 17:06:19 2019 +0000
+Return-Path: denim@thewalostore.com
+Delivered-To: jose@monkey.org
+X-FDA: 76046647278.58.shape79_19ff5af150e3a
+X-Spam-Summary: 50,0,0,5648e84ed5e380cf,d41d8cd98f00b204,denim@thewalostore.com,:,RULES_HIT:4:41:72:196:355:375:379:474:857:960:962:967:973:978:983:988:989:1021:1029:1147:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1430:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1592:1593:1594:1622:1623:1685:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2528:2539:2543:2560:2563:2682:2685:2741:2828:2859:2890:2891:2892:2894:2897:2901:2910:2914:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3354:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4559:5007:6117:6119:6238:6261:6650:6653:6669:6678:6688:7688:7782:7903:7927:8550:8583:8603:8885:8957:9025:9040:9059:9072:9080:9388:9392:9411:9908:10049:10299:10346:10919:11656:11657:11658:11914:12043:12217:12297:12438:12555:12663:12698:12737:12767:12955:12958:12961:12963:12965:12967:12971:13046:13139:13374:13439:13972:21063:21067:21080:
+X-HE-Tag: shape79_19ff5af150e3a
+X-Filterd-Recvd-Size: 19382
+Received: from ourcloud.thewalostore.com (ourcloud.thewalostore.com [178.62.220.212])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 15 Oct 2019 17:06:18 +0000 (UTC)
+Received: from thewalostore.com (unknown [198.23.156.34])
+	by ourcloud.thewalostore.com (Postfix) with ESMTPA id B92C01FC577
+	for <jose@monkey.org>; Tue, 15 Oct 2019 17:03:41 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=thewalostore.com;
+	s=default; t=1571159022;
+	bh=rOVXerBKkrE2aU6ZUhN+4RIQGJlWPtUjPhzlzajp7NE=;
+	h=From:To:Subject:Date;
+	b=Ij8hBvydEzHqvppin/WUieG4bILzwMTssO5syM0MY9OS1Gz0CxOskYnQucBlUVoDN
+	 J+7/A0tXdIH5io9kzZLaelU3xait10481hf3vPjKwu2/+yF/Ao1YnCQ7BTv9DVhZSy
+	 XwuVYnLFiPMexY2I/rtFEsnVOiQydOK3sNXSzNS0=
+From: WeIIs Fargo <denim@thewalostore.com>
+To: jose@monkey.org
+Subject: Account Locked - Verification Required
+Date: 15 Oct 2019 10:03:40 -0700
+Message-ID: <20191015100340.59B9063E43D92C4D@thewalostore.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 196

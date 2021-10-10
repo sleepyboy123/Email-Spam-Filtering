@@ -1,0 +1,22 @@
+From jose@monkey.org Sat Jan  5 01:51:06 2019 +0000
+Return-Path: no-ramericanexpress@usxchange.net
+Delivered-To: jose@monkey.org
+X-FDA: 75017390532.07.pigs88_989f570b0a1e
+X-Spam-Summary: 2,0,0,c9bcd6cae5cb6a86,d41d8cd98f00b204,no-ramericanexpress@usxchange.net,:,RULES_HIT:41:327:355:379:871:969:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1517:1533:1536:1575:1594:1699:1711:1714:1730:1747:1764:1777:1792:2194:2199:2393:2559:2562:2734:2741:2911:3138:3139:3140:3141:3142:3622:3740:3873:3876:4362:4425:5007:6120:6261:6264:6506:6684:6747:6748:7281:7398:7901:10004:10400:11529:11604:11658:11914:12196:12340:13439:14037:14515:14546:14659:14985:21080:21212:21251:21627:21703:21789:30023:30054:30055:30070,0,RBL:98.175.100.162:@usxchange.net:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:77,LUA_SUMMARY:none
+X-HE-Tag: pigs88_989f570b0a1e
+X-Filterd-Recvd-Size: 41431
+Received: from usxchange.net (wsip-98-175-100-162.dc.dc.cox.net [98.175.100.162])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  5 Jan 2019 01:51:05 +0000 (UTC)
+From: American Express  <fax@usxchange.net>
+To: jose@monkey.org
+Subject: NEW PDF MESSAGE FROM AMERICAN EXPRESS ONLINE FOR YOUR REVIEW.
+Date: 04 Jan 2019 20:47:57 -0500
+Message-ID: <20190104204757.64426F8D6B209992@usxchange.net>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_2FA32EF3.B2308357"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 2

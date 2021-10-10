@@ -1,0 +1,26 @@
+From jose@monkey.org Thu Feb 18 09:50:05 2016 +0000
+Return-Path: websecure@enta.net
+Delivered-To: jose@monkey.org
+X-FDA: 71201099970.04.help01_bfc2fc6ee3f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,d41d8cd98f00b204,d41d8cd98f00b204,websecure@enta.net,:websecure@enta.net,RULES_HIT:41:327:379:871:988:989:1254:1260:1313:1314:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12340:12561:13110:21080:30026:30054:30055:30070,0,RBL:195.74.113.201:@enta.net:.lbl8.mailshell.net-62.34.15.100 64.100.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: help01_bfc2fc6ee3f
+X-Filterd-Recvd-Size: 30879
+Received: from smtp3-out1.enta.net (smtp3-out1.enta.net [195.74.113.201])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 18 Feb 2016 09:50:05 +0000 (UTC)
+Received: from ALBIONSBS.albion-chairs.local (unknown [78.32.151.172])
+	by smtp3.enta.net (Postfix) with ESMTP id 8134E77AA;
+	Thu, 18 Feb 2016 00:54:55 +0000 (GMT)
+Content-Type: multipart/mixed; boundary="===============1910161897=="
+MIME-Version: 1.0
+Subject: Your USAA Checking/Savings security need to be updated.
+To: Recipients <websecure@enta.net>
+From: "USAA" <websecure@enta.net>
+Date: Thu, 18 Feb 2016 00:54:49 +0000
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 79

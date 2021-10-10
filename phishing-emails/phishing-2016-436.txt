@@ -1,0 +1,27 @@
+From jose@monkey.org Fri Nov 18 07:14:03 2016 +0000
+Return-Path: www-data@hosted-lon-3.prolateral.com
+Delivered-To: jose@monkey.org
+X-FDA: 72194997966.18.book59_2356a40440e43
+X-Spam-Summary: 50,0,0,68fbe3ffb4a9e405,d41d8cd98f00b204,www-data@hosted-lon-3.prolateral.com,:,RULES_HIT:2:41:72:355:375:379:541:543:882:962:966:967:969:973:979:982:983:988:989:1004:1005:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1515:1516:1517:1535:1550:1556:1571:1588:1589:1593:1594:1606:1685:1730:1747:1777:1792:1981:2069:2070:2084:2194:2196:2198:2199:2200:2201:2393:2525:2527:2538:2539:2560:2567:2612:2682:2685:2693:2741:2828:2859:2890:2891:2892:2894:2910:2913:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3167:3353:3503:3504:3865:3866:3867:3868:3870:3871:3872:3873:3874:3892:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4321:4361:4383:4384:4385:4395:5007:6261:6650:6678:6688:6703:7774:7903:7974:8518:8603:8885:8932:8957:8987:9025:9072:9080:9199:9388:9391:9908:10049:10231:10234:10241:10346:11026:11257:11473:11658:11914:12043:12151:12217:12324:12438:12555:12740:12776:12956:12958:12967:12986:130
+X-HE-Tag: book59_2356a40440e43
+X-Filterd-Recvd-Size: 6018
+Received: from hosted-lon-3.prolateral.com (hosted-lon-3.prolateral.com [209.143.135.163])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 18 Nov 2016 07:14:02 +0000 (UTC)
+Received: by hosted-lon-3.prolateral.com (Postfix, from userid 33)
+	id B4295330802; Fri, 18 Nov 2016 07:12:03 +0000 (GMT)
+Date: Fri, 18 Nov 2016 07:12:03 +0000
+To: jose@monkey.org
+From: "ibsupport@standardbank.co.za" <ibsupport@standardbank.co.za>
+Reply-to: 
+Subject: Foreign debit notification
+Message-ID: <3998efd8df487a6bb834b57b8342f608@www.kingsmead-homes.co.uk>
+X-Priority: 3
+X-Mailer: PHPMailer [version ]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 435

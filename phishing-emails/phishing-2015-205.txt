@@ -1,0 +1,41 @@
+From samantha019@singnet.com.sg  Sat Oct 17 11:01:06 2015
+Return-Path: <samantha019@singnet.com.sg>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 4ABCFF4169
+	for <jose@login.monkey.org>; Sat, 17 Oct 2015 11:01:06 -0500 (CDT)
+Received: from smtpin08.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id E45BC27AC20
+	for <jose@login.monkey.org>; Sat, 17 Oct 2015 16:01:05 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70752063690.08.paper86_60d51afae1025
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,samantha019@singnet.com.sg,,RULES_HIT,0,RBL:207.159.171.123:@singnet.com.sg:.lbl8.mailshell.net-62.22.0.2 64.201.201.201;207.159.171.123-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: paper86_60d51afae1025
+X-Filterd-Recvd-Size: 152557
+Received: from mx1.westfield.ma.edu (mx1.westfield.ma.edu [207.159.171.123])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 17 Oct 2015 16:01:05 +0000 (UTC)
+Received: from Unknown (infoweb-rsc.wsc.ma.edu [207.159.171.195])
+	by mx1.westfield.ma.edu (Postfix) with SMTP id 757786B28F5;
+	Sat, 17 Oct 2015 06:04:20 -0400 (EDT)
+Message-ID: <4D2048E3D7D740DCB0161ACC9769740F@wbim>
+From: "American Express" <samantha019@singnet.com.sg>
+Subject: Important Information About Your Card Membership Information
+Date: Sat, 17 Oct 2015 03:03:11 -0700
+Organization: AE
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_09C6_01D10888.5B9B64A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 205

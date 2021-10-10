@@ -1,0 +1,28 @@
+From jose@monkey.org Mon Feb  8 21:32:34 2016 +0000
+Return-Path: codewordaccnt@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71166582228.19.hair67_8baab1b1e9a28
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,codewordaccnt@mail.mil,:codewordaccnt@mail.mil,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:14515:14687:21080:30001:30026:30054:30055:30091,0,RBL:70.91.81.93:@mail.mil:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:21,LUA_SUMMARY:none
+X-HE-Tag: hair67_8baab1b1e9a28
+X-Filterd-Recvd-Size: 20153
+Received: from FITCH-RDS.fitchco.local (unknown [70.91.81.93])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Feb 2016 21:29:18 +0000 (UTC)
+Received: from FITCH-RDS.fitchco.local ([127.0.0.1]) by FITCH-RDS.fitchco.local with Microsoft SMTPSVC(7.5.7601.17514);
+	 Mon, 8 Feb 2016 16:23:11 -0500
+Content-Type: multipart/mixed; boundary="===============1147343020=="
+MIME-Version: 1.0
+Subject: ACTIVATE YOUR USAA ACCOUNT CODEWORD IMMEDIATELY
+To: Recipients <codewordaccnt@mail.mil>
+From: "USAA" <codewordaccnt@mail.mil>
+Date: Mon, 08 Feb 2016 16:23:09 -0500
+Return-Path: codewordaccnt@mail.mil
+Message-ID: <FITCH-RDS7vXee4fDGC000005d0@FITCH-RDS.fitchco.local>
+X-OriginalArrivalTime: 08 Feb 2016 21:23:11.0379 (UTC) FILETIME=[E9A2DE30:01D162B6]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 55

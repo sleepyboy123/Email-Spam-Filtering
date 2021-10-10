@@ -1,0 +1,28 @@
+From jose@monkey.org Sat Feb  6 18:10:53 2016 +0000
+Return-Path: nesite-portal@nuvox.net
+Delivered-To: jose@monkey.org
+X-FDA: 71158816386.19.pet60_2446c27824818
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,nesite-portal@nuvox.net,:nesite-portal@nuvox.net,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1517:1518:1522:1536:1575:1594:1692:1699:1711:1730:1748:1764:1766:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:14129:14515:21080,0,RBL:209.248.210.102:@nuvox.net:.lbl8.mailshell.net-62.22.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: pet60_2446c27824818
+X-Filterd-Recvd-Size: 31585
+Received: from bmpfs.bmplaw.local (209.248.210.102.nw.nuvox.net [209.248.210.102])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  6 Feb 2016 18:10:49 +0000 (UTC)
+Received: from bmpfs.bmplaw.local ([127.0.0.1]) by bmpfs.bmplaw.local with Microsoft SMTPSVC(7.5.7601.17514);
+	 Sat, 6 Feb 2016 12:04:19 -0600
+Content-Type: multipart/mixed; boundary="===============1940891264=="
+MIME-Version: 1.0
+Subject: REGISTER YOUR ACCOUNT ON THE NEW USAA PORTAL
+To: Recipients <NESITE-PORTAL@nuvox.net>
+From: "USAA" <NESITE-PORTAL@nuvox.net>
+Date: Sat, 06 Feb 2016 12:04:18 -0600
+Return-Path: NESITE-PORTAL@nuvox.net
+Message-ID: <BMPFSrBLSAQV6uPDVni000000c7@bmpfs.bmplaw.local>
+X-OriginalArrivalTime: 06 Feb 2016 18:04:19.0667 (UTC) FILETIME=[CCF49A30:01D16108]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 51

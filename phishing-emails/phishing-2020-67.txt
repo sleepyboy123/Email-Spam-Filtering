@@ -1,0 +1,42 @@
+From jose@monkey.org Fri May 29 08:38:23 2020 +0000
+Return-Path: prvs=411827acf=hubert.furling@migrosbasel.ch
+Delivered-To: jose@monkey.org
+X-FDA: 76869104886.60.rat87_49226b7de8e5d
+X-Spam-Summary: 2,0,0,1975c720f4b20c01,d41d8cd98f00b204,prvs=411827acf=hubert.furling@migrosbasel.ch,,RULES_HIT:1:2:10:41:72:334:355:368:369:379:502:582:962:967:968:973:983:988:989:1152:1189:1208:1221:1260:1261:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1730:1776:1792:2068:2069:2194:2199:2525:2527:2528:2557:2559:2564:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3353:3586:3769:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4051:4860:5007:6114:6117:6261:6300:6642:6658:6678:6703:7688:7861:7904:8518:8603:8957:9025:9149:10004:10128:11233:11656:11657:11658:11783:11788:11875:11914:12043:12291:12297:12438:12519:12555:12679:12683:12740:12895:13005:13017:13018:13019:13139:13439:13893:14110:14149:21080:21252:21364:21433:21451:21618:21620:21621:21622:21623:21624:21626:21819:21881:21939:22106:30021:30022:30033:30054:30068:30070,0,RBL:146.67.146.60:@migrosbasel.ch:.lbl8.mailshell.net-64.100.201.201 62.2.60.10
+X-HE-Tag: rat87_49226b7de8e5d
+X-Filterd-Recvd-Size: 12978
+Received: from migze160.migros.ch (migze160.migros.ch [146.67.146.60])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 29 May 2020 08:38:22 +0000 (UTC)
+X-IronPort-AV: E=Sophos;i="5.73,447,1583190000"; 
+   d="scan'208,217";a="50461592"
+Received: from mbsmx027.migrosbasel.ch (HELO mbsmx024.migrosbasel.ch) ([163.161.246.239])
+  by migze160.migros.ch with ESMTP/TLS/AES256-SHA256; 29 May 2020 10:38:17 +0200
+Received: from mbsmx025.gmbs.migros.ch (10.48.4.25) by mbsmx027.gmbs.migros.ch
+ (10.48.4.27) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id 15.1.1591.10; Fri, 29
+ May 2020 10:38:17 +0200
+Received: from mbsmx025.gmbs.migros.ch ([fe80::f513:3381:67d3:4bb1]) by
+ mbsmx025.gmbs.migros.ch ([fe80::f513:3381:67d3:4bb1%16]) with mapi id
+ 15.01.1591.008; Fri, 29 May 2020 10:38:16 +0200
+From: "Furling, Hubert-GMBS" <Hubert.Furling@migrosbasel.ch>
+To: "Furling, Hubert-GMBS" <Hubert.Furling@migrosbasel.ch>
+Subject: AW: Novo 2020 Microsoft Outlook
+Thread-Topic: Novo 2020 Microsoft Outlook
+Thread-Index: AQHWNZFMGjwV5absM0GszMarTmJnyKi+vZhc
+Date: Fri, 29 May 2020 08:38:16 +0000
+Message-ID: <a23df1c126534b4da8752ee30d17eff9@migrosbasel.ch>
+References: <26cdb368d2544482b578593a30a058b3@migrosbasel.ch>
+In-Reply-To: <26cdb368d2544482b578593a30a058b3@migrosbasel.ch>
+Accept-Language: de-CH, en-US
+Content-Language: de-CH
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.48.4.246]
+Content-Type: multipart/alternative;
+	boundary="_000_a23df1c126534b4da8752ee30d17eff9migrosbaselch_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 66

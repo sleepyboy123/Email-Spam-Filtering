@@ -1,0 +1,22 @@
+From jose@monkey.org Tue Apr  5 23:02:52 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71373651384.21.legs90_35c2fbb2d5b10
+X-Spam-Summary: 75,0,0,9846e90d106f5697,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:41:152:327:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1437:1516:1518:1530:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2540:2559:2562:3138:3139:3140:3141:3142:3865:3868:5007:6261:6264:6506:6747:6748:7281:7398:7809:10004:10400:11604:11658:11914:12166:12196:12340:13110:14659:21080:30001:30054:30055:30070,0,RBL:70.88.121.201-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: legs90_35c2fbb2d5b10
+X-Filterd-Recvd-Size: 29869
+Received: from approject.com (70-88-121-201-BusName-mi.hfc.comcastbusiness.net [70.88.121.201])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  5 Apr 2016 23:02:48 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Urgent Security Update
+Date: 05 Apr 2016 19:19:49 -0400
+Message-ID: <20160405191945.C69B83060916325A@approject.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_70BE8A8C.9C9C3A2C"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 151

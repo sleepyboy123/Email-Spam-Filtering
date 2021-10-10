@@ -1,0 +1,34 @@
+From jose@monkey.org Mon Nov  9 15:11:09 2015 +0000
+Return-Path: carmen.brugman@chsfl.org
+Delivered-To: jose@monkey.org
+X-FDA: 70835400258.13.bean73_7e58202181039
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,fe8aeb9afe12149a,d41d8cd98f00b204,carmen.brugman@chsfl.org,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:978:983:988:989:1021:1029:1152:1158:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1543:1561:1575:1588:1589:1592:1594:1691:1711:1714:1730:1749:1777:1792:2525:2526:2527:2528:2561:2564:2610:2682:2685:2693:2859:2890:2902:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3392:3747:3866:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4321:4379:4552:5007:6117:6261:6630:6658:6678:7688:8603:8957:9025:9163:9388:9855:9868:10004:10026:10049:10197:10234:10346:10400:10919:11651:11656:11658:11855:11914:12043:12438:12519:12555:12658:13139:13163:13199:13229:13237:14094:14096:14659:21212,0,RBL:205.143.246.25:@chsfl.org:.lbl8.mailshell.net-62.2.0.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,L
+X-HE-Tag: bean73_7e58202181039
+X-Filterd-Recvd-Size: 5092
+Received: from mail.chsfl.org (mail.chsfl.org [205.143.246.25])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 Nov 2015 15:11:08 +0000 (UTC)
+Received: from 000EXCHANGE2010.chs.local ([fe80::b0a4:c05e:f265:97c2]) by
+ 000Exchange2010.chs.local ([fe80::b0a4:c05e:f265:97c2%16]) with mapi id
+ 14.03.0248.002; Mon, 9 Nov 2015 10:11:04 -0500
+From: Carmen Brugman <carmen.brugman@chsfl.org>
+Subject: Your mailbox size notification
+Thread-Topic: Your mailbox size notification
+Thread-Index: AdEbANIBOyvAb1tNTaa5RGWkk83Qag==
+Date: Mon, 9 Nov 2015 15:11:02 +0000
+Message-ID: <C5D0FCFD4D60E04DA875F2E69371684B18A0554C@000Exchange2010.chs.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.18.19.6]
+Content-Type: multipart/alternative;
+	boundary="_000_C5D0FCFD4D60E04DA875F2E69371684B18A0554C000Exchange2010_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 242

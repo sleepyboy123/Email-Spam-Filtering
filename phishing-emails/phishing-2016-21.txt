@@ -1,0 +1,32 @@
+From jose@monkey.org Sat Jan 16 01:34:22 2016 +0000
+Return-Path: usaa.online.customers.details@emailservice.com
+Delivered-To: jose@monkey.org
+X-FDA: 71080100364.03.plate36_8d893e6f8d2b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,5909fc06817eaf3c,d41d8cd98f00b204,usaa.online.customers.details@emailservice.com,:usaa.online.customers.details@emailservice.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3623:3876:3877:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12043:12166:12340:12561:13110:21080:21251:30001:30026:30054:30055:30069,0,RBL:68.99.120.39:@emailservice.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: plate36_8d893e6f8d2b
+X-Filterd-Recvd-Size: 287936
+Received: from dukecmfep04.coxmail.com (dukecmfep04.coxmail.com [68.99.120.39])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 16 Jan 2016 01:34:20 +0000 (UTC)
+Received: from dukecmimpo02.coxmail.com ([68.99.120.135])
+          by dukecmmtar03.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20160115222205.ZESS25427.dukecmmtar03.coxmail.com@dukecmimpo02.coxmail.com>;
+          Fri, 15 Jan 2016 17:22:05 -0500
+Received: from TERM02.actcorp.us ([172.18.18.217])
+	by dukecmimpo02.coxmail.com with bizsmtp
+	id 6Mss1s00B4h0NJL01MwFmQ; Fri, 15 Jan 2016 16:56:25 -0500
+Content-Type: multipart/mixed; boundary="===============0968162519=="
+MIME-Version: 1.0
+Subject: USAA Online Account Details Verification
+To: Recipients <USAA.Online.Customers.Details@eMailservice.com>
+From: "USAA" <USAA.Online.Customers.Details@eMailservice.com>
+Date: Fri, 15 Jan 2016 15:55:36 -0600
+Message-Id: <20160115222205.ZESS25427.dukecmmtar03.coxmail.com@dukecmimpo02.coxmail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 20

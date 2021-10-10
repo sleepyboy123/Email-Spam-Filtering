@@ -1,0 +1,30 @@
+From jose@monkey.org Sun Dec  6 19:46:42 2015 +0000
+Return-Path: admin@ac3distribution.com
+Delivered-To: jose@monkey.org
+X-FDA: 70934072244.22.peace26_1d4c06467460b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 69,4.5,0,dd982e6f8779be4b,d41d8cd98f00b204,admin@ac3distribution.com,:,RULES_HIT:1:41:72:355:379:559:871:962:967:969:973:983:988:989:1000:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1543:1571:1573:1575:1588:1589:1592:1594:1710:1711:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2539:2553:2560:2563:2693:2741:2892:2894:2895:2899:2910:2917:2924:2925:2926:2945:3038:3138:3139:3140:3141:3142:3351:3552:3586:3770:3863:3865:3866:3867:3868:3870:3871:3872:3873:3936:3953:4321:4384:4504:4512:4605:5011:6117:6119:6248:6261:6300:6354:6506:6678:6747:7266:7281:7774:7809:7903:7976:8603:8857:9388:10013:10346:11289:11473:11658:11914:12043:12438:12517:12519:12555:13236:13237:13374:13437:14036:14037:14096:14141:14194:14346:14659:21062:21080:30001:30014:30022:30054:30055:30069:30070:30075:30090,0,RBL:195.154.211.200:@ac3distribution.com:.lbl8.mailshell.net-62.8.5.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCac
+X-HE-Tag: peace26_1d4c06467460b
+X-Filterd-Recvd-Size: 13183
+Received: from bluemind.ac3distribution.com (unknown [195.154.211.200])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  6 Dec 2015 19:46:41 +0000 (UTC)
+Received: from SCServer (unknown [208.180.202.211])
+	(Authenticated sender: admin@ac3distribution.com)
+	by bluemind.ac3distribution.com (Postfix) with ESMTPA id 6BF64460973
+	for <jose@monkey.org>; Sun,  6 Dec 2015 22:27:37 +0100 (CET)
+From: "Discover Customer Service" <admin@ac3distribution.com> 
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Sun, 06 Dec 2015 13:42:55 -0600
+Subject: Discover: Account Notice For Issue #32031
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="_=aspNetEmail=_15260d64c1e4480da835c52b2d50f543"
+Message-ID: <SCSERVER0f9254f312d84128a2f28c04ff4fea24@SCServer>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 279

@@ -1,0 +1,26 @@
+From jose@monkey.org Mon Nov 23 23:45:49 2015 +0000
+Return-Path: navy_responsnfcu@fed.org
+Delivered-To: jose@monkey.org
+X-FDA: 70887500418.02.thumb50_32d29234ce229
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 34,2.2,0,7b5b35a0c591e962,d41d8cd98f00b204,navy_responsnfcu@fed.org,:navy_responsnfcu@fed.org,RULES_HIT:21:41:72:327:379:496:967:969:973:978:979:983:988:989:1190:1208:1221:1254:1260:1263:1313:1314:1381:1390:1431:1432:1433:1434:1437:1516:1517:1518:1545:1571:1575:1594:1685:1699:1710:1730:1744:1776:1792:1801:1803:2194:2198:2199:2200:2380:2525:2527:2539:2540:2553:2568:2610:2682:2685:2692:2693:2741:2859:2890:2891:2892:2894:2895:2900:2901:2909:2910:2911:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3353:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4078:4081:4321:4383:4384:4395:4425:4605:4700:5007:6235:6238:6239:6248:6261:6610:6650:6669:6684:6686:6687:6688:7207:7208:7557:7903:8550:8568:8596:8599:8603:8651:8660:8885:8957:9025:9059:9060:9121:9149:9388:9392:9908:10008:10049:10086:10346:11209:11233:11253:11289:11473:11529:11537:11657:11658:11805:11914:11967:12043:12050:12438:12555:12561
+X-HE-Tag: thumb50_32d29234ce229
+X-Filterd-Recvd-Size: 25028
+Received: from smtp005.earthlinkbusiness.com (smtp005.earthlinkbusiness.com [69.95.226.15])
+	by imf01.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Mon, 23 Nov 2015 23:45:49 +0000 (UTC)
+Received: (qmail 7350 invoked from network); 23 Nov 2015 23:45:44 -0000
+Received: from unknown (HELO HHSFLDC001.HHSFL.Local) (97.67.250.194)
+  by smtp005.earthlinkbusiness.com with SMTP; 23 Nov 2015 23:45:44 -0000
+Content-Type: multipart/alternative; boundary="===============0678396505=="
+MIME-Version: 1.0
+Subject: NFCU cannot verify your account information
+To: Recipients <navy_responsnfcu@fed.org>
+From: "Navy Federal Credit Union" <navy_responsnfcu@fed.org>
+Date: Mon, 23 Nov 2015 18:40:09 -0500
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 263

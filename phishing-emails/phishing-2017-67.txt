@@ -1,0 +1,36 @@
+From jose@monkey.org Sun Feb 12 07:30:21 2017 +0000
+Return-Path: maziah@nanoxan.com.my
+Delivered-To: jose@monkey.org
+X-FDA: 72507115842.15.ice85_5a538a4167d30
+X-Spam-Summary: 50,3,0,71357397607cb29f,d41d8cd98f00b204,maziah@nanoxan.com.my,:,RULES_HIT:41:72:379:800:962:967:969:973:983:988:989:1147:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1542:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1776:1792:2196:2198:2199:2200:2525:2549:2559:2563:2610:2682:2685:2693:2737:2790:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3351:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4361:4552:5007:6261:6678:7652:8516:8518:8603:8797:8824:9025:9121:9388:9466:10004:10114:10215:10346:10400:11233:11480:11651:11657:11658:11914:12043:12517:12519:12903:13026:13095:13139:13237:13374:13439:14093:14096:14181:14721:14828:14877:21080:21433:21450:21451:21524:30001:30021:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:41,LUA_SUMMA
+X-HE-Tag: ice85_5a538a4167d30
+X-Filterd-Recvd-Size: 5285
+Received: from mail.storeberry.com (mail.storeberry.com [182.160.154.204])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 12 Feb 2017 07:30:20 +0000 (UTC)
+Received: from [162.248.246.254] (port=64492)
+	by mail.storeberry.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <maziah@nanoxan.com.my>)
+	id 1ccobx-0001o0-Uo
+	for jose@monkey.org; Sun, 12 Feb 2017 18:30:18 +1100
+Content-Type: multipart/alternative; boundary="===============1806079287=="
+MIME-Version: 1.0
+Subject: Final Warning***Virus Detected in Your E-mail Account
+To: jose@monkey.org
+From: "Email Admin" <maziah@nanoxan.com.my>
+Date: Sat, 11 Feb 2017 23:30:20 -0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.storeberry.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - nanoxan.com.my
+X-Get-Message-Sender-Via: mail.storeberry.com: authenticated_id: testing@storeberry.com
+X-Authenticated-Sender: mail.storeberry.com: testing@storeberry.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 66

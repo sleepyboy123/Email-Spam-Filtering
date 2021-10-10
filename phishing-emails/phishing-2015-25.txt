@@ -1,0 +1,50 @@
+From intl_p@ypl.com  Sat Feb 21 10:07:38 2015
+Return-Path: <intl_p@ypl.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 2F7B1F40BF
+	for <jose@login.monkey.org>; Sat, 21 Feb 2015 10:07:38 -0600 (CST)
+Received: from smtpin10.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id DDE9134E01A
+	for <jose@login.monkey.org>; Sat, 21 Feb 2015 16:07:37 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69888425754.10.car79_7c98be3771802
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=ypl.com
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,16fefd2f54929450,d41d8cd98f00b204,intl_p@ypl.com,:,RULES_HIT:41:327:355:379:539:540:541:542:543:567:677:871:969:973:979:988:989:1000:1026:1155:1260:1261:1308:1309:1313:1314:1345:1381:1437:1516:1517:1518:1538:1575:1587:1594:1699:1711:1714:1730:1747:1764:1777:1792:1823:2073:2076:2198:2199:2393:2568:2693:2731:2892:2895:2896:2900:2904:2924:2925:2926:3138:3139:3140:3141:3142:3351:3622:3690:3740:3865:3867:3870:3871:3873:4362:4383:4384:4395:5007:6227:6261:6506:6684:6747:6748:7281:7398:7628:7903:8829:8957:10004:10264:10265:10394:10400:11473:11604:11658:11914:12517:12519:12740:13110:13161:13229:14036:14037:21080,0,RBL:206.81.33.195-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: car79_7c98be3771802
+X-Filterd-Recvd-Size: 49741
+Received: from mail.carrlaneadv.com (mail.carrlaneadv.com [206.81.33.195])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 21 Feb 2015 16:07:36 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.carrlaneadv.com (Postfix) with ESMTP id 3D5DE64B5F
+	for <jose@monkey.org>; Sat, 21 Feb 2015 10:02:32 -0600 (CST)
+X-Virus-Scanned: amavisd-new at mail.carrlaneadv.com
+Received: from mail.carrlaneadv.com ([127.0.0.1])
+	by localhost (mail.carrlaneadv.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wswTHQPYoP-g for <jose@monkey.org>;
+	Sat, 21 Feb 2015 10:02:31 -0600 (CST)
+Received: from johanzcx.arvixevps.com (johanzcx.arvixevps.com [104.171.9.179])
+	by mail.carrlaneadv.com (Postfix) with ESMTPA id 503A264B5C
+	for <jose@monkey.org>; Sat, 21 Feb 2015 10:02:30 -0600 (CST)
+Message-ID: <859D51A1AEEA4A7A937D2C1F5036C469@johanzcx>
+From: "PayPal" <intl_p@ypl.com>
+To: <jose@monkey.org>
+Subject: -Temporary information confirmed-
+Date: Sat, 21 Feb 2015 10:06:48 -0600
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_1BBB_01D04DBE.1AF3E1A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 25

@@ -1,0 +1,30 @@
+From jose@monkey.org Fri Jan 10 15:13:00 2020 +0000
+Return-Path: alseda@mat.uab.cat
+Delivered-To: jose@monkey.org
+X-FDA: 76362067320.58.sort78_1a3b4e716255f
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,alseda@mat.uab.cat,:,RULES_HIT:30001:30021:30026:30054:30069:30070,0,RBL:158.109.168.132:@mat.uab.cat:.lbl8.mailshell.net-62.8.11.2 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:searchbourne.com-sh.dbl.urbl.hostedemail.com-127.0.0.175,Custom_rules:0:0:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: sort78_1a3b4e716255f
+X-Filterd-Recvd-Size: 4790
+Received: from venezia.uab.es (venezia.uab.es [158.109.168.132])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 10 Jan 2020 15:13:00 +0000 (UTC)
+Received: from venezia.uab.es ([127.0.0.1])
+ by venezia.uab.es (Sun Java System Messaging Server 6.1 HotFix 0.10 (built Jan
+  6 2005)) with ESMTP id <0Q3W000ZDATUUY00@venezia.uab.es> for jose@monkey.org;
+ Fri, 10 Jan 2020 15:27:30 +0100 (CET)
+Received: from [144.217.117.210] by venezia.uab.es
+ (Sun Java System Messaging Server 6.1 HotFix 0.10 (built Jan  6 2005))
+ with ESMTP id <0Q3W00HI1AT8WSG0@venezia.uab.es> for jose@monkey.org; Fri,
+ 10 Jan 2020 15:27:30 +0100 (CET)
+Date: Fri, 10 Jan 2020 06:27:29 -0800
+From: Administrator <alseda@mat.uab.cat>
+Subject: Verify ownership of your account now
+To: jose@monkey.org
+Message-id: <0Q3W00HJSATTWSG0@venezia.uab.es>
+MIME-version: 1.0
+Content-type: multipart/alternative;
+ boundary="Boundary_(ID_g/KLvqtF0lbzM1IxaXcXqA)"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 5

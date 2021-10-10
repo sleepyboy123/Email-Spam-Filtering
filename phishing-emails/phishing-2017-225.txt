@@ -1,0 +1,48 @@
+From jose@monkey.org Thu Jun 15 08:05:48 2017 +0000
+Return-Path: admin@oceanshipforafrica.xyz
+Delivered-To: jose@monkey.org
+X-FDA: 72953547576.20.hat24_8a07ec860975b
+X-Spam-Summary: 75,0,0,e7be02190b504a4c,d41d8cd98f00b204,admin@oceanshipforafrica.xyz,:,RULES_HIT:1:2:41:72:379:495:800:967:973:978:983:988:989:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1699:1714:1730:1777:1792:2198:2199:2525:2527:2539:2549:2560:2563:2610:2682:2685:2693:2859:2890:2895:2900:2901:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3350:3586:3865:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4321:4384:4552:4605:5007:6119:6650:6653:6678:7652:7903:8599:8603:8957:8987:9025:9149:9388:9468:9908:10004:10044:10214:10346:11473:11657:11658:11914:12043:12295:12301:12438:12517:12519:12551:12555:12658:12740:12764:12895:12986:13025:13139:13237:13439:14827:21060:21062:21080:21324:21433:21450:21451:21483:21524:21627:30001:30021:30022:30026:30054:30069:30070,0,RBL:70.32.39.222-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,
+X-HE-Tag: hat24_8a07ec860975b
+X-Filterd-Recvd-Size: 11343
+Received: from 2748089.securefastserver.com (unknown [70.32.39.222])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 15 Jun 2017 08:05:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=oceanshipforafrica.xyz; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=+QhwFBfd1ZXq2agGU6CqzvAomaijM5uquIjMOQrXyn8=; b=UgXDHfj/IzctYHz4/eIRrMGcB
+	KC1exkU0QxJVSdPsPGZhdbdn0HhYrVEjkSZovcBEOu0tJx7sL3Z+YURBAoQq9WoJQxDO/VD97n7PP
+	1+nactDYJniwe0pGnyrKx05/GkYb8y18CfA03mUbAVe5Yoz/uXxI3k+1t6rp6d+dPQuETUtKIUZmB
+	oGOkqRjO2f6J8ts/h06tgaTml4dR40WJERWEhQ7yT5yC42RAMFF/y94H8+SQb5XbjJXpyyci1OaEX
+	AKpw+jAuTq3XgpV4Ui0FwuFv77OWaWelBpVZUsHJyUNFgJai9VsE6NMax6awueRWCt98wTiSbDRXQ
+	/dhHGgPXQ==;
+Received: from [23.254.182.47] (port=56070)
+	by 2748089.securefastserver.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <admin@oceanshipforafrica.xyz>)
+	id 1dKwt1-0000xh-5n
+	for jose@monkey.org; Tue, 13 Jun 2017 21:14:19 -0400
+Content-Type: multipart/alternative; boundary="===============1138257456=="
+MIME-Version: 1.0
+Subject: Termination Notice of jose@monkey.org
+To: jose@monkey.org
+From: "E-mail Security" <admin@oceanshipforafrica.xyz>
+Date: Tue, 13 Jun 2017 20:12:58 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - 2748089.securefastserver.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - oceanshipforafrica.xyz
+X-Get-Message-Sender-Via: 2748089.securefastserver.com: authenticated_id: admin@oceanshipforafrica.xyz
+X-Authenticated-Sender: 2748089.securefastserver.com: admin@oceanshipforafrica.xyz
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 225

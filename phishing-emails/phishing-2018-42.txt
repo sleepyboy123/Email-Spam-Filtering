@@ -1,0 +1,52 @@
+From jose@monkey.org Sun Feb 25 16:24:32 2018 +0000
+Return-Path: celengkowe-ayomlebucok.paymentsupport1111@wemakinglegend.com
+Delivered-To: jose@monkey.org
+X-FDA: 73880148342.03.shake30_7ec375bcafb0f
+X-Spam-Summary: 69,4.5,0,6e4c489b4097e952,d41d8cd98f00b204,celengkowe-ayomlebucok.paymentsupport1111@wemakinglegend.com,:,RULES_HIT:41:152:355:379:560:982:988:989:1260:1313:1314:1345:1381:1394:1395:1437:1516:1517:1518:1538:1566:1575:1594:1699:1711:1714:1730:1749:1764:1777:1792:2553:2559:2562:2890:2901:3138:3139:3140:3141:3142:3866:3873:3874:4042:4321:5007:6238:6261:6653:7903:8957:10013:10231:11245:11658:11914:12043:12225:12519:12555:12679:12986:13139:13163:13229:13255:14658:14826:14828:14829:21220:21444:21450:21451:21611:21627:30001:30036:30054:30070:30080:30090,0,RBL:209.85.214.65:@wemakinglegend.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: shake30_7ec375bcafb0f
+X-Filterd-Recvd-Size: 201332
+Received: from mail-it0-f65.google.com (mail-it0-f65.google.com [209.85.214.65])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 25 Feb 2018 16:24:30 +0000 (UTC)
+Received: by mail-it0-f65.google.com with SMTP id k135so3134603ite.2
+        for <jose@monkey.org>; Sun, 25 Feb 2018 08:24:30 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=wemakinglegend-com.20150623.gappssmtp.com; s=20150623;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=lcEsKfuULP6UaAuUYTV1bede+7SvrP+qqkA6JXa+qag=;
+        b=lIh4Z9giGx+OBaM+2i1zyWS6UnBm6be2ZSxDApQ961Ayn4o4rwJPDibC81cHPPUvSG
+         QsmTG4GDy09wId3plMkVWGGFiTwL6CsIOE7jq2DfGqZhy92EdB9AAWT8earJ2kiUrvZO
+         2E/gpfZL4HkwfXhMBfJb59t/8vtYl4cJ3J6UX4GLAEXCF1Qfphlg3qx7R3UsMyCWW6iO
+         HQyu9hiv5cGtS3BnYuqUA6hk0fst3SBRZm5txVgkSZtJv+eRMB5/QmOLKioTOwTj+LHX
+         XflzaUO2UefqJ/5AS1BItE5BR8Xsrmo9BGHiKPjtsiRRvB1SKjiIlHcZBINm9IFA6V3b
+         Ok7Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=lcEsKfuULP6UaAuUYTV1bede+7SvrP+qqkA6JXa+qag=;
+        b=Cl9AWzPdTq8PT36Dp/ggZcNeSKxg0mPOxzt0DHFYwSHHx0s/u9gSFn2CrPAwER91fS
+         Nj+WFHtbQHLlDvdgL+JRDco/H3xPJSmccjL/6iThGfSCR+cH/Sse4lrloEGm1qHlh5Kk
+         JdoVDcEiCohzAIUPg8nkAOoy5FmgthhMeEtsMQ0foUxep6EP8wCgLsYZrEve2F6O+OmT
+         3mL+AIVZ2EucZyY5vK96jXSa+e9hr+FPbAZFmfViXcLC89DyvHplsElz6kwEuyB96L6I
+         mGyeHcS21WC31cmk5/huG/uja3/byCCLr64BgxlJeb3mawAEZmiaJ2zIUonCwQ5nQCzP
+         hBVw==
+X-Gm-Message-State: APf1xPCSINPXixL5YwyUrj99mHRI+F0mZlT+FDgaFRQgGlHcJceedokp
+	HoSWBvGrkYavcAAXck4726Yg8bah2FzQ44ghr/eacxU85YaUwA0ZmJ3DTeoxeNhamTndFuYC7W7
+	WLuSPxPCWf7Az+Wg+
+X-Google-Smtp-Source: AG47ELtJQgJuDSOJxOt/O6lwqRrUfOdL7ZUsQbtxt8Jdf1fPtOWHIZCk/V8TsHFK6TwRvIApN/ACBUTMQAdZ+dFMl7Q=
+X-Received: by 10.36.65.21 with SMTP id x21mr9504157ita.146.1519575869980;
+ Sun, 25 Feb 2018 08:24:29 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.107.138.81 with HTTP; Sun, 25 Feb 2018 08:24:28 -0800 (PST)
+From: lcIoud Support <celengkowe-ayomlebucok.paymentsupport1111@wemakinglegend.com>
+Date: Sun, 25 Feb 2018 10:24:28 -0600
+Message-ID: <CAKF+1p_GeF=faE9-eHeKQ_uzNkMO_s94TpLWRYJn=ww+S5_rAw@mail.gmail.com>
+Subject: RE : [ORDER PROBLEMS] : Suspected fraudelent transaction for App
+ Magic Piano (Purchase ID: IOS - 954712APSSTR1.)
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary="001a11c15168f0d64905660bd3f6"
+Bcc: jose@monkey.org
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 432

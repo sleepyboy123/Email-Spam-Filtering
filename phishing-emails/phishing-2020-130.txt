@@ -1,0 +1,24 @@
+From jose@monkey.org Mon Sep 21 03:37:41 2020 +0000
+Return-Path: no-reply@monkey.org
+Delivered-To: jose@monkey.org
+X-FDA: 77285659122.11.ring67_0301de927141
+X-Spam-Summary: 1,0,0,5dac24142948d590,d41d8cd98f00b204,no-reply@monkey.org,,RULES_HIT:2:41:72:355:375:379:800:962:967:973:978:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1571:1588:1589:1710:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2559:2563:2682:2685:2859:2899:2900:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4118:4321:4552:5007:6248:6261:6300:6669:6674:6678:6996:8603:9025:9040:9165:9908:10004:10346:11289:11473:11657:11658:11914:12043:12438:12555:12740:12895:12955:12958:12973:12986:13132:13139:13190:13229:13231:13374:14096:21060:21080:21347:21433:21451:21524:21627:21731:21740:21810:21819:21939:21984:30003:30022:30054:30068:30069:30070,0,RBL:95.211.218.36:@monkey.org:.lbl8.mailshell.net-62.0.6.100 64.201.201.201;04y8ksmnuoozw57oga3mmyejkdo7oyfzqge8jwkjdsf7ww8hgmp88eptafd
+X-HE-Tag: ring67_0301de927141
+X-Filterd-Recvd-Size: 7345
+Received: from tradersway.com (group.tradersway.com [95.211.218.36])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 21 Sep 2020 03:37:40 +0000 (UTC)
+X-Default-Received-SPF: pass (skip=loggedin (res=PASS));
+Reply-To: jose@monkey.org
+From: monkey.org server <no-reply@monkey.org
+To: jose@monkey.org
+Subject: Verification for deliverability on jose@monkey.org
+Date: 21 Sep 2020 05:37:39 +0200
+Message-ID: <20200921053739.F919E5BFFCF075A4@monkey.org>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 129

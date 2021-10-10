@@ -1,0 +1,42 @@
+From jose@monkey.org Tue Mar  5 21:14:27 2019 +0000
+Return-Path: dse_na3@docusign.net
+Delivered-To: jose@monkey.org
+X-FDA: 75234421374.04.ink90_43eb98fec1417
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,dse_na3@docusign.net,:,RULES_HIT:7969:30007:30012:30019:30022:30023:30038:30054:30055:30059:30062:30064:30070:30074:30079:30090:30091,0,RBL:162.248.184.122:@docusign.net:.lbl8.mailshell.net-62.18.0.100 64.95.201.95,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:17,LUA_SUMMARY:none
+X-HE-Tag: ink90_43eb98fec1417
+X-Filterd-Recvd-Size: 11697
+Received: from mailsea.docusign.net (mailsea.docusign.net [162.248.184.122])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  5 Mar 2019 21:14:26 +0000 (UTC)
+Received: from DA3FE55.corp.docusign.net (unknown [10.103.101.11])
+	by mailsea.docusign.net (Postfix) with ESMTP id 56790BFDBD
+	for <jose@monkey.org>; Tue,  5 Mar 2019 13:14:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=docusign.net; s=mail;
+	t=1551820465; bh=ZlwHygKmKDvstZXVEBm80zotrk/EqDmk9bh8ZR8hQA8=;
+	h=Reply-To:From:To:Date:Subject;
+	b=l/+HKHiZATyBJlU19vGLw4hFeFladblgb4aUuTXuji/j2m2p+SQDPYTspBEJb0Wz4
+	 4RiuAhnQj8CVLDBZ83uns5ZvUNP4x+ephilp4aWDJxlQ6DSX2E+z/oVQN11UXROpeE
+	 +QoGogZ1mwx/aeKjF/zxCBBcZ6cFjdqSxp/jN+o8=
+Received: from docusign.net ([127.0.0.1]) by DA3FE55.corp.docusign.net with Microsoft SMTPSVC(8.5.9600.16384);
+	 Tue, 5 Mar 2019 13:14:25 -0800
+Sender: DocuSign NA3 System  <dse_NA3@docusign.net>
+Reply-To: "Lisa Wilson"  <lisa@expandthebiz.com>
+Recipient-Id: 988195bf-c4c0-4b56-acec-2f218204924b
+X-Debug: False
+X-Email-Rejection-Mode: LearningMode
+X-Api-Host: na3.docusign.net
+Site-Id: 3
+X-BounceEmailVersion: 1
+From: "Lisa Wilson via DocuSign" <dse_NA3@docusign.net>
+To: "Business Owner" <jose@monkey.org>
+Message-ID: <1b24df55e5e24047a2ca0d0778cf4139@docusign.net>
+Date: Tue, 05 Mar 2019 13:14:25 -0800
+Subject: Re: Get Approved and Funded TODAY
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_NextPart_3724D7E5_0FB4_4CE6_893A_C8EF954B5FEF"
+X-OriginalArrivalTime: 05 Mar 2019 21:14:25.0018 (UTC) FILETIME=[68F84DA0:01D4D398]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 48

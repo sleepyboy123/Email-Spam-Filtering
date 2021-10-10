@@ -1,0 +1,30 @@
+From jose@monkey.org Tue Nov  3 09:20:50 2015 +0000
+Return-Path: usaa-offers@banking2.org
+Delivered-To: jose@monkey.org
+X-FDA: 70812744660.14.clock11_4166cde26f101
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 85,1,0,d27093ee979607c9,d41d8cd98f00b204,usaa-offers@banking2.org,:usaa-offers@banking2.org,RULES_HIT:4:41:72:355:379:455:474:967:969:973:978:983:988:989:1042:1208:1221:1260:1261:1263:1313:1314:1336:1345:1381:1390:1431:1432:1433:1434:1437:1516:1517:1518:1571:1575:1594:1685:1699:1730:1744:1776:1792:1803:2069:2070:2194:2198:2199:2200:2525:2527:2568:2610:2638:2682:2685:2693:2741:2859:2890:2891:2892:2894:2895:2903:2917:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3352:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4605:4699:4700:5007:6238:6248:6261:6669:6678:6687:6688:6750:7208:7512:7602:7652:7774:7809:7903:8516:8568:8599:8603:8784:8825:8957:8985:9025:9059:9060:9121:9130:9149:9388:9411:9416:9908:10030:10049:10346:10946:11026:11232:11233:11657:11658:11914:11967:12043:12075:12438:12522:12555:12561:12679:12700:12729:12737:12776:12812:12920:12963:12973:13018:1
+X-HE-Tag: clock11_4166cde26f101
+X-Filterd-Recvd-Size: 15971
+Received: from fep01.xtra.co.nz (fep07.xtra.co.nz [210.54.141.239])
+	by imf03.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue,  3 Nov 2015 09:20:49 +0000 (UTC)
+Received: from [192.168.3.2] (really [219.89.207.248]) by fep01.xtra.co.nz
+          with ESMTP
+          id <20151103092041.MYKQ3878.fep01.xtra.co.nz@[192.168.3.2]>;
+          Tue, 3 Nov 2015 22:20:41 +1300
+Content-Type: multipart/alternative; boundary="===============0813457520=="
+MIME-Version: 1.0
+Subject: IMPORTANT NEW MESSAGE FROM USAA
+To: Recipients <usaa-offers@banking2.org>
+From: "USAA" <usaa-offers@banking2.org>
+Date: Tue, 03 Nov 2015 22:18:36 +1300
+X-Antivirus: avast! (VPS 151102-1, 03/11/2015), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20151103092041.MYKQ3878.fep01.xtra.co.nz@[192.168.3.2]>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 230

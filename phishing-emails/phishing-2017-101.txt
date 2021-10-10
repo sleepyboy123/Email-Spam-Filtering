@@ -1,0 +1,39 @@
+From jose@monkey.org Sat Mar  4 21:22:21 2017 +0000
+Return-Path: postmaster@noreply.com
+Delivered-To: jose@monkey.org
+X-FDA: 72581788482.14.money69_4ebd6b71e6851
+X-Spam-Summary: 50,0,0,0bec0459c42b70e5,d41d8cd98f00b204,postmaster@noreply.com,:,RULES_HIT:2:41:72:355:379:495:800:962:966:967:969:973:978:982:983:988:989:1042:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1571:1575:1588:1589:1592:1594:1714:1719:1730:1744:1777:1792:2069:2070:2194:2196:2198:2199:2200:2201:2525:2527:2553:2568:2610:2627:2682:2685:2829:2859:2900:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3041:3138:3139:3140:3141:3142:3148:3350:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4120:4321:4385:4552:5007:6261:6671:6672:6678:7875:7903:8568:8599:8603:8671:8957:8987:9025:9040:9388:9469:9871:9908:10004:10215:10248:10346:11257:11473:11480:11658:11914:12043:12294:12295:12324:12438:12517:12519:12555:12658:12660:12740:12764:12895:12903:12986:13007:13008:13025:13110:13139:13234:13236:13237:13439:13868:13975:14094:14096:14106:14566:14877:21063:21080:21433:21436:21451:21483:21554:30022:30026:30054:30
+X-HE-Tag: money69_4ebd6b71e6851
+X-Filterd-Recvd-Size: 9044
+Received: from mail.amf.de (mail.amf.de [62.214.1.132])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  4 Mar 2017 21:22:20 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.amf.de (Postfix) with ESMTP id 4272B5EA90C5
+	for <jose@monkey.org>; Sat,  4 Mar 2017 22:17:13 +0100 (CET)
+Received: from mail.amf.de ([127.0.0.1])
+	by localhost (srv-zimbra.amf.de [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id G21vj0kj4N5l for <jose@monkey.org>;
+	Sat,  4 Mar 2017 22:17:10 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.amf.de (Postfix) with ESMTP id 9658B5AE9309
+	for <jose@monkey.org>; Sat,  4 Mar 2017 20:59:49 +0100 (CET)
+X-Virus-Scanned: amavisd-new at srv-zimbra.amf.de
+Received: from mail.amf.de ([127.0.0.1])
+	by localhost (srv-zimbra.amf.de [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 2zfor7W943hX for <jose@monkey.org>;
+	Sat,  4 Mar 2017 20:59:49 +0100 (CET)
+Received: from WIN-JIB26MEMRFL.ec2.internal (ec2-107-23-171-24.compute-1.amazonaws.com [107.23.171.24])
+	by mail.amf.de (Postfix) with ESMTPSA id 85BE55EC4544
+	for <jose@monkey.org>; Sat,  4 Mar 2017 19:38:47 +0100 (CET)
+Content-Type: multipart/alternative; boundary="===============0193884387=="
+MIME-Version: 1.0
+Subject: 2017 Mail Quota Limited!
+To: jose@monkey.org
+From: "Mailbox" <postmaster@noreply.com>
+Date: Sat, 04 Mar 2017 18:38:46 +0000
+Message-Id: <20170304183847.85BE55EC4544@mail.amf.de>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 100

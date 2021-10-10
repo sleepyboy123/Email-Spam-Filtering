@@ -1,0 +1,49 @@
+From wellfargo_connectalert@online.wellsfargo.com  Sun Sep  6 09:14:42 2015
+Return-Path: <wellfargo_connectalert@online.wellsfargo.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 00AD8F409C
+	for <jose@login.monkey.org>; Sun,  6 Sep 2015 09:14:42 -0500 (CDT)
+Received: from smtpin12.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id BE04934E356
+	for <jose@login.monkey.org>; Sun,  6 Sep 2015 14:14:41 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70603014762.12.scene89_80429bbdd865a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,abcf6c86e4219629,d41d8cd98f00b204,wellfargo_connectalert@online.wellsfargo.com,:wellfargo_connectalert@online.wellsfargo.com,RULES_HIT:41:327:355:379:455:677:871:962:967:973:988:989:1189:1260:1261:1263:1313:1314:1325:1345:1381:1432:1433:1434:1436:1437:1516:1517:1518:1542:1568:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1764:1777:1792:1803:2194:2198:2199:2200:2525:2527:2539:2553:2568:2682:2685:2741:2859:2890:2891:2898:2899:2915:2916:2924:2926:2931:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3585:3586:3863:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:4042:4358:4605:5007:6117:6119:6261:6354:6678:6687:6748:7281:7398:7809:7903:8550:8599:8603:8957:9025:9072:9467:9868:10004:10030:10049:10113:10214:10234:10265:10305:10400:10450:10455:11026:11074:11473:11604:11656:11657:11658:11914:12043:12217:12517:12519:12555:12561:13046:13132:13139:13231:13546:14001:14093:19904:19999:21067:21080:21107:21212,0,RBL:160.
+X-HE-Tag: scene89_80429bbdd865a
+X-Filterd-Recvd-Size: 22950
+Received: from zimbra02.intellispace.net (zimbra02.intellispace.net [160.79.91.180])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  6 Sep 2015 14:14:41 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra02.intellispace.net (Postfix) with ESMTP id 5A4ED2B77BDA;
+	Sun,  6 Sep 2015 09:44:07 -0400 (EDT)
+Received: from zimbra02.intellispace.net ([127.0.0.1])
+	by localhost (zimbra02.intellispace.net [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 6MR3AlMwVBHJ; Sun,  6 Sep 2015 09:44:06 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra02.intellispace.net (Postfix) with ESMTP id B49F62B77BDC;
+	Sun,  6 Sep 2015 09:44:06 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at zimbra02.intellispace.net
+Received: from zimbra02.intellispace.net ([127.0.0.1])
+	by localhost (zimbra02.intellispace.net [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 1mM7CLy73eML; Sun,  6 Sep 2015 09:44:06 -0400 (EDT)
+Received: from SRVDATOSQ.QUINTANAR.LOCAL (126.Red-83-56-16.staticIP.rima-tde.net [83.56.16.126])
+	by zimbra02.intellispace.net (Postfix) with ESMTPSA id 8D5C32B77BB3;
+	Sun,  6 Sep 2015 09:43:57 -0400 (EDT)
+Content-Type: multipart/mixed; boundary="===============0197352710=="
+MIME-Version: 1.0
+Subject: Your Wells Fargo Online Security Notification
+To: Recipients <wellfargo_connectalert@online.wellsfargo.com>
+From: "Wells Fargo Online" <wellfargo_connectalert@online.wellsfargo.com>
+Date: Sun, 06 Sep 2015 15:44:07 +0200
+Message-Id: <20150906134357.8D5C32B77BB3@zimbra02.intellispace.net>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 168

@@ -1,0 +1,43 @@
+From jose@monkey.org Tue Jun  9 16:02:47 2020 +0000
+Return-Path: bounces+9780648-1c72-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76910141574.31.day25_321772126dc3
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin31.b.hostedemail.com (Postfix) with ESMTP id DDA441EA049
+	for <jose@monkey.org>; Tue,  9 Jun 2020 16:02:46 +0000 (UTC)
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+9780648-1c72-jose=monkey.org@sendgrid.net,,RULES_HIT:30026:30054:30070:30091,0,RBL:149.72.232.246:@sendgrid.net:.lbl8.mailshell.net-62.18.0.32 64.10.201.10;149.72.232.246-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: day25_321772126dc3
+X-Filterd-Recvd-Size: 6279
+Received: from wrqvzvfs.outbound-mail.sendgrid.net (wrqvzvfs.outbound-mail.sendgrid.net [149.72.232.246])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Jun 2020 16:02:38 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=FrGAuMcayNJndUfMDNFo6Ki6vemSr9d9y6lLTatHykg=; b=PG
+	9XqOkIxy3Nnxkod3KsdYB9SVdnzyNomLPNmrmQDRMU1ezd41Nn5aEO1zu7J8y/of
+	iX9M4TjB2g4Os/7sI0ll7dN1V7RmklvuEvB5hSaNzbxlM9eenpxwzOxXFssZns6U
+	K+XR2i8JwoGpBJluCGBbgdWlycE2D0WF71MYT0Kq8=
+Received: by filter1390p1las1.sendgrid.net with SMTP id filter1390p1las1-11936-5EDFB29A-54
+        2020-06-09 16:02:34.625049252 +0000 UTC m=+68603.297552173
+Received: from kyodonews.jp (unknown)
+	by ismtpd0004p1iad1.sendgrid.net (SG) with ESMTP id LPTdLP60QHan0MaGY90GMw
+	for <jose@monkey.org>; Tue, 09 Jun 2020 16:02:34.522 +0000 (UTC)
+From: monkey.org  <kokushi10@kyodonews.jp>
+To: jose@monkey.org
+Subject: monkey.org update 
+Date: Tue, 09 Jun 2020 16:02:34 +0000 (UTC)
+Message-ID: <20200610005410.4E053253B1DA9704@kyodonews.jp>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDP/l7NUpEvEtGKsV1yMM1ewQMpAg4dLuXvEY
+ 0qbz+Xk4UWQw8henJ5MzKuzAKwvejr17ljS4fHvZ6fd4Z7f0kgzgHnRPZ7kXdzy2MCFro9jkClNC7z
+ R44peNWlc55PjezeU+M4CSTvxK+wlsoSHQnFC4cVohwnpmrV3Cvk2pwN1A==
+X-Rspamd-Queue-Id: DDA441EA049
+X-Spamd-Result: default: False [0.00 / 100.00]
+X-Rspamd-Server: rspam03
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 70

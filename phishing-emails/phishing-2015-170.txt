@@ -1,0 +1,38 @@
+From mmmple2@kent.edu  Tue Sep  8 09:31:03 2015
+Return-Path: <mmmple2@kent.edu>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E0332F409C
+	for <jose@login.monkey.org>; Tue,  8 Sep 2015 09:31:02 -0500 (CDT)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 74276184648
+	for <jose@login.monkey.org>; Tue,  8 Sep 2015 14:31:02 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70610313564.11.dock60_602ca9bf22816
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,mmmple2@kent.edu,,RULES_HIT,0,RBL:209.226.175.45:@kent.edu:.lbl8.mailshell.net-62.16.55.32 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: dock60_602ca9bf22816
+X-Filterd-Recvd-Size: 166171
+Received: from toip46.srvr.bell.ca (toip46.srvr.bell.ca [209.226.175.45])
+	by imf18.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  8 Sep 2015 14:31:00 +0000 (UTC)
+Received: from unknown (HELO User) ([184.151.235.145])
+  by toip46.srvr.bell.ca with SMTP; 08 Sep 2015 10:30:28 -0400
+From: "USAA"<mmmple2@kent.edu>
+Subject: View USAA Important Security Document 
+Date: Tue, 8 Sep 2015 10:30:56 -0400
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0059_01C2A9A6.10F683FE"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 170

@@ -1,0 +1,27 @@
+From jose@monkey.org Sat Mar 19 16:08:27 2016 +0000
+Return-Path: noreply@chase.net
+Delivered-To: jose@monkey.org
+X-FDA: 71310917454.01.thumb35_66cbc8b9ce813
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,1abbd51d2971519f,d41d8cd98f00b204,noreply@chase.net,:noreply@chase.net,RULES_HIT:41:72:327:379:474:960:962:967:969:973:978:979:983:988:989:1189:1208:1221:1254:1260:1313:1314:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1555:1571:1575:1588:1589:1592:1594:1712:1730:1776:1792:2069:2070:2194:2196:2198:2199:2200:2201:2525:2559:2568:2570:2610:2633:2682:2685:2693:2703:2737:2741:2829:2859:2890:2891:2892:2894:2900:2909:2910:2917:2918:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3148:3353:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4310:4321:4362:4383:4384:4395:5007:6238:6248:6261:7208:7653:7809:7903:7974:8518:8550:8599:8603:8651:8660:8885:8957:9025:9059:9080:9121:9149:9344:9388:9411:9908:10049:10305:10346:11658:12561:12660:12764:12812:13038:13132:13144:13145:13148:13156:13163:13228:13229:13230:13231,0,RBL:87.106.67.196-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:no
+X-HE-Tag: thumb35_66cbc8b9ce813
+X-Filterd-Recvd-Size: 23583
+Received: from s15313111.onlinehome-server.info (s15313111.onlinehome-server.info [87.106.67.196])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 19 Mar 2016 16:08:26 +0000 (UTC)
+Received: (qmail 339 invoked from network); 15 Mar 2016 08:58:47 +0000
+Received: from h53.95.219.67.cable.static.avenuebroadband.com (HELO ?10.32.38.196?) (67.219.95.53)
+  by s15313111.onlinehome-server.info with ESMTPA; 15 Mar 2016 08:58:46 +0000
+Content-Type: multipart/alternative; boundary="===============2080525167=="
+MIME-Version: 1.0
+Subject: CHASE ONLINE
+To: Recipients <noreply@chase.net>
+From: "CHASE ONLINE" <noreply@chase.net>
+Date: Tue, 15 Mar 2016 04:45:34 -0400
+Reply-To: noreply@chase.net
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 122

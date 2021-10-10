@@ -1,0 +1,25 @@
+From jose@monkey.org Fri Mar  1 08:34:55 2019 +0000
+Return-Path: fawaz.mousselly@hiast.edu.sy
+Delivered-To: jose@monkey.org
+X-FDA: 75217992150.26.help36_2ae5699e36861
+X-Spam-Summary: 30,2,0,15d87d17ab3f8d51,d41d8cd98f00b204,fawaz.mousselly@hiast.edu.sy,:,RULES_HIT:41:72:355:379:455:495:800:871:967:973:983:988:989:1000:1208:1260:1261:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1535:1543:1560:1571:1573:1575:1594:1699:1711:1714:1719:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2527:2561:2564:2682:2685:2693:2859:2890:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3552:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4119:4180:4181:4321:4503:4505:6261:6354:6506:6650:6669:6671:6685:6747:7281:8599:8603:8824:8858:8957:8987:9025:9388:9908:10007:10346:11658:11914:12043:12438:12521:12555:12660:12764:12895:12903:12986:13007:13025:13026:13095:13139:13439:13975:14181:14659:14721:14828:14849:18000:21080:21433:21436:21450:21451:21524:21554:21627:21657:21810:21819:30001:30022:30054:30069,0,RBL:213.141.154.225:@hiast.edu.sy:.lbl8.mailshell.net-62.4.3.100 64.201.
+X-HE-Tag: help36_2ae5699e36861
+X-Filterd-Recvd-Size: 8330
+Received: from s.dubrovin.net (dubrovin.net [213.141.154.225])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  1 Mar 2019 08:34:54 +0000 (UTC)
+Received: from hiast.edu.sy (37.49.225.172) by s.dubrovin.net (192.168.10.254)
+ with Microsoft SMTP Server (TLS) id 8.1.436.0; Fri, 1 Mar 2019 11:34:48 +0300
+From: monkey.org <fawaz.mousselly@hiast.edu.sy>
+To: <jose@monkey.org>
+Subject: jose@monkey.org sign-in attempt.
+Date: Fri, 1 Mar 2019 00:34:53 -0800
+Message-ID: <20190301003453.3F7064D9BCECCB35@hiast.edu.sy>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_CB9D4759.B12BB2FF"
+Return-Path: fawaz.mousselly@hiast.edu.sy
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 47

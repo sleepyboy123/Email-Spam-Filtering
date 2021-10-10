@@ -1,0 +1,25 @@
+From jose@monkey.org Wed Jun 15 00:59:31 2016 +0000
+Return-Path: customercare@dhl.com
+Delivered-To: jose@monkey.org
+X-FDA: 71627961342.17.shop93_360a1edf5ce58
+X-Spam-Summary: 87,3.5,0,a9f620883554f761,d41d8cd98f00b204,customercare@dhl.com,:,RULES_HIT:41:327:379:677:871:962:967:969:973:988:989:1189:1254:1260:1313:1314:1381:1432:1436:1437:1516:1517:1518:1542:1550:1560:1575:1588:1589:1592:1594:1711:1714:1730:1749:1764:1777:1792:2196:2198:2199:2200:2525:2540:2559:2563:2682:2685:2737:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3586:3690:3865:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:5007:6119:6238:6354:6678:6748:7281:7398:7652:8829:8957:9025:9468:9972:9973:10013:10264:10265:10394:10400:11473:11529:11604:11658:11914:12043:12219:12438:12517:12519:12555:13139:13163:13229:13285:13286:13439:14037:14096:14181:14721:21080:21121:21325:21433,0,RBL:198.134.28.162:@dhl.com:.lbl8.mailshell.net-62.22.0.100 64.201.201.130,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:4:0,LFtime:65,LUA_SUMMARY:none
+X-HE-Tag: shop93_360a1edf5ce58
+X-Filterd-Recvd-Size: 20869
+Received: from sm-edm-1.cudamail.com (smx1.smtpgenius.com [198.134.28.162])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 15 Jun 2016 00:59:31 +0000 (UTC)
+Received: from [5.196.238.221] (unknown [5.196.238.221])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by sm-edm-1.cudamail.com (Postfix) with ESMTPSA id B38DB2E825C
+	for <jose@monkey.org>; Tue, 14 Jun 2016 13:28:01 -0600 (MDT)
+Content-Type: multipart/mixed; boundary="===============1816037003=="
+MIME-Version: 1.0
+Subject: Your Parcel Has Arrived
+To: jose@monkey.org
+From: "DHL  " <customercare@dhl.com>
+Date: Tue, 14 Jun 2016 17:59:31 -0700
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 264

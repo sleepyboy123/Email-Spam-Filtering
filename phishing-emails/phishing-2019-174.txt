@@ -1,0 +1,40 @@
+From jose@monkey.org Mon Sep  9 05:16:31 2019 +0000
+Return-Path: bounces+8691685-753e-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75914221782.44.turn16_1bc5baeca6350
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+8691685-753e-jose=monkey.org@sendgrid.net,:,RULES_HIT:2539:30001:30006:30009:30016:30054:30055:30057:30064:30068:30069:30070:30075:30080:30090,0,RBL:149.72.194.201:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:61,LUA_SUMMARY:none
+X-HE-Tag: turn16_1bc5baeca6350
+X-Filterd-Recvd-Size: 61117
+Received: from wrqvcncw.outbound-mail.sendgrid.net (wrqvcncw.outbound-mail.sendgrid.net [149.72.194.201])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 Sep 2019 05:16:30 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=BlouKHRWdSOTenjsiRMK6m2W3+s=; b=X5nxfbIwdsYsVEfXV4gcumPO7Crfd
+	DHTJ7wpi3HvYWgUJrQVwEJEwKUreZj6qS90gXrSjJjGWkUsYx9NQrCWT2GDNkKdl
+	Mi3TiSaONjSxCWRDmWSeRGzsA+cf5VRtt8DkrO1JLVlVwfwgQ9YnMG+9aLRwegMu
+	y6krqzZAn7kchI=
+Received: by filter0661p1iad2.sendgrid.net with SMTP id filter0661p1iad2-20322-5D75E02D-3
+        2019-09-09 05:16:29.128886638 +0000 UTC m=+381853.092057647
+Received: from WIN-K609A0OTK3F (ec2-3-86-251-87.compute-1.amazonaws.com [3.86.251.87])
+	by ismtpd0012p1iad1.sendgrid.net (SG) with ESMTP id xxGF6i6VTmedOM16MbIi2g
+	for <jose@monkey.org>; Mon, 09 Sep 2019 05:16:29.035 +0000 (UTC)
+MIME-Version: 1.0
+From: "Navy_Federal_Credit" <stonemilinda@metrostate.edu>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Mon, 09 Sep 2019 05:16:29 +0000 (UTC)
+Subject: Important Security Message
+Content-Type: multipart/alternative;
+ boundary=--boundary_704029_1a21af60-0c17-4980-a570-fc101641f6dc
+Message-ID: <xxGF6i6VTmedOM16MbIi2g@ismtpd0012p1iad1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtBvwlDTfmPLW9AE8jVImIil4XJa+XMmVOfCqh
+ zELNO37Dv6ByM+HZHILQTVRiQpVzXMg0Aj1RPuC2lwRfYMwgmUKIYJN8wvXiFVxnfiF//FpgwLgUmj
+ XXejDicq0mwM9cRGbZHrwydVzMd8lxKUhN3gu/wUXT4sgFy4oD++TWugfAHdiorGnwFWSdvobdOGFR
+ w=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 173

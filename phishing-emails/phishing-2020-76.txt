@@ -1,0 +1,38 @@
+From jose@monkey.org Fri Jun 12 04:08:13 2020 +0000
+Return-Path: bounces+16192141-f0ee-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76919227266.36.star45_2f0463926dd9
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+16192141-f0ee-jose=monkey.org@sendgrid.net,,RULES_HIT:30001:30022:30037:30054:30070,0,RBL:149.72.231.253:@sendgrid.net:.lbl8.mailshell.net-62.18.0.32 64.10.201.10;149.72.231.253-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: star45_2f0463926dd9
+X-Filterd-Recvd-Size: 12655
+Received: from wrqvztfd.outbound-mail.sendgrid.net (wrqvztfd.outbound-mail.sendgrid.net [149.72.231.253])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 12 Jun 2020 04:08:12 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=jE1TBHKlD8vjRAtAm3I67jRqCx0bU71gPHlvd28vR7M=; b=yf
+	7r05rYYeH4kdcQl/tAeD4B2dgPhs97W+8zZ6EApvpKABVazZ+fjRYJLhTTDeRzuT
+	7KNbJIKBKlRcK6pI2T1nc7pfkddGYmc165qwRHx5iTcCmSOsj8MKjwn/YSQ804/X
+	OIVzsK/SrKrlWDPiWlpjTcdqaRgiQDXC4WTwwZ6Cw=
+Received: by filter0356p1iad2.sendgrid.net with SMTP id filter0356p1iad2-2645-5EE2FFAB-9
+        2020-06-12 04:08:11.456942327 +0000 UTC m=+289282.995598238
+Received: from zierglas-glasfiguren.de (unknown)
+	by ismtpd0008p1lon1.sendgrid.net (SG) with ESMTP id cddmpnBPQSiTv1iaCkyTGQ
+	for <jose@monkey.org>; Fri, 12 Jun 2020 04:08:11.190 +0000 (UTC)
+From: monkey.org  <root@zierglas-glasfiguren.de>
+To: jose@monkey.org
+Subject: =?UTF-8?B?QWxlcnQ6IOKakSBNYWlsYm94IHBhc3N3b3JkIHJlc2V0IGluIHByb2dyZXNzIGZvciA=?=jose@monkey.org
+Date: Fri, 12 Jun 2020 04:08:11 +0000 (UTC)
+Message-ID: <20200611210809.E63B40DF71901D8A@zierglas-glasfiguren.de>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtCexAkvqMWt6FJDJzhvS5Nov78GTGP1O2QWrG
+ 9TAAKqsuD5nY5NL1WmLrR9eo5ALjhA4RfAwS96mXq7lospGA9uyj+Z5HLxlHSC+XKgKGgJujWUuRqI
+ TNouqJ7AxaJsOwgStxbnaxxLQRaDxt5IUhX/09g1gh7K8caxqmqUsa1+2GeXsp6+hd7uS38c+u41a2
+ 8=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 75

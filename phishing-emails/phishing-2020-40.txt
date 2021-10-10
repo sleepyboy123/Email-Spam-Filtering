@@ -1,0 +1,32 @@
+From jose@monkey.org Tue Mar 10 02:48:36 2020 +0000
+Return-Path: klantinfo@rabobank.wytskepostma.nl
+Delivered-To: jose@monkey.org
+X-FDA: 76577919432.33.thumb18_4a243119d5d22
+X-Spam-Summary: 42,2.595,0,b6fff40d74e5399b,d41d8cd98f00b204,klantinfo@rabobank.wytskepostma.nl,,RULES_HIT:41:72:327:355:379:455:492:581:962:967:973:983:988:989:994:1189:1208:1221:1260:1261:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1571:1575:1588:1589:1592:1594:1685:1710:1730:1744:1777:1792:2194:2198:2199:2200:2525:2527:2560:2568:2610:2682:2685:2771:2859:2891:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3148:3154:3353:3866:3870:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6096:6261:6299:6650:6653:6669:6674:6678:6687:7652:8516:8603:8957:9025:9040:9080:9149:10004:10346:11026:11639:11657:11658:11914:12043:12217:12297:12438:12555:12561:12903:12963:12986:13110:13237:13374:13439:14096:14141:14149:21080:21095:21325:21349:21433:21451:21524:21554:21627:21810:21838:21881:21939:22013:30007:30019:30026:30054:30055:30064:30066:30070,0,RBL:185.249.199.222:@rabobank.wytskepostma.nl:.lbl8.mailshell.net-62.2.0.100 64.1
+X-HE-Tag: thumb18_4a243119d5d22
+X-Filterd-Recvd-Size: 20933
+Received: from rabobank.wytskepostma.nl (rabobank.wytskepostma.nl [185.249.199.222])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 10 Mar 2020 02:48:27 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+    s=s1024; d=rabobank.wytskepostma.nl;
+    h=content-type:mime-version:subject:to:from:date:message-id;
+    bh=lGMfRJfz2t7pwmfRAw7q/MbHDVyS8doPw6Biu3etWU0=;
+    b=KKY9H3FFRk+4JyroWpWSN72kHSUNQwOysfFUh157SXLFAPnX/5CSEG1EO/9SUy
+      Rauv4Kn+QjuyAyAqssOr+Nx163afzAVTnHG5nVRTousI0DiVWXqWzqjapiRt5E
+      eG2kYa/FfRcTKMwR52xCPsabmGp0XOOfIL7w1bIH7C3r0rg=
+Received: from [185.249.199.222] ([185.249.199.222]) by rabobank.wytskepostma.nl with Microsoft SMTPSVC(10.0.14393.2608);
+	 Mon, 9 Mar 2020 19:46:21 -0700
+Content-Type: multipart/alternative; boundary="===============1818552619=="
+MIME-Version: 1.0
+Subject: Wijzigingen in onze Servicevoorwaarden en het Privacybeleid
+To: Recipients <klantinfo@rabobank.wytskepostma.nl>
+From: "Rabobank" <klantinfo@rabobank.wytskepostma.nl>
+Date: Mon, 09 Mar 2020 19:46:20 -0700
+Return-Path: klantinfo@rabobank.wytskepostma.nl
+Message-ID: <VPS-ZAP495041-2okLQ00000018@rabobank.wytskepostma.nl>
+X-OriginalArrivalTime: 10 Mar 2020 02:46:21.0083 (UTC) FILETIME=[14B626B0:01D5F686]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 39

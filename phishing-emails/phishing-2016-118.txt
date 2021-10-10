@@ -1,0 +1,47 @@
+From jose@monkey.org Fri Mar 18 02:45:06 2016 +0000
+Return-Path: cape360rvermail@us.gov
+Delivered-To: jose@monkey.org
+X-FDA: 71305264212.13.thumb66_f6eaa29e9c08
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,d41d8cd98f00b204,d41d8cd98f00b204,cape360rvermail@us.gov,:cape360rvermail@us.gov,RULES_HIT:41:327:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1517:1518:1522:1536:1575:1594:1692:1699:1711:1730:1748:1764:1766:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10011:10400:10489:11604:11658:11914:12166:12340:12561:13439:14515:21080:21212:30026:30054:30055,0,RBL:64.56.129.253:@us.gov:.lbl8.mailshell.net-62.8.55.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:65,LUA_SUMMARY:none
+X-HE-Tag: thumb66_f6eaa29e9c08
+X-Filterd-Recvd-Size: 35421
+Received: from mx.wiband.com (unknown [64.56.129.253])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 18 Mar 2016 02:45:05 +0000 (UTC)
+X-ASG-Debug-ID: 1458269104-06bf3910fe10379d0001-6JlXpt
+Received: from smtp2.wiband.com (smtp3.wiband.com [64.56.129.17]) by mx.wiband.com with ESMTP id avJWiXCzhxPWxsl0; Thu, 17 Mar 2016 21:45:04 -0500 (CDT)
+X-Barracuda-Envelope-From: Cape360rvermail@US.GOV
+X-Barracuda-Effective-Source-IP: smtp3.wiband.com[64.56.129.17]
+X-Barracuda-Apparent-Source-IP: 64.56.129.17
+Received: from LSLFP.lslinc.com [72.13.165.35] by smtp3.wiband.com with ESMTP
+  (SMTPD-9.23) id A6C004D8; Wed, 16 Mar 2016 18:05:36 -0500
+Content-Type: multipart/mixed; boundary="===============0052680669=="
+MIME-Version: 1.0
+Subject: IMPORTANT MESSAGE FROM CAPITAL ONE 360
+To: Recipients <Cape360rvermail@US.GOV>
+X-ASG-Orig-Subj: IMPORTANT MESSAGE FROM CAPITAL ONE 360
+From: "Capital One 360" <Cape360rvermail@US.GOV>
+Date: Wed, 16 Mar 2016 17:05:21 -0600
+Message-Id: <201603161805385.SM13396@LSLFP.lslinc.com>
+X-RBL-Warning: HELOBOGUS: Domain LSLFP.lslinc.com has no MX or A records [0301].
+X-Declude-Sender: Cape360rvermail@US.GOV [72.13.165.35]
+X-Declude-Spoolname: De6c001c30000523f.smd
+X-Declude-Note: Scanned by smtp.wiband.com (abuse@wiband.com) 3.1.0 for spam.
+X-Declude-Scan: Score [3] at 18:05:55 on 16 Mar 2016
+X-Declude-Fail: HELOBOGUS [3]
+X-Country-Chain: CANADA->destination
+X-Barracuda-Connect: smtp3.wiband.com[64.56.129.17]
+X-Barracuda-Start-Time: 1458269104
+X-Barracuda-URL: https://64.56.141.210:443/cgi-mod/mark.cgi
+X-Barracuda-Scan-Msg-Size: 52
+X-Virus-Scanned: by bsmtpd at wiband.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: -1002.00
+X-Barracuda-Spam-Status: No, SCORE=-1002.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=1000.0 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 117

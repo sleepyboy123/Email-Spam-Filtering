@@ -1,0 +1,29 @@
+From jose@monkey.org Tue Mar  3 16:22:05 2020 +0000
+Return-Path: shanzey@cyber.net.pk
+Delivered-To: jose@monkey.org
+X-FDA: 76554567810.44.moon72_4c4c12c7ed33b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,shanzey@cyber.net.pk,,RULES_HIT:1803:30001:30021:30022:30054:30070,0,RBL:175.107.198.180:@cyber.net.pk:.lbl8.mailshell.net-64.10.201.10 62.18.187.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: moon72_4c4c12c7ed33b
+X-Filterd-Recvd-Size: 3304
+Received: from smtp-gw.cyber.net.pk (unknown [175.107.198.180])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  3 Mar 2020 16:22:03 +0000 (UTC)
+Received: from webmail.cyber.net.pk (mail.cyber.net.pk [203.101.175.37])
+	by smtp-gw.cyber.net.pk (Postfix) with ESMTP id 7283D4536CA7
+	for <jose@monkey.org>; Tue,  3 Mar 2020 21:21:24 +0500 (PKT)
+Received: from cyber.net.pk (unknown [197.211.61.94])
+	by webmail.cyber.net.pk (Postfix) with ESMTPA id 6B2EB440E753
+	for <jose@monkey.org>; Tue,  3 Mar 2020 21:21:44 +0500 (PKT)
+From: monkey.org Admin <shanzey@cyber.net.pk>
+To: jose@monkey.org
+Subject: ACCOUNT DE-ACTIVATED
+Date: 03 Mar 2020 17:21:43 +0100
+Message-ID: <20200303165212.7D70C1593811C0F7@cyber.net.pk>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 38

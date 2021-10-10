@@ -1,0 +1,89 @@
+From jose@monkey.org Tue Feb 19 18:36:58 2019 +0000
+Return-Path: de-ann.hughes@stcg.ac.uk
+Delivered-To: jose@monkey.org
+X-FDA: 75183221316.02.tree22_3cc901dc1dd3b
+X-Spam-Summary: 50,0,0,54866669bf135373,d41d8cd98f00b204,de-ann.hughes@stcg.ac.uk,:de-ann.hughes@stcg.ac.uk,RULES_HIT:2:10:41:72:327:355:379:444:582:599:677:871:960:962:966:967:973:983:988:989:994:1000:1152:1189:1208:1260:1313:1314:1345:1359:1381:1390:1431:1432:1436:1437:1516:1517:1518:1573:1575:1588:1589:1592:1594:1730:1744:1764:1776:1792:1823:2196:2198:2199:2200:2525:2527:2528:2539:2553:2557:2568:2610:2633:2682:2685:2859:2892:2894:2901:2903:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3353:3586:3769:3865:3866:3867:3868:3870:3871:3872:3873:3874:3892:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4050:4321:4361:4385:4503:4505:4700:4860:6248:6261:6353:6354:6506:6653:6658:6678:6688:6703:6747:6748:7281:7398:7652:7903:7904:7909:8568:8603:8858:8957:9025:9080:9121:9149:9390:9908:10004:10205:10265:10346:10394:10522:11233:11604:11656:11657:11658:11788:11875:11914:12043:12291:12324:12438:12519:12521:12555:12660:12679:12683:12895:12903:12986:13005:13017:13
+X-HE-Tag: tree22_3cc901dc1dd3b
+X-Filterd-Recvd-Size: 33568
+Received: from mail1.bemta25.messagelabs.com (mail1.bemta25.messagelabs.com [195.245.230.132])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 19 Feb 2019 18:36:57 +0000 (UTC)
+Return-Path: <De-Ann.Hughes@stcg.ac.uk>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=stcg.ac.uk;
+	s=default; t=1550601413; i=@stcg.ac.uk;
+	bh=dIxaYvljPSPdeHFvNPLjrvrtWpiDyLNnRoyLoRmbucY=;
+	h=From:To:Subject:Date:Message-ID:References:In-Reply-To:
+	 Content-Type:MIME-Version;
+	b=vPLLpeuVgmYhgmNngtWv3a69WPr0j/9NWhG2qnfAsWcJkN4yMtUvTuxQSvlPUj2dV
+	 DnhpRLST7M1tJosfTf/lk3qGzNoinHYyJDKGTA9TAC9Be8ok2zieoe31s7i5AqTbXM
+	 +aQLFIF3tT4gw5xfSO7tlULSjP81hLZZGINyppdMtAxCqL3nyFgI9ZM3FGPU9eV2cA
+	 tc7KkwA3EzWyH0N/iTyrHTU0X9RYBs53vPaOifAx4S8JSZ8NcUltNEd9VZsxOz5peS
+	 4OtVqk3SAunLB5Doxhxjy93AuknSqzIes4Dch71eBgRxxEi2yf3HkAiW4LNAf2nwdS
+	 2mhBhI7cquoeQ==
+Received: from [46.226.53.57] (using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256 bits))
+	by server-4.bemta.az-c.eu-west-1.aws.symcld.net id DB/AC-22588-85C4C6C5; Tue, 19 Feb 2019 18:35:04 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA2WUa0xTZxjHfc+lpyJdKkJ8B3OZKMsutgOWucc
+  tGSa7HUUTL8nmNhdWtYNupSKtEfgE4kRFUbSktFCkWApl6rDC7FCuarE6JwWm5eIQKDIB42Ry
+  FWGnHHAaP5wnv/e5/f/v+fAKST/DvEChPEEjj1fJlMECH6q5LWKt5Ms1ys2hhY5AaO430TBUs
+  ZeC7ow+BM79AyTcyhhloNmWTYPt6hgNTQ4LBbmVeQy0JZsRdDdPIajUegiov5ZDw2jFQQZGrJ
+  0EGOtuIHioS0Fwqv0yAbdNGQIoP9WIoOmWgQHnWRGk/roMukw3EaRVtTPwk7NSADcnnlAwpV0
+  LRYO+cCl1goC8h0coKEl30NCTe5AEl0FLg27URUFBmhFBddYmeLLPJgCzO5WC1tJaAiy9m6Bl
+  uJ4G8+NqCtpLMxE8biumQT+hRVA63EPDnuRaCvZVxsKDsjwKDOePErC30UVDsnYpFLQfZsCdy
+  u25UWknwWKWQO7Bb8CR8y+CI49SGCizHKPh9NE9BJwzHSPg96lJaqWVYOstmTSb0+dBbFNzJF
+  tsHSfZE7+UMWxO5QDBVt0wMqz+cBPXduc6zfbcN1JsVVcVyXactzKssaELsccG82l2d0Uaw9r
+  +7kfrBtHXtEK1ZXvCd3RMmW6ciLvdhhK0f/xJJKM7DegA8hH6ia0I95+w0PzBg/BAy33yAJrL
+  HdIRPtsd62WBWIpbz40QXvYXL8N38xuneYF4EZ66Z6f4/Kt4ZOLiTE84tpvzBV6mxCF46J8WL
+  i8UisQrcProal4rC+ETHe5prbniD7D70BjjZcTt7LKOTzMpXohbPcend2KxP+50XRPwHIDvdU
+  /SPC/GpjuzPcvxhNVF87NfYbejfHqPSDwfO/Ueir9XCC65eIE+ggIMz0gYnhkxPDPC55Owx65
+  DBu4KpDgKFxSG8GkpdmdpBTy/jS2mfpJnCc6erKNezG/AP7ubZvgzXDdeT/N8BeGS7FU8R+C8
+  giKG58VYm97J8LLrsbkliE9/ilMP9XDrfTiuR1hXkzXj4SPsGn5MPT/r5Y34esPYjO7nePDBy
+  Zl+J8L2opm7rMS9e46iF3U34OriFbOWM5+UCnhdzrKjfB8167n8UbvgRV3AbouJmv0nKQcKCX
+  74LMJDNj2ZjxaXINgSr4iO0cTKFEpJWGioJCwsXBIe6v1CpbIkyVapfKdkl1ytkYRJZbvUUnV
+  i7FblNqlKrrEh7t3ZFnf1ih3lFkfXoZeFRHCAKPtN5Wa/l7Zs35YYI1PHRMXvVMrVdegVoTAY
+  i0pXc7X58fJoecL3CiX3eM2WsdA32F/0wFsWqeNksWpFNF+6ir4V1hR0GklhW603Oke8scLSx
+  cWMM3e5mN3hjWXTsWI63q/tNZJ+lGq7Sh64UFSyilsq9i6N2al6Kjn7ZDaiRYELRGjOnDl+vn
+  Hy+FiF5vl6H1ooRMELRE6vNV+FSvPUWR9nmuBMG6Z+9JrWyP4vBSajPk/JKv3qj33gzJKIXv1
+  frwUN5XxYs2bsdNAnHdFLzf6tmfszys8td0W1mydP75iflCjThzhs47suDS9pSJNT6yNTLrzf
+  GbW/cDSoJjLR1jvPb67p0u53w32yxiuKfqCSkjsDfqu2H5p49PpI5I7LbxQ71xW9p1uzXnd8q
+  OOLdyJxxMmBYEodIwt7i4xXy/4DV/KLfS0GAAA=
+X-Env-Sender: De-Ann.Hughes@stcg.ac.uk
+X-Msg-Ref: server-7.tower-309.messagelabs.com!1550601302!1657806!1
+X-Originating-IP: [212.219.63.77]
+X-SYMC-ESS-Client-Auth: outbound-route-from=pass
+X-StarScan-Received:
+X-StarScan-Version: 9.31.5; banners=-,-,-
+X-VirusChecked: Checked
+Received: (qmail 22437 invoked from network); 19 Feb 2019 18:35:03 -0000
+Received: from autodiscover.stcg.ac.uk (HELO smtp.stcg.ac.uk) (212.219.63.77)
+  by server-7.tower-309.messagelabs.com with AES256-GCM-SHA384 encrypted SMTP; 19 Feb 2019 18:35:03 -0000
+Received: from KCGMAIL02.KCNET.LOCAL (172.16.0.6) by KCMail05.KCNET.LOCAL
+ (172.16.0.40) with Microsoft SMTP Server (TLS) id 14.3.408.0; Tue, 19 Feb
+ 2019 18:35:02 +0000
+Received: from KCGMAIL02.KCNET.LOCAL (172.16.0.6) by KCGMAIL02.KCNET.LOCAL
+ (172.16.0.6) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1415.2; Tue, 19 Feb
+ 2019 18:35:02 +0000
+Received: from KCGMAIL02.KCNET.LOCAL ([::1]) by KCGMAIL02.KCNET.LOCAL ([::1])
+ with mapi id 15.01.1415.007; Tue, 19 Feb 2019 18:35:02 +0000
+From: De-Ann Hughes <De-Ann.Hughes@stcg.ac.uk>
+To: De-Ann Hughes <De-Ann.Hughes@stcg.ac.uk>
+Subject: Re: # e-mail upgrade
+Thread-Topic: # e-mail upgrade
+Thread-Index: AQHUyID2kVBQDclMhEu29qZmEdT4MKXncd6y
+Date: Tue, 19 Feb 2019 18:35:01 +0000
+Message-ID: <7c69e60ba8f4404ab2943e95f50a4aae@stcg.ac.uk>
+References: <a59ebe435cd6404999b58bf051666161@stcg.ac.uk>,<940f884f747b49f78656d4be8e531928@stcg.ac.uk>,<e330791d2a594c4fabd6023991529252@stcg.ac.uk>
+In-Reply-To: <e330791d2a594c4fabd6023991529252@stcg.ac.uk>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [41.203.72.116]
+x-c2processedorg: 9ef09932-7a41-4feb-a826-724f5dd4a90d
+Content-Type: multipart/mixed;
+	boundary="_009_7c69e60ba8f4404ab2943e95f50a4aaestcgacuk_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 40

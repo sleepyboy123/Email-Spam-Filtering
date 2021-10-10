@@ -1,0 +1,41 @@
+From myusaa@zeu.com  Wed May  6 10:30:49 2015
+Return-Path: <myusaa@zeu.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 87F16F4140
+	for <jose@login.monkey.org>; Wed,  6 May 2015 10:30:49 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 56EF01846BB
+	for <jose@login.monkey.org>; Wed,  6 May 2015 15:30:49 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70156864218.04.sock79_2409032c8ae4c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,myusaa@zeu.com,:myusaa@zeu.com,RULES_HIT:1803,0,RBL:169.232.46.188:@zeu.com:.lbl8.mailshell.net-62.8.0.2 64.201.201.201;169.232.46.188-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: sock79_2409032c8ae4c
+X-Filterd-Recvd-Size: 3143
+Received: from tx2-csb2.smtp.ucla.edu (tx2-csb2.smtp.ucla.edu [169.232.46.188])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  6 May 2015 15:30:47 +0000 (UTC)
+Received: from [128.97.63.82] ([128.97.63.82])
+	by rx-csb2.smtp.ucla.edu (8.14.4/8.14.4/Debian-4) with ESMTP id t46FQxFR016476;
+	Wed, 6 May 2015 08:27:26 -0700
+Message-Id: <201505061527.t46FQxFR016476@rx-csb2.smtp.ucla.edu>
+Content-Type: multipart/alternative; boundary="===============2145148819=="
+MIME-Version: 1.0
+Subject: USAA Account Update Notice
+To: Recipients <MyUsaa@zeu.com>
+From: "Usaa" <MyUsaa@zeu.com>
+Date: Wed, 06 May 2015 08:26:52 -0700
+X-Probable-Spam: no
+X-Spam-Hits: 3.433
+X-Spam-Score: ***
+X-Spam-Report: DCC_CHECK,HTML_IMAGE_ONLY_16,HTML_MESSAGE,RDNS_NONE,T_REMOTE_IMAGE
+X-Scanned-By: MIMEDefang 2.71 on 169.232.46.185
+Status: RO
+X-Status: 
+X-Keywords: $Forwarded      
+X-UID: 81

@@ -1,0 +1,37 @@
+From jose@monkey.org Wed Jul  1 23:42:49 2020 +0000
+Return-Path: bounces+17081479-6809-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76991134458.52.lead39_280d17526e84
+X-Spam-Summary: 41,0,0,,d41d8cd98f00b204,bounces+17081479-6809-jose=monkey.org@sendgrid.net,,RULES_HIT:30016:30054:30055:30070:30074,0,RBL:149.72.44.174:@sendgrid.net:.lbl8.mailshell.net-64.10.201.10 62.18.0.32;04y8dhfb96j6wrinxjhb3y5qzft74yf4ncagauh9bei7mqwzopb5xhb4ef3nq77.fstxxxx9o3ji43msxzc1hdfarcazaxba5q8camenzx4am3nh71niwgghrxsnhbf.1n4p6catgfy3csccphbpbhtfqhnfxj3ojbxyu7huinfjzchofggswkcy-lbl8.mailshell.net-223.238.255.100;149.72.44.174-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: lead39_280d17526e84
+X-Filterd-Recvd-Size: 13042
+Received: from wrqvncxz.outbound-mail.sendgrid.net (wrqvncxz.outbound-mail.sendgrid.net [149.72.44.174])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  1 Jul 2020 23:42:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type; s=smtpapi; 
+	bh=zd+zV5qIbJtq+F/h476pvGobeQTQzCIC6qwavozqZLc=; b=jRNxY41QQojvc
+	7ZrpY4/6Xq0pUwdwKW8YVo3G0APlUraqbKKFDk+UqibTR+hQzss3yq5ECChttcVu
+	h0yVm9FoRULa8fvClgKquGtxYcWFIU3XUhB0R0AdR3BERott8lK4eUF2z72B002y
+	F4usBKl8HzLfQAlNUlOAgXC07Kgpz0=
+Received: by filter1187p1las1.sendgrid.net with SMTP id filter1187p1las1-9649-5EFD1F77-24
+        2020-07-01 23:42:47.802827843 +0000 UTC m=+176116.592857394
+Received: from automailmarketingworld.fun (unknown)
+	by ismtpd0008p1lon1.sendgrid.net (SG) with ESMTP id 11T3nZSdSB-fjXWaSnpR9A
+	for <jose@monkey.org>; Wed, 01 Jul 2020 23:42:47.544 +0000 (UTC)
+From: DHL Express <sales@automailmarketingworld.fun>
+To: jose@monkey.org
+Subject: DHL SHIPPING NOTICE !!
+Date: Wed, 01 Jul 2020 23:42:47 +0000 (UTC)
+Message-ID: <20200701164247.7A9A1E786FE75A8E@automailmarketingworld.fun>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_C9134BD3.90D3AFFD"
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDHQgI3tV9Vi3+b8lkqVsQtstGbas6ikKMqSG
+ O6Nxdw1HJzQ+MVTfPxdTUcZ9cZPIVqgiPLag311iMiuMdHHpYWUopOP8aE1ShK0GDJ024zNdt6Kuy+
+ H6OvJq9JfOdVlWGODKQ85TPCLEBzGzyFSThTU42ZI678PlJIU78JObY6zLlYFpIXo4KTTxBqV1SPNz
+ A=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 89

@@ -1,0 +1,37 @@
+From jose@monkey.org Fri Aug 21 00:51:33 2020 +0000
+Return-Path: bounces+14290095-e169-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 77172747666.36.cart31_2a0016727035
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+14290095-e169-jose=monkey.org@sendgrid.net,,RULES_HIT:30001:30022:30054,0,RBL:149.72.34.66:@sendgrid.net:.lbl8.mailshell.net-64.100.201.100 62.18.0.32;04y8ozn665qhhm97rtdpo7mo8gesxofcq79ym9cea7nrp33wdckmyjicogr19ux.w7wonqi5ox5gsym3ffs6rojx4c7is8xr5sahff381mgywnbdxsx6iueu6q8ccai.95ed7sxtfrk6eh55krfimjg3cz8f-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:12,LUA_SUMMARY:none
+X-HE-Tag: cart31_2a0016727035
+X-Filterd-Recvd-Size: 3696
+Received: from wrqvnnqn.outbound-mail.sendgrid.net (wrqvnnqn.outbound-mail.sendgrid.net [149.72.34.66])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 21 Aug 2020 00:51:32 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=QTqOQic729U5VI3uK1x0NKQl1/UKnqJPDbsp1sqfat0=; b=qs
+	WOCeNOKH2NMvrLl/kl00Haceo5X8Lp5AY7gVnJKCCQWRrgr9G3VgnkNVe1fcb67R
+	I0ONy6RN75ZCrI6s8+IsSOSh65cuI7ew1JnBQzlTp21Qd8/4MvYZTPwN2aZIcwo2
+	tI1SY23W0HqWmGpNsY/yTK9DZkAr64FXB1nj78t+0=
+Received: by filter0852p1iad2.sendgrid.net with SMTP id filter0852p1iad2-13226-5F3F145F-17
+        2020-08-21 00:25:03.477298362 +0000 UTC m=+279764.368916552
+Received: from management.mcgill.ca (unknown)
+	by ismtpd0008p1hnd1.sendgrid.net (SG) with ESMTP id o5A7rJTeQjC-4tHXPogsuA
+	for <jose@monkey.org>; Fri, 21 Aug 2020 00:25:03.137 +0000 (UTC)
+From: monkey.org <jose@monkey.org>
+To: jose@monkey.org
+Subject: Email Account Blocked  jose@monkey.org 8/20/2020 5:25:02 p.m.
+Date: Fri, 21 Aug 2020 00:25:03 +0000 (UTC)
+Message-ID: <20200820172502.D55B79D154A3C6F3@monkey.org>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtA44DV8SavYJpUs3Z4NkMnGG68aacSsY/JcdI
+ 5nPwEoT6V1UCxFUnfE1moO3ACxwbeEYjUPLQy77nKyfPWK0/+VQ8egqQKz1SPKgtcq7RvnamGq2yoC
+ xH58K41X4l8ylqniua6x8k3LC0IrJBo2DSli2r0r2M4yV7L2muXOs4TJkA==
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 117

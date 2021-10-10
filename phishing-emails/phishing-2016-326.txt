@@ -1,0 +1,36 @@
+From jose@monkey.org Tue Aug  9 16:06:11 2016 +0000
+Return-Path: info@kab.be
+Delivered-To: jose@monkey.org
+X-FDA: 71829830142.09.camp58_702a9b7448342
+X-Spam-Summary: 50,0,0,a8e274d8038534f7,d41d8cd98f00b204,info@kab.be,:,RULES_HIT:4:41:72:379:495:800:962:967:973:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1566:1571:1575:1588:1589:1592:1594:1714:1730:1749:1776:1792:1803:2107:2145:2198:2199:2525:2527:2539:2549:2560:2563:2638:2693:2890:2898:2915:2926:2945:3040:3138:3139:3140:3141:3142:3651:3867:3871:3873:3936:3953:4042:4321:4384:4552:4605:5007:6119:6261:6678:6703:7809:8518:8603:8957:8987:9040:9080:9149:9388:9908:10004:10049:10234:10346:11473:11657:11658:11914:12043:12073:12075:12438:12517:12519:12555:12660:12740:12764:13018:13019:13025:13139:13237:13439:13975:14596:14827:21068:21080:21212:21433:21451:30001:30003:30012:30021:30022:30026:30054:30069:30070:30075,0,RBL:199.223.212.116:@kab.be:.lbl8.mailshell.net-62.2.255.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:72,LUA_SUMMARY:none
+X-HE-Tag: camp58_702a9b7448342
+X-Filterd-Recvd-Size: 15243
+Received: from server1.fireblade.be (unknown [199.223.212.116])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Aug 2016 16:06:10 +0000 (UTC)
+Received: from ec2-52-25-202-207.us-west-2.compute.amazonaws.com ([52.25.202.207]:53411 helo=openam.example.com)
+	by server1.fireblade.be with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <info@kab.be>)
+	id 1bX9Xc-0003ZP-GJ
+	for jose@monkey.org; Tue, 09 Aug 2016 18:06:08 +0200
+Content-Type: multipart/alternative; boundary="===============1943882270=="
+MIME-Version: 1.0
+Subject: Email Notification
+To: jose@monkey.org
+From: "E-Mail Notice " <info@kab.be>
+Date: Wed, 10 Aug 2016 00:06:57 +0800
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.fireblade.be
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - kab.be
+X-Get-Message-Sender-Via: server1.fireblade.be: authenticated_id: info@kab.be
+X-Authenticated-Sender: server1.fireblade.be: info@kab.be
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 325

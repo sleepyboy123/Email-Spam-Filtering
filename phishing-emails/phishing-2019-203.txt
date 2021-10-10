@@ -1,0 +1,49 @@
+From jose@monkey.org Tue Oct 22 14:15:38 2019 +0000
+Return-Path: info@maffeihoh.com
+Delivered-To: jose@monkey.org
+X-FDA: 76071618798.47.crate76_6b710831f003c
+X-Spam-Summary: 10,1,0,d37d98fc361b0f47,d41d8cd98f00b204,info@maffeihoh.com,:info@maffeihoh.com,RULES_HIT:4:41:72:379:962:966:967:973:983:988:989:1042:1189:1208:1221:1254:1260:1261:1313:1314:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1566:1571:1575:1588:1589:1592:1594:1714:1730:1744:1776:1792:2069:2070:2194:2196:2198:2199:2200:2201:2525:2527:2549:2568:2610:2630:2637:2682:2685:2741:2859:2891:2901:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3622:3690:3865:3867:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4310:4321:4385:4602:4605:4835:5007:6238:6650:6653:6669:6671:6678:6687:7208:7653:7688:7903:8583:8603:8957:8985:9025:9080:9121:9416:9908:9938:10004:10214:10346:11232:11233:11473:11658:11914:11958:12043:12214:12295:12438:12555:12561:12733:12737:12740:12895:12986:13007:13139:13234:13235:13236:13237:13294:13433:13439:14096:14158:14246:14596:14686:14877:21080:21325:21347:21433:21451:21483:21524:21627:21664:21772:21810:21819:21838
+X-HE-Tag: crate76_6b710831f003c
+X-Filterd-Recvd-Size: 15521
+Received: from s19099459.onlinehome-server.info (s19099459.onlinehome-server.info [212.227.63.220])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Oct 2019 14:15:38 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=maffeihoh.com; s=default; h=Reply-To:Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Message-ID:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=4f+dB0tDlgFyMhFy1QJ9Vs7PjSox1n2qrobsqMoWl/I=; b=O3NoGjSolxkOYvd4Y80u4OrzDp
+	jx/VC9E/LkLOiRINVHIfXySdhqVav/6Lxnv+gKcVRsJP1zTHsHE4SmdRdOL7MtmsO7/6e2keP2CRT
+	XW1s66se8fC2oAzz2oxxp9OzjDoDbWgz3Lia68A03KxJYM7wDbPTHJvm72FL2VO+GZaYl7VRYtoQ/
+	aRGN03fIV62UFGixQTnZYkIF1+vLJuHaFpXp4f8EVBUfn+Ih4stn7MRgvNaBor1ygCZFY+siAiD12
+	9x6QYxKAU9rxXOXoB3AjH/rAguzLzvEOIYZFcID60tTGxcmVxb7g6+MPTu9w6zKNuf6WiMmguB5za
+	j0y1Rxww==;
+Received: from 96-87-204-201-static.hfc.comcastbusiness.net ([96.87.204.201]:62786 helo=[192.168.1.12])
+	by s19099459.onlinehome-server.info with esmtpa (Exim 4.92)
+	(envelope-from <info@maffeihoh.com>)
+	id 1iMuwe-0003CA-It; Tue, 22 Oct 2019 16:15:32 +0200
+Content-Type: multipart/alternative; boundary="===============0100668893=="
+MIME-Version: 1.0
+Subject: A document shared on OneDrive.
+To: Recipients <info@maffeihoh.com>
+From: "Mr. Ben Powell, CFO" <info@maffeihoh.com>
+Date: Tue, 22 Oct 2019 10:15:23 -0400
+Reply-To: benpowellcfo107@gmail.com
+X-Antivirus: Avast (VPS 191022-2, 10/22/2019), Outbound message
+X-Antivirus-Status: Clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - s19099459.onlinehome-server.info
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - maffeihoh.com
+X-Get-Message-Sender-Via: s19099459.onlinehome-server.info: authenticated_id: info@maffeihoh.com
+X-Authenticated-Sender: s19099459.onlinehome-server.info: info@maffeihoh.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 202

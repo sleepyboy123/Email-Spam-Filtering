@@ -1,0 +1,42 @@
+From jose@monkey.org Tue Jul 12 19:45:01 2016 +0000
+Return-Path: jiqluk@shipland.com
+Delivered-To: jose@monkey.org
+X-FDA: 71728775202.17.shoe41_65e13512cfa37
+X-Spam-Summary: 64,4,0,bd2df1803807f192,d41d8cd98f00b204,jiqluk@shipland.com,,RULES_HIT:41:355:379:387:539:540:541:542:543:567:677:871:969:973:988:989:1000:1155:1260:1261:1308:1309:1313:1314:1345:1381:1437:1516:1517:1518:1537:1561:1575:1587:1594:1699:1711:1714:1730:1747:1764:1777:1792:1823:2073:2076:2393:2539:2568:2734:2894:2895:3138:3139:3140:3141:3142:3622:3690:3740:3865:3867:3868:3871:3872:3873:4310:4362:5007:6247:6261:6506:6684:6747:6748:7281:7398:7653:7907:8634:10012:10264:10265:10394:10400:11529:11604:11658:11914:12225:12231:12477:12517:12519:14037:14106:14659:30001:30003:30007:30009:30012:30014:30016:30019:30020:30022:30028:30034:30037:30038:30045:30051:30054:30055:30062:30064:30066:30069:30070:30075:30080:30090,0,RBL:220.117.241.211:@shipland.com:.lbl8.mailshell.net-62.2.1.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:none,Custom_rules:0:6:0,LFtime:13,LUA_SUMMARY:none
+X-HE-Tag: shoe41_65e13512cfa37
+X-Filterd-Recvd-Size: 68793
+Received: from slship.co.kr (mail.shipland.com [220.117.241.211])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 12 Jul 2016 19:45:00 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by slship.co.kr (Postfix) with ESMTP id 21F2F899E19;
+	Wed, 13 Jul 2016 04:19:23 +0900 (KST)
+Received: from slship.co.kr ([127.0.0.1])
+	by localhost (slship.co.kr [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 10P3QZNPyR2R; Wed, 13 Jul 2016 04:19:22 +0900 (KST)
+Received: from localhost (localhost [127.0.0.1])
+	by slship.co.kr (Postfix) with ESMTP id ECBA8899E14;
+	Wed, 13 Jul 2016 04:19:21 +0900 (KST)
+X-Virus-Scanned: amavisd-new at slship.co.kr
+Received: from slship.co.kr ([127.0.0.1])
+	by localhost (slship.co.kr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 7B9h5nq_tmVJ; Wed, 13 Jul 2016 04:19:21 +0900 (KST)
+Received: from User (173-14-21-117-colorado.hfc.comcastbusiness.net [173.14.21.117])
+	by slship.co.kr (Postfix) with ESMTPA id 288D2899DFB;
+	Wed, 13 Jul 2016 04:19:10 +0900 (KST)
+Reply-To: jiqluk@shipland.com
+From: Amex Card<jiqluk@shipland.com>
+Subject: Nofitication
+Date: Tue, 12 Jul 2016 13:19:19 -0600
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00BB_01C2A9A6.5339E6FE"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20160712191911.288D2899DFB@slship.co.kr>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 293

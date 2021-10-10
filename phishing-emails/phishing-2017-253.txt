@@ -1,0 +1,33 @@
+From jose@monkey.org Thu Jul 20 18:31:30 2017 +0000
+Return-Path: bounce-445_html-154232249-11820300-1051934-47@bounce-email.capitaloneinvesting.com
+Delivered-To: jose@monkey.org
+X-FDA: 73082132340.06.grain65_47343c6755c46
+X-Spam-Summary: 34,2.2,0,ab0f5da1eeea74cd,d41d8cd98f00b204,bounce-445_html-154232249-11820300-1051934-47@bounce-email.capitaloneinvesting.com,:,RULES_HIT:41:69:72:327:355:379:455:800:960:962:967:968:969:973:978:982:983:988:989:997:1021:1189:1201:1208:1221:1260:1263:1313:1314:1345:1381:1390:1430:1431:1432:1433:1434:1436:1437:1516:1517:1518:1546:1571:1575:1588:1589:1592:1594:1685:1712:1730:1744:1775:1792:1803:2107:2194:2198:2199:2200:2525:2527:2528:2538:2543:2553:2559:2568:2610:2682:2685:2689:2691:2693:2741:2859:2890:2891:2892:2894:2897:2900:2901:2909:2910:2913:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3355:3362:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4310:4321:4365:4552:4605:5007:6117:6119:6238:6261:6650:6653:6669:6684:6741:7208:7264:7875:7903:7974:8516:8568:8599:8603:8651:8797:8885:8932:8957:9025:9040:9080:9108:9149:9164:9177:9343:9388:9392:9416:9856:9908:10
+X-HE-Tag: grain65_47343c6755c46
+X-Filterd-Recvd-Size: 21238
+Received: from mta2-email.capitaloneinvesting.com (mta2-email.capitaloneinvesting.com [68.232.199.129])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 20 Jul 2017 18:31:29 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=et1024may2015; d=email.capitaloneinvesting.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type;
+ bh=fY0c+3qgG/KeTakroqn/EDw3osY=;
+ b=Jj90OkuM83g/lY2DLYhYh0ytI8lnHfOtIfRhTG3rtloMKGzXeD/flXppgQFmfT6xqJbnppgVSf04
+   lyL/uqdaamZoTRiWM6hBWIyScCE8Mu4cBOlsMkpR++PPZ2LD4g7SPsJBwT9w8W4SnJ1cFSfnF6xv
+   eod3p5uBOmYCb1z58ds=
+Received: by mta2-email.capitaloneinvesting.com id he3rg2163hss for <jose@monkey.org>; Thu, 20 Jul 2017 18:31:28 +0000 (envelope-from <bounce-445_HTML-154232249-11820300-1051934-47@bounce-email.capitaloneinvesting.com>)
+From: "Capital One Investing" <investor@email.capitaloneinvesting.com>
+To: <jose@monkey.org>
+Subject: Enhanced account security is coming
+Date: Thu, 20 Jul 2017 12:31:28 -0600
+MIME-Version: 1.0
+Reply-To: "Capital One Investing" <reply-fe7015717d66047e7514-445_HTML-154232249-1051934-47@email.capitaloneinvesting.com>
+List-ID: <1051934_11820300.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 1051934_11820300
+Message-ID: <817833d4-5896-4ab1-ae03-0a907c4f1176@xtnvmta4748.xt.local>
+Content-Type: multipart/alternative;
+	boundary="QErWpXrm3ogH=_?:"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 253

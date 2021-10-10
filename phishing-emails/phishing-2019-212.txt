@@ -1,0 +1,40 @@
+From jose@monkey.org Mon Oct 28 15:48:16 2019 +0000
+Return-Path: bounces+13457864-2ab4-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76093624992.45.part70_65192b6c8ec52
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+13457864-2ab4-jose=monkey.org@sendgrid.net,:,RULES_HIT:4805:30001:30009:30029:30054:30055:30064:30069:30070:30080,0,RBL:167.89.9.139:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:none,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: part70_65192b6c8ec52
+X-Filterd-Recvd-Size: 21496
+Received: from o7.em.prontopro.fr (o7.em.prontopro.fr [167.89.9.139])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 28 Oct 2019 15:48:14 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=TdBDu0jkl0/ch5E6ClXMe415e7Y=; b=Wytn5dIr3DuVnq3F69yxq8pEaIUIh
+	1mIrfAA2HCHL0+mpJ8hXfX138jfezP6ph5pSMuFWkuyFPIxeAASZRVcj/PHFcybD
+	fGmBEMAshPW272lA02LMTChwg4khNrYPrBTrjvZhfuOgAe9bqDbIqBT5f6OjWRPJ
+	49EKL1TlEg4cPY=
+Received: by filter0472p1iad2.sendgrid.net with SMTP id filter0472p1iad2-30956-5DB70DBD-9
+        2019-10-28 15:48:13.218763802 +0000 UTC m=+251353.882445728
+Received: from WIN-7TR4O7NTH59 (ec2-3-83-121-203.compute-1.amazonaws.com [3.83.121.203])
+	by ismtpd0063p1iad1.sendgrid.net (SG) with ESMTP id wuSskPNURl6n-ouUycNr9A
+	for <jose@monkey.org>; Mon, 28 Oct 2019 15:48:13.070 +0000 (UTC)
+MIME-Version: 1.0
+From: "Navy Federal Credit Union" <boxer_m@fortlewis.edu>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Mon, 28 Oct 2019 15:48:13 +0000 (UTC)
+Subject: Cash Advance Request Rejected
+Content-Type: multipart/alternative;
+ boundary=--boundary_49076_db5375f3-ea2c-49ce-aa12-5e7047c1a969
+Message-ID: <wuSskPNURl6n-ouUycNr9A@ismtpd0063p1iad1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDtp9Mxbp20FMvZV3Qzc2UifvQAT/5nWoQWVz
+ HVrQtMjG4Yfj7fSh4bWorw285amiR6ZXbVr+YA4wdVmILVh/ttHK7aWgHXKG4Szw7vG9/a7ZIayNHG
+ GCM5fKYRBWjY4VRNY2XkV7R3jdU0ECFAlX2k8mLRcYxbUN6xj7gNVc9AIsyE7RZfr0co3GvcefTe3t
+ c=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 211

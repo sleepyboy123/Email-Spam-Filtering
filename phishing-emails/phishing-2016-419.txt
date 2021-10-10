@@ -1,0 +1,40 @@
+From jose@monkey.org Tue Nov  1 08:38:55 2016 +0000
+Return-Path: karan.chhabra@timalls.com
+Delivered-To: jose@monkey.org
+X-FDA: 72133522230.18.fang85_4dc25d40f6a19
+X-Spam-Summary: 40,2.5,0,a5a070ef41b6188c,d41d8cd98f00b204,karan.chhabra@timalls.com,:,RULES_HIT:41:72:379:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1252:1254:1260:1261:1263:1313:1314:1381:1431:1433:1434:1437:1516:1517:1518:1535:1542:1571:1575:1588:1589:1685:1711:1730:1776:1792:2198:2199:2525:2527:2539:2553:2565:2610:2682:2685:2693:2859:2890:2891:2898:2900:2910:2911:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4157:4321:4362:4425:4552:5007:6238:6248:6261:6653:6678:6684:6688:7208:7875:7903:8516:8518:8568:8583:8599:8603:8987:9025:9080:9113:9388:9390:9411:9856:9908:10011:10044:10049:10216:10346:10400:10482:11289:11473:11480:11537:11658:11914:12043:12050:12051:12522:12555:12658:12695:12737:12740:12764:12812:12986:13025:13038:13095:13139:13199:13229:13237:13374:13846:13891:13975:14094:14096:14158:14181:14346:14659:14721:14828:14849:19901:
+X-HE-Tag: fang85_4dc25d40f6a19
+X-Filterd-Recvd-Size: 5911
+Received: from pro152-60.mxout.rediffmailpro.com (pro152-60.mxout.rediffmailpro.com [119.252.152.60])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  1 Nov 2016 08:38:54 +0000 (UTC)
+Received: from rediffmail.com (unknown [10.50.252.5])
+	by pro152-59.mxout.rediffmailpro.com (Postfix) with ESMTP id 8299B1522A41
+	for <jose@monkey.org>; Tue,  1 Nov 2016 13:24:51 +0530 (IST)
+X-REDIFF-Delivered-Remotely-To: jose@monkey.org
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=rediffmailpro.com;
+	s=epro; t=1477986888;
+	bh=HJ4d3B3ksrZtqMCwtwBfr3oEJzlvfTRMxXeCqyjkr2o=;
+	h=MIME-Version:From:Date:Subject:To;
+	b=YaujAP8pxZ2V0vDzA5Ftj4L2SYEf0oyBIscr3k6gYBP7YxIt/m79jLz84n+7qlzNP
+	 K8i1x4raNkOTmE5tBaV5C5FxMTcxSNbLf/CzAyu7NIYROBiNN8k5/rrEVXj+waW9R8
+	 2Z8TCD0AGcP3KH24WyRY1smj6MkURjUvXh0hJo9s=
+Received: (qmail 13924 invoked from network); 1 Nov 2016 07:54:48 -0000
+x-m-msg: asd54ad564ad7aa6sd5as6d5; a6da7d6asas6dasd77; 5dad65ad5sd;
+X-OUT-VDRT-SpamState: 1\SPAM
+X-OUT-VDRT-SpamScore: 512
+X-OUT-VDRT-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrkedtgdduudehucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecuggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucgorfhhihhshhhinhhgqdfkkffrufhumhhmvghrucdlheduvddmnecujfgurhephffuvfgtggffsegrtddtredttddtnecuhfhrohhmpedfhggvsghsihhtvgcutegumhhinhdfuceokhgrrhgrnhdrtghhhhgrsghrrgesthhimhgrlhhlshdrtghomheqnecuffhomhgrihhnpeifvggsrdgtohhmpdhmihhnuggvnhgvrhhghigtohgrtghhrdgtohhmpdgvlhgvshgvrhdrtghomhenucfrrghrrghmpehmohguvgepshhmthhpohhuth
+Received: from unknown (HELO UPS-PC) (karan.chhabra@timalls.com@24.35.10.162)
+  by mailserver with SMTP; 1 Nov 2016 07:54:47 -0000
+From: "Website Admin" <karan.chhabra@timalls.com>
+Subject: Closing of your jose@monkey.org account is been processed
+To: jose@monkey.org
+Content-Type: multipart/alternative; boundary="y2rKggeX=_VDo1ceMsNo78UmBXm1PMpMA50"
+MIME-Version: 1.0
+Date: Tue, 1 Nov 2016 04:54:38 -0300
+X-Antivirus: avast! (VPS 161019-0, 10/19/2016), Outbound message
+X-Antivirus-Status: Clean
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 418

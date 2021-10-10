@@ -1,0 +1,45 @@
+From backup1@bullu.lv  Mon Sep 21 06:06:56 2015
+Return-Path: <backup1@bullu.lv>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 47144F4152
+	for <jose@login.monkey.org>; Mon, 21 Sep 2015 06:06:56 -0500 (CDT)
+Received: from smtpin04.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 185611845C5
+	for <jose@login.monkey.org>; Mon, 21 Sep 2015 11:06:56 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70656973632.04.base64_597c86234350e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 45,2.5,0,84a76c7d4fdea1ed,d41d8cd98f00b204,backup1@bullu.lv,:,RULES_HIT:4:21:41:46:72:150:152:355:379:455:502:962:967:968:973:978:979:983:988:989:1081:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1394:1431:1432:1433:1434:1437:1516:1517:1571:1575:1588:1589:1594:1676:1710:1730:1744:1747:1777:1792:1801:1803:2067:2069:2070:2107:2198:2199:2380:2393:2525:2527:2538:2551:2553:2560:2568:2610:2635:2638:2682:2685:2693:2859:2890:2892:2894:2895:2897:2902:2909:2911:2916:2919:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3355:3586:3623:3664:3770:3863:3865:3866:3867:3868:3870:3871:3872:3873:3874:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4383:4384:4395:4401:4425:4429:4605:4700:4878:5007:6117:6119:6227:6238:6248:6261:6300:6678:6688:7207:7266:7809:7903:7904:8599:8603:8660:8784:8957:9025:9040:9080:9121:9388:9908:9941:10004:10049:10305:10346:11026:11233:11473:11656:11657:11658:11914:12043:12050:121
+X-HE-Tag: base64_597c86234350e
+X-Filterd-Recvd-Size: 16020
+Received: from mail.bullu.lv (mail.bullu.lv [193.84.184.66])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 21 Sep 2015 11:06:54 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.bullu.lv (Postfix) with ESMTP id DEF5F36C4A78
+	for <jose@monkey.org>; Mon, 21 Sep 2015 14:06:53 +0300 (EEST)
+X-Virus-Scanned: amavisd-new at bullu.lv
+Received: from mail.bullu.lv ([127.0.0.1])
+	by localhost (mail.bullu.lv [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Ss3LPGK7vAZy for <jose@monkey.org>;
+	Mon, 21 Sep 2015 14:06:53 +0300 (EEST)
+Received: from sempakbolong (unknown [168.61.214.167])
+	by mail.bullu.lv (Postfix) with ESMTPSA id 1B2C836C4992
+	for <jose@monkey.org>; Mon, 21 Sep 2015 14:06:52 +0300 (EEST)
+From: "=?utf-8?Q?PayPaI=20Service?=" <backup1@bullu.lv> 
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Mon, 21 Sep 2015 11:06:50 +0000
+Subject: =?utf-8?Q?Account=20status=20limited?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_dbe6f01ed1d1423189eeb3e14bcf89a2"
+Message-ID: <SEMPAKBOLONGe698f2dd1a7e44bfb37cde6da3b56d17@sempakbolong>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 180

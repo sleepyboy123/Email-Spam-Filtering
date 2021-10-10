@@ -1,0 +1,49 @@
+From career@jasperegypt.com  Fri Jun  5 20:59:15 2015
+Return-Path: <career@jasperegypt.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 6BEF8F4142
+	for <jose@login.monkey.org>; Fri,  5 Jun 2015 20:59:15 -0500 (CDT)
+Received: from smtpin14.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 2987727AA64
+	for <jose@login.monkey.org>; Sat,  6 Jun 2015 01:59:15 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70267311870.14.wound84_8add7f6a81512
+Authentication-Results: auth.b.hostedemail.com; dkim=pass
+	reason="1024-bit key; insecure key"
+	header.d=bellsouth.net header.i=garcia275538@bellsouth.net
+	header.b=iIYfMZqW; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 74,0,0,4eb912b3d6464bef,d41d8cd98f00b204,career@jasperegypt.com,,RULES_HIT:2:41:72:379:387:455:539:540:541:542:543:567:582:677:871:967:969:973:983:988:989:994:1000:1152:1155:1208:1254:1260:1308:1309:1313:1314:1381:1431:1432:1433:1434:1437:1516:1517:1575:1587:1594:1606:1685:1699:1714:1730:1747:1764:1777:1792:1801:1803:1823:2073:2076:2198:2199:2393:2525:2527:2560:2568:2610:2682:2685:2693:2859:2890:2892:2894:2897:2898:2901:2904:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3351:3865:3867:3868:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4605:5007:6227:6238:6261:6354:6506:6653:6669:6747:6748:7208:7281:7653:7801:8509:8516:8518:8603:8634:8661:8829:9025:9130:10113:10264:10265:10394:11604:11658:11914:12043:12555:12660:12729:12737:12973:13110:13132:13139:13231:14096:21107,0,RBL:204.127.217.101:@jasperegypt.com:.lbl8.mailshell.net-62.8.0.99 64.201.201.201;204.127.217.101-irl.urbl.hostedemail.com-127.0.0.1
+X-HE-Tag: wound84_8add7f6a81512
+X-Filterd-Recvd-Size: 124695
+Received: from fmailhost01.isp.att.net (fmailhost01.isp.att.net [204.127.217.101])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  6 Jun 2015 01:59:14 +0000 (UTC)
+DKIM-Signature: v=1; q=dns/txt; d=bellsouth.net; s=dkim02;
+      i=garcia275538@bellsouth.net; a=rsa-sha256; c=relaxed/relaxed;
+      t=1433555948; h=Content-Type:MIME-Version:Date:Subject:From; bh=
+     +8WxOinbiYXtMUPSvaZu8XVf6/G1aJSeVAJw+eOrM58=; b=iIYfMZqWVNdT8DNyoNO
+     Z1mrP++/M4lC1mESWX85iTQ27bb7NPznRhEJ2ZuEEgcqwpzefd7LQY505vk3DArWXt4
+     kzkIzvwovEkbH8S1jGIs/J9BEKIuZwY0wStC7MSd37IPo/o6/3VmrwmMJ9WKghj7gJg
+     eST/WvEbGSg0vBRVCk=
+Received: from user (ip-37-29-50-14.nwgsm.ru?[37.29.50.14])
+          by isp.att.net (frfwmhc01) with SMTP
+          id <20150606015820H0100lufdre>; Sat, 6 Jun 2015 01:59:04 +0000
+X-Originating-IP: [37.29.50.14]
+From: "USAA"<career@jasperegypt.com>
+Subject: Your USAA Enhanced Account Security Alert
+Date: Fri, 5 Jun 2015 18:59:34 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00A7_01C2A9A6.58F1A100"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 99

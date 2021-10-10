@@ -1,0 +1,29 @@
+From jose@monkey.org Fri Nov  1 16:59:10 2019 +0000
+Return-Path: i-kuli@t-online.de
+Delivered-To: jose@monkey.org
+X-FDA: 76108318860.08.fall84_5007002a67b5b
+X-Spam-Summary: 75,0,0,71b124277ff038e5,d41d8cd98f00b204,i-kuli@t-online.de,,RULES_HIT:41:72:355:379:474:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1544:1568:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:2525:2527:2560:2563:2682:2685:2859:2891:2892:2894:2900:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3866:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4118:4389:5007:6261:6678:6687:6688:7652:8583:8603:8885:9025:9059:9411:9908:10004:10214:10346:11233:11473:11658:11914:12043:12160:12295:12297:12522:12561:12683:12895:12986:13139:13237:13439:14037:14110:14246:14721:21080:21433:21450:21451:21452:21460:21483:21524:21627:21810:21819:21838:21939:30009:30022:30026:30054:30055:30070:30075,0,RBL:194.25.134.17-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_r
+X-HE-Tag: fall84_5007002a67b5b
+X-Filterd-Recvd-Size: 7143
+Received: from mailout02.t-online.de (mailout02.t-online.de [194.25.134.17])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  1 Nov 2019 16:59:09 +0000 (UTC)
+Received: from fwd20.aul.t-online.de (fwd20.aul.t-online.de [172.20.26.140])
+	by mailout02.t-online.de (Postfix) with SMTP id 0F8FE419F208;
+	Fri,  1 Nov 2019 17:59:08 +0100 (CET)
+Received: from [192.168.1.20] (Z2C+DvZH8hsIvmOHXMdqyXWkCyeSXHp0c++WJzDgp0sW-ujrGSM-5FqHi8WK3dKZZF@[176.160.9.121]) by fwd20.t-online.de
+	with (TLSv1:DHE-RSA-AES256-SHA encrypted)
+	esmtp id 1iQaGR-0m7Hb60; Fri, 1 Nov 2019 17:59:07 +0100
+Content-Type: multipart/alternative; boundary="===============2141330838=="
+MIME-Version: 1.0
+Subject: Your Debit Card Transaction Refunds.
+To: Recipients <xx@yy>
+From: "Chase 0nline" <I-Kuli@t-online.de>
+Date: Fri, 01 Nov 2019 17:58:39 +0100
+Message-ID: <1iQaGR-0m7Hb60@fwd20.t-online.de>
+X-ID: Z2C+DvZH8hsIvmOHXMdqyXWkCyeSXHp0c++WJzDgp0sW-ujrGSM-5FqHi8WK3dKZZF
+X-TOI-MSGID: 02035856-49d3-448e-a88f-ba6608d2d745
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 213

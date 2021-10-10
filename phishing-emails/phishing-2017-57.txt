@@ -1,0 +1,42 @@
+From jose@monkey.org Mon Feb  6 17:50:15 2017 +0000
+Return-Path: dario.gomez@snclavalin.com
+Delivered-To: jose@monkey.org
+X-FDA: 72486905190.20.paper24_3c49e2466244d
+X-Spam-Summary: 2,0,0,,d41d8cd98f00b204,dario.gomez@snclavalin.com,,RULES_HIT:30054,0,RBL:142.242.7.17:@snclavalin.com:.lbl8.mailshell.net-62.40.55.100 66.201.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:1,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: paper24_3c49e2466244d
+X-Filterd-Recvd-Size: 246414
+Received: from mailserver5.snclavalin.com (mailserver5.snclavalin.com [142.242.7.17])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  6 Feb 2017 17:50:14 +0000 (UTC)
+Received: from SLI2293.sli.bz (unverified [10.1.13.180]) by SLI1745.sli.bz
+ (Vircom SMTPRS 6.2.83.20478/2595.124.104.1012203) with ESMTP id <B0052979923@SLI1745.sli.bz>;
+ Mon, 6 Feb 2017 11:28:04 -0500
+X-Modus-BlackList: 10.1.13.180=OK;Dario.Gomez@snclavalin.com=OK
+X-Modus-Trusted: 10.1.13.180=YES
+X-Modus-Spam-Version: 6.2.83.20478/2595.124.104.1012203
+X-Modus-Audit: FALSE;0;0;0
+Received: from SLI2123.sli.bz (10.1.10.220) by sli2293.sli.bz (10.1.10.205)
+ with Microsoft SMTP Server (TLS) id 14.3.294.0; Mon, 6 Feb 2017 11:28:04
+ -0500
+Received: from SLI2294.sli.bz ([169.254.4.96]) by SLI2123.sli.bz
+ ([169.254.1.124]) with mapi id 14.03.0294.000; Mon, 6 Feb 2017 11:28:03 -0500
+From: "Gomez, Dario" <Dario.Gomez@snclavalin.com>
+Subject: Admin Service Administrator
+Thread-Topic: Admin Service Administrator
+Thread-Index: AdKAlU32ENmSFOYnQ6CVfxiqtvIgrw==
+Date: Mon, 6 Feb 2017 16:28:03 +0000
+Message-ID: <E93B6A45ECEAC44991DE4A555B8BFA1D543C408D@SLI2294.sli.bz>
+Accept-Language: es-ES, en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [142.242.7.50]
+Content-Type: multipart/mixed;
+	boundary="_004_E93B6A45ECEAC44991DE4A555B8BFA1D543C408DSLI2294slibz_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Return-Path: Dario.Gomez@snclavalin.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 56

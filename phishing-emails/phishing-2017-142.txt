@@ -1,0 +1,24 @@
+From jose@monkey.org Wed Apr 12 10:01:13 2017 +0000
+Return-Path: webmaster@emailserver.com
+Delivered-To: jose@monkey.org
+X-FDA: 72721595226.12.cakes25_27b56b18cb63e
+X-Spam-Summary: 50,0,0,55d6ebcd7a00d994,d41d8cd98f00b204,webmaster@emailserver.com,:,RULES_HIT:41:72:379:495:800:962:967:969:973:983:988:989:1147:1189:1208:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1542:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1764:1777:1792:2196:2198:2199:2200:2525:2560:2563:2610:2682:2685:2693:2737:2790:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3044:3138:3139:3140:3141:3142:3351:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4361:4552:5007:6261:6678:7652:8516:8518:8603:8797:9025:9121:9388:9466:10004:10215:10346:11233:11480:11657:11658:11914:12029:12043:12903:13025:13095:13139:13374:13439:13846:14093:14096:14181:14721:14828:14849:14877:21080:21433:21450:21451:21524:30001:30021:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:72,LUA_SUMMARY:none
+X-HE-Tag: cakes25_27b56b18cb63e
+X-Filterd-Recvd-Size: 127650
+Received: from server01.resulticks.biz (unknown [23.246.208.211])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 12 Apr 2017 10:01:12 +0000 (UTC)
+Received: from [162.213.31.251] (unknown [162.213.31.251])
+	by server01.resulticks.biz (Postfix) with ESMTPA id 42D333797B6
+	for <jose@monkey.org>; Wed, 12 Apr 2017 04:30:26 -0500 (CDT)
+Content-Type: multipart/mixed; boundary="===============1334164947=="
+MIME-Version: 1.0
+Subject: Email Upgrade Quota
+To: jose@monkey.org
+From: "Email Server" <webmaster@emailserver.com>
+Date: Wed, 12 Apr 2017 02:25:24 -0700
+Reply-To: sdaccounts@zeynet.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 142

@@ -1,0 +1,26 @@
+From jose@monkey.org Thu Dec  3 02:55:16 2020 +0000
+Return-Path: no-reply@monkey.org
+Delivered-To: jose@monkey.org
+X-FDA: 77550454632.14.wrist53_6005cf9273b8
+X-Spam-Summary: 75,0,0,471617e2f81b3516,d41d8cd98f00b204,no-reply@monkey.org,,RULES_HIT:1:2:41:72:355:375:379:800:962:967:973:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1567:1588:1589:1714:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2538:2553:2559:2563:2682:2685:2737:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4321:5007:6261:6300:6674:6678:7688:8518:8557:8603:9025:9416:9908:10004:10346:10974:11473:11658:11914:12043:12555:12740:12895:12955:12958:12959:12986:13870:14096:21080:21325:21347:21433:21450:21451:21524:21627:21660:21810:21819:21939:21985:21987:30001:30012:30022:30026:30054:30090,0,RBL:153.149.169.15:@monkey.org:.lbl8.mailshell.net-64.201.201.201 62.0.10.100;04yfr6u4cezi1ui9zsiarmurfm9n9orpwoz351tqztsscf5ynoeock3tyg6t3k1.4uy5qec4br35aerp9kqichceubb5z1n7dwzqtjjn1ksfjthzdoax951gudq3quf.fjsxt6ro1nj
+X-HE-Tag: wrist53_6005cf9273b8
+X-Filterd-Recvd-Size: 10763
+Received: from mail.novelty-garage.com (153-149-169-15.compute.jp-e1.cloudn-service.com [153.149.169.15])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  3 Dec 2020 02:55:15 +0000 (UTC)
+Received: from upc.edu (unknown [217.61.7.207])
+	by mail.novelty-garage.com (Postfix) with ESMTPA id 1063215C52
+	for <jose@monkey.org>; Thu,  3 Dec 2020 02:24:59 +0000 (UTC)
+Reply-To: jose@monkey.org
+From: monkey.org Admin IT<no-reply@monkey.org
+To: jose@monkey.org
+Subject: You Have (02) Mail Waiting To Be Received
+Date: 3 Dec 2020 03:24:58 +0100
+Message-ID: <20201203032458.7440896339CE2312@monkey.org>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 151

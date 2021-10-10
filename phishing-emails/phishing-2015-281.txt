@@ -1,0 +1,28 @@
+From jose@monkey.org Tue Dec  8 18:10:34 2015 +0000
+Return-Path: support@netter.com
+Delivered-To: jose@monkey.org
+X-FDA: 70941087588.08.bulb29_21e954b11d24d
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,5909fc06817eaf3c,d41d8cd98f00b204,support@netter.com,:support@netter.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2084:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10231:10400:11604:11658:11914:12043:12166:12340:12561:13110:21080,0,RBL:210.54.141.254-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:77,LUA_SUMMARY:none
+X-HE-Tag: bulb29_21e954b11d24d
+X-Filterd-Recvd-Size: 61485
+Received: from mta01.xtra.co.nz (mta01.xtra.co.nz [210.54.141.254])
+	by imf15.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue,  8 Dec 2015 18:10:32 +0000 (UTC)
+Received: from cls-ts1.cll.local ([122.56.106.226]) by fep02.xtra.co.nz
+          with ESMTP
+          id <20151208174645.SGT8897.fep02.xtra.co.nz@cls-ts1.cll.local>;
+          Wed, 9 Dec 2015 06:46:45 +1300
+Content-Type: multipart/mixed; boundary="===============1808389601=="
+MIME-Version: 1.0
+Subject: Your USAA Checking/Savings Account Untrusted Authorization
+To: Recipients <SUPPORT@netter.com>
+From: "USAA" <SUPPORT@netter.com>
+Date: Wed, 09 Dec 2015 06:46:38 +1300
+Message-Id: <20151208174645.SGT8897.fep02.xtra.co.nz@cls-ts1.cll.local>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 281

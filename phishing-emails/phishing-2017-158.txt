@@ -1,0 +1,29 @@
+From jose@monkey.org Sun Apr 30 09:48:27 2017 +0000
+Return-Path: mail.centers@message.com
+Delivered-To: jose@monkey.org
+X-FDA: 72786881412.03.cook33_663b5b113793f
+X-Spam-Summary: 10,1,0,b520452e0b52b381,d41d8cd98f00b204,mail.centers@message.com,:mail.centers@message.com,RULES_HIT:41:355:379:560:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1523:1536:1569:1575:1588:1592:1594:1711:1714:1730:1748:1764:1766:1782:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6642:6687:7628:7652:10004:11658:11914:12043:12196:12561:13110:13439:14721:14791:21080:21433:21554:30018:30026:30054:30055:30083,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ft,MSBL:0,DNSBL:error,Custom_rules:0:0:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: cook33_663b5b113793f
+X-Filterd-Recvd-Size: 305984
+Received: from dukecmwbtp04.coxmail.com (dukecmwbtp04.coxmail.com [68.99.120.52])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 30 Apr 2017 09:48:22 +0000 (UTC)
+Received: from dukecmimpo03.coxmail.com ([68.99.120.137])
+          by dukecmmtar04.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20170430034301.QRBC13575.dukecmmtar04.coxmail.com@dukecmimpo03.coxmail.com>;
+          Sat, 29 Apr 2017 23:43:01 -0400
+Received: from [192.168.1.17] ([98.191.107.196])
+	by dukecmimpo03.coxmail.com with bizsmtp
+	id EQGv1v00U4EGThN01Tildb; Sat, 29 Apr 2017 23:42:51 -0400
+Content-Type: multipart/mixed; boundary="===============1928222704=="
+MIME-Version: 1.0
+Subject: Incoming Send Money Transfer Confirmation 
+To: Recipients <mail.centers@message.com>
+From: "USAA" <mail.centers@message.com>
+Date: Sat, 29 Apr 2017 20:42:26 -0700
+Message-Id: <20170430034301.QRBC13575.dukecmmtar04.coxmail.com@dukecmimpo03.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 158

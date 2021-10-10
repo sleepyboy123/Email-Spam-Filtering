@@ -1,0 +1,53 @@
+From jose@monkey.org Thu Jan 24 09:39:27 2019 +0000
+Return-Path: amphany@dld.go.th
+Delivered-To: jose@monkey.org
+X-FDA: 75087517974.29.jail46_6f7c0263b0053
+X-Spam-Summary: 40,2.5,0,ca347bc9dee47f77,d41d8cd98f00b204,amphany@dld.go.th,:,RULES_HIT:4:41:72:196:355:379:455:495:800:960:962:967:973:978:983:988:989:994:1189:1208:1221:1260:1261:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1559:1571:1575:1588:1589:1592:1594:1622:1712:1714:1730:1737:1749:1777:1792:2198:2199:2525:2527:2553:2561:2565:2610:2637:2682:2685:2693:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4321:4384:5007:6261:6650:7652:8603:8957:9025:9121:9149:9908:10004:10346:11026:11233:11473:11657:11658:11914:12043:12219:12438:12555:12740:12895:12903:12986:13110:13139:13236:13237:13439:13846:14096:18000:21080:21325:21433:21451:21483:21524:21554:21627:21790:21810:21819:21838:30026:30054:30070:30090,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: jail46_6f7c0263b0053
+X-Filterd-Recvd-Size: 15263
+Received: from m2out3.zi.mail.go.th (mailout62134.mail.go.th [203.150.62.134])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 24 Jan 2019 09:39:25 +0000 (UTC)
+Received: from m2out3.zi.mail.go.th (localhost [127.0.0.1])
+	by localhost (Postfix) with SMTP id B8F8BA4167C
+	for <jose@monkey.org>; Thu, 24 Jan 2019 16:39:24 +0700 (+07)
+Received: from mta02.zi.mail.go.th (mta02.zi.mail.go.th [10.100.1.18])
+	by m2out3.zi.mail.go.th (Postfix) with ESMTP id 8B456A41719
+	for <jose@monkey.org>; Thu, 24 Jan 2019 16:39:24 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by mta02.zi.mail.go.th (Postfix) with ESMTP id 8509A40158C
+	for <jose@monkey.org>; Thu, 24 Jan 2019 16:39:24 +0700 (ICT)
+X-Spam-Flag: NO
+X-Spam-Score: 0.217
+X-Spam-Level:
+X-Spam-Status: No, score=0.217 tagged_above=-10 required=9
+	tests=[ALL_TRUSTED=-1, BAYES_20=-0.001, HTML_MESSAGE=0.001,
+	T_REMOTE_IMAGE=0.01, URIBL_BLOCKED=0.001, URI_WP_HACKED_2=1.206]
+	autolearn=no autolearn_force=no
+Received: from mta02.zi.mail.go.th ([127.0.0.1])
+	by localhost (mta02.zi.mail.go.th [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id SHifMy7-mBYO for <jose@monkey.org>;
+	Thu, 24 Jan 2019 16:39:24 +0700 (ICT)
+Received: from localhost (localhost [127.0.0.1])
+	by mta02.zi.mail.go.th (Postfix) with ESMTP id 222F5400C7D
+	for <jose@monkey.org>; Thu, 24 Jan 2019 16:39:24 +0700 (ICT)
+X-Virus-Scanned: amavisd-new at 
+Received: from mta02.zi.mail.go.th ([127.0.0.1])
+	by localhost (mta02.zi.mail.go.th [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 2sFbizHqIUr0 for <jose@monkey.org>;
+	Thu, 24 Jan 2019 16:39:24 +0700 (ICT)
+Received: from [89.249.65.242] (unknown [89.249.65.242])
+	by mta02.zi.mail.go.th (Postfix) with ESMTPA id 6ED4140158C
+	for <jose@monkey.org>; Thu, 24 Jan 2019 16:39:23 +0700 (ICT)
+Content-Type: multipart/alternative; boundary="===============1868269198=="
+MIME-Version: 1.0
+Subject: You have received a file via WeTransfer.
+To: jose@monkey.org
+From: "WeTransfer" <amphany@dld.go.th>
+Date: Thu, 24 Jan 2019 01:39:23 -0800
+Message-Id: <20190124093923.6ED4140158C@mta02.zi.mail.go.th>
+X-PMX-Version: 6.4.3.2751440, Antispam-Engine: 2.7.2.2107409, Antispam-Data: 2019.1.24.93316, AntiVirus-Engine: 5.56.0, AntiVirus-Data: 2019.1.11.5560000
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 17

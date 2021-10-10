@@ -1,0 +1,23 @@
+From jose@monkey.org Tue Jul 18 03:37:23 2017 +0000
+Return-Path: postmaster@sodtiecc.com
+Delivered-To: jose@monkey.org
+X-FDA: 73072621566.11.hole50_64a8f6b10252
+X-Spam-Summary: 75,0,0,1e2109f761f8c0ec,d41d8cd98f00b204,postmaster@sodtiecc.com,:,RULES_HIT:41:72:379:474:495:800:962:967:973:978:983:988:989:1147:1189:1208:1221:1254:1260:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1534:1540:1560:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1749:1777:1792:2525:2539:2560:2563:2610:2682:2685:2692:2693:2790:2859:2890:2898:2910:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3041:3138:3139:3140:3141:3142:3865:3867:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6678:8518:8603:8671:8828:9025:9411:9416:9466:9873:9908:10004:10400:11658:11914:12043:12555:12698:12737:13139:13235:13237:13294:13374:13439:14180:14181:14721:21080:21433:21450:21451:21524:21627:30001:30022:30026:30051:30054:30070,0,RBL:185.29.9.136-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:50,LUA_SUMMARY:none
+X-HE-Tag: hole50_64a8f6b10252
+X-Filterd-Recvd-Size: 2276
+Received: from ip-9-136.dataclub.biz (unknown [185.29.9.136])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 18 Jul 2017 03:37:23 +0000 (UTC)
+Received: from IP-223-41.dataclub.biz (unknown [46.183.223.41])
+	by ip-9-136.dataclub.biz (Postfix) with ESMTPA id 4F093BAE7E3
+	for <jose@monkey.org>; Mon, 17 Jul 2017 23:19:00 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="===============1728059584=="
+MIME-Version: 1.0
+Subject: Authenticate Your Access to jose@monkey.org
+To: jose@monkey.org
+From: "Mail Server" <postmaster@sodtiecc.com>
+Date: Tue, 18 Jul 2017 06:18:59 +0300
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 251

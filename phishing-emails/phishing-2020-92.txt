@@ -1,0 +1,37 @@
+From jose@monkey.org Tue Jul  7 03:57:24 2020 +0000
+Return-Path: bounces+17362976-41c3-jose=monkey.org@em5149.kjfrombrown.com
+Delivered-To: jose@monkey.org
+X-FDA: 77009920008.22.ocean31_34165b026eb1
+X-Spam-Summary: 86,4,0,7b58ec42bd7e402d,d41d8cd98f00b204,bounces+17362976-41c3-jose=monkey.org@em5149.kjfrombrown.com,,RULES_HIT:41:46:72:327:355:379:541:542:960:962:967:973:978:983:988:989:1155:1189:1208:1221:1260:1263:1308:1309:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1567:1571:1575:1587:1588:1589:1592:1594:1685:1710:1714:1730:1744:1749:1768:1792:1801:2194:2197:2198:2199:2200:2201:2525:2527:2559:2568:2630:2640:2682:2685:2827:2859:2895:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3586:3653:3863:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4384:4605:5007:6114:6117:6119:6238:6261:6642:6650:6653:6678:7210:7688:7809:8516:8550:8603:8957:9025:9121:9388:9416:9908:10004:10305:10346:10399:11026:11233:11473:11638:11639:11657:11658:11783:11805:11889:11914:11974:12043:12049:12114:12297:12438:12555:12740:12895:12903:12986:13025:13139:13234:13235:13237:13241:13275:14096:14141:14404:14405:14659:21060:21080:21221:21
+X-HE-Tag: ocean31_34165b026eb1
+X-Filterd-Recvd-Size: 23665
+Received: from xvfrhsfn.outbound-mail.sendgrid.net (xvfrhsfn.outbound-mail.sendgrid.net [168.245.6.242])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  7 Jul 2020 03:57:23 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; 
+	d=kjfrombrown.com; h=from:to:subject:mime-version:content-type; 
+	s=s1; bh=VufEHoUU0TKXme1TumYEaXMCT0+v1jxfrJS9k542L/Q=; b=M/4cVgI
+	JgrPNHIhVEVO2jBCEjX2ZM+wc4BzsMJo5t1Ff1CgnDx9KO0IeelBt1dhu7ukyu02
+	NZw0N76rxmMKUdCS1M+H7mkQpu/q40+lJad/353HYa0K3ItOdm+h/7Fjgm2DXJaB
+	voW16i+gKnWbBg31DM3j1S6SMhfy/UlJACN8=
+Received: by filter0873p1iad2.sendgrid.net with SMTP id filter0873p1iad2-6674-5F03F2A2-10
+        2020-07-07 03:57:22.466326247 +0000 UTC m=+623612.584922615
+Received: from Amazon.co.jp (unknown)
+	by ismtpd0009p1sjc2.sendgrid.net (SG) with ESMTP id 1kTFtsNNTJaLrzTLDwiFhA
+	for <jose@monkey.org>; Tue, 07 Jul 2020 03:57:20.859 +0000 (UTC)
+From: Amazon <Amazon@kjfrombrown.com>
+To: jose <jose@monkey.org>
+Subject: =?iso-2022-jp?B?GyRCJCo7WUonJCRKfUshJE4+cEpzJHI5OT83GyhC?=
+Date: Tue, 07 Jul 2020 03:57:22 +0000 (UTC)
+Message-ID: <00bb9192a6d5$1dbbaf23$07dcf2ce$@Amazon.co.jp>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0D78_01E83055.1AEEAF20"
+X-Mailer: Microsoft Outlook 16.0
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDiH7GYy+vbHUhvqyS66q5zwhgA5YNZOvaxDt
+ f7dd9LM04scP/vxtVvnUz0mLNLnqqQCDUv6IiHi38s8eXBGlcdtjK5hI8TxY3qX/ccFtzLdVyFpCp7
+ jIcuIlcfmGr2vLrNs7G+f8I3yujkl2gOD7vXjhObvrzQhvrnDV9jjCeo0Q==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 91

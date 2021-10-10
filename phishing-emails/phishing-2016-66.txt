@@ -1,0 +1,48 @@
+From jose@monkey.org Thu Feb 11 17:45:03 2016 +0000
+Return-Path: credential-updusaa@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71176895286.01.alarm74_6631980324f29
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,credential-updusaa@mail.mil,:credential-updusaa@mail.mil,RULES_HIT:41:327:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:14687:21080:30026:30054:30055:30056:30064,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:22,LUA_SUMMARY:none
+X-HE-Tag: alarm74_6631980324f29
+X-Filterd-Recvd-Size: 36355
+Received: from smtp.wiband.com (unknown [64.56.129.253])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 11 Feb 2016 17:45:02 +0000 (UTC)
+X-ASG-Debug-ID: 1455212699-0a6abf106f12760e0001-6JlXpt
+Received: from smtp2.wiband.com (smtp2.wiband.com [64.56.129.17]) by smtp.wiband.com with ESMTP id 9H2kOHfdBvsjHH6Q; Thu, 11 Feb 2016 11:44:59 -0600 (CST)
+X-Barracuda-Envelope-From: credential-updusaa@mail.mil
+X-Barracuda-Effective-Source-IP: smtp2.wiband.com[64.56.129.17]
+X-Barracuda-Apparent-Source-IP: 64.56.129.17
+Received: from MM-Edm-TS-1.mastermech0.mastermech.com [64.56.159.45] by smtp3.wiband.com with ESMTP
+  (SMTPD-9.23) id A3D40754; Wed, 10 Feb 2016 14:55:48 -0600
+Content-Type: multipart/mixed; boundary="===============0651143763=="
+MIME-Version: 1.0
+Subject: Final USAA Reminder - Don't Loose Access to usaa.com
+To: Recipients <credential-updusaa@mail.mil>
+X-ASG-Orig-Subj: Final USAA Reminder - Don't Loose Access to usaa.com
+From: "USAA" <credential-updusaa@mail.mil>
+Date: Wed, 10 Feb 2016 13:54:08 -0700
+Message-Id: <201602101457516.SM13336@MM-Edm-TS-1.mastermech0.mastermech.com>
+X-RBL-Warning: HELOBOGUS: Domain MM-Edm-TS-1.mastermech0.mastermech.com has no MX or A records [0301].
+X-RBL-Warning: REVDNS: This E-mail was sent from a MUA/MTA 64.56.159.45 with no reverse DNS entry.
+X-Declude-Sender: credential-updusaa@mail.mil [64.56.159.45]
+X-Declude-Spoolname: Da3d4014b00009929.smd
+X-Declude-Note: Scanned by smtp.wiband.com (abuse@wiband.com) 3.1.0 for spam.
+X-Declude-Scan: Score [9] at 14:57:19 on 10 Feb 2016
+X-Declude-Fail: HELOBOGUS [3], REVDNS [6]
+X-Country-Chain: CANADA->destination
+X-Barracuda-Connect: smtp2.wiband.com[64.56.129.17]
+X-Barracuda-Start-Time: 1455212699
+X-Barracuda-URL: https://64.56.141.212:443/cgi-mod/mark.cgi
+X-Barracuda-Scan-Msg-Size: 52
+X-Barracuda-BRTS-Status: 1
+X-Virus-Scanned: by bsmtpd at wiband.com
+X-Barracuda-Spam-Score: -1002.00
+X-Barracuda-Spam-Status: No, SCORE=-1002.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=1000.0 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 65

@@ -1,0 +1,28 @@
+From jose@monkey.org Thu Oct 20 15:12:18 2016 +0000
+Return-Path: do-not-reply@yahoo.com
+Delivered-To: jose@monkey.org
+X-FDA: 72090967956.23.burst75_31317a175e25a
+X-Spam-Summary: 78,5.8,0,738bfe54341dfd78,d41d8cd98f00b204,do-not-reply@yahoo.com,:,RULES_HIT:2:41:72:110:113:152:327:379:495:590:800:871:966:967:973:983:988:989:1000:1074:1104:1208:1254:1260:1261:1263:1269:1313:1314:1381:1430:1431:1433:1434:1437:1516:1517:1518:1575:1594:1692:1730:1748:1764:1766:1792:1801:2001:2194:2196:2197:2198:2199:2200:2201:2202:2393:2525:2527:2551:2553:2566:2682:2685:2693:2737:2859:2892:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3280:3354:3421:3586:3653:3742:3770:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4321:4361:4385:4397:4605:5007:6119:6120:6506:6650:6653:6660:6662:6663:6665:6668:6669:6688:6747:6748:6996:6997:7281:7398:7520:7602:7652:7829:7875:7901:7974:8583:8603:8660:8797:8925:8948:8957:9025:9108:9149:9167:9399:9699:9760:9908:10021:10128:10346:10946:11026:11257:11604:11658:11914:12043:12049:12050:12190:12213:12220:12438:12555:12739:12740:13019:13025:13139:13148:131
+X-HE-Tag: burst75_31317a175e25a
+X-Filterd-Recvd-Size: 35176
+Received: from n2-vm3.bullet.mail.bf1.yahoo.com (n2-vm3.bullet.mail.bf1.yahoo.com [72.30.235.211])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 20 Oct 2016 15:12:17 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1476976337; bh=d6i4zKHU9G1i/O1ts08kBjSMqfV8aMhxgtScOvgr18M=; h=Date:To:From:Reply-To:Subject:From:Subject; b=SEYh96EQdbOEe2VnvtF6ALXwf/FnC7wlAD9gY/JAARmm1LT8JGvu9Xe/ep3fbZuLPQMqv80U7jU0IH0h5UWEnjpMz11WPX/AfKjvw1wP06+ADnhLqTiPAIqlZAoF1deL+85bA2zpqpNvBjx6RrCnLjKEmJypvVFu3fSOCi/L/nAv6DUmh0lbDRWLdJT/g5CZzzRxViO9ibnWOpGBDHMIMYjFEsNERjBmrEOgDMGDeR4phJaj/6WGOn+B3F+5LUvd5bJpTp2NQawbaJU+O2A6jud0AfMtbH1WBPWz5J58zZ+cP2lWfgd9zeFENWKC6YfDatxOS8cWqsrnNf71wZMIZw==
+Received: from [72.30.235.64] by n2.bullet.mail.bf1.yahoo.com with NNFMP; 20 Oct 2016 15:12:17 -0000
+Received: from [10.194.145.219] by t1.bullet.mail.bf1.yahoo.com with NNFMP; 20 Oct 2016 15:12:17 -0000
+Date: 20 Oct 2016 15:12:17 +0000
+Received: from [127.0.0.1] by ec10.vm.unp.bf1.yahoo.com with NNFMP; 20 Oct 2016 15:12:17 -0000
+To: jose@monkey.org
+From: "peter eber" <petereber622@yahoo.com>
+Reply-To: "peter eber" <petereber622@yahoo.com> 
+MIME-Version: 1.0
+X-Yahoo-Newman-Property: calendar-remind
+X-Yahoo-Newman-Id: calendar-remind-d91ce90d-c7e8-400d-b406-d2039d064085
+Subject: Invitation: contact DHL Delivery Service with your Full Contact information
+Content-Type: multipart/mixed;
+        boundary="_004_CD15A92E9002734AADB6F2075789C4D70108100CB8EDEGLEX07VS01_"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 395

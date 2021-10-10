@@ -1,0 +1,30 @@
+From jose@monkey.org Tue Feb 23 21:29:45 2016 +0000
+Return-Path: bounces@bounces.newsletter.com.au
+Delivered-To: jose@monkey.org
+X-FDA: 71221007130.25.angle46_8f4b68b88b727
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,10,0,f2e1738b69cb9b16,d41d8cd98f00b204,bounces@bounces.newsletter.com.au,:,RULES_HIT:2:41:46:72:150:152:355:379:455:474:495:527:800:904:962:967:973:978:983:988:989:1021:1189:1208:1221:1256:1260:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1555:1568:1570:1571:1575:1588:1589:1592:1594:1676:1685:1714:1730:1744:1749:1769:1780:1792:1801:2198:2199:2525:2527:2539:2568:2610:2630:2682:2685:2859:2890:2902:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3804:3865:3866:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4120:4250:4321:4552:4605:4636:4886:5007:6117:6119:6261:6606:6650:6669:6671:6672:6678:6688:7903:7974:8516:8550:8583:8599:8603:8885:8957:8960:8987:9025:9059:9080:9149:9388:9411:9908:10004:10030:10049:10079:10346:11026:11253:11527:11638:11639:11656:11657:11658:11914:11962:12292:12682:13025:13139:13237:14261:21227:21347,0,RBL:103.250.213.45:@bounces.newsletter.co
+X-HE-Tag: angle46_8f4b68b88b727
+X-Filterd-Recvd-Size: 9362
+Received: from newslettersmtp2.au.syrahost.com (server-19-r2.ipv4.au.syrahost.com [103.250.213.45])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 23 Feb 2016 21:29:44 +0000 (UTC)
+Received: from newsletterjava2 (newsletterjava2.per.syra.net.au [203.170.85.176])
+	by newslettersmtp2.au.syrahost.com (Postfix) with ESMTPA id 3FE23239F8
+	for <jose@monkey.org>; Wed, 24 Feb 2016 05:29:41 +0800 (AWST)
+Message-Id: <14562629812133e213da2-4dda-4964-9b73-8d4a6651082f@newsletter.com.au>
+From: =?utf-8?B?QXBwU3RvcmU=?= <do-not-reply@newsletter.eu>
+Reply-To: <no-reply@newsletter.eu>
+Mime-Version: 1.0
+Subject: =?utf-8?B?WW91IGhhdmUgYSBwcm9ibGVtIHdpdGggeW91ciBBcHBsZSBhY2NvdW50?=
+Date: Wed, 24 Feb 2016 05:29:41 +0800
+To: jose@monkey.org
+Precedence: bulk
+List-Unsubscribe: <http://facheup22.newsletter.eu/system/public/unsubscribe_confirm/?member_id=&contact_id=73946657&contact_email=jose@monkey.org>
+Content-Type: multipart/alternative; boundary="Newsletter-Alternative-5e4e1853c1d58803602386e8fc572c31"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 84

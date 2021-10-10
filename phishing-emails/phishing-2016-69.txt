@@ -1,0 +1,36 @@
+From jose@monkey.org Fri Feb 12 17:14:12 2016 +0000
+Return-Path: deposecurity@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71180446344.20.trip67_246d6b2af0d1d
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,d41d8cd98f00b204,d41d8cd98f00b204,deposecurity@mail.mil,:deposecurity@mail.mil,RULES_HIT:41:327:355:379:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:14515:14687:21080:30001:30026:30054:30055:30070,0,RBL:200.2.127.147:@mail.mil:.lbl8.mailshell.net-62.8.29.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: trip67_246d6b2af0d1d
+X-Filterd-Recvd-Size: 29494
+Received: from mail.wilnet.com.ar (mail1.wilnet.com.ar [200.2.127.147])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 12 Feb 2016 17:14:10 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail1.wilnet.com.ar (Postfix) with ESMTP id 0250120C9A8
+	for <jose@monkey.org>; Fri, 12 Feb 2016 14:11:20 -0300 (ART)
+Received: from mail1.wilnet.com.ar ([127.0.0.1])
+	by localhost (mail1.wilnet.com.ar [127.0.0.1]) (amavisd-new, port 10024)
+	with LMTP id gUTkQiBYN_ZG for <jose@monkey.org>;
+	Fri, 12 Feb 2016 14:11:20 -0300 (ART)
+Received: by mail1.wilnet.com.ar (Postfix, from userid 113)
+	id 3714C210596; Fri, 12 Feb 2016 13:04:49 -0300 (ART)
+Received: from SERVER-TS2.frio-raf.local (ptr180.wilnet.com.ar [200.2.126.131])
+	by mail1.wilnet.com.ar (Postfix) with ESMTP id 3501B9CD0F;
+	Fri, 12 Feb 2016 13:01:47 -0300 (ART)
+Content-Type: multipart/mixed; boundary="===============0344885434=="
+MIME-Version: 1.0
+Subject: WE HAVING ERRORS REPORT ON YOUR USAA BANKING ACCOUNT
+To: Recipients <deposecurity@mail.mil>
+From: "USAA" <deposecurity@mail.mil>
+Date: Fri, 12 Feb 2016 13:00:57 -0300
+Message-Id: <20160212160147.3501B9CD0F@mail1.wilnet.com.ar>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 68

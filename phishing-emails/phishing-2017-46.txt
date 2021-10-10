@@ -1,0 +1,40 @@
+From jose@monkey.org Tue Jan 31 04:14:15 2017 +0000
+Return-Path: nfcuonlinebankalert@nfcu.org
+Delivered-To: jose@monkey.org
+X-FDA: 72463076070.08.8BC3E47
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin08.b.hostedemail.com (Postfix) with ESMTP id 32D6E10861C;
+	Tue, 31 Jan 2017 04:14:15 +0000 (UTC)
+X-Spam-Summary: 75,0,0,cb6b2fda34a2b2ee,d41d8cd98f00b204,nfcuonlinebankalert@nfcu.org,:::nfcuonlinebankalert@nfcu.org,RULES_HIT:41:355:379:871:962:967:969:979:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1437:1516:1517:1518:1543:1566:1575:1588:1589:1592:1594:1711:1714:1730:1749:1764:1777:1792:2194:2199:2559:2562:2741:2890:2919:3138:3139:3140:3141:3142:3622:3690:3740:3865:3867:3868:3873:4042:4250:4383:5007:6248:6261:6264:6684:6687:6748:7281:7398:7652:8603:8829:10004:10394:10400:10482:11473:11604:11658:11914:12043:12340:12517:12519:12561:12740:12812:12895:12986:13095:13139:13439:14096:14721:14828:19901:19997:21067:21080:21433:21450:21451:21483:30001:30021:30026:30054:30055:30070,0,RBL:162.252.58.91-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:73,LUA_SUMMARY:none
+X-HE-Tag: light57_7e54b6b61663
+X-Filterd-Recvd-Size: 51896
+Received: from mail.vitamed.com.ve (mail.vitamed.com.ve [162.252.58.91])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP;
+	Tue, 31 Jan 2017 04:14:14 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.vitamed.com.ve (Postfix) with ESMTP id 5CE54183306;
+	Mon, 30 Jan 2017 22:45:43 -0400 (VET)
+Received: from mail.vitamed.com.ve ([127.0.0.1])
+	by localhost (mail.vitamed.com.ve [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id mNffKqtfhusk; Mon, 30 Jan 2017 22:45:34 -0400 (VET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.vitamed.com.ve (Postfix) with ESMTP id C90A618334F;
+	Mon, 30 Jan 2017 22:14:33 -0400 (VET)
+X-Virus-Scanned: amavisd-new at mail.vitamed.com.ve
+Received: from mail.vitamed.com.ve ([127.0.0.1])
+	by localhost (mail.vitamed.com.ve [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 1QFEw0C-MzXr; Mon, 30 Jan 2017 22:14:31 -0400 (VET)
+Received: from [192.168.2.226] (50-255-211-209-static.hfc.comcastbusiness.net [50.255.211.209])
+	by mail.vitamed.com.ve (Postfix) with ESMTPSA id 9B94A182EE3;
+	Mon, 30 Jan 2017 21:54:59 -0400 (VET)
+Content-Type: multipart/mixed; boundary="===============1859149497=="
+MIME-Version: 1.0
+Subject: Important Update
+To: Recipients <nfcuonlinebankalert@nfcu.org>
+From: Navy Federal Credit Union <nfcuonlinebankalert@nfcu.org>
+Date: Mon, 30 Jan 2017 20:54:29 -0500
+Message-Id: <20170131015459.9B94A182EE3@mail.vitamed.com.ve>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 45

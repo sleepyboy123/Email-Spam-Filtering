@@ -1,0 +1,26 @@
+From jose@monkey.org Tue Nov 10 12:12:26 2015 +0000
+Return-Path: navyfcui@sccu4u.com
+Delivered-To: jose@monkey.org
+X-FDA: 70838578692.13.map88_4f7374b10761f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 89,8.8,0,24b43c41a3144c94,d41d8cd98f00b204,navyfcui@sccu4u.com,:navyfcui@sccu4u.com,RULES_HIT:41:72:379:967:969:978:979:983:988:989:1208:1221:1254:1260:1263:1313:1314:1381:1394:1395:1431:1437:1516:1517:1518:1534:1541:1575:1594:1699:1711:1714:1730:1777:1792:2194:2199:2525:2527:2540:2560:2563:2612:2682:2685:2693:2741:2859:2890:2901:2902:2903:2906:2911:2918:2921:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3350:3421:3590:3690:3740:3865:3866:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:4362:4383:4425:5007:6261:6684:6687:6688:7809:7903:8509:8603:8784:9025:9108:9153:9388:9873:9908:10014:10021:10049:10214:10346:10400:11537:11658:11914:12043:12295:12438:12555:12561:12776:13046:13139:13163:13229:13237:14094:14096:21080:30001:30026:30051:30054:30055:30069:30070,0,RBL:69.95.226.11:@sccu4u.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,
+X-HE-Tag: map88_4f7374b10761f
+X-Filterd-Recvd-Size: 3307
+Received: from smtp001.earthlinkbusiness.com (smtp001.earthlinkbusiness.com [69.95.226.11])
+	by imf03.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue, 10 Nov 2015 12:12:25 +0000 (UTC)
+Received: (qmail 16900 invoked from network); 10 Nov 2015 12:12:24 -0000
+Received: from unknown (HELO BMSRDP.sullivaninsurance.com) (155.212.5.3)
+  by smtp001.onecommunications.net with SMTP; 10 Nov 2015 12:12:24 -0000
+Content-Type: multipart/alternative; boundary="===============0678447156=="
+MIME-Version: 1.0
+Subject: Your NFCU Account has been Limited
+To: Recipients <navyfcui@sccu4u.com>
+From: "Navy Federal Credit Union" <navyfcui@sccu4u.com>
+Date: Tue, 10 Nov 2015 07:10:20 -0500
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 243

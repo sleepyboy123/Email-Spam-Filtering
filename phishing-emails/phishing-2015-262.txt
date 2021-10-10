@@ -1,0 +1,24 @@
+From jose@monkey.org Mon Nov 23 20:24:23 2015 +0000
+Return-Path: root@mail.hanindo.net
+Delivered-To: jose@monkey.org
+X-FDA: 70886992806.07.bath99_263947abba03a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 20,1.5,0,0a543cbfdc140e2e,d41d8cd98f00b204,root@mail.hanindo.net,:,RULES_HIT:2:41:72:119:355:375:379:800:967:973:978:982:983:988:989:1026:1147:1189:1208:1224:1260:1263:1313:1345:1381:1394:1395:1431:1432:1433:1434:1437:1516:1517:1520:1535:1571:1589:1686:1699:1710:1714:1730:1747:1777:1792:2067:2069:2070:2194:2196:2198:2199:2200:2201:2393:2525:2527:2528:2553:2561:2565:2612:2682:2685:2730:2733:2741:2859:2890:2900:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3350:3586:3865:3866:3867:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4119:4321:5007:6119:6120:6261:6650:6658:6669:6674:6703:7901:7904:8583:8599:8603:8957:8987:9025:9174:9388:9411:9868:10049:10346:11656:11657:11658:11914:12043:12050:12219:12438:12555:12679:12956:12958:12967:12973:13025:13139:13144:13230:13869:14096:14516:21063:21080:21094:30001:30003:30005:30038:30054:30055:30064:30070:30074:30080:30084:30090,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,
+X-HE-Tag: bath99_263947abba03a
+X-Filterd-Recvd-Size: 8498
+Received: from mail.hanindo.net (unknown [203.160.62.202])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 23 Nov 2015 20:24:22 +0000 (UTC)
+Received: by mail.hanindo.net (Postfix, from userid 0)
+	id 700DCDC2DF; Fri, 20 Nov 2015 16:39:16 +0700 (WIT)
+To: jose@monkey.org
+Subject: You sent a payment of 50.00 GBP to Skype (support@skype.com)
+From: PayPal <no.reply@id.payment.com>
+Content-Type: text/html
+Message-Id: <20151120093916.700DCDC2DF@mail.hanindo.net>
+Date: Fri, 20 Nov 2015 16:39:16 +0700 (WIT)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 262

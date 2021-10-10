@@ -1,0 +1,24 @@
+From jose@monkey.org Tue Jul 28 00:21:49 2020 +0000
+Return-Path: procure@einihutintl.gq
+Delivered-To: jose@monkey.org
+X-FDA: 77085581538.23.flock47_530155726f65
+X-Spam-Summary: 1,0,0,be5ab38beb16df25,d41d8cd98f00b204,procure@einihutintl.gq,,RULES_HIT:41:72:379:495:560:599:800:962:967:973:983:988:989:1189:1208:1221:1254:1260:1313:1314:1381:1394:1395:1431:1436:1437:1516:1517:1518:1535:1544:1567:1575:1588:1589:1592:1594:1711:1714:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2559:2564:2610:2682:2685:2731:2737:2859:2909:2910:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3622:3865:3866:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4321:4427:5007:6261:6678:6687:7207:7464:8583:8603:8829:8957:8985:9025:9040:9108:10004:10044:10214:10346:10394:11473:11658:11914:12043:12295:12438:12555:12561:12663:12895:12903:12986:13019:13237:13439:14096:14180:14181:14346:14383:14721:21080:21324:21366:21433:21450:21451:21483:21524:21627:21740:21789:21810:21838:21939:30016:30026:30054:30083,0,RBL:161.129.65.34:@einihutintl.gq:.lbl8.mailshell.net-62.2.175.100 64.100.201.201;04y8srwhhfq3kj733q5jypo4i1bk1ofe9jp
+X-HE-Tag: flock47_530155726f65
+X-Filterd-Recvd-Size: 6251
+Received: from mail.einihutintl.gq (unknown [161.129.65.34])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 28 Jul 2020 00:21:49 +0000 (UTC)
+Received: from IP-135-148.dataclub.eu (unknown [84.38.135.148])
+	by mail.einihutintl.gq (Postfix) with ESMTPA id 6996D6F91;
+	Mon, 27 Jul 2020 23:16:58 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============0982909692=="
+MIME-Version: 1.0
+Subject: Re: New Order Inquiry
+To: Recipients <procure@einihutintl.gq>
+From: Maria Pietrygas <procure@einihutintl.gq>
+Date: Tue, 28 Jul 2020 02:16:58 +0300
+Reply-To: king.dom@live.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 100

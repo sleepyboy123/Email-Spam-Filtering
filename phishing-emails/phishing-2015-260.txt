@@ -1,0 +1,32 @@
+From jose@monkey.org Wed Nov 18 17:53:47 2015 +0000
+Return-Path: usaaound@cox.net
+Delivered-To: jose@monkey.org
+X-FDA: 70868469294.10.body85_21015d25c343a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 80,2,0,24c229e589fb24f8,d41d8cd98f00b204,usaaound@cox.net,:usaaound@cox.net,RULES_HIT:4:41:72:355:379:455:800:967:969:973:978:983:988:989:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1394:1395:1431:1432:1433:1434:1437:1516:1517:1518:1571:1575:1594:1685:1699:1730:1744:1777:1792:1803:2194:2196:2198:2199:2200:2201:2525:2527:2553:2568:2610:2637:2682:2685:2737:2741:2859:2890:2891:2892:2894:2895:2901:2902:2903:2909:2915:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3353:3586:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4362:4605:4699:4700:5007:6238:6248:6261:6669:6678:6687:6688:7208:7652:7801:7809:7903:8516:8568:8603:8784:8957:9025:9060:9121:9149:9177:9388:9416:9908:10030:10049:10128:10149:10346:10946:11026:11233:11473:11657:11658:11857:11914:11967:12043:12050:12051:12075:12438:12555:12561:12729:12737:12740:12776:12812:12973:13025:13038:13053:13110:131
+X-HE-Tag: body85_21015d25c343a
+X-Filterd-Recvd-Size: 16465
+Received: from dukecmmtar04.coxmail.com (dukecmmtar04.coxmail.com [68.99.120.47])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 18 Nov 2015 17:53:46 +0000 (UTC)
+Received: from dukecmimpo01.coxmail.com ([68.99.120.134])
+          by dukecmmtar04.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20151118174947.VXKR10141.dukecmmtar04.coxmail.com@dukecmimpo01.coxmail.com>;
+          Wed, 18 Nov 2015 12:49:47 -0500
+Received: from [192.168.1.51] ([24.249.132.171])
+	by dukecmimpo01.coxmail.com with bizsmtp
+	id j5my1r0053i2JTc015pitm; Wed, 18 Nov 2015 12:49:46 -0500
+Content-Type: multipart/alternative; boundary="===============0947339967=="
+MIME-Version: 1.0
+Subject: USAA ALERT : WE ARE UNABLE TO VERIFY YOUR ACCOUNT 
+To: Recipients <USAAound@cox.net>
+From: "USAA" <USAAound@cox.net>
+Date: Wed, 18 Nov 2015 11:49:36 -0600
+Message-Id: <20151118174947.VXKR10141.dukecmmtar04.coxmail.com@dukecmimpo01.coxmail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 260

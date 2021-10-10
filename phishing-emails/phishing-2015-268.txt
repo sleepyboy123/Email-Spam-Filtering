@@ -1,0 +1,28 @@
+From jose@monkey.org Fri Nov 27 02:33:09 2015 +0000
+Return-Path: usaa.protectionsupport@usa.com
+Delivered-To: jose@monkey.org
+X-FDA: 70898808498.13.jelly73_5537ebeaa7052
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,3,0,3590e84d56f9d137,d41d8cd98f00b204,usaa.protectionsupport@usa.com,:usaa.protectionsupport@usa.com,RULES_HIT:4:41:72:355:379:455:581:800:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1575:1588:1592:1594:1685:1730:1744:1777:1792:1801:1803:2084:2107:2194:2196:2198:2199:2200:2201:2525:2527:2528:2568:2610:2637:2682:2685:2737:2741:2859:2890:2891:2892:2894:2895:2896:2903:2914:2916:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3154:3353:3770:3866:3867:3868:3870:3871:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4242:4321:4365:4605:4700:5007:6117:6248:6650:6669:6678:6687:7208:7266:7774:7809:7903:8516:8518:8550:8568:8599:8603:8784:8957:9025:9060:9080:9121:9130:9149:9177:9388:9908:10030:10049:10231:10346:10562:10946:11026:11233:11473:11658:11914:12043:12438:12555:12561:12679:12729:12737:12740:12776:12812:12963:
+X-HE-Tag: jelly73_5537ebeaa7052
+X-Filterd-Recvd-Size: 15838
+Received: from ELBSAP.elb.local (unknown [186.200.78.210])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 27 Nov 2015 02:33:03 +0000 (UTC)
+Received: from ELBSAP.elb.local ([127.0.0.1]) by ELBSAP.elb.local with Microsoft SMTPSVC(7.0.6001.18000);
+	 Thu, 26 Nov 2015 21:57:09 -0200
+Content-Type: multipart/alternative; boundary="===============2070871981=="
+MIME-Version: 1.0
+Subject: Your USAA Account Profile Preference Update
+To: Recipients <USAA.protectionsupport@usa.com>
+From: "USAA" <USAA.protectionsupport@usa.com>
+Date: Thu, 26 Nov 2015 21:57:08 -0200
+Return-Path: USAA.protectionsupport@usa.com
+Message-ID: <ELBSAP2XTRWJFa6wgxg000030aa@ELBSAP.elb.local>
+X-OriginalArrivalTime: 26 Nov 2015 23:57:09.0134 (UTC) FILETIME=[2932EAE0:01D128A6]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 268

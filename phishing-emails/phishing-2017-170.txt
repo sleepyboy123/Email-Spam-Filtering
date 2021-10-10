@@ -1,0 +1,29 @@
+From jose@monkey.org Sat May  6 21:57:00 2017 +0000
+Return-Path: usaa.aa@usm.edu
+Delivered-To: jose@monkey.org
+X-FDA: 72810490200.18.need81_7760d1954ff0c
+X-Spam-Summary: 53,2.8,0,6b8f87bbb4281cbe,d41d8cd98f00b204,usaa.aa@usm.edu,:usaa.aa@usm.edu,RULES_HIT:1:2:41:72:355:379:455:800:962:967:969:973:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1744:1776:1792:1803:2196:2198:2199:2200:2525:2527:2560:2567:2610:2682:2685:2693:2737:2859:2890:2891:2894:2900:2903:2915:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3226:3352:3865:3867:3868:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4321:4605:4700:5007:6238:6248:6261:6678:6687:6688:7208:7809:7903:8509:8516:8568:8599:8603:8957:9025:9149:9388:9416:9908:10019:10030:10049:10346:11026:11233:11657:11658:11914:12043:12050:12051:12438:12555:12561:12729:12737:12776:12812:12986:13038:13110:13132:13139:13231:13234:13235:13236:13237:13294:13374:13439:13868:13898:14096:14516:14651:21080:21220:21326:21433:21450:21451:21524:21554:21627:30001:
+X-HE-Tag: need81_7760d1954ff0c
+X-Filterd-Recvd-Size: 11194
+Received: from dukecmwbtp05.coxmail.com (dukecmwbtp05.coxmail.com [68.99.120.53])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  6 May 2017 21:57:00 +0000 (UTC)
+Received: from dukecmimpo03.coxmail.com ([68.99.120.137])
+          by dukecmmtar03.coxmail.com
+          (InterMail vM.8.01.05.28 201-2260-151-171-20160122) with ESMTP
+          id <20170506191040.SPI18697.dukecmmtar03.coxmail.com@dukecmimpo03.coxmail.com>;
+          Sat, 6 May 2017 15:10:40 -0400
+Received: from WRG501.WichitaRad.int ([70.184.230.119])
+	by dukecmimpo03.coxmail.com with bizsmtp
+	id H6yz1v00K2bD0KJ017ASDh; Sat, 06 May 2017 15:10:29 -0400
+Content-Type: multipart/alternative; boundary="===============0842745904=="
+MIME-Version: 1.0
+Subject: Urgent - New Incoming Payment Transfer On Hold
+To: Recipients <usaa.aa@usm.edu>
+From: "USAA" <usaa.aa@usm.edu>
+Date: Sat, 06 May 2017 14:01:19 -0500
+Message-Id: <20170506191040.SPI18697.dukecmmtar03.coxmail.com@dukecmimpo03.coxmail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 170

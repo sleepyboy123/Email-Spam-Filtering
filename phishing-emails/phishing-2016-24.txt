@@ -1,0 +1,25 @@
+From jose@monkey.org Mon Jan 18 13:21:30 2016 +0000
+Return-Path: updatecenter@rbc.com
+Delivered-To: jose@monkey.org
+X-FDA: 71089139940.16.shelf54_2a2477cd53013
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 40,2.5,0,d41d8cd98f00b204,d41d8cd98f00b204,updatecenter@rbc.com,:,RULES_HIT:355:379:677:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1517:1522:1534:1575:1692:1699:1730:1747:1764:1777:1792:1823:2392:2393:2561:2566:3138:3139:3140:3141:3142:3876:3877:3896:3976:5007:6114:6261:6506:6642:6747:6748:7281:7801:10004:10265:11604:11914:12798:14659:21080:21212:30001:30003:30007:30025:30054:30055:30064:30069:30090:30091,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: shelf54_2a2477cd53013
+X-Filterd-Recvd-Size: 2988
+Received: from rbc.com (173-13-78-138-NewEngland.hfc.comcastbusiness.net [173.13.78.138])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 18 Jan 2016 13:21:29 +0000 (UTC)
+From: RBC Royal Bank <updatecenter@rbc.com>
+To: jose@monkey.org
+Subject: Sign-In Protection Alert
+Date: 18 Jan 2016 08:23:27 -0500
+Message-ID: <20160118082326.D5394BEDA9E0CD77@rbc.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_468F547B.6E809431"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 23

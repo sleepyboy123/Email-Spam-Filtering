@@ -1,0 +1,27 @@
+From jose@monkey.org Fri Dec 25 22:47:28 2015 +0000
+Return-Path: usaa.web.securityservicecenter@ubagroup.com
+Delivered-To: jose@monkey.org
+X-FDA: 71003474976.23.food69_5e511b9d4754c
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,5619700f3aa203e6,d41d8cd98f00b204,usaa.web.securityservicecenter@ubagroup.com,:usaa.web.securityservicecenter@ubagroup.com,RULES_HIT:4:41:72:355:379:455:800:962:967:969:973:978:983:988:989:1189:1208:1221:1256:1260:1263:1313:1314:1345:1381:1390:1394:1395:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1744:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2568:2610:2637:2682:2685:2691:2693:2737:2859:2890:2891:2892:2894:2895:2896:2897:2901:2903:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3353:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4362:4605:4700:5007:6238:6248:6261:6678:6687:6688:7208:7774:7809:7940:8509:8568:8599:8603:8957:9025:9040:9060:9121:9149:9177:9466:9908:10049:10346:10946:11026:11233:11473:11657:11658:11914:11967:12043:12295:12438:12555:12561:12729:12737:12740:12776:12812:12963:
+X-HE-Tag: food69_5e511b9d4754c
+X-Filterd-Recvd-Size: 15568
+Received: from smtp02.atlngahp.sys.nuvox.net (smtp-out2.atlngahp.sys.nuvox.net [70.43.63.19])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 25 Dec 2015 22:47:27 +0000 (UTC)
+Received: from servpro-srv1.servpro.local (66.64.186.42.nw.nuvox.net [66.64.186.42])
+	by smtp02.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id tBPINAeV030834;
+	Fri, 25 Dec 2015 17:29:31 -0500
+Message-Id: <201512252229.tBPINAeV030834@smtp02.atlngahp.sys.nuvox.net>
+Content-Type: multipart/alternative; boundary="===============1888422267=="
+MIME-Version: 1.0
+Subject: Your USAA Saving/Checking Account Security
+To: Recipients <USAA.Web.SecurityServiceCenter@ubagroup.com>
+From: USAA <USAA.Web.SecurityServiceCenter@ubagroup.com>
+Date: Fri, 25 Dec 2015 17:23:01 -0500
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 300

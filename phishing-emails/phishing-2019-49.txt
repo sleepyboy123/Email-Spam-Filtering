@@ -1,0 +1,39 @@
+From jose@monkey.org Thu Mar  7 06:14:29 2019 +0000
+Return-Path: kbm@globalupside.com
+Delivered-To: jose@monkey.org
+X-FDA: 75239411058.29.cats35_27206cbfbd05c
+X-Spam-Summary: 2,0,0,22782c05d3dc63e7,d41d8cd98f00b204,kbm@globalupside.com,:,RULES_HIT:72:327:355:379:677:871:962:967:969:973:979:982:983:988:989:1000:1189:1208:1256:1260:1261:1263:1308:1309:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1571:1575:1588:1589:1623:1730:1747:1764:1777:1792:1823:2069:2070:2197:2198:2199:2200:2393:2525:2527:2543:2559:2565:2610:2682:2685:2693:2859:2890:2892:2893:2894:2900:2902:2908:2917:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3353:3522:3523:3585:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4250:4321:4361:4362:4383:4384:4395:4641:4860:5007:6261:6506:6663:6668:6669:6678:6747:6748:7281:7576:7603:7903:7909:7927:8518:8568:8583:8599:8603:8957:9025:9080:9167:9177:9199:9388:9545:10004:10049:10182:10183:10265:10346:10394:11026:11604:11914:12043:12126:12217:12219:12291:12295:12438:12517:12519:12555:12663:12683:12740:12776:12895:12986:13025:13139:13
+X-HE-Tag: cats35_27206cbfbd05c
+X-Filterd-Recvd-Size: 35694
+Received: from mail2039.smtp25.com (mail2039.smtp25.com [64.56.208.39])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  7 Mar 2019 06:14:28 +0000 (UTC)
+Received: from lansing-zmta-001.greenviewdata.com (localhost [127.0.0.1])
+	by lansing-zmta-001.greenviewdata.com (Postfix) with ESMTPS id 586552408A2
+	for <jose@monkey.org>; Thu,  7 Mar 2019 01:14:24 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+	by lansing-zmta-001.greenviewdata.com (Postfix) with ESMTP id 49AE4240A31
+	for <jose@monkey.org>; Thu,  7 Mar 2019 01:14:24 -0500 (EST)
+X-Virus-Scanned: amavisd-new at lansing-zmta-001.greenviewdata.com
+Received: from lansing-zmta-001.greenviewdata.com ([127.0.0.1])
+	by localhost (lansing-zmta-001.greenviewdata.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 1E_AOVezfLOo for <jose@monkey.org>;
+	Thu,  7 Mar 2019 01:14:23 -0500 (EST)
+Received: from globalupside.com (unknown [192.254.77.108])
+	by lansing-zmta-001.greenviewdata.com (Postfix) with ESMTPSA id D732B2405DA
+	for <jose@monkey.org>; Thu,  7 Mar 2019 01:14:16 -0500 (EST)
+Reply-To: Account Payable <terryl@restorationrobotics.us>
+From: Account Payable <kbm@globalupside.com>
+To: jose@monkey.org
+Subject: USD Bank Transfer Deposits - Remitted on 06/03/2019
+Date: 6 Mar 2019 22:14:17 -0800
+Message-ID: <20190306221417.FC171C356B812222@globalupside.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_E255644B.1E8B29DB"
+X-SpamH-Filter: a2-out-001.smtp25.com-x276EQHs011326
+X-SpamH-OriginatingIP: 67.225.211.247
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 49

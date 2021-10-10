@@ -1,0 +1,27 @@
+From jose@monkey.org Wed Dec  9 14:10:03 2015 +0000
+Return-Path: milita-activate2016@nuvox.net
+Delivered-To: jose@monkey.org
+X-FDA: 70944110286.10.self15_1da00398a443a
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,bad51954fbb4b422,d41d8cd98f00b204,milita-activate2016@nuvox.net,:milita-activate2016@nuvox.net,RULES_HIT:2:41:72:355:379:962:967:969:973:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1394:1395:1431:1436:1437:1516:1517:1518:1535:1567:1575:1588:1592:1594:1606:1714:1730:1777:1792:1803:2525:2527:2540:2560:2563:2682:2685:2693:2859:2890:2892:2894:2901:2909:2915:2916:2918:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3623:3690:3740:3866:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4362:5007:6261:6684:6687:6688:7774:7801:7809:7903:7974:8509:8603:8784:9025:9040:9072:9388:9908:10004:10049:10214:10346:11473:11658:11914:12043:12075:12219:12438:12555:12561:12776:13110:13132:13139:13163:13191:13192:13229:13231:13237:14096:14515:21080:21212,0,RBL:70.43.63.19-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,
+X-HE-Tag: self15_1da00398a443a
+X-Filterd-Recvd-Size: 7166
+Received: from smtp02.atlngahp.sys.nuvox.net (smtp-out2.atlngahp.sys.nuvox.net [70.43.63.19])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  9 Dec 2015 14:10:03 +0000 (UTC)
+Received: from ROHA-TS.rohausa.rohagroup.com (65.23.4.66.nw.nuvox.net [65.23.4.66])
+	by smtp02.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id tB9DHYuE020717;
+	Wed, 9 Dec 2015 08:56:07 -0500
+Message-Id: <201512091356.tB9DHYuE020717@smtp02.atlngahp.sys.nuvox.net>
+Content-Type: multipart/alternative; boundary="===============0197681995=="
+MIME-Version: 1.0
+Subject: FRAUD ALERT - ACTIVATE YOUR usaa.com NOW
+To: Recipients <milita-activate2016@nuvox.net>
+From: "USAA" <milita-activate2016@nuvox.net>
+Date: Wed, 09 Dec 2015 07:55:28 -0600
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 282

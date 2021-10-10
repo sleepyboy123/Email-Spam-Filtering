@@ -1,0 +1,41 @@
+From jose@monkey.org Mon Jun 29 05:05:49 2020 +0000
+Return-Path: bounces+17221322-7869-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76981062018.51.walk99_2802e7926e6c
+X-Spam-Summary: 41,5,0,98d48f7326081468,d41d8cd98f00b204,bounces+17221322-7869-jose=monkey.org@sendgrid.net,,RULES_HIT:41:72:327:355:379:543:800:960:962:967:968:973:978:983:988:989:1189:1208:1216:1221:1260:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1605:1730:1770:1792:1801:2084:2194:2198:2199:2200:2525:2527:2528:2540:2553:2560:2566:2682:2685:2693:2859:2902:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3586:3865:3866:3867:3868:3870:3871:3873:3874:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4384:4552:4605:5007:6096:6248:6261:6650:6653:6669:6674:7652:7809:7875:7903:7904:8603:8825:8957:9025:9060:9080:9121:9149:9163:9416:9908:9979:10004:10215:10231:10305:10346:10919:11233:11656:11657:11658:11914:12043:12050:12295:12297:12438:12555:12663:12679:12812:12973:12986:13139:13161:13181:13229:13237:13302:13439:14096:14196:14404:14405:14515:14829:14877:21080:21325:21347:21433:21451:21524:21627:2166
+X-HE-Tag: walk99_2802e7926e6c
+X-Filterd-Recvd-Size: 27051
+Received: from wrqvkzxv.outbound-mail.sendgrid.net (wrqvkzxv.outbound-mail.sendgrid.net [149.72.30.168])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 29 Jun 2020 05:05:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:mime-version:subject:from:to;
+	s=smtpapi; bh=rk+M3FtKCk28ZM6hdJS/+OCGIab0rxL33m6+6QPxNAk=;
+	b=EsHUaHE4hvQXMbgwCcEVXTl072HRGfFkRRE+9OiAVVFH7QCJeBfdVchO4DimK4UuWks2
+	pBIfJ1cQkoGwW++otlY8DReK7OFIOLnROBeUPalHsTbS0eVtOfG6ZZtn4MW6kXmItjkITM
+	x+MAKoXFN/OINnxMdCpDHnlkXGEpin/Pc=
+Received: by filterdrecv-p3iad2-5b55dcd864-hp5f5 with SMTP id filterdrecv-p3iad2-5b55dcd864-hp5f5-19-5EF968D6-6D
+        2020-06-29 04:06:47.011660118 +0000 UTC m=+212245.055088094
+Received: from [198.50.231.132] (unknown)
+	by ismtpd0087p1mdw1.sendgrid.net (SG) with ESMTP id VaJD8PuTSrG3_9rP6eZuAg
+	for <jose@monkey.org>; Mon, 29 Jun 2020 04:06:46.946 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============0077251269=="
+MIME-Version: 1.0
+Subject: MXHSUHSSX EMAIL VALIDATION REPORT AT 6/28/2020
+From: EMAIL BLOCKED <support@dalvry.com>
+Date: Mon, 29 Jun 2020 04:06:47 +0000 (UTC)
+X-Priority: 1 (High)
+Sensitivity: Personal
+Message-ID: <VaJD8PuTSrG3_9rP6eZuAg@ismtpd0087p1mdw1.sendgrid.net>
+X-SG-EID: 
+ =?us-ascii?Q?MJr7y1HjJaTgyGUVVQFQnPJI9E1X81ME0GRdOXHExMa=2Fnn6Y9rqoqWRB0wdyNd?=
+ =?us-ascii?Q?phtrgCzGD=2FL=2FMgIeBFG0YRAP0sKWBgMCZcxap8d?=
+ =?us-ascii?Q?IJb4uuDloQu+aKR4PElrPtXA3mjRo1sSCs67ZIp?=
+ =?us-ascii?Q?yiu3BDf+F7+Autc04y2eaNkTmTnNWgn2ARKB=2FmL?=
+ =?us-ascii?Q?i5bYBnQhAf8YOWxm56csQD1EpSaJIY5r+BIE7JX?=
+ =?us-ascii?Q?9CGfpp4C4cgeSvGzXzId8+xfx42hgdzkSMB9mW?=
+To: jose@monkey.org
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 85

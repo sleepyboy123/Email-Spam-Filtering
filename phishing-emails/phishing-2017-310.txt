@@ -1,0 +1,20 @@
+From The Following Button Below</small><br>
+</span>
+<div id="solu"
+ style="border-bottom: 1px solid rgb(204, 204, 204); padding-bottom: 18px; margin-bottom: 5px;">
+<div
+ style="border: 1px solid rgb(0, 108, 181); margin: 35px 20px 20px 108px; padding: 9px; width: 185px; color: rgb(255, 255, 255); font-size: 12px; font-weight: bold; font-family: arial; text-decoration: none; text-align: center; background-color: rgb(255, 255, 255);"><a
+ href="http://www.lamaison-metal.com/2018/f./"><span
+ style="text-decoration: underline;">Cofirm My Account</span></a></div>
+</div>
+<div id="footer" style="text-align: center;">
+<div id="droits" style="margin: 1px 259px 1px auto;"><span
+ style="font-size: 11px; color: gray; font-family: arial;">Account
+ID #5498798DFG5</span></div>
+<div id="menu" style="margin: -37px -148px -37px auto;"><span
+ style="color: gray; font-size: 11px; font-family: arial;"><br>
+</span></div>
+</div>
+</div>
+</body>
+</html>

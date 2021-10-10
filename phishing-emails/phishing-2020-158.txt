@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Dec 31 14:09:27 2020 +0000
+Return-Path: noreply@spotify.hu
+Delivered-To: jose@monkey.org
+X-FDA: 77653759974.27.pig18_5e144d1274ae
+X-Spam-Summary: 50,0,0,0a15bda9a92ca2a1,d41d8cd98f00b204,noreply@spotify.hu,,RULES_HIT:72:327:379:962:967:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1560:1571:1575:1588:1589:1592:1594:1714:1730:1749:1775:1792:2084:2194:2198:2199:2200:2525:2527:2560:2568:2610:2630:2682:2685:2771:2859:2891:2892:2895:2910:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3866:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4700:5007:6096:6261:6650:6678:6687:8603:8957:9025:9121:9149:9344:9388:9908:10004:10346:11233:11805:11914:11967:12043:12297:12438:12551:12561:12740:12895:12903:12986:13019:13025:13038:13110:13237:13374:13439:14094:14096:14516:14877:21060:21080:21220:21325:21347:21433:21451:21483:21524:21627:21659:21810:21838:21851:21939:22173:30019:30026:30038:30054:30058:30070:30075,0,RBL:84.225.255.32:@spotify.hu:.lbl8.mailshell.net-64.201.201.201 62.6.112.100;04ygupazbefsqskfuyazxn3ndettcyfye
+X-HE-Tag: pig18_5e144d1274ae
+X-Filterd-Recvd-Size: 33500
+Received: from mail.telenor.hu (mail2.telenor.hu [84.225.255.32])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 31 Dec 2020 14:09:26 +0000 (UTC)
+Received: (qmail 41598 invoked from network); 31 Dec 2020 14:09:19 -0000
+Received: from netacc-gpn-34-191-70.pool.telenor.hu (HELO [67.43.225.102]) ([37.234.191.70])
+          (envelope-sender <Noreply@spotify.hu>)
+          by mail.telenor.hu (qmail-ldap-1.03) with SMTP
+          for <joodie@xs4all.nl>; 31 Dec 2020 14:09:17 -0000
+Content-Type: multipart/alternative; boundary="===============0388502917=="
+MIME-Version: 1.0
+Subject: Your payment method has been rejected.
+To: Recipients <Noreply@spotify.hu>
+From: "Spotify"<Noreply@spotify.hu>
+Date: Thu, 31 Dec 2020 15:09:04 +0100
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 157

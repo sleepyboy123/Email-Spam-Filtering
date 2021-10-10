@@ -1,0 +1,25 @@
+From jose@monkey.org Sun Sep 20 09:26:08 2020 +0000
+Return-Path: info@org.net
+Delivered-To: jose@monkey.org
+X-FDA: 77282908416.40.steam33_1302d342713b
+X-Spam-Summary: 80,0,0,d9cb1f0ea1c016dc,d41d8cd98f00b204,info@org.net,,RULES_HIT:4:41:355:379:800:962:966:967:969:973:988:989:1189:1221:1260:1261:1313:1314:1345:1381:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1730:1776:1792:2196:2197:2198:2199:2200:2201:2527:2559:2562:2693:3040:3138:3139:3140:3141:3142:3352:3866:3867:3868:3870:3871:3873:4234:4321:4361:4385:4429:5007:6261:6687:6755:7464:7652:7809:8583:8603:8908:8957:9165:9199:9468:9979:10215:11473:11529:11658:11914:12043:12049:12050:12215:12217:12219:12555:12561:12895:12986:13139:13439:13846:13870:14056:14096:14596:14686:14985:21080:21093:21221:21433:21451:21483:21524:21627:21660:21810:21819:21838:21939:30003:30007:30019:30022:30026:30034:30039:30041:30054:30055:30074:30075:30091,0,RBL:95.79.44.187:@org.net:.lbl8.mailshell.net-64.201.201.201 62.4.3.180;04yfawmbirg5hxb64zqruhh3umhpfor8k56h5mg4sdgobe7i9wanaqeuygqz1ki.f4bs5smhy4zxj5kcz43bysutenckuqjep8qgwkdbe4dmayx8cn6bdfz348zekyd.yo3dyt7wtetsyyt3cmc6tq7nwbom-lbl8.mailshell.net-22
+X-HE-Tag: steam33_1302d342713b
+X-Filterd-Recvd-Size: 18103
+Received: from mail.evan.ru (mail.evan.ru [95.79.44.187])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 20 Sep 2020 09:26:07 +0000 (UTC)
+Message-ID: <1521178828-16264@mail.evan.ru>
+Received: from [91.134.231.253] ([192.168.3.23])
+	by mail.evan.ru (Kerio Connect 9.2.1) with ESMTP;
+	Sun, 20 Sep 2020 12:25:42 +0300
+Content-Type: multipart/alternative; boundary="===============0443589959=="
+MIME-Version: 1.0
+Subject: Last Warning your response is Needed??
+To: Recipients <info@org.net>
+From: "CIBC BANK" <info@org.net>
+Date: Sun, 20 Sep 2020 02:25:36 -0700
+Reply-To: meetbank@yandex.com
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 128

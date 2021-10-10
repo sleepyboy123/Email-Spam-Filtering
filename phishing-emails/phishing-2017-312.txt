@@ -1,0 +1,46 @@
+From jose@monkey.org Thu Sep 14 22:31:28 2017 +0000
+Return-Path: moor@racetomillis.com
+Delivered-To: jose@monkey.org
+X-FDA: 73285949856.16.cap95_29e551d44da36
+X-Spam-Summary: 40,2.5,0,33fd77ca70d2b884,d41d8cd98f00b204,moor@racetomillis.com,:moor@racetomillis.com,RULES_HIT:41:72:379:474:962:967:969:973:978:983:988:989:1189:1208:1221:1254:1260:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1544:1568:1571:1575:1588:1589:1592:1594:1685:1711:1714:1719:1730:1777:1792:1800:2194:2198:2199:2200:2525:2527:2549:2560:2563:2610:2682:2685:2859:2890:2892:2897:2898:2900:2901:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3586:3635:3865:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4250:4321:5007:6261:6653:6671:8509:8603:8957:9025:9411:9416:9908:10011:10128:10214:10346:11473:11658:11914:12043:12438:12555:12740:12895:12986:13007:13017:13018:13019:13110:13132:13139:13231:13235:13237:13374:13439:14181:14721:14827:14828:21080:21433:21436:21450:21451:21524:21554:21627:21660:30001:30026:30054:30055:30069:30070:30075,0,RBL:162.214.13.155:@racetomillis.com:.lbl
+X-HE-Tag: cap95_29e551d44da36
+X-Filterd-Recvd-Size: 7917
+Received: from server.microceeto.com (server.microceeto.com [162.214.13.155])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 Sep 2017 22:31:27 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=racetomillis.com; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=T9wHhjJxi1fzbs2obahq25V+/LknBm/gqlpFfrxg44Y=; b=kTbNp9vpBqoNlqc9iOUW334iE
+	En2rhlaUuoX2mLl/0QJKyycX+293V3EeasjZQxJgMfgUSg2YV4TTlZA5XVjbO9HbbyiDBoBvkdpJF
+	GHaogzwETeLOjtSPf3NwF3sXSmIfV3CchHS3VxtU4+aXRe58tvOO/uGJYnTrICT76oB4fAfmcq9+0
+	aaAROLjAPbQXorK00AaP9N2W/6LxPAzEMsfOS9hOTV23mu4W262cEKzefHjPlOd/3I6/1xOIEOtXu
+	7uknIXjV4Z/dX+StRmcPtdkesYcvIoXDOLkTwxxczOQtlo3eHPAdYBz2faBP9P/2CiFD+dSb0Ns6j
+	s2QXzK+pg==;
+Received: from terminal.psych.uic.edu ([128.248.41.218]:58583)
+	by server.microceeto.com with esmtpa (Exim 4.89)
+	(envelope-from <moor@racetomillis.com>)
+	id 1dsZYQ-00008D-HU; Thu, 14 Sep 2017 19:12:02 +0000
+Content-Type: multipart/alternative; boundary="===============1241764535=="
+MIME-Version: 1.0
+Subject: Important Security Notice
+To: USAA-Member <moor@racetomillis.com>
+From: "USAA" <moor@racetomillis.com>
+Date: Thu, 14 Sep 2017 14:10:35 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.microceeto.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - racetomillis.com
+X-Get-Message-Sender-Via: server.microceeto.com: authenticated_id: moor@racetomillis.com
+X-Authenticated-Sender: server.microceeto.com: moor@racetomillis.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 312

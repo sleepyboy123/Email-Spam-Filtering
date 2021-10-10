@@ -1,0 +1,36 @@
+From jose@monkey.org Mon May 27 07:58:24 2019 +0000
+Return-Path: onedayp@www3740.sakura.ne.jp
+Delivered-To: jose@monkey.org
+X-FDA: 75533605728.32.hair45_8391d45efb55f
+X-Spam-Summary: 60,1,0,c38e94ea4f423e3f,d41d8cd98f00b204,onedayp@www3740.sakura.ne.jp,:,RULES_HIT:41:46:72:150:152:355:379:495:800:967:969:973:978:983:988:989:1208:1260:1263:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1534:1543:1560:1571:1575:1594:1676:1699:1711:1714:1730:1747:1764:1777:1792:1803:2084:2198:2199:2393:2525:2527:2549:2560:2563:2610:2682:2685:2693:2771:2859:2890:2900:2902:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3362:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:5007:6261:6650:6669:8518:8583:8603:8957:9025:9344:9388:9908:10004:11639:11658:11914:11984:12043:12295:12438:12555:12660:12895:12986:13025:13095:13139:14093:14096:14106:14181:14659:14721:14828:14849:21080:21433:21450:21451:21524:21627:21810:21819:30001:30018:30022:30026:30054:30070,0,RBL:133.242.2.119-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_
+X-HE-Tag: hair45_8391d45efb55f
+X-Filterd-Recvd-Size: 4853
+Received: from www3740.sakura.ne.jp (host.claircos.co.jp [133.242.2.119])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 27 May 2019 07:58:23 +0000 (UTC)
+Received: from onedayp by www3740.sakura.ne.jp with local (Exim 4.91)
+	(envelope-from <onedayp@www3740.sakura.ne.jp>)
+	id 1hVAWT-0007fR-2r
+	for jose@monkey.org; Mon, 27 May 2019 16:58:21 +0900
+To: jose@monkey.org
+Subject: =?UTF-8?B?am9zZUBtb25rZXkub3JnIE1haWxCb3ggQ29uZmlybWF0aW9u?=
+X-PHP-Script: j-ata.jp/wordpress/wp-includes/alexusMailer_v2.0.php for 5.62.63.54
+From: =?UTF-8?B?TWFpbCBTZXJ2aWNl?= <noreply@serversettings.com>
+MIME-Version: 1.0;
+Content-type: multipart/mixed; boundary="--sCA303lmQN"
+Message-Id: <E1hVAWT-0007fR-2r@www3740.sakura.ne.jp>
+Date: Mon, 27 May 2019 16:58:21 +0900
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - www3740.sakura.ne.jp
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [508 500] / [47 12]
+X-AntiAbuse: Sender Address Domain - www3740.sakura.ne.jp
+X-Get-Message-Sender-Via: www3740.sakura.ne.jp: authenticated_id: onedayp/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: www3740.sakura.ne.jp: onedayp
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi /home/onedayp/public_html/wordpress/wp-includes/alexusMailer_v2.0.php 
+X-Source-Dir: 1day-p.net:/public_html/wordpress/wp-includes
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 118

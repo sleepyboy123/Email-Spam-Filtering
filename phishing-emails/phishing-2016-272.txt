@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Jun 23 13:41:13 2016 +0000
+Return-Path: safeguard@mailsender.com
+Delivered-To: jose@monkey.org
+X-FDA: 71658911226.24.bag41_26602f527ad43
+X-Spam-Summary: 73,5,0,b1d3fe41eb1a6188,d41d8cd98f00b204,safeguard@mailsender.com,:safeguard@mailsender.com,RULES_HIT:41:355:379:581:871:962:967:969:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1437:1516:1517:1518:1537:1559:1575:1588:1592:1594:1711:1714:1730:1748:1764:1777:1792:2559:2562:3138:3139:3140:3141:3142:3622:3740:3867:3871:3872:3873:4362:5007:6264:6616:6618:6684:6687:6748:7281:7398:10004:10394:10400:11604:11658:11914:12043:12166:12340:12561:13110:13439:14036:14516:14687:14721:21080:21433:30022:30026:30038:30054:30055,0,RBL:68.171.191.121:@mailsender.com:.lbl8.mailshell.net-62.4.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: bag41_26602f527ad43
+X-Filterd-Recvd-Size: 71529
+Received: from Main.ADVOCARE.local (unknown [68.171.191.121])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 23 Jun 2016 13:41:03 +0000 (UTC)
+Received: from Main.ADVOCARE.local ([127.0.0.1]) by Main.ADVOCARE.local with Microsoft SMTPSVC(7.5.7601.17514);
+	 Thu, 23 Jun 2016 06:59:41 -0500
+Content-Type: multipart/mixed; boundary="===============1889695202=="
+MIME-Version: 1.0
+Subject: You Have A New Payment Transfer
+To: Recipients <Safeguard@MailSender.com>
+From: "USAA" <Safeguard@MailSender.com>
+Date: Thu, 23 Jun 2016 06:59:40 -0500
+Return-Path: Safeguard@MailSender.com
+Message-ID: <MAIN6gVs1tIzmQVuRWC00000191@Main.ADVOCARE.local>
+X-OriginalArrivalTime: 23 Jun 2016 11:59:41.0536 (UTC) FILETIME=[B9943E00:01D1CD46]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 271

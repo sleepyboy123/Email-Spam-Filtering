@@ -1,0 +1,27 @@
+From jose@monkey.org Thu Apr  6 11:22:10 2017 +0000
+Return-Path: no_reply@mailadmin.net
+Delivered-To: jose@monkey.org
+X-FDA: 72700026420.21.wren93_6a2cbcc1ca053
+X-Spam-Summary: 10,1,0,f5dbd384dcb44d0d,d41d8cd98f00b204,no_reply@mailadmin.net,:,RULES_HIT:2:41:72:355:379:495:543:800:962:966:967:973:978:983:988:989:1189:1208:1216:1221:1252:1260:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1566:1571:1575:1588:1589:1592:1594:1606:1685:1710:1714:1730:1776:1792:2196:2198:2199:2200:2525:2527:2560:2563:2610:2682:2685:2693:2859:2898:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3362:3650:3865:3866:3867:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4119:4321:4385:4552:5007:6238:6261:6678:7801:8518:8583:8599:8603:8784:8987:9025:9072:9080:9121:9388:9416:9468:9979:10044:10049:10214:10346:11233:11473:11658:11914:12043:12114:12438:12517:12519:12555:12658:12660:12740:12764:12895:12986:13025:13139:13219:13229:13235:13237:13302:13374:13439:13846:13975:14094:14141:14246:14664:14687:14827:21080:21212:21433:21451:21483:21524:30021:30026:30054:30070:30091,0,RBL:136.243.58.125:@mailadmin.net:.lbl8.m
+X-HE-Tag: wren93_6a2cbcc1ca053
+X-Filterd-Recvd-Size: 8021
+Received: from cosmos.akereon.net (cosmos.akereon.net [136.243.58.125])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  6 Apr 2017 11:22:09 +0000 (UTC)
+Received: from Cjay-PC.www.huaweimobilewifi.com (unknown [199.188.236.225])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by cosmos.akereon.net (Postfix) with ESMTPSA id BCA86201CE6
+	for <jose@monkey.org>; Thu,  6 Apr 2017 14:22:05 +0300 (EEST)
+Content-Type: multipart/alternative; boundary="===============1621071055=="
+MIME-Version: 1.0
+Subject: Alert: Mail Storage Closure Warning (jose@monkey.org)100% Full
+To: jose@monkey.org
+From: "MAIL ADMIN" <no_reply@mailadmin.net>
+Date: Thu, 06 Apr 2017 12:22:05 +0100
+X-Priority: 1 (High)
+Message-Id: <20170406112205.BCA86201CE6@cosmos.akereon.net>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 136

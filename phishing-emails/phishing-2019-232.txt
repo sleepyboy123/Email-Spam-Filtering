@@ -1,0 +1,50 @@
+From jose@monkey.org Thu Dec 12 11:37:46 2019 +0000
+Return-Path: webmaster@artmarketeer.com
+Delivered-To: jose@monkey.org
+X-FDA: 76256289732.07.roll35_60ef401fd2d2f
+X-Spam-Summary: 13,1.2,0,70b2ffcdca2a0893,d41d8cd98f00b204,webmaster@artmarketeer.com,:,RULES_HIT:41:72:327:355:379:455:856:871:962:967:969:973:978:983:988:989:1000:1189:1208:1260:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1546:1571:1573:1575:1588:1589:1594:1685:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2539:2549:2560:2565:2612:2682:2685:2734:2859:2890:2891:2892:2894:2895:2897:2901:2902:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3044:3138:3139:3140:3141:3142:3148:3352:3552:3804:3865:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4180:4310:4321:4384:4504:4505:4506:4552:4700:6119:6248:6261:6354:6506:6650:6653:6669:6674:6678:6688:6747:7281:7652:7809:7974:8603:8957:9025:9388:9405:9871:9908:10008:10305:10346:11473:11657:11658:11914:12029:12043:12295:12297:12324:12438:12517:12519:12551:12555:12740:12895:12903:12963:12986:13025:13038:13080:13132:13141:13230:13231:13439:14096:14194:1
+X-HE-Tag: roll35_60ef401fd2d2f
+X-Filterd-Recvd-Size: 32437
+Received: from server.artmarketeer.com (unknown [209.124.90.177])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 12 Dec 2019 11:37:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=artmarketeer.com; s=default; h=Content-Type:MIME-Version:Message-ID:Date:
+	Subject:To:From:Sender:Reply-To:Cc:Content-Transfer-Encoding:Content-ID:
+	Content-Description:Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc
+	:Resent-Message-ID:In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:
+	List-Subscribe:List-Post:List-Owner:List-Archive;
+	bh=xdvPI5EZP8D8bJ0vDwpbGZmxRbGDqMVnEvhf/vexr0o=; b=o/WuM+vKoHIi00I/nj5e/PPqyk
+	SpYyJxo7PoLg1zJs+mSwgN8wObSqshCbK6jhwBX1oOKco7UuTGbE4JkjDJvXeLQKRhMlSbQT+xg7J
+	xHVCWn4cWYR9f+fAlpR5DeXL+Rh5XfgFY0Vq/U7tua0Fr9i63SzC9pedQMARvFTJLU2dzqwnOpWsC
+	bLFlrSgs9TozKdpCW6W7p1/upeebw2w8wVCJbhV7x0IT2lJYtlOYLcDRNeZBznvME3huPTlV3hrL1
+	bLK1eNI6qARf7tyMLEEjs1aI/DdcXiADwvOT3/eX+eZOClJ5CbHxWkeMhlr9MhZS7rvlB33sz9ZRT
+	g+CURFYw==;
+Received: from [209.205.206.78] (port=54835 helo=artmarketeer.com)
+	by server.artmarketeer.com with esmtpsa (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <webmaster@artmarketeer.com>)
+	id 1iepRn-00081t-WB
+	for jose@monkey.org; Tue, 10 Dec 2019 19:01:44 -0500
+From: American Epress <webmaster@artmarketeer.com>
+To: jose@monkey.org
+Subject: Attention.
+Date: 10 Dec 2019 07:45:30 -0800
+Message-ID: <20191210074530.315DFF68F899158D@artmarketeer.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_89EFF6E9.5672A4DB"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.artmarketeer.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - artmarketeer.com
+X-Get-Message-Sender-Via: server.artmarketeer.com: authenticated_id: webmaster@artmarketeer.com
+X-Authenticated-Sender: server.artmarketeer.com: webmaster@artmarketeer.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 231

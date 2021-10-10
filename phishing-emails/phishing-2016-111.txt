@@ -1,0 +1,40 @@
+From jose@monkey.org Fri Mar 11 05:47:45 2016 +0000
+Return-Path: jk9039133sri@alice.it
+Delivered-To: jose@monkey.org
+X-FDA: 71280322890.08.horse86_2601b91b39911
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,3f2e2b60cbcb8dfb,d41d8cd98f00b204,jk9039133sri@alice.it,:jk9039133sri@alice.it,RULES_HIT:1:41:355:379:677:871:962:967:969:973:988:989:1183:1189:1260:1261:1313:1314:1345:1381:1432:1436:1437:1516:1517:1518:1541:1550:1560:1575:1588:1589:1592:1594:1711:1714:1730:1749:1764:1777:1792:2196:2198:2199:2200:2525:2540:2560:2563:2682:2685:2737:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3865:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:5007:6119:6238:6261:6354:6678:6687:6748:7281:7652:8829:8957:9025:9468:9973:10013:10264:10265:10394:10400:11473:11529:11604:11658:11914:12043:12219:12438:12517:12519:12555:12561:13139:13163:13229:13285:13286:13439:14037:14096:14721:21080:21121:30026:30054:30055:30070:30074,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:4:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: horse86_2601b91b39911
+X-Filterd-Recvd-Size: 10372
+Received: from mail.stbmi.ac.in (mail.stbmi.ac.in [14.139.245.173])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 11 Mar 2016 05:47:41 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.stbmi.ac.in (Postfix) with ESMTP id 101F038603F;
+	Fri, 11 Mar 2016 07:00:31 +0530 (IST)
+Received: from mail.stbmi.ac.in ([127.0.0.1])
+	by localhost (mail.stbmi.ac.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id txywgFPtTqDl; Fri, 11 Mar 2016 07:00:30 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.stbmi.ac.in (Postfix) with ESMTP id 1C6C9385BA1;
+	Fri, 11 Mar 2016 07:00:30 +0530 (IST)
+X-Virus-Scanned: amavisd-new at stbmi.ac.in
+Received: from mail.stbmi.ac.in ([127.0.0.1])
+	by localhost (mail.stbmi.ac.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id NHCFCOEZVNny; Fri, 11 Mar 2016 07:00:29 +0530 (IST)
+Received: from [213.136.85.208] (vmi66080.contabo.host [213.136.85.208])
+	by mail.stbmi.ac.in (Postfix) with ESMTPSA id 63150385871;
+	Fri, 11 Mar 2016 06:59:59 +0530 (IST)
+Content-Type: multipart/mixed; boundary="===============1704530758=="
+MIME-Version: 1.0
+Subject: Your parcel has arrived
+To: Recipients <jk9039133sri@alice.it>
+From: "DHL Express" <jk9039133sri@alice.it>
+Date: Thu, 10 Mar 2016 17:29:09 +0100
+Message-Id: <20160311013001.63150385871@mail.stbmi.ac.in>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 110

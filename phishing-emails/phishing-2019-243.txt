@@ -1,0 +1,50 @@
+From jose@monkey.org Tue Dec 31 19:27:46 2019 +0000
+Return-Path: bounces+14260303-ac93-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76326421332.34.beef87_43b95a575ce63
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+14260303-ac93-jose=monkey.org@sendgrid.net,:customer.service@amazon.com,RULES_HIT:2539:30022:30038:30054:30064:30067:30070:30079:30080:30082:30090:30091,0,RBL:168.245.39.94:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:lnkd.in-tc.dbl.urbl.hostedemail.com-127.0.0.175,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: beef87_43b95a575ce63
+X-Filterd-Recvd-Size: 13187
+Received: from o1.ptr6006.int-03.com (o1.ptr6006.int-03.com [168.245.39.94])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 31 Dec 2019 19:27:45 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:subject:mime-version:to;
+	s=smtpapi; bh=l3x4+NluP/BAokSSa4fGlrPLCkQUz+gqT/ICmXMV2wQ=;
+	b=KdaC+B7hWwN/x4VvW9cl30tj5VbSrvKiRysR+4GTRG23J62wo2mPulgNgXp/EEJY6Ka5
+	D5Nn6c1qFgjnkXeNyS+iaSmCdLhe8Y1Q/yHhYhDMDq9CVprKZy618lCUFGu2R9zcj9KgpW
+	ZCXuAUaL5VCeAEzvXReYh/u4hvP3YyOIM=
+Received: by filterdrecv-p3mdw1-56c97568b5-cmx66 with SMTP id filterdrecv-p3mdw1-56c97568b5-cmx66-20-5E0BA130-1C
+        2019-12-31 19:27:44.165808805 +0000 UTC m=+1277077.225865645
+Received: from node53272-env-8649562.atl.jelastic.vps-host.net (unknown [216.154.218.133])
+	by ismtpd0051p1mdw1.sendgrid.net (SG) with ESMTP id zVZnwf9xQOixKUeLVK_UdQ
+	Tue, 31 Dec 2019 19:27:44.070 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="--_NmP-4bb65b28f6e2c4dd-Part_1"
+From: Prime Team
+	<i-do-not-reply-notificati0n-AUgtdHqESYwPFBcyORqK.icUpngErEz@servit-0991.mailsmarketing.com>
+Subject: Fw: [ SUMMARY APPOINTMENT ] Alert: Amazon biIIing problem - (Case ID:
+ EVoOqxbx) No. 18237548 - Date: Tue Dec 31 2019 18:34:57 GMT+0000 (Coordinated
+ Universal Time)
+Message-ID:
+ <dce24d83-a6d3-7056-f723-4c295a30fef0@servit-0991.mailsmarketing.com>
+X-Priority: 5 (Lowest)
+X-Msmail-Priority: Low
+Importance: Low
+Date: Tue, 31 Dec 2019 19:27:44 +0000 (UTC)
+MIME-Version: 1.0
+X-SG-EID: 
+ =?us-ascii?Q?=2FSYXZ6PamyD4cikG4PILu5AH+nDWWivvP8xkb8spIFknArNUkEY=2FO0zDYuBVeT?=
+ =?us-ascii?Q?VvOP2d=2FtTgCOF87O33=2F4mDh1itpA77daFHT=2Fe2B?=
+ =?us-ascii?Q?d8FflsnW1XRFhkocbSaSBcVc9jXIZDrsWH1eB49?=
+ =?us-ascii?Q?rQVdjtZLZLzKD8ILOq30mweT+Zyf2P5=2FOF=2FBFJz?=
+ =?us-ascii?Q?4sUm9CF8QD6igyPU4s98fYtqHHiVM=2F9Nfh6kLHc?=
+ =?us-ascii?Q?SPgzdd3SvQVqr4RnoqCRfVbGOrjLV2TBzqX82L6?=
+ =?us-ascii?Q?+VBG0yI6F=2Fye+bQGDl+7Z=2F9EnWXZdQOMOLpY9Fu?=
+ =?us-ascii?Q?HjCLqJIG8Eb7yLtHM+Gawx5WkdvzcsI1tsTvElb?=
+ =?us-ascii?Q?gmmpqwNEAipBAI=2Fp2u6Yd1+aeEvM=3D?=
+To: customer.service@amazon.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 242

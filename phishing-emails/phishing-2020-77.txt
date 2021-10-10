@@ -1,0 +1,36 @@
+From jose@monkey.org Mon Jun  8 07:55:43 2020 +0000
+Return-Path: bounces+14243458-ca97-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76905285366.47.neck27_4403b5c26db8
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+14243458-ca97-jose=monkey.org@sendgrid.net,,RULES_HIT:2539:30001:30054:30070:30075,0,RBL:50.31.63.50:@sendgrid.net:.lbl8.mailshell.net-62.18.0.32 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: neck27_4403b5c26db8
+X-Filterd-Recvd-Size: 6797
+Received: from o2.lv30nn.shared.sendgrid.net (o2.lv30nn.shared.sendgrid.net [50.31.63.50])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Jun 2020 07:55:42 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=TkJSDfuvxmmUUXu3pXSC4l4P5b9Pu9rlYNms5rByhd0=; b=L5
+	p4B1Rw2WWoY640OszHtF8m21LEzhfcCR1kq8HdmMItOL0jbIceoCYDICmY0VEg93
+	qDT32y0c8Rye6nMZO8lSB5Y4ovbFN7F+ZFf6VJn3oDiEylWygTUNDSuNo1UeZuDA
+	kzXUOdQT1ArHhB0pdTQ9oECtFqnaMxvdzjNbCtc4I=
+Received: by filter1386p1las1.sendgrid.net with SMTP id filter1386p1las1-29114-5EDDEEFD-14
+        2020-06-08 07:55:41.559065719 +0000 UTC m=+475867.227192017
+Received: from kratzkehl.de (unknown)
+	by geopod-ismtpd-5-3 (SG) with ESMTP id Z8IZPbGnRuaaPH_sk0AvNQ
+	for <jose@monkey.org>; Mon, 08 Jun 2020 07:55:41.391 +0000 (UTC)
+From: monkey.org  <info@kratzkehl.de>
+To: jose@monkey.org
+Subject: Very important notice
+Date: Mon, 08 Jun 2020 07:55:41 +0000 (UTC)
+Message-ID: <20200608164718.EDA95D20CCD84DDF@kratzkehl.de>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtBiUxYvQ88sbLGAFTQTfZhhQMG5LO7xYR4W3C
+ 3OKAXc67sjvFluAfQ1rBFJeeT5pFrHh4L+P4qlOKU3FaAE2NtKK6E3bo/0q9Hv7rwgeQVxCcM6oJTH
+ EhPSjkePiOaSHQk36Mp/8+BUc6MBoojLC5vS9eamhgxcIVrEouF3DJk2DQ==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 76

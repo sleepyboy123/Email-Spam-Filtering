@@ -1,0 +1,36 @@
+From jose@monkey.org Tue May 10 08:00:11 2016 +0000
+Return-Path: info@ebitlogix.com
+Delivered-To: jose@monkey.org
+X-FDA: 71498384622.13.power35_1eadae50fe823
+X-Spam-Summary: 40,2.5,0,6bd350a0fde048a3,d41d8cd98f00b204,info@ebitlogix.com,:,RULES_HIT:41:72:355:379:560:800:962:967:969:973:983:988:989:994:1147:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1543:1559:1571:1575:1588:1589:1592:1594:1685:1711:1714:1719:1730:1737:1749:1777:1792:1803:2194:2198:2199:2200:2525:2561:2565:2610:2682:2685:2790:2859:2890:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3867:3868:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4321:4552:4605:5007:6261:6671:6672:6678:7688:8518:8599:8603:8957:9025:9121:9388:9416:9466:9871:9908:10004:10346:10400:10482:11233:11473:11480:11658:11914:12043:12517:12519:12555:12658:12660:12740:12776:13007:13008:13139:13234:13235:13236:13237:13374:13439:14094:14096:14181:14596:14651:14655:14721:19901:19997:21080:21325:21433:21436:30001:30021:30026:30054:30069:30075,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck
+X-HE-Tag: power35_1eadae50fe823
+X-Filterd-Recvd-Size: 6359
+Received: from pgt05.pragmatia.com.ar (pgt05.pragmatia.com [190.210.190.120])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 10 May 2016 08:00:10 +0000 (UTC)
+Received: from pgt05.pragmatia.com.ar (localhost [127.0.0.1])
+	by pgt05.pragmatia.com.ar (Postfix) with ESMTP id 6A5E123F3BB
+	for <jose@monkey.org>; Tue, 10 May 2016 04:03:36 -0300 (ART)
+Received: by pgt05.pragmatia.com.ar (Postfix, from userid 1002)
+	id 2E334CDA49; Tue, 10 May 2016 03:17:02 -0300 (ART)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on pgt05.pragmatia.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.9 required=5.0 tests=ALL_TRUSTED,
+	HTML_FONT_SIZE_LARGE,HTML_MESSAGE,MISSING_MID autolearn=no version=3.3.1
+Received: from TINA2015-PC.BAFamilyLaw.local (unknown [70.233.26.117])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by pgt05.pragmatia.com.ar (Postfix) with ESMTPSA id 58A67232DE3
+	for <jose@monkey.org>; Tue, 10 May 2016 02:14:12 -0300 (ART)
+Content-Type: multipart/alternative; boundary="===============1887224964=="
+MIME-Version: 1.0
+Subject: E-mail customer care satisfaction
+To: jose@monkey.org
+From: "Account Service" <info@ebitlogix.com>
+Date: Tue, 10 May 2016 00:14:09 -0500
+Message-Id: <20160510063342.2E334CDA49@pgt05.pragmatia.com.ar>
+X-AV-Checked: ClamAV using ClamSMTP
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 208

@@ -1,0 +1,28 @@
+From jose@monkey.org Sat Feb  6 18:14:16 2016 +0000
+Return-Path: new-portal-site@us.af.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71158824912.16.fuel48_40956042ce232
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,815cdc0f4c718166,d41d8cd98f00b204,new-portal-site@us.af.mil,:new-portal-site@us.af.mil,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1524:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12196:12340:12561:13095:13110:13160:13229:14129:14515:21080,0,RBL:24.241.111.218:@us.af.mil:.lbl8.mailshell.net-62.16.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: fuel48_40956042ce232
+X-Filterd-Recvd-Size: 31250
+Received: from SERVER2008.sbma.local (unknown [24.241.111.218])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  6 Feb 2016 18:14:01 +0000 (UTC)
+Received: from SERVER2008.sbma.local ([127.0.0.1]) by SERVER2008.sbma.local with Microsoft SMTPSVC(7.0.6001.18000);
+	 Sat, 6 Feb 2016 11:49:46 -0600
+Content-Type: multipart/mixed; boundary="===============1973902631=="
+MIME-Version: 1.0
+Subject: REGISTER YOUR ACCOUNT ON THE NEW USAA PORTAL NOW
+To: Recipients <new-portal-site@us.af.mil>
+From: "USAA" <new-portal-site@us.af.mil>
+Date: Sat, 06 Feb 2016 11:49:46 -0600
+Return-Path: new-portal-site@us.af.mil
+Message-ID: <SERVER20081TbdkSmLA0000031f@SERVER2008.sbma.local>
+X-OriginalArrivalTime: 06 Feb 2016 17:49:46.0824 (UTC) FILETIME=[C4B35480:01D16106]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 52

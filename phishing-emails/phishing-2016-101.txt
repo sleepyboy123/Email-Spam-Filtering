@@ -1,0 +1,52 @@
+From jose@monkey.org Sat Mar  5 07:13:31 2016 +0000
+Return-Path: infoz@zimbra.com
+Delivered-To: jose@monkey.org
+X-FDA: 71258766222.25.rail56_18381ab99626
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,bc11b0199d5d726f,d41d8cd98f00b204,infoz@zimbra.com,:infoz@zimbra.com,RULES_HIT:41:72:355:379:962:966:967:973:978:983:988:989:1042:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1544:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:1803:2069:2070:2196:2198:2199:2200:2525:2527:2560:2565:2610:2682:2685:2731:2859:2890:2895:2899:2902:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3245:3351:3650:3866:3867:3868:3870:3871:3873:3874:3884:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4361:4385:5007:6238:6261:6669:6687:7652:7903:8603:8985:9025:9388:9411:9416:9908:10010:10215:10398:10484:11212:11232:11257:11473:11651:11657:11658:11914:12043:12050:12051:12295:12517:12519:12555:12561:12740:13139:13235:13237:13374:13439:14096:14194:14721:21080:21259:21366:30001:30022:30025:30026:30054:30069:30070,0,RBL:222.126.214.99:@zimbra.com:.lbl8.mailshell.net-62.12.2.100 64.201
+X-HE-Tag: rail56_18381ab99626
+X-Filterd-Recvd-Size: 7830
+Received: from smtp2.wab.edu (smtp2.wab.edu [222.126.214.99])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  5 Mar 2016 07:13:30 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp2.wab.edu (Postfix) with ESMTP id E5FB563A4CF;
+	Sat,  5 Mar 2016 15:13:30 +0800 (HKT)
+X-Virus-Scanned: Debian amavisd-new at wab.edu
+Received: from smtp2.wab.edu ([127.0.0.1])
+	by localhost (smtp2.wab.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id hptXg2MToci2; Sat,  5 Mar 2016 15:13:25 +0800 (HKT)
+Received: from zimbra.wab.edu (zimbra2.wab.edu [10.0.0.201])
+	by smtp2.wab.edu (Postfix) with ESMTP id 48EB763A74A;
+	Sat,  5 Mar 2016 14:11:31 +0800 (HKT)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.wab.edu (Postfix) with ESMTP id 21F032E0E4B;
+	Sat,  5 Mar 2016 14:11:29 +0800 (CST)
+Received: from zimbra.wab.edu ([127.0.0.1])
+	by localhost (zimbra.wab.edu [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id kU1ltLeGa2I5; Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.wab.edu (Postfix) with ESMTP id A03272E0E32;
+	Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+X-Virus-Scanned: amavisd-new at zimbra.wab.edu
+Received: from zimbra.wab.edu ([127.0.0.1])
+	by localhost (zimbra.wab.edu [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id TGSCawk81EoD; Sat,  5 Mar 2016 14:11:28 +0800 (CST)
+Received: from [172.20.10.5] (unknown [156.168.150.25])
+	by zimbra.wab.edu (Postfix) with ESMTPSA id 8ABF32E0E3C;
+	Sat,  5 Mar 2016 14:11:18 +0800 (CST)
+Content-Type: multipart/alternative; boundary="===============1055395937=="
+MIME-Version: 1.0
+Subject: Account Verification
+To: Recipients <infoz@zimbra.com>
+From: "Zimbra Alert"<infoz@zimbra.com>
+Date: Sat, 05 Mar 2016 07:10:41 +0100
+X-Antivirus: avast! (VPS 160304-1, 03/04/2016), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20160305061118.8ABF32E0E3C@zimbra.wab.edu>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 100

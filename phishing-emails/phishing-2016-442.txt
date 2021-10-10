@@ -1,0 +1,33 @@
+From jose@monkey.org Mon Nov 28 15:34:53 2016 +0000
+Return-Path: owenemery@qq.com
+Delivered-To: jose@monkey.org
+X-FDA: 72232548066.19.crib03_2ab2235e18f04
+X-Spam-Summary: 10,1,0,611914496c17c3ff,d41d8cd98f00b204,owenemery@qq.com,:,RULES_HIT:41:72:146:379:495:800:962:967:973:983:988:989:1147:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1433:1434:1436:1516:1517:1518:1533:1534:1542:1575:1588:1589:1592:1594:1685:1711:1714:1730:1766:1782:1792:2194:2198:2199:2200:2525:2549:2560:2563:2610:2682:2685:2790:2827:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4605:5007:6114:6261:6300:6642:6669:6674:6678:6703:7652:7801:7874:8514:8518:8603:8957:9025:9121:9388:10004:10214:10346:11257:11658:11914:12043:12438:12517:12519:12555:12986:13025:13139:13237:13374:13439:14051:14096:14181:14721:14827:14849:21080:21212:21347:21433:21451:21524:30026:30054,0,RBL:107.182.225.44:@qq.com:.lbl8.mailshell.net-62.22.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_S
+X-HE-Tag: crib03_2ab2235e18f04
+X-Filterd-Recvd-Size: 4532
+Received: from webserver.vitasoy.com (unknown [107.182.225.44])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 28 Nov 2016 15:34:53 +0000 (UTC)
+Received: from [207.244.78.55] (port=56400 helo=[10.129.1.246])
+	by webserver.vitasoy.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.86_1)
+	(envelope-from <Owenemery@qq.com>)
+	id 1cBNxE-0005lx-8M
+	for jose@monkey.org; Mon, 28 Nov 2016 15:34:52 +0000
+Content-Type: multipart/alternative; boundary="===============0073813468=="
+MIME-Version: 1.0
+Subject: Data Usage Alert
+To: jose@monkey.org
+From: "Mail Administrator" <Owenemery@qq.com>
+Date: Mon, 28 Nov 2016 16:34:48 +0100
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - webserver.vitasoy.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - qq.com
+X-Get-Message-Sender-Via: webserver.vitasoy.com: authenticated_id: vitasoy/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: webserver.vitasoy.com: vitasoy
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 441

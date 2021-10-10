@@ -1,0 +1,37 @@
+From jose@monkey.org Thu Jun 11 08:28:16 2020 +0000
+Return-Path: bounces+9148150-96a1-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76916253792.12.field70_0209c7226dd2
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+9148150-96a1-jose=monkey.org@sendgrid.net,,RULES_HIT,0,RBL:149.72.51.201:@sendgrid.net:.lbl8.mailshell.net-64.10.201.10 62.18.0.32;149.72.51.201-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:kyodonews.jp-dnsbl7.mailshell.net-127.0.0.120,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: field70_0209c7226dd2
+X-Filterd-Recvd-Size: 6263
+Received: from wrqvppcw.outbound-email.sendgrid.net (unknown [149.72.51.201])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 11 Jun 2020 08:28:15 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=5vHN2lL31tpq2P6mlTIKOi+f6zkMq/7laStrlV8KC9k=; b=ir
+	o8C+Whrjnd9XUqrOf+T2feejGGTdN0FBsnmLAlsmRO/hMAErRLV/CVV8JPorbuto
+	5ZkE4bGQgk6DV819KJFy+e9pSt+yceCeakxXNiYK82TqPoopjx0vgI/rIRDrFUVw
+	jD3Otu3cLN6M0IZxjf9fmhozyUp8HpJJQ9g7zsBQI=
+Received: by filter1402p1las1.sendgrid.net with SMTP id filter1402p1las1-910-5EE1E300-6
+        2020-06-11 07:53:36.308589911 +0000 UTC m=+211441.461580140
+Received: from kyodonews.jp (unknown)
+	by ismtpd0043p1mdw1.sendgrid.net (SG) with ESMTP id k28OBCV-ThW_cJX1hEMt9A
+	for <jose@monkey.org>; Thu, 11 Jun 2020 07:53:36.227 +0000 (UTC)
+From: monkey.org  <kokushi10@kyodonews.jp>
+To: jose@monkey.org
+Subject: monkey.org update 
+Date: Thu, 11 Jun 2020 07:53:36 +0000 (UTC)
+Message-ID: <20200611164509.DB9529628E5714FF@kyodonews.jp>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtBTbOrfDW+BrQjKZQizHMUaRAHysA4drfE31W
+ oApFksSkqqKTRnajRx9z3rBsj4djkrVIjVkbQriMm9S2c26Jj1MWFOxNLLkv7K3eQ8Mut8JfgcRZgy
+ +ALU+gez0GeEcReVDh8HQ2r0uBy0E1cBN0iLU/YIt7cLUp3FM8TUR3tqOw==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 74

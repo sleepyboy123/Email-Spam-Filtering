@@ -1,0 +1,56 @@
+From jose@monkey.org Sat Nov 12 00:16:56 2016 +0000
+Return-Path: "blackie.swart."@standardbank.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 72172174032.24.sun90_760452582a242
+X-Spam-Summary: 84,7,0,7f4702dd1b78dfcf,d41d8cd98f00b204,"blackie.swart."@standardbank.co.za,,RULES_HIT:2:41:72:355:379:539:540:541:542:543:560:567:677:800:871:966:967:969:973:979:983:988:989:1000:1042:1155:1208:1260:1261:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1550:1556:1571:1575:1587:1594:1606:1685:1699:1710:1719:1730:1747:1764:1777:1792:1801:1823:1981:2069:2070:2073:2076:2194:2196:2198:2199:2200:2201:2393:2525:2527:2538:2539:2553:2568:2612:2682:2685:2741:2859:2890:2891:2892:2909:2910:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3167:3353:3362:3865:3866:3867:3868:3870:3871:3872:3873:3874:3892:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4222:4250:4321:4383:4384:4385:4395:4605:5007:6119:6354:6506:6669:6671:6672:6678:6703:6747:6748:7281:7398:7628:7689:7903:7933:8514:8518:8599:8603:8660:8829:8957:9025:9080:9149:9177:9199:9388:9391:9416:9908:10049:10265:10293:10346:10394:10716:11026:11245:11257:11473:11529:11604
+X-HE-Tag: sun90_760452582a242
+X-Filterd-Recvd-Size: 60850
+Received: from ZimbraMailRelayTM02.macau.ctm.net (n12531z5l67.static.ctmip.net [125.31.5.67])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 12 Nov 2016 00:16:50 +0000 (UTC)
+Received: from ZimbraMailRelayTM02.macau.ctm.net (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 8DCD81322E9;
+	Sat, 12 Nov 2016 08:16:48 +0800 (CST)
+Received: from User (unknown [27.109.254.82])
+	by ZimbraMailRelayTM02.macau.ctm.net (Postfix) with SMTP id DCD961322EA;
+	Sat, 12 Nov 2016 08:16:18 +0800 (CST)
+Reply-To: "blackie.swart."@standardbank.co.za
+From: Standard Bank <"blackie.swart."@standardbank.co.za>
+Subject: Payment confirmation 8626
+Date: Fri, 11 Nov 2016 16:16:45 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_00AE_01C2A9A6.571A16AE"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20161112001619.DCD961322EA@ZimbraMailRelayTM02.macau.ctm.net>
+To: undisclosed-recipients:;
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.0.0.1383-8.0.0.1202-22694.003
+X-TM-AS-Result: Yes-50.850-5.0-31-11
+X-imss-scan-details: Yes-50.850-5.0-31-11
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+X-TMASE-Version: IMSVA-9.0.0.1383-8.0.1202-22694.003
+X-TMASE-Result: 11-50.850200-5.000000
+X-TMASE-MatchedRID: HQYVVRq48RzoJ7ZHxnJI63lcxrzd6COFMxEQEjuwCYBkoZEbTjyPBKei
+	Vw9/mMIaua9hHN33d2iNzYJBKgDdEYdO0UeLJv9FYGMediUG/foWFL7w0dNaotBxJOjlUj7jPS/
+	lzazSb0wKFN+04nruJKebNhZo1fPA/L1suCeHgCkh4D3OBf07+uCfwdXr9UztJu4bTpgQ2vThVf
+	4qfvkhTIc7gkqXoLDY2Om/jbhb8vqssAu2h3oDpszteZfBULmQyuPeZiRGfygCIE1+cYLdFowyp
+	HbIfcxNePGAeSn124IyvQ3WORorPkH7wsB5444wiGWrzccRsv4zBHKsDHLon2G06VgR/t1JfGhG
+	MxbX5HOOGtq4RwLbmZ1U1lojafr/4GCn4bchfGvY5zxTXVb0k64V/E2G/hkcQlxz0fGPp1pAJxr
+	PiFXE0Jlc26S0Z8DclXyFJmnnKdchIDrMt7IypXOiZxWbOEGoSiQiJniiQomipTSPdiaNAZ4SK4
+	qQQlYVU3mQhmdh4RiRGzV8Bxg0caIf1lfNT7ZimBadosOIaCGbObwmRpS4MWtK0k4KkI6qgGVJO
+	Q5JIE+e8+MmV/RpxGbzlCg24oq+q93da5kXQoBF+YXPIqAdvjPn4yDW5yf3EMGTHPdXQYuIqLcd
+	t3fxyfaXUJ5fmPRfsyNb+yeIRAo7ikpJrsu/6AVlQU1z44LtIw64a0XgvUSkq1KEK+k6SGtAgVU
+	ZRPY8QEUoe1ObdXrCoQSXzGiR98SSYvOBTYp6ZGKcHUyeN33J4y0wP1A6AJ0jxvz72XsaRIy5Fm
+	vE1aVeu6llOoM7BmhVFfiT3ALaAnCr5d+5iLgXNeDmNSZpPOGZaxI6WuV8bjQW5cHwzNY/3g6Sv
+	IVBpL9q3MUhwK47dvTb9DzWrUDLr6R37DYu4PXSxOyb3xovXR5PrX6HUV9IxnmSCocElw8r21If
+	Qcli7Cdm0VnPF4ABMpXYL+xDATG/p0+V1XQ1zCYbdmoiQL0=
+X-TMASE-SNAP-Result: Not scanned
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 430

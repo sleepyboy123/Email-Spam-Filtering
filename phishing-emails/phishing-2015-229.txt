@@ -1,0 +1,46 @@
+From jose@monkey.org Sat Oct 31 15:14:34 2015 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 70802749668.10.bed27_44ec7ded5cc06
+X-Spam-Summary: 75,0,0,d41d8cd98f00b204,d41d8cd98f00b204,,,RULES_HIT:1:41:355:490:582:677:871:988:989:1152:1260:1261:1313:1314:1345:1381:1516:1517:1518:1522:1536:1575:1594:1692:1699:1711:1730:1747:1764:1777:1792:2392:2393:2566:3138:3139:3140:3141:3142:3876:3877:5007:6114:6642:6748:7281:7652:10004:10265:10400:11604:11658:11815:11914:12521:12561:30001:30054:30069:30070,0,RBL:104.47.101.221-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:77,LUA_SUMMARY:none
+X-HE-Tag: bed27_44ec7ded5cc06
+X-Filterd-Recvd-Size: 11568
+Received: from IND01-BO1-obe.outbound.protection.outlook.com (mail-bo1ind01hn0221.outbound.protection.outlook.com [104.47.101.221])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 31 Oct 2015 15:14:33 +0000 (UTC)
+Authentication-Results: spf=none (sender IP is ) smtp.mailfrom=<>; 
+Received: from [100.76.104.205] (106.216.148.173) by
+ MAXPR01MB0188.INDPRD01.PROD.OUTLOOK.COM (10.164.149.142) with Microsoft SMTP
+ Server (TLS) id 15.1.312.18; Sat, 31 Oct 2015 15:14:27 +0000
+Content-Type: multipart/mixed; boundary="===============0064410693=="
+MIME-Version: 1.0
+Subject: Update
+To: Recipients
+From: Update
+Date: Sat, 31 Oct 2015 20:44:17 +0530
+X-Originating-IP: [106.216.148.173]
+X-ClientProxiedBy: MAXPR01CA0068.INDPRD01.PROD.OUTLOOK.COM (25.164.146.168) To
+ MAXPR01MB0188.INDPRD01.PROD.OUTLOOK.COM (25.164.149.142)
+Return-Path: <>
+Message-ID: <MAXPR01MB01887A545032AA2A02B95AD3B82E0@MAXPR01MB0188.INDPRD01.PROD.OUTLOOK.COM>
+X-Microsoft-Exchange-Diagnostics: 1;MAXPR01MB0188;2:4D0DngbNSKsdDm7ltzc4sbyzJ0Vwgi3cHs6wQ89eaIZVNDV/GXMTVvhtwPGwJwyraHLzwZ8otioFXkiJqKJJQPCq9Al0m3l27tjsG2bbpdXQGPX+xnCuza3zjNTRIyiWSwBpwm/vzZVQlB6BFjKLvhPAExUB5E8Jh9Oc07FP81I=;3:lo3s9nnCnO3GKEZwK5J5CAnqjUlPeMqAgBVkJmLOs+IyILxAcB10udi5+HzhqNyxFp6Quki3LvH1yOYRkvHEjA6RSOEbvpgiZ5lD7DWsbntmMw8hHwqkeuITo4gVFovl1r0AcAKPLHJjmld3cmlZTA==;25:83r7IbeI1YNsHbRQk/rsObthBxQ9OSs2IS/1j4C4NyJD4ZYaPIQCcqsU4ir5DxOv5JBQrvm87pOIdH8xMx3XjMLBcuEN7adXWAmKtW2aOp1lrdPDRM8Ox3Q3ZUkkcojaNefgeLjaqJjXhXv4vJv3hQ==;4:3L8tIP8ptKnnXeYlmIVoPaZJ1Q6YTX5xAQjqxfN0SWR7qJxJMU1IWk9nVzKQCb8r/NTt3JsyYshw8VdeQvq0Jf4bWu/Xt9Cy53S6LfcJ44hK2RZgMig97ecOtHCcj0HKWRZdiIc7+wACojVEKHX84eE3++sFvDZ/wNyTk9mgjqVsJme5O8ed3NRZ4DFslWZVTMNpFso/D0zPwnw860oCe8mEdkjaPFfVlm4+iIigYf33T6LvCgJMnfLacrr7oy2MBO0cdUeG6li4kZBg0ZR3vCECRi8yn9KVImcUeBeoLpb7vQV0VxYmR7M78Q/QQV28
+X-Microsoft-Antispam: UriScan:;BCL:0;PCL:0;RULEID:;SRVR:MAXPR01MB0188;
+X-Microsoft-Antispam-PRVS: <MAXPR01MB0188CC42E6E13213F0B527EAB82E0@MAXPR01MB0188.INDPRD01.PROD.OUTLOOK.COM>
+X-Exchange-Antispam-Report-Test: UriScan:;
+X-Exchange-Antispam-Report-CFA-Test: BCL:0;PCL:0;RULEID:(2401047)(520078)(5005006)(8121501046)(10201501046)(3002001)(6007046)(6004014)(6003046);SRVR:MAXPR01MB0188;BCL:0;PCL:0;RULEID:;SRVR:MAXPR01MB0188;
+X-Forefront-PRVS: 07467C4D33
+X-Forefront-Antispam-Report: SFV:SPM;SFS:(10009020)(6009001)(6049001)(5005620100007);DIR:OUT;SFP:1501;SCL:9;SRVR:MAXPR01MB0188;H:[100.76.104.205];FPR:;SPF:None;PTR:InfoNoRecords;LANG:en;
+Received-SPF: None (protection.outlook.com: [100.76.104.205] does not
+ designate permitted sender hosts)
+X-Microsoft-Exchange-Diagnostics: 1;MAXPR01MB0188;23:N43pgZSCuoJT0a/x924AZJ5dQgjrRPmHmZnMVO3zdH8mD68/TyLC/nUH3Ld1G9x04HrXh2mawQyBrE2r3z5uNP8K+MgPzk2Q173Wl1rn+Txj9+FXUFOgccQVA8Fe2OcQ9zkY6aJcA/L6f6GaI40n5H3m1y6/1g1p4aahdm7rpIpxUQPR9vADhZ3urbFBqldBA7IeNhH5jxEtLXR4zpgQyB7YiUlrW7NBR7Q5pCyCdeBcHk8Q9/l0+fCBj4nLiUsy;5:7tXW9e2UnBpPAJCR7VWx/D3vwCeBoS9HD5p09X4pprskkjl2SRslhCW07HARv4J2G2qIRGVvnfttLpIUwTkBNIgCMQekKX+LAyhr7JZJ2UBI6hZzUcS6/w1wCAEV6HXsb6Baju2QDtjyVrCWHgd9RA==;24:6jTEUmIJoEpLlYidW15I0QixC7gWXYo0SN/ghHL6j3cHBKVq50aYXvPcdFXcw7YtOpBZIsemQhTheEBYAKbFVA==;20:19yymc3zownhwUSU4MdGdDuMUzZ9KEmr9JtoDV5T+ziOjF1fxsN+2Ssct1kJh5gaG7Ln82977XU6p2ecW3qsNA==
+SpamDiagnosticOutput: 1:22
+SpamDiagnosticMetadata: 00000000%2D0000%2D0000%2D0000%2D000000000000
+X-OriginatorOrg: deshk.onmicrosoft.com
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 31 Oct 2015 15:14:27.9478
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MAXPR01MB0188
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 229

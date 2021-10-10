@@ -1,0 +1,39 @@
+From jose@monkey.org Mon Oct 31 01:11:33 2016 +0000
+Return-Path: postmaster@auriculares-hifi.com
+Delivered-To: jose@monkey.org
+X-FDA: 72128766066.03.coach40_2a9f093b06123
+X-Spam-Summary: 50,0,0,22009569ed6e7008,d41d8cd98f00b204,postmaster@auriculares-hifi.com,:,RULES_HIT:41:72:355:379:474:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1543:1568:1571:1575:1588:1589:1592:1594:1711:1714:1719:1730:1776:1792:2194:2198:2199:2200:2525:2527:2539:2543:2557:2560:2563:2682:2685:2693:2859:2894:2895:2902:2915:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3041:3138:3139:3140:3141:3142:3148:3769:3865:3866:3867:3868:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4157:4248:4321:4552:5007:6261:6650:6671:6674:6678:8511:8513:8518:8603:8671:8885:8957:8987:9025:9059:9388:9411:9468:9908:9995:10004:10214:10241:10346:10400:10482:11256:11257:11473:11480:11657:11658:11914:12043:12295:12438:12517:12519:12555:12658:12660:12679:12740:12986:13007:13025:13095:13139:13237:13374:13439:13546:13551:13846:14096:14181:14246:14655:14721:14849:19901:19997:21080:21433:21436:21451:214
+X-HE-Tag: coach40_2a9f093b06123
+X-Filterd-Recvd-Size: 6590
+Received: from zmail.intime.ua (zmail.intime.ua [195.13.178.13])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 31 Oct 2016 01:11:32 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zmail.intime.ua (Postfix) with ESMTP id E9370546DE8
+	for <jose@monkey.org>; Mon, 31 Oct 2016 03:11:03 +0200 (EET)
+Received: from zmail.intime.ua ([127.0.0.1])
+	by localhost (zmail.intime.ua [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id K4cb3eS9GNjI for <jose@monkey.org>;
+	Mon, 31 Oct 2016 03:10:58 +0200 (EET)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by zmail.intime.ua (Postfix) with ESMTP id 8007654794E
+	for <jose@monkey.org>; Mon, 31 Oct 2016 02:57:34 +0200 (EET)
+X-Virus-Scanned: amavisd-new at zmail.intime.ua
+Received: from zmail.intime.ua ([127.0.0.1])
+	by localhost (zmail.intime.ua [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 4aBjMy3gnL8p for <jose@monkey.org>;
+	Mon, 31 Oct 2016 02:57:34 +0200 (EET)
+Received: from IP-222-103.dataclub.biz (unknown [46.183.222.103])
+	by zmail.intime.ua (Postfix) with ESMTPSA id 73A09547B4C
+	for <jose@monkey.org>; Mon, 31 Oct 2016 02:48:47 +0200 (EET)
+Content-Type: multipart/alternative; boundary="===============1310054241=="
+MIME-Version: 1.0
+Subject: Email Survey
+To: jose@monkey.org
+From: "Email Survey" <postmaster@auriculares-hifi.com>
+Date: Mon, 31 Oct 2016 02:49:12 +0200
+Message-Id: <20161031004847.73A09547B4C@zmail.intime.ua>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 410

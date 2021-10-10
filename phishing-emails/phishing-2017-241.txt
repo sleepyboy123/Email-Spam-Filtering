@@ -1,0 +1,39 @@
+From jose@monkey.org Wed Jul 12 00:44:55 2017 +0000
+Return-Path: ck1494@chowking.net
+Delivered-To: jose@monkey.org
+X-FDA: 73050414150.01.band00_2af11b30b5a11
+X-Spam-Summary: 50,0,0,53aabec21c0f55fe,d41d8cd98f00b204,ck1494@chowking.net,:,RULES_HIT:1:2:41:72:355:379:474:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1430:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1719:1730:1776:1792:2194:2196:2198:2199:2200:2201:2525:2527:2553:2560:2563:2682:2685:2693:2737:2771:2859:2890:2892:2899:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3650:3740:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4321:4552:5007:6119:6261:6671:6672:6678:6684:7652:7903:8583:8599:8603:8784:8957:8987:9025:9059:9121:9388:9411:9416:9468:9908:9979:10004:10216:10249:10346:11473:11480:11658:11914:12043:12438:12517:12519:12555:12679:12740:12764:12895:12986:13007:13008:13139:13208:13227:13229:13235:13237:13439:13846:13975:14096:14149:14515:21067:21080:21325:21433:21436:21450:21451:21483:21524:21627:30001:30021:30022:30026:
+X-HE-Tag: band00_2af11b30b5a11
+X-Filterd-Recvd-Size: 12707
+Received: from zmtasg2.jfc.com.ph (zmtasg2.jfc.com.ph [52.77.37.31])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 12 Jul 2017 00:44:54 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by zmtasg2.jfc.com.ph (Postfix) with ESMTP id D59E9757903
+	for <jose@monkey.org>; Wed, 12 Jul 2017 08:44:52 +0800 (PHT)
+Received: from zmtasg2.jfc.com.ph ([127.0.0.1])
+	by localhost (zmtasg2.jfc.com.ph [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id mvqWFNbRi6pC for <jose@monkey.org>;
+	Wed, 12 Jul 2017 08:44:52 +0800 (PHT)
+Received: from localhost (localhost [127.0.0.1])
+	by zmtasg2.jfc.com.ph (Postfix) with ESMTP id 7BDC975E70C
+	for <jose@monkey.org>; Wed, 12 Jul 2017 08:36:42 +0800 (PHT)
+X-Virus-Scanned: amavisd-new at jfc.com.ph
+Received: from zmtasg2.jfc.com.ph ([127.0.0.1])
+	by localhost (zmtasg2.jfc.com.ph [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id fZlfzZBVLmdi for <jose@monkey.org>;
+	Wed, 12 Jul 2017 08:36:42 +0800 (PHT)
+Received: from [192.168.8.110] (unknown [154.118.35.136])
+	by zmtasg2.jfc.com.ph (Postfix) with ESMTPSA id 684C675E970
+	for <jose@monkey.org>; Wed, 12 Jul 2017 08:28:05 +0800 (PHT)
+Content-Type: multipart/alternative; boundary="===============0232725624=="
+MIME-Version: 1.0
+Subject: MAILBOX ACCOUNT DE-ACTIVATION
+To: jose@monkey.org
+From: "EMAIL ADMINISTRATOR" <ck1494@chowking.net>
+Date: Tue, 11 Jul 2017 17:28:02 -0700
+Message-Id: <20170712002806.684C675E970@zmtasg2.jfc.com.ph>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 241

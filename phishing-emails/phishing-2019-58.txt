@@ -1,0 +1,47 @@
+From jose@monkey.org Wed Mar 13 01:36:41 2019 +0000
+Return-Path: noppharat@bags-groundservices.com
+Delivered-To: jose@monkey.org
+X-FDA: 75260483802.33.fan05_1afb793b556
+X-Spam-Summary: 50,0,0,47ed34a47d2b96ef,d41d8cd98f00b204,noppharat@bags-groundservices.com,:,RULES_HIT:1:2:41:72:334:355:368:369:375:379:495:800:962:967:973:978:983:988:989:1021:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1566:1571:1588:1589:1593:1594:1710:1714:1719:1730:1747:1777:1792:1803:2194:2196:2198:2199:2200:2201:2393:2525:2527:2560:2563:2682:2685:2737:2828:2859:2890:2893:2894:2902:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3503:3504:3804:3865:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4321:4361:5007:6117:6119:6261:6650:6669:6671:6678:6703:7809:8518:8568:8583:8599:8603:8957:9025:9388:9908:10004:10346:11473:11657:11658:11914:12043:12295:12438:12517:12519:12555:12740:12895:12955:12958:12967:12986:13007:13139:13439:13546:14096:14827:14829:21080:21212:21433:21436:21450:21451:21483:21524:21611:21627:21754:21819:30001:30021:30022:30054:30070,0,R
+X-HE-Tag: fan05_1afb793b556
+X-Filterd-Recvd-Size: 12090
+Received: from mx.bags-groundservices.com (mx.bags-groundservices.com [115.31.172.101])
+	by imf11.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Wed, 13 Mar 2019 01:36:40 +0000 (UTC)
+Received: from mx.bags-groundservices.com (localhost.localdomain [127.0.0.1])
+	by mx.bags-groundservices.com (Proxmox) with ESMTP id 94F051CDBCB
+	for <jose@monkey.org>; Wed, 13 Mar 2019 08:36:38 +0700 (+07)
+Received: from mail.bags-groundservices.com (mail.bags-groundservices.com [172.16.115.12])
+	by mx.bags-groundservices.com (Proxmox) with ESMTP id 849CD1C9972
+	for <jose@monkey.org>; Wed, 13 Mar 2019 08:36:38 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.bags-groundservices.com (Postfix) with ESMTP id 6EAA710C1E5D
+	for <jose@monkey.org>; Wed, 13 Mar 2019 08:36:17 +0700 (+07)
+Received: from mail.bags-groundservices.com ([127.0.0.1])
+	by localhost (mail.bags-groundservices.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id 6YDcFiE3-9Ot for <jose@monkey.org>;
+	Wed, 13 Mar 2019 08:36:17 +0700 (+07)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.bags-groundservices.com (Postfix) with ESMTP id F2ED010C1E6B
+	for <jose@monkey.org>; Wed, 13 Mar 2019 08:36:16 +0700 (+07)
+X-Virus-Scanned: amavisd-new at bags-groundservices.com
+Received: from mail.bags-groundservices.com ([127.0.0.1])
+	by localhost (mail.bags-groundservices.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id sbSxSz3diNMD for <jose@monkey.org>;
+	Wed, 13 Mar 2019 08:36:16 +0700 (+07)
+Received: from bags-groundservices.com (unknown [185.236.203.137])
+	by mail.bags-groundservices.com (Postfix) with ESMTPSA id 3008810C1E61
+	for <jose@monkey.org>; Wed, 13 Mar 2019 08:36:15 +0700 (+07)
+From: "Email Server" <noppharat@bags-groundservices.com>
+To: jose@monkey.org
+Subject: Server Message
+Date: 12 Mar 2019 18:36:37 -0700
+Message-ID: <20190312183637.81569440BEA24044@bags-groundservices.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 58

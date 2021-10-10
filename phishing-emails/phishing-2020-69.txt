@@ -1,0 +1,106 @@
+From jose@monkey.org Mon Jun  1 22:54:49 2020 +0000
+Return-Path: sandym@carrackltd.com
+Delivered-To: jose@monkey.org
+X-FDA: 76882149498.52.nerve00_cb519f5bee31
+X-Spam-Summary: 69,4.5,0,73d5e137396a5022,d41d8cd98f00b204,sandym@carrackltd.com,,RULES_HIT:41:72:152:355:379:392:560:582:800:871:962:967:973:983:988:989:1000:1152:1189:1208:1260:1263:1313:1314:1345:1381:1431:1432:1436:1437:1516:1517:1518:1541:1566:1573:1575:1588:1589:1592:1594:1711:1714:1730:1764:1776:1792:1823:2044:2194:2196:2198:2199:2200:2201:2525:2527:2561:2564:2682:2685:2730:2731:2737:2829:2859:2911:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3366:3421:3622:3865:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4361:4425:4512:4514:4516:4659:6001:6119:6261:6353:6354:6506:6747:6748:7281:8583:8603:8797:9015:9025:9077:9108:9165:9177:9403:10004:10214:10264:10394:10400:10429:10430:10431:11245:11604:11658:11914:12043:12050:12225:12266:12297:12306:12324:12331:12341:12354:12438:12517:12519:12555:12679:12895:12986:13139:13439:13846:13870:14096:14181:14346:14507:14721:14826:14956:19903:19997:21324:21433:21451:21524:21627:21691:21703:21789:21819:21889:21
+X-HE-Tag: nerve00_cb519f5bee31
+X-Filterd-Recvd-Size: 827085
+Received: from se2b-iad1.servconfig.com (se2b-iad1.servconfig.com [23.235.198.62])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  1 Jun 2020 22:54:47 +0000 (UTC)
+Received: from ecres243.servconfig.com ([198.46.81.60])
+	by se2-iad1.servconfig.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <sandym@carrackltd.com>)
+	id 1jftH9-000Y3K-Hd; Mon, 01 Jun 2020 18:51:47 -0400
+Received: from [::1] (port=39188 helo=ecres243.servconfig.com)
+	by ecres243.servconfig.com with esmtpa (Exim 4.93)
+	(envelope-from <sandym@carrackltd.com>)
+	id 1jftEr-005xRd-AP; Mon, 01 Jun 2020 18:49:01 -0400
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_89183471675e4da030a981390045761b"
+Date: Tue, 02 Jun 2020 01:49:00 +0300
+From: Soukghee Kim <sandym@carrackltd.com>
+To: undisclosed-recipients:;
+Subject: Purchase order RFQ-HL51L05.
+Message-ID: <6f495e88b1d333a6578f64ed2b75e30b@carrackltd.com>
+X-Sender: sandym@carrackltd.com
+User-Agent: Roundcube Webmail/1.3.8
+X-Get-Message-Sender-Via: ecres243.servconfig.com: authenticated_id: vijay@metronconstruct.com
+X-Authenticated-Sender: ecres243.servconfig.com: vijay@metronconstruct.com
+X-Originating-IP: 198.46.81.60
+X-SpamExperts-Domain: ecres243.servconfig.com
+X-SpamExperts-Username: 198.46.81.60
+Authentication-Results: servconfig.com; auth=pass smtp.auth=198.46.81.60@ecres243.servconfig.com
+X-SpamExperts-Outgoing-Class: unsure
+X-SpamExperts-Outgoing-Evidence: Combined (0.80)
+X-Recommended-Action: accept
+X-Filter-ID: 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
+ F8WgKhCu+zaqCYOhnGQhuMOi
+X-Report-Abuse-To: spam@se1-lax1.servconfig.com
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 68

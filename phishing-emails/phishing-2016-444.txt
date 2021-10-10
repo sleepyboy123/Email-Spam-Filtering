@@ -1,0 +1,44 @@
+From jose@monkey.org Mon Nov 28 21:42:04 2016 +0000
+Return-Path: vbrown@sbch.org
+Delivered-To: jose@monkey.org
+X-FDA: 72233473368.01.box87_2f35ad9f20344
+X-Spam-Summary: 30,2,0,ff221d620e24cbe1,d41d8cd98f00b204,vbrown@sbch.org,:vbrown@sbch.org,RULES_HIT:10:41:72:355:379:582:599:960:962:967:973:978:983:988:989:1152:1158:1189:1208:1221:1260:1261:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1535:1542:1575:1588:1589:1592:1594:1711:1730:1777:1792:2525:2527:2553:2557:2559:2564:2682:2685:2693:2741:2859:2890:2892:2894:2899:2902:2911:2913:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3353:3586:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4321:4361:4425:4860:5007:6117:6248:6261:6650:6678:6688:6703:7903:8603:8957:9025:9388:9855:9908:10004:10114:10241:10261:10346:10400:10450:10455:11257:11656:11658:11788:11914:12043:12050:12051:12291:12438:12519:12555:12660:12679:12683:12986:13095:13139:13237:13437:13439:14093:14096:14135:14181:14659:14721:14849:14885:19904:19999:21067:21080:21326:21433:21450:21451:30001:30022:30026:30054:30056:3
+X-HE-Tag: box87_2f35ad9f20344
+X-Filterd-Recvd-Size: 7051
+Received: from host56.sbch.org (host56.sbch.org [206.169.44.163])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 28 Nov 2016 21:42:04 +0000 (UTC)
+Received: from pps.filterd (chsProof1.sbch.org [127.0.0.1])
+	by chsProof1.sbch.org (8.15.0.59/8.15.0.59) with SMTP id uASLbVQB022892;
+	Mon, 28 Nov 2016 13:40:37 -0800
+Received: from exchcas1.sbch.org (exchcas1.sbch.org [172.25.202.220])
+	by chsProof1.sbch.org with ESMTP id 26yaj9aw97-1
+	(version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Mon, 28 Nov 2016 13:40:37 -0800
+Received: from EXCHMB3.sbch.org ([fe80::3801:65c7:7588:4b9c]) by
+ EXCHCAS1.sbch.org ([fe80::1af:b985:8c69:6df0%16]) with mapi id
+ 14.03.0301.000; Mon, 28 Nov 2016 13:40:36 -0800
+From: Victoria Brown <vbrown@sbch.org>
+To: Victoria Brown <vbrown@sbch.org>
+Subject: RE: ICT Technical Support
+Thread-Topic: ICT Technical Support
+Thread-Index: AdJJsKF1oke65jSyRZ2YnCkVqCViOQADtqtn
+Date: Mon, 28 Nov 2016 21:40:36 +0000
+Message-ID: <621C8B33355D7341855683B9DD7F3C59EB538D30@EXCHMB3.sbch.org>
+References: <621C8B33355D7341855683B9DD7F3C59EB533F0A@EXCHMB3.sbch.org>
+In-Reply-To: <621C8B33355D7341855683B9DD7F3C59EB533F0A@EXCHMB3.sbch.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+x-originating-ip: [108.61.101.142]
+Content-Type: multipart/alternative;
+	boundary="_000_621C8B33355D7341855683B9DD7F3C59EB538D30EXCHMB3sbchorg_"
+MIME-Version: 1.0
+X-Proofpoint-Spam-Reason: safe
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2016-11-28_16:,,
+ signatures=0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 443

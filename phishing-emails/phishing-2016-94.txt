@@ -1,0 +1,26 @@
+From jose@monkey.org Tue Mar  1 00:18:09 2016 +0000
+Return-Path: contactus@noreply.com
+Delivered-To: jose@monkey.org
+X-FDA: 71243204298.05.fly17_472e2a29e243d
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,78d6d381bb06d56b,d41d8cd98f00b204,contactus@noreply.com,:contactus@noreply.com,RULES_HIT:2:41:72:152:334:368:369:379:455:962:967:969:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1432:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1606:1730:1776:1792:2111:2194:2196:2198:2199:2200:2201:2525:2560:2564:2612:2682:2685:2693:2734:2737:2859:2890:2892:2902:2909:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4181:4250:4321:4361:5007:6119:6248:6650:6678:6687:7602:7652:7809:7882:7903:8599:8603:8829:8885:8957:9010:9025:9149:9388:9411:9871:9908:9973:10004:10049:10216:10346:11473:11658:11914:12043:12438:12517:12519:12555:12561:12740:12764:12776:12812:13038:13139:13236:13237:13285:14651:21080:21121:21324,0,RBL:89.111.190.105-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,Domai
+X-HE-Tag: fly17_472e2a29e243d
+X-Filterd-Recvd-Size: 7800
+Received: from ns2.bcm.ru (ns2.bcm.ru [89.111.190.105])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  1 Mar 2016 00:18:09 +0000 (UTC)
+Received: from [91.108.176.109] (unknown [91.108.176.109])
+	by ns2.bcm.ru (Postfix) with ESMTPA id D1E927FD97D;
+	Tue,  1 Mar 2016 04:08:05 +0400 (MSK)
+Content-Type: multipart/alternative; boundary="===============0499484405=="
+MIME-Version: 1.0
+Subject: Delivery Report
+To: Recipients <contactus@noreply.com>
+From: Dhl Contactus <contactus@noreply.com>
+Date: Tue, 01 Mar 2016 00:08:43 -0800
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 93

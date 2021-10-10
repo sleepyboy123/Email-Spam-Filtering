@@ -1,0 +1,40 @@
+From jose@monkey.org Fri Aug 14 22:02:48 2020 +0000
+Return-Path: 01000173eeff2ef7-bef7e54e-e5cd-4d48-8f8b-f496f746fc78-000000@email.dropbox.com
+Delivered-To: jose@monkey.org
+X-FDA: 77150549616.13.swing91_530a53b27000
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,01000173eeff2ef7-bef7e54e-e5cd-4d48-8f8b-f496f746fc78-000000@email.dropbox.com,,RULES_HIT:30054:30055:30064:30083:30090,0,RBL:54.240.39.225:@email.dropbox.com:.lbl8.mailshell.net-64.10.201.10 62.18.0.100;04ygadwaf88pao7kse3sjqbbgqd1eyr76yzask9odw6ecncj9hrofkkoofhf9ts.hde7cf5s5iqcxwrpb8okydfzckuna6xbimgidg8uxtrdnjq9ohxhka6dh86u5f8.e83kuceg5g1sfcjmsb3ngaqdtema6e5a3nohzm7odenid7m1s4eqzyeo-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: swing91_530a53b27000
+X-Filterd-Recvd-Size: 5219
+Received: from a39-225.smtp-out.amazonses.com (a39-225.smtp-out.amazonses.com [54.240.39.225])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 14 Aug 2020 22:02:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=rid2v4iwdmeb26wntc7bqs5dnqgasdul; d=dropbox.com; t=1597442568;
+	h=Content-Type:MIME-Version:From:To:CC:Subject:Date:Message-ID;
+	bh=ZN/tMstSjUvSzJ8p8kK9E73T9UFgFw6vUL9YA8wISmc=;
+	b=gefbZ4SVAIvDONor5fNzbfd8yxAXoFaKb0FLMMMfNg3M4RhYezPU2ZkWs1gbJB/N
+	/Dk1ecv2VwTMt2wzIm/iYDekdedAmq5+GDEIVx5A0h62KaywCwwbDB3Ct7wLJBtVgL+
+	4KGRsh4RC4fAEOsn6RM/LCfMuCeUwPaxYYT/CbS8=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=224i4yxa5dv7c2xz3womw6peuasteono; d=amazonses.com; t=1597442568;
+	h=Content-Type:MIME-Version:From:To:CC:Subject:Date:Message-ID:Feedback-ID;
+	bh=ZN/tMstSjUvSzJ8p8kK9E73T9UFgFw6vUL9YA8wISmc=;
+	b=QqlO4IF12SJDvsaE967EEhiTlosdA/mDAn3stY+d9RGEZS/PSiPOSDvx3xhHWq3q
+	HzHm6SXLDnm9UOCn1RKzlKLf58HgrtV6jtUl1MN9mQ+I0b1pWGbq66Xd63y8oM3aIZL
+	iZzXHprmj+Z3TGxYhL+/jwKiwwG2x7BdxWlXOFuM=
+Content-Type: multipart/alternative;
+ boundary="===============0238972177707653973=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: jose@monkey.org
+CC: 
+Subject: =?utf-8?q?Maryden_Cruz_sent_you_=22PO-095070=2Epdf=22?=
+Date: Fri, 14 Aug 2020 22:02:47 +0000
+Message-ID: <01000173eeff2ef7-bef7e54e-e5cd-4d48-8f8b-f496f746fc78-000000@email.amazonses.com>
+X-Dropbox-Message-ID: 6364659800758138256
+X-SES-Outgoing: 2020.08.14-54.240.39.225
+Feedback-ID: 1.us-east-1.syWQ1+fF8Wo1tY8y/+s85ptiAKu7bILK6PHyxwpB+xo=:AmazonSES
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 111

@@ -1,0 +1,7 @@
+From MAILER-DAEMON Thu Sep 28 09:57:25 2017
+Date: 28 Sep 2017 09:57:25 -0400
+From: Mail System Internal Data <MAILER-DAEMON@monkey.org>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1506607045@monkey.org>
+X-IMAP: 1506607044 0000000307 $Forwarded
+Status: RO

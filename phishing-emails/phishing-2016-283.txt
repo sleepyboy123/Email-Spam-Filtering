@@ -1,0 +1,42 @@
+From jose@monkey.org Wed Jun 29 15:08:51 2016 +0000
+Return-Path: louise-elliott@cspi.qc.ca
+Delivered-To: jose@monkey.org
+X-FDA: 71680904862.05.bird95_877f917d6a247
+X-Spam-Summary: 50,0,0,338ed045d02b9457,d41d8cd98f00b204,louise-elliott@cspi.qc.ca,,RULES_HIT:10:41:72:152:327:355:379:387:541:582:962:967:973:978:983:988:989:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1437:1516:1517:1518:1575:1588:1589:1594:1730:1775:1792:1803:2525:2527:2561:2564:2682:2685:2693:2859:2890:2892:2899:2902:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4362:4552:5007:6117:6261:6674:6678:7809:8599:8603:9025:9388:9868:10004:10197:10215:10346:11656:11658:11914:12043:12050:12295:12301:12555:12776:13139:14096:14651:14659:21325:21433,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:5,LUA_SUMMARY:none
+X-HE-Tag: bird95_877f917d6a247
+X-Filterd-Recvd-Size: 21413
+Received: from mta01.cspi.qc.ca (unknown [205.151.163.2])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 29 Jun 2016 15:08:50 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mta01.cspi.qc.ca (Postfix) with ESMTP id 076C72041A8;
+	Wed, 29 Jun 2016 11:06:09 -0400 (EDT)
+Received: from mta01.cspi.qc.ca ([127.0.0.1])
+	by localhost (mta01.cspi.qc.ca [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id U7V0b_B3LuO0; Wed, 29 Jun 2016 11:06:07 -0400 (EDT)
+Received: from localhost (localhost [127.0.0.1])
+	by mta01.cspi.qc.ca (Postfix) with ESMTP id B473C2041A9;
+	Wed, 29 Jun 2016 11:06:03 -0400 (EDT)
+X-Virus-Scanned: amavisd-new at cspi.qc.ca
+Received: from mta01.cspi.qc.ca ([127.0.0.1])
+	by localhost (mta01.cspi.qc.ca [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id yTDPU7vhogaj; Wed, 29 Jun 2016 11:06:02 -0400 (EDT)
+Received: from mbx03.cspi.qc.ca (mbx03.cspi.qc.ca [10.220.100.213])
+	by mta01.cspi.qc.ca (Postfix) with ESMTP id BD1B6204197;
+	Wed, 29 Jun 2016 11:06:00 -0400 (EDT)
+Date: Wed, 29 Jun 2016 11:06:00 -0400 (EDT)
+From: Louise Elliott <louise-elliott@cspi.qc.ca>
+Reply-To: "crisbyna@live.cn" <crisbyna@live.cn>
+Message-ID: <432310528.7570963.1467212760731.JavaMail.zimbra@cspi.qc.ca>
+Subject: 29/06/2016
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_7570962_850630908.1467212760730"
+X-Originating-IP: [63.141.204.63]
+X-Mailer: Zimbra 8.6.0_GA_1182 (zclient/8.6.0_GA_1182)
+Thread-Topic: 29/06/2016
+Thread-Index: xob2AXpZyc6Oh56/NWd4vUKGD5LV+g==
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 282

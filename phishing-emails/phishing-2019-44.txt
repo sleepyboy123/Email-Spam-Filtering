@@ -1,0 +1,33 @@
+From jose@monkey.org Wed Feb 27 01:52:59 2019 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 75209721678.31.smile03_37352304f2105
+X-Spam-Summary: 9,0,0,,d41d8cd98f00b204,,,RULES_HIT:30001:30007:30026:30038:30054:30055:30064:30070,0,RBL:202.162.243.202:@smtpout.netcore.co.in:.lbl8.mailshell.net-62.18.117.100 66.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hn,MSBL:0,DNSBL:colortile.in-tc.dbl.urbl.hostedemail.com-127.0.0.200,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: smile03_37352304f2105
+X-Filterd-Recvd-Size: 4132
+Received: from smtpout.netcore.co.in (smt202.nsmailserv.com [202.162.243.202])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 27 Feb 2019 01:52:59 +0000 (UTC)
+Received: from smtp18.netcore.co.in (unknown [192.168.2.219])
+	by smtpout1.netcore.co.in (Postfix) with ESMTP id 709E62297E4A;
+	Wed, 27 Feb 2019 07:22:53 +0530 (IST)
+Received: from [192.168.8.100] (unknown [216.198.187.41])
+	(Authenticated sender: niraj@aiaengineering.com)
+	by smtp18.netcore.co.in (Postfix) with ESMTPA id 32BA71D604D6;
+	Wed, 27 Feb 2019 07:21:48 +0530 (IST)
+Content-Type: multipart/alternative; boundary="===============0567928426=="
+MIME-Version: 1.0
+Subject: Your 72,000 rs 2019 TDS Payment Was Declined
+To: me <>
+From: "My TDS"<>
+X-Intloopheader: 0
+Date: Wed, 27 Feb 2019 02:49:08 +0100
+X-SMTP33-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner-ID: 32BA71D604D6.AEFB3
+X-SMTP33-MailScanner: Found to be clean
+X-MailScanner-From: 
+X-Spam-Status: No
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 44

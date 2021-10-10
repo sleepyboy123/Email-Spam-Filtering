@@ -1,0 +1,34 @@
+From jose@monkey.org Wed Dec 21 01:18:23 2016 +0000
+Return-Path: info@zimbra.com
+Delivered-To: jose@monkey.org
+X-FDA: 72313852086.04.yard89_edc01c77033c
+X-Spam-Summary: 53,3.2,0,b6514c0d19580434,d41d8cd98f00b204,info@zimbra.com,:,RULES_HIT:2:41:72:196:355:379:800:962:966:967:969:973:978:983:988:989:1042:1189:1208:1213:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1566:1570:1575:1588:1589:1592:1594:1622:1714:1730:1744:1776:1792:2069:2070:2196:2198:2199:2200:2525:2527:2553:2557:2560:2567:2610:2612:2682:2685:2859:2890:2899:2902:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3040:3138:3139:3140:3141:3142:3392:3586:3769:3866:3867:3868:3870:3871:3872:3873:3884:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4120:4321:4361:4385:4605:5007:6119:6238:6261:6669:7652:7903:8599:8603:8957:8985:9025:9411:9416:9468:9908:10008:10214:10249:10250:11232:11258:11480:11657:11658:11914:12043:12438:12555:12776:12903:12986:13139:13234:13235:13236:13237:13374:13439:14096:14525:14596:14651:21080:21259:21325:21366:21433:21450:21451:21524:30001:30022:30026:30054:30070:30075:30083:30090,0,RBL:er
+X-HE-Tag: yard89_edc01c77033c
+X-Filterd-Recvd-Size: 9561
+Received: from gate.emtres.co.id (gate.emtres.co.id [116.90.165.42])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 21 Dec 2016 01:18:21 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by gate.emtres.co.id (Postfix) with ESMTP id CF2A4675478A
+	for <jose@monkey.org>; Wed, 21 Dec 2016 08:18:19 +0700 (WIT)
+X-Virus-Scanned: amavisd-new at gate.emtres.co.id
+Received: from gate.emtres.co.id ([127.0.0.1])
+	by localhost (gate.emtres.co.id [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vh+YOyGE3DRZ for <jose@monkey.org>;
+	Wed, 21 Dec 2016 08:18:18 +0700 (WIT)
+Received: from [172.20.10.2] (unknown [197.210.25.8])
+	by gate.emtres.co.id (Postfix) with ESMTP id 978426758C5D
+	for <jose@monkey.org>; Wed, 21 Dec 2016 06:41:58 +0700 (WIT)
+Content-Type: multipart/alternative; boundary="===============2137479980=="
+MIME-Version: 1.0
+Subject: Account Verification 
+To: jose@monkey.org
+From: "Zimbra Alert"<info@zimbra.com>
+Date: Wed, 21 Dec 2016 00:41:54 +0100
+X-Antivirus: avast! (VPS 161220-1, 12/20/2016), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20161220234158.978426758C5D@gate.emtres.co.id>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 478

@@ -1,0 +1,84 @@
+From jose@monkey.org Mon Aug 10 17:18:49 2020 +0000
+Return-Path: care@amazn-usshipment2.co
+Delivered-To: jose@monkey.org
+X-FDA: 77135318778.49.fold96_2a0f38926fdb
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,care@amazn-usshipment2.co,,RULES_HIT:4310:30009:30018:30019:30022:30025:30034:30038:30045:30054:30055:30059:30064:30074:30075:30081:30083:30090:30091,0,RBL:52.100.188.230:@amazn-usshipment2.co:.lbl8.mailshell.net-64.100.201.201 62.2.117.32;04yrs69reaotq3egsuiymx1xg8jeoorpjahpwedn6cdcxnqt9fx8jofmefk6ui7.x33pzf8uibs8zgfheiwwod8wdj74eqcz6ucgsiaijn6o4x7efaisob48dr18xkg.yabksuueyfyc1rcbk7zf9a4wub4ptc5oz7pesdbwh8tizob7mte5ma6y-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:none,Custom_rules:0:1:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: fold96_2a0f38926fdb
+X-Filterd-Recvd-Size: 28790
+Received: from IND01-BO1-obe.outbound.protection.outlook.com (mail-bo1ind01hn2230.outbound.protection.outlook.com [52.100.188.230])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 10 Aug 2020 17:18:48 +0000 (UTC)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=hhgr3VcwmkGBvGROhN0aPQcz3aU7mAiAp+FW6TJfCvDuhaO4a6RQOzhmckLYgCNyfpvEotRbG7ZloD55ZpXv6P/KSfmTgLD34TxkALn+8qUWC75nn8ustbwAw/SGfFTg5zbRm2kQnf8HzxsO2gnwqrxGU0GmnNOpG+RDgplmtiM1hnHahojM0vJd1i1wcTGfDqGPMK0gsAeA+z7jN1zG7w8xYVfBe3xsFzDdqUzeLwbvqtNqBmq5hlHTeL0lIakeSKXieGepvZVOAy7J2W11zKuagidFWCaFvQldtw20uQKMtQ99oGAbucIEvCk4syC7e/s4EOneKMcDBookGpJ/KQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=wmufsmqu7Vnh/OilwJK0gRlaRPaa5+hHkMIdKYDTYug=;
+ b=gDM49BdiwFfQ+0XzePYCwViJJJF90jKy4hpAh0MrWL8yyUH+QxsP2XzX4vXpVHpaQP24yCoJg33PdJrwPIRp4HjLI63jlC+mATglLALBcQQ8IZ7wC9Luv9iO1ClVnvVE0S4cr7RKdszqo+SK9Dr3B+BQAkONXZFjUE1kqIOCXZObD9BQYgY4YvX3gRvWiUDbktBDmsZnGNXyOr8L8v6K3toqURrHfceEX25HvuI5iycWmvbffy3Sox6tdWFHxFduZXppNAQExB6jUvY6HllKcTajAMEc2SlGXyFIMDNm/CA+tYoCXg0O8J/Ae6GrDInvml/e4vRC/mvyokCnBhyBRg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=amazn-usshipment2.co; dmarc=pass action=none
+ header.from=amazn-usshipment2.co; dkim=pass header.d=amazn-usshipment2.co;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=NETORGFT6015033.onmicrosoft.com;
+ s=selector1-NETORGFT6015033-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=wmufsmqu7Vnh/OilwJK0gRlaRPaa5+hHkMIdKYDTYug=;
+ b=V4rI8tYV7lgRJIMG3l4oi1FeKyfHiwC4dufWZIpkDgsXEkKDheX0FAxH4iY8eWdpwhG1bpF74IJju58EpPRuZV93BaTkzUqualfawHGbIiruo3rxGNXrd+IGvpWYzCP44cbXihMotiWYcTygJVkLjKsoG3YjVf6rwwj+sPnf5Uk=
+Received: from MA1PR0101MB1173.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a00:23::23) by MAXPR01MB3071.INDPRD01.PROD.OUTLOOK.COM
+ (2603:1096:a00:5a::21) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3261.20; Mon, 10 Aug
+ 2020 17:18:44 +0000
+Received: from MA1PR0101MB1173.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::616e:a9d8:889e:49f6]) by MA1PR0101MB1173.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::616e:a9d8:889e:49f6%7]) with mapi id 15.20.3261.024; Mon, 10 Aug 2020
+ 17:18:44 +0000
+From: Order Shipment <care@amazn-usshipment2.co>
+To: "jose@monkey.org" <jose@monkey.org>
+Subject: Order Shipping Confirmation #991-4958216-1093584
+Thread-Topic: Order Shipping Confirmation #991-4958216-1093584
+Thread-Index: AQHWbzo7MpivQTKYzUWKAP9chWA/cg==
+Date: Mon, 10 Aug 2020 17:18:17 +0000
+Message-ID: <e39e245b-67fc-1004-4dd2-066a124dadfa@amazn-usshipment2.co>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+authentication-results: monkey.org; dkim=none (message not signed)
+ header.d=none;monkey.org; dmarc=none action=none
+ header.from=amazn-usshipment2.co;
+x-originating-ip: [47.31.75.190]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 92582af3-1df2-4e28-e441-08d83d516fb1
+x-ms-traffictypediagnostic: MAXPR01MB3071:
+x-microsoft-antispam-prvs:
+ <MAXPR01MB30711475CEE0D24918273AF1BD440@MAXPR01MB3071.INDPRD01.PROD.OUTLOOK.COM>
+x-ms-oob-tlc-oobclassifiers: OLM:10000;
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ xbGAwIxb7vHn8LF06Zh0O9FPYrwTy2AiCAwUQJg/EkoFk2KrQq2kjNTqRexgTNZmBYzX+zVzx27fNZgDOIS77elH5Ab9fdkCFIj4LhQGVpwfJhgRpHzIBUWaV/xZykd2lbRX2JC+vINVFv+WBqvKfRvKnlGPnPGcc8rpOBmIFQRrYVdKgZ5bkOKNILtDjoMCGmmmiafFXtUGeyI91hyEGa1CuoZZexxvbQ8PZwgHd1XRJTXOwS9/jnLZxF/32qyUo5bIfMxJBkEgcDyoTIbxkUIGKTxZA/rZ9s4WrXSglwqlqUxg1MiehhCM4NtL+E5N6EA2Bh5g3qSSVjeS0jd6KVD3wmk9JkDrOo1KxNq7nfXnsfGQ2um77EPAqvHZdJBkI1Gi1NAoYXKqQ0RnWZ14W4PPjYsY7zmr+G2OzAQiGv3zXk5psD1q7dIv8hXHhg+WXibhiKZL+bC2m7X0pVEATXmqSv02Y/fm3WA1S/HpImbfJ4nA4iQsMw3XAqIYz4eyFuFk06HFw98MMo++H6XW6saBu5fLzLBDk01Xynp0wJZr4spToip8+3cwe6JRW8CA+/R34v2k86ZVncPAAzrMVQEC5IM5088C+mgjv3l+mvZm5MXK+cKyCh1ecxQTsnhvOL73JMoqdHEExTzY5hLP/XcRUSf/mJX/AbrCbbuTsg8AVt636N25v1ObFmiT6AcHwrHHvkgTSf3ryQXVnFfWZhik1zOCAjxCfvrwh+oUep1b9zdLINw0Xgtu/MHdiIm4NiYmhGuHZ81KQJCJu+9IIT9hrx+g8hzxpgR0WESeEly9iSGO0bQnybdhFI/0xsKFxx3RHgB3hWJQOjPmRVv50wiwawVLX8xDXRa1Lt+ahWNkfy9sUhR9BgGOUJ83pcpHlbgCBvBn9X9vYgeUKrJ1Bj4AvqQWYTif44pIG11x6Gc=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:9;SRV:;IPV:NLI;SFV:SPM;H:MA1PR0101MB1173.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:OSPM;SFTY:;SFS:(376002)(346002)(366004)(136003)(39860400002)(396003)(6506007)(316002)(71200400001)(5660300002)(186003)(26005)(6666004)(31686004)(2906002)(66446008)(6486002)(64756008)(66556008)(66476007)(76116006)(66946007)(6916009)(36756003)(2616005)(86362001)(31696002)(76236003)(166002)(8676002)(8936002)(83080400001)(83380400001)(16799955002)(508600001)(6512007);DIR:OUT;SFP:1501;
+x-ms-exchange-antispam-messagedata:
+ LFz1MF7xJ+gszl8kimezaq1Y7vZ521IO0nvk6j2Zkd3J/Y+UKoSroVkY+qGC51Es07CBDklC003pbW3g/pqTKBWE4dwanaqtlvlCY8/XHyDs2VaT07HGHLtCVsr9Hl+JdMx15iRUTZLGyXpMXC9ujBr87EmAL7M+f4yfnrXQWs3cXGrvkAM+Tz5YQ+DeUtgMAL1zt6ma4voSozZIdLKT4ab/5CyKIDdTf61gZ53bkcpX1JYfR16r1l8MTKfxZid30Ube/DphvCO8RqnBrATofbGkxexv2Oq4AG4TV+BCOGAKyu71QWLVSY2xZ8irzD710ijh6dpd9tQW+QSaPhbOGxy4Euhx8s5vwDKAYQRo75GLngvmQEBXiGjXVlA2mIofUJwpYFQ/gyNe8FwPXzr94fai69h2eYTleqrOP1A+rfaHlCYElfdsWYRbyyT6cJWlSSiquO2FBLtHfnS3X1pOVZXS06ByT4bYhS0TyzwjCQNUno7EyA+ie5V39aW+BJEOxdFdbj7+o+25QLCxvcPKX7yhq04fFKCidDzQq2wr9yp5OTEnURmGouMaJJywJ5WoOcCkH7rccioIDEGlhWdhQ44oSphda/N9iY76n8b1pSb5Ibd+WMGTblU41eceITME0AE506Bq4seHO39eEa3HNQ==
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_e39e245b67fc10044dd2066a124dadfaamaznusshipment2co_"
+MIME-Version: 1.0
+X-OriginatorOrg: amazn-usshipment2.co
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MA1PR0101MB1173.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 92582af3-1df2-4e28-e441-08d83d516fb1
+X-MS-Exchange-CrossTenant-originalarrivaltime: 10 Aug 2020 17:18:17.8337
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: a305e678-9780-4315-ab45-ab0d2aac565d
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: urm2XInKXoKYDpNGwfAKdEQNi3rRgMyN9NFhS/TPNzpaN581bEqKMlN6JW+wLT+JOWxGDRYXKorhkRkYEDzuardNB2lYouWD82bv9fRgbBc=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MAXPR01MB3071
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 108

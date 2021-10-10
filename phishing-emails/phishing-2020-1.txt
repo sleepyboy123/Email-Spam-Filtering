@@ -1,0 +1,7 @@
+From MAILER-DAEMON Mon Mar  8 10:59:28 2021
+Date: 08 Mar 2021 10:59:28 -0500
+From: Mail System Internal Data <MAILER-DAEMON@monkey.org>
+Subject: DON'T DELETE THIS MESSAGE -- FOLDER INTERNAL DATA
+Message-ID: <1615219168@monkey.org>
+X-IMAP: 1615219168 0000000157
+Status: RO

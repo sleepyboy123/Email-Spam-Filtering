@@ -1,0 +1,28 @@
+From jose@monkey.org Mon Feb  8 23:46:34 2016 +0000
+Return-Path: accountdepartccnt@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71166919908.13.bean74_1c1defbf5925f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 80,6,0,d41d8cd98f00b204,d41d8cd98f00b204,accountdepartccnt@mail.mil,:accountdepartccnt@mail.mil,RULES_HIT:4:41:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:1803:2392:2393:2559:2562:2926:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:8634:10004:10400:11604:11658:11914:12166:12340:12561:13035:13110:14129:14515:14687:21080:30026:30054:30055:30070,0,RBL:68.117.120.82:@mail.mil:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: bean74_1c1defbf5925f
+X-Filterd-Recvd-Size: 17750
+Received: from lnhserver1.ladysmithcarecommunity.com (68-117-120-82.static.eucl.wi.charter.com [68.117.120.82])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Feb 2016 23:46:32 +0000 (UTC)
+Received: from lnhserver1.ladysmithcarecommunity.com ([127.0.0.1]) by lnhserver1.ladysmithcarecommunity.com with Microsoft SMTPSVC(7.0.6001.18000);
+	 Mon, 8 Feb 2016 17:32:32 -0600
+Content-Type: multipart/mixed; boundary="===============1285315914=="
+MIME-Version: 1.0
+Subject: UPDATE YOUR ACCOUNT CREDENTIALS NOW
+To: Recipients <accountdepartccnt@mail.mil>
+From: "USAA" <accountdepartccnt@mail.mil>
+Date: Mon, 08 Feb 2016 17:32:32 -0600
+Return-Path: accountdepartccnt@mail.mil
+Message-ID: <LNHSERVER1ZRhQdOgl40000042f@lnhserver1.ladysmithcarecommunity.com>
+X-OriginalArrivalTime: 08 Feb 2016 23:32:32.0817 (UTC) FILETIME=[FBD05210:01D162C8]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 56

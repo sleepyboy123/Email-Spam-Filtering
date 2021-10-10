@@ -1,0 +1,41 @@
+From jose@monkey.org Sat Nov  7 21:29:34 2020 +0000
+Return-Path: bounces+1404844-ff58-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 77458913868.17.6A85F98
+Received: from wrqvdrnw.outbound-mail.sendgrid.net (wrqvdrnw.outbound-mail.sendgrid.net [149.72.213.41])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP id 48E8810049169
+	for <jose@monkey.org>; Sat,  7 Nov 2020 21:26:05 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.me; 
+	h=content-type:mime-version:subject:to:from; s=smtpapi; 
+	bh=oE++XW59E0AWd81neN8fF33EKSVc6lcrkMKOSf5eAaM=; b=AePdAIM+McURg
+	aotQbof1RcOEyniFO0rJZBBfZXdCJbgXFy148R9gUhdfO5aEeVK7xNuu5d9Dwcpq
+	oSAYxoovajnHd/16aVkhsQ+NJx3xhMOigmwwA80XhL5FxDlGBdU7UDpUng1oUdPv
+	KC4Isq6w/kHvnAA5raPoEM9i1AsDzQ=
+Received: by filter1202p1iad2.sendgrid.net with SMTP id filter1202p1iad2-23912-5FA70F5C-3
+        2020-11-07 21:19:24.195515025 +0000 UTC m=+175216.398243673
+Received: from WIN-FOMUDORV2EI.ec2.internal (unknown)
+	by geopod-ismtpd-1-0 (SG) with ESMTP id UikejQB0QGCJlVSBdx1RtA
+	Sat, 07 Nov 2020 21:19:24.176 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============1316091056=="
+MIME-Version: 1.0
+Subject: Re: Wire Transfer Comfirmation(07-11-2020.xlsx
+To: Recipients <error@insomenia.com>
+From: " EFT / ACH PAYMENTS: " <error@insomenia.com>
+Date: Sat, 07 Nov 2020 21:19:25 +0000 (UTC)
+Message-ID: <UikejQB0QGCJlVSBdx1RtA@geopod-ismtpd-1-0>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtAhHGstHklcF0HWGXrhvta9HEGv7so3IbrwbU
+ haI1ZZ+KaLDrNBRABdkH38kkYcJXMFxQKJqkgHPj3Dt8QZDhP1lnCXXG/LaPc/i8XxwzkihUrU2qM0
+ 7dx88UBA/ZCQconrLuD2yE+828MDGGp8ac6A+56AHq8hVPfhbCcpsuuowt3BcPKC4bdRUadoZswiOd
+ Q=
+X-Entity-ID: dagnq2wpA7VVWRDcD3qayw==
+X-Spam-Summary: 40,2.5,0,6ae65beabba4bd0f,d41d8cd98f00b204,bounces+1404844-ff58-jose=monkey.org@sendgrid.net,jose@monkey.org,RULES_HIT:41:72:355:379:455:599:962:967:973:983:988:989:1189:1208:1221:1313:1314:1345:1381:1431:1432:1436:1437:1516:1517:1518:1535:1543:1546:1548:1550:1575:1588:1589:1592:1594:1711:1714:1730:1777:1792:1801:2194:2198:2199:2200:2328:2525:2527:2553:2567:2610:2682:2685:2741:2859:2892:2893:2911:2915:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3586:3865:3866:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4180:4181:4321:4425:4605:5007:6117:6238:6653:6678:6687:6760:7688:7903:8829:8885:8957:9025:9075:9080:9083:9149:9468:9908:9942:9979:10004:10216:10346:10400:10450:10455:11026:11233:11657:11658:11845:11967:12043:12296:12297:12438:12543:12555:12561:12986:13095:13139:13143:13230:13236:13237:13439:13868:14036:14096:14181:14196:14721:14818:19904:19999:21060:21067:21080:21347:21433:21451:21524:21627:21789:21819:2
+ 1838:21939:30019:30021:30026:30038:30054:30069:30070:30075:30090,0,RBL:04yg4883oqeeqmo4a58sozw9b6ir1orbxko6gwk4jd4uxxo9yhma7eonygejnz9.dp91czxdjn7i53e1oxie84ng8ue6oanqx9a7n3x86d4wiyjz7wdbfor44gk9e3j.1twba3zdkpmpoc84jg8nwmwrcabh-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:26,LUA_SUMMARY:none
+X-HE-Tag: 1604784365-667503
+X-Spam-Status: No, score=10.45
+X-Stat-Signature: udtx7pmgatdsm5wmmgze5n7eyropu3an
+X-Rspamd-Queue-Id: 48E8810049169
+X-Rspamd-Server: rspam02
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 139

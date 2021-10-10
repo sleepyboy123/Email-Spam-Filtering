@@ -1,0 +1,41 @@
+From jose@monkey.org Sat Jan 28 15:42:44 2017 +0000
+Return-Path: gerdon@mwt.net
+Delivered-To: jose@monkey.org
+X-FDA: 72453924648.01.53778BA
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin01.b.hostedemail.com (Postfix) with ESMTP id A5D242588C9
+	for <jose@monkey.org>; Sat, 28 Jan 2017 15:18:26 +0000 (UTC)
+X-Spam-Summary: 86,7.5,0,96e985233da5cb02,d41d8cd98f00b204,gerdon@mwt.net,:gerdon@mwt.net,RULES_HIT:41:69:152:327:379:421:677:871:960:969:973:978:988:989:1254:1260:1313:1314:1381:1437:1516:1517:1518:1540:1575:1594:1699:1711:1730:1747:1764:1777:1792:1803:2145:2393:2549:2568:2693:2741:2820:2890:2892:2895:2896:2897:2924:2925:2926:3138:3139:3140:3141:3142:3352:3740:3865:3866:3867:3868:3871:3873:3976:4042:5007:6119:6261:6684:6687:6748:7281:7398:7652:7907:8568:8829:9199:10013:10240:10265:10394:10400:11604:11658:11914:12043:12215:12217:12295:12517:12519:12561:12679:12683:13116:13132:13180:13229:13231:13439:14036:14037:14129:14507:14686:14828:21080:21450:21451:30001:30003:30004:30006:30007:30008:30009:30011:30012:30018:30019:30022:30026:30029:30034:30037:30041:30051:30054:30055:30064:30067:30069:30070:30074:30075:30080:30083,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: fire88_66c1d58483f29
+X-Filterd-Recvd-Size: 41066
+Received: from westhall-mail.footholds.net (runwild-dev.servers.prgn.misp.co.uk [95.142.155.93])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 28 Jan 2017 15:18:25 +0000 (UTC)
+Received: from [46.20.35.112] (port=49883 helo=VM-WIN2K8-1563.appvz-dhcp)
+	by westhall.footholds.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <gerdon@mwt.net>)
+	id 1cXUk3-002xfG-4t; Sat, 28 Jan 2017 15:16:43 +0000
+Content-Type: multipart/mixed; boundary="===============0266677119=="
+MIME-Version: 1.0
+Subject: Action needed regarding your Account..
+To: Recipients <gerdon@mwt.net>
+From: "Bank of America. Online Alerts."<gerdon@mwt.net>
+Date: Sat, 28 Jan 2017 07:16:29 -0800
+Reply-To: bankofamericaonline@mail.com
+X-OutGoing-Spam-Status: No, score=5.6
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - westhall.footholds.net
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - mwt.net
+X-Get-Message-Sender-Via: westhall.footholds.net: authenticated_id: micolian@jevincornell.com
+X-Authenticated-Sender: westhall.footholds.net: micolian@jevincornell.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Message-Id: <20170128151826.A5D242588C9@smtpin01.b.hostedemail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 36

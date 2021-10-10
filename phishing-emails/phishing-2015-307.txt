@@ -1,0 +1,54 @@
+From jose@monkey.org Thu Dec 31 09:16:42 2015 +0000
+Return-Path: customerrelationshipalert@capitalone.com
+Delivered-To: jose@monkey.org
+X-FDA: 71023204644.17.pigs56_3a9235e7afa1d
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 34,2.2,0,00620062158eac50,d41d8cd98f00b204,customerrelationshipalert@capitalone.com,,RULES_HIT:2:41:152:355:379:387:539:540:541:542:543:567:677:704:871:962:967:973:988:989:1000:1155:1189:1260:1263:1308:1309:1313:1314:1345:1381:1432:1433:1434:1436:1437:1516:1517:1518:1567:1571:1575:1587:1588:1589:1592:1594:1685:1714:1730:1764:1777:1792:1803:1823:2073:2076:2107:2198:2199:2525:2539:2568:2682:2685:2859:2890:2895:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3362:3586:3619:3623:3863:3865:3867:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4049:4321:4362:4365:4605:5007:6117:6119:6238:6261:6354:6506:6678:6747:6748:7212:7281:7398:7801:7809:7903:8516:8603:9025:9080:9121:9388:9898:10008:10049:10214:10265:10394:11026:11233:11473:11537:11604:11657:11658:11850:11914:12043:12219:12438:12555:13005:13017:13018:13019:13139:13374:14659:21212:21324:30001:30003:30006:30007:30009:30012:30016:30019:30022:30028:30034:30037:30041:30052:3005
+X-HE-Tag: pigs56_3a9235e7afa1d
+X-Filterd-Recvd-Size: 104714
+Received: from omr2.cc.vt.edu (outbound.smtp.vt.edu [198.82.183.121])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 31 Dec 2015 09:16:42 +0000 (UTC)
+Received: from mr5.cc.vt.edu (mr5.cc.ipv6.vt.edu [IPv6:2001:468:c80:2105:0:2b8:b328:9234])
+	by omr2.cc.vt.edu (8.14.4/8.14.4) with ESMTP id tBV96wQZ010484;
+	Thu, 31 Dec 2015 04:06:58 -0500
+Received: from Unknown (h80ad7345.dhcp.vt.edu [128.173.115.69])
+	by mr5.cc.vt.edu (8.14.4/8.14.4) with SMTP id tBV96cjl028162;
+	Thu, 31 Dec 2015 04:06:44 -0500
+Message-ID: <4EC9A531E391424B965FA0CB2CF38F60@prwgg>
+From: "Capital One 360" <customerrelationshipalert@capitalone.com>
+Subject: Important Security Alert!
+Date: Thu, 31 Dec 2015 09:05:32 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0841_01D143AA.671C1510"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5843
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5579
+X-Spam-Flag: YES
+X-Spam-Status: Yes, score=8.0 required=5.0 tests=DATE_IN_FUTURE_06_12,
+	DOS_OE_TO_MX,DYN_RDNS_SHORT_HELO_HTML,FSL_HELO_NON_FQDN_1,HTML_MESSAGE,
+	KHOP_DYNAMIC,MISSING_HEADERS,RDNS_DYNAMIC,TO_NO_BRKTS_MSFT,T_HTML_ATTACH,
+	URI_WP_HACKED autolearn=disabled version=3.3.1
+X-Spam-Report: 
+	*  0.0 FSL_HELO_NON_FQDN_1 FSL_HELO_NON_FQDN_1
+	*  0.0 DATE_IN_FUTURE_06_12 Date: is 6 to 12 hours after Received: date
+	*  1.2 MISSING_HEADERS Missing To: header
+	*  0.0 HTML_MESSAGE BODY: HTML included in message
+	*  0.0 T_HTML_ATTACH HTML attachment to bypass scanning?
+	*  0.4 RDNS_DYNAMIC Delivered to internal network by host with
+	*      dynamic-looking rDNS
+	*  0.0 KHOP_DYNAMIC Relay looks like a dynamic address
+	*  0.0 DYN_RDNS_SHORT_HELO_HTML Sent by dynamic rDNS, short HELO, and HTML
+	*  3.1 DOS_OE_TO_MX Delivered direct to MX with OE headers
+	*  0.8 URI_WP_HACKED URI for compromised WordPress site, possible malware
+	*  2.5 TO_NO_BRKTS_MSFT To: lacks brackets and supposed Microsoft tool
+X-Spam-Level: *******
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on mr5.cc.vt.edu
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 307

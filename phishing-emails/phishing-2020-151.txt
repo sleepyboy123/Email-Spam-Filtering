@@ -1,0 +1,102 @@
+From jose@monkey.org Sun Nov 29 21:02:36 2020 +0000
+Return-Path: bounces+18570370-21fe-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 77538679512.50.E930148
+Received: from xtrwkkxd.outbound-mail.sendgrid.net (xtrwkkxd.outbound-mail.sendgrid.net [167.89.17.173])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP id 57F06BAC50
+	for <jose@monkey.org>; Sun, 29 Nov 2020 21:02:33 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net;
+	h=content-type:from:mime-version:subject:reply-to:to:list-unsubscribe;
+	s=smtpapi; bh=wLuXCjaduLeb3jvu19rJQok1onerWnXgff3QOnDvDaE=;
+	b=STm3Skox/UMrUo+lgq5KMVSTHt0TxTlUWn0+r78Nnx7MkVgtvX8trmJX3518EIuf4gEQ
+	dY6cl18+cpZyT+6mB1/JmHihQKGm9t6kYXwOH2+O5etVa9Ai0oZTReSfnHLpxPOZLtTpqq
+	w3xQ4expoCmhK/1Pz4VIoiaIkt2YvT5us=
+Received: by filterdrecv-p3mdw1-5f8d7bb6d9-92t4v with SMTP id filterdrecv-p3mdw1-5f8d7bb6d9-92t4v-17-5FC40431-7
+        2020-11-29 20:27:29.156451615 +0000 UTC m=+1122999.933362747
+Received: from MTg1NzAzNzA (unknown)
+	by ismtpd0060p1mdw1.sendgrid.net (SG)
+	with HTTP
+	id MO5HJKchRZSsaR18Xa5auw
+	Sun, 29 Nov 2020 20:27:29.122 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=b83402da3ae343503e291e2e462d763159ba385de005b78e21c21356dccf
+Date: Sun, 29 Nov 2020 20:27:29 +0000 (UTC)
+From: RAKUTENN <azuzo@terra.com.br>
+Mime-Version: 1.0
+Message-ID: <MO5HJKchRZSsaR18Xa5auw@ismtpd0060p1mdw1.sendgrid.net>
+Subject: #CASE: X789703648
+Reply-To: azuzo@terra.com.br
+X-SG-EID: 
+ =?us-ascii?Q?Y5vQ2Mq9o7WyBUHa5lJfsFevqxVMdzgpmWLvRc+oTEdjYFYoL8lu9ZdYCFu3Qa?=
+ =?us-ascii?Q?jdMR8Y7za47aRSnq9TmnTYHe6ywsFLyMdgAPfnQ?=
+ =?us-ascii?Q?p+96wCsna0Zu1TtMwXdMM9tWBXAJfMdxi+=2F9Fc=2F?=
+ =?us-ascii?Q?Xm3uHahIaP+t6hgLSTsgVRTFzO4UkzlULYpbSHa?=
+ =?us-ascii?Q?=2Ft0UVLubCG4V06jiN=2FizQmjcgbrGXYHURdUlpao?=
+ =?us-ascii?Q?mp0ql6SmsCfHItYEZU1OjQw6=2FVAv=2FUHqLUZ12=2F?=
+X-SG-ID: 
+ =?us-ascii?Q?se=2F49CGmbS0sfR97ImeXvDoOrI1ra2UfBi=2FYp+tM4sZNnFcdeo8cVPRMz3vfJ1?=
+ =?us-ascii?Q?B4lB8ss1VLTXJ6ibLPDs95VBUlMzbRCfT5eXVrQ?=
+ =?us-ascii?Q?W0=2FHUG4SNNnuyg=2FYhjYpTix07=2FrsHMG+Tqh7zUH?=
+ =?us-ascii?Q?F3P8DyU18PDI2JLEfMut8Jwr7K+qyBIK1hR+xho?=
+ =?us-ascii?Q?3rROSqwHU+FWJFLAx3E5D3aNEue6br=2FueFZr3iL?=
+ =?us-ascii?Q?E6ZD3d2Ta1JvvLqnFdGeztGzwhufvZ9bBaqFjSo?=
+ =?us-ascii?Q?+HEPM+QgKW156+UXSaAF3sY7SGbTaxb8XTddkCq?=
+ =?us-ascii?Q?8cbephD4A4fDnsuXRRI1T8jyjFtwvt8=2F2RFulAj?=
+ =?us-ascii?Q?7sl5PIAzQM+0Xz4RVo6Y9lWyM+vUgQQ=2Fr9CCDD0?=
+ =?us-ascii?Q?SvooVP+06HaBwuprNHRZty7MxI60s019CxqO3t4?=
+ =?us-ascii?Q?kdedCtn9BpQq1GHplMDCQkkF1sveFFfXmuBTxu6?=
+ =?us-ascii?Q?Fr3BcrcZIiiDK0eZOV6EWJpgWD1DD+4aOBFl04Z?=
+ =?us-ascii?Q?fY1Iakn8dqjicZyC9=2FwDVinaajTQG2oIFtREwRp?=
+ =?us-ascii?Q?M+=2Fu6gWe7nwTu4x2O=2FlNmommM13uvSmiK9jao5z?=
+ =?us-ascii?Q?q44swWpzGngWjtEUMmGqIj3mZKnDMR3dT=2FGyJ0v?=
+ =?us-ascii?Q?uksbeB6mjXFbMAwo6VxIoaU0Knuw=2F1b7zVa5fiK?=
+ =?us-ascii?Q?Kykerx05NDEX+ZDZ+eDPRmoELaeLvvMISXo=2FV57?=
+ =?us-ascii?Q?yOEPXOF=2FRQt=2Fw8dJJgI47Vj=2F8H6fvMp5PE16=2FFY?=
+ =?us-ascii?Q?0wKrQZUnLu1nxzYknuJrVRV6OS8YoWDkj5TaXui?=
+ =?us-ascii?Q?sBjcB4SR0A1deGfaDCxS4Nrf7OIiL9fchiwY5LM?=
+ =?us-ascii?Q?g4H2L3=2F4=3D?=
+To: jose@monkey.org
+X-Entity-ID: geX1kwzuDzqswm9DaBSJGg==
+List-Unsubscribe: 
+ =?us-ascii?Q?=3Cmailto=3Aunsubscribe=40sendgrid=2Enet=3Fsubject=3Dhttps=3A=2F=2Fu18570370=2Ect=2E?=
+ =?us-ascii?Q?sendgrid=2Enet=2Fwf=2Funsubscribe*q*upn=3DpefIb?=
+ =?us-ascii?Q?q-2F0PhcN2qttzAUOKQoC4AR-2BE9Q1TZomh6ds?=
+ =?us-ascii?Q?VCEfdMVa4yiz6Hhm2xl6uC74lHWyJuSiGCtxysa?=
+ =?us-ascii?Q?EdmWONvlE7Bw-2F75HdIrJseNiEHYBPKRHuGj99?=
+ =?us-ascii?Q?5C8RdUrSvcDrL81N5cwGzIHxBG2Q0NyJGOFcWa4?=
+ =?us-ascii?Q?fd3wKH-2BMoKlyloEsNgjIiiLipg9PEd8ZOTCjv?=
+ =?us-ascii?Q?LtBGDOm2pVCGD21UJrAjGimDldgIMYO-2FE7ww0?=
+ =?us-ascii?Q?hPlWRgR21hQ8qNkWceLp5VdOVXUgJfbuuzLVvQv?=
+ =?us-ascii?Q?sIIM-2FOOvU-2FlZpg-2BTovLeTtD3NglAI4Plm?=
+ =?us-ascii?Q?GR3mklsbVDWvMVIIu4OyhDz0WwK-2B7wIl6S9IT?=
+ =?us-ascii?Q?pT6jOUH-2BcUYQOYLwZd3l1ZzzryK4GtSZhIzS9?=
+ =?us-ascii?Q?avgCvb5wskLZhy0anWAKq90uUOvXqugP8Kg5ppq?=
+ =?us-ascii?Q?yzuEXpWgVVdydG8ZhUwWZOdPHZAH2oJaMHAnT-2?=
+ =?us-ascii?Q?FL8T1QgjxLopEMCi-2B03jEFcGbE1quFT-2BPry?=
+ =?us-ascii?Q?Hm5OfJsQ2QlfRk-2F5bFd5DRVMUIWsPhCi8u8N1?=
+ =?us-ascii?Q?JR-2FaNr8WRgMSbFJDJQjeQfdjb-2B1qoSg5ZLp?=
+ =?us-ascii?Q?R-2BjU79iIny2RWPcZooP-2BkR-2F-2FZmcdtpQ?=
+ =?us-ascii?Q?cYHC4pIqxC838aXfsmkhKbdWjldd823d5z2-2Bk?=
+ =?us-ascii?Q?5m-2Be2bSYqPGsLEecT36IgmN7Nyn1eqK9Ud8gY?=
+ =?us-ascii?Q?MFksLENXhSDHIqYkRU-2BS1t-2FitPxOnPr3lxt?=
+ =?us-ascii?Q?9hmsbrYL4PrlmW1L3MpKcnsQYdOHhLTQHoDfw6b?=
+ =?us-ascii?Q?m1DTLP6mJ0ZmWa4A6zbyvh5s5iXvy4FYWMnIR4Y?=
+ =?us-ascii?Q?P1LMmHwBuPpRJ8pAeFsZsph3z6nfJCzpclS8gNq?=
+ =?us-ascii?Q?FyGPYh2eASMstnmueG3OhnJtykxhMhwqOTfpYGr?=
+ =?us-ascii?Q?h-2BuEIdNZxzEjLtEVCj-2BPxgDCDTMiRilgkm-?=
+ =?us-ascii?Q?2F4GQuWon4g9-2BxVQbce02ST9wkmL34xCYGSb9?=
+ =?us-ascii?Q?un7Krnj6CJPWknQRqxf0zCClB7woF4aMdYFIsTv?=
+ =?us-ascii?Q?iNT-2BfncgNmualy1G87EOedZoRUxAYWjJHl2br?=
+ =?us-ascii?Q?5j6RnIAZ2lo6Frqb-2FniEam2V=3E?=
+X-Spam-Status: No, score=14.76
+X-Stat-Signature: bmxdu5pxdpjwsgmmtdoyghitq5icp6nb
+X-Rspamd-Queue-Id: 57F06BAC50
+X-Rspamd-Server: rspam03
+Received-SPF: none (sendgrid.net>: No applicable sender policy available) receiver=imf25.b.tucows.com; identity=mailfrom; envelope-from="<bounces+18570370-21fe-jose=monkey.org@sendgrid.net>"; helo=xtrwkkxd.outbound-mail.sendgrid.net; client-ip=167.89.17.173
+X-HE-DKIM-Result: pass/pass
+X-Spam-Summary: 20,1.5,0,2ffa7ae9836f5509,d41d8cd98f00b204,bounces+18570370-21fe-jose=monkey.org@sendgrid.net,jose@monkey.org,RULES_HIT:72:327:355:379:527:967:969:973:978:981:983:988:989:1208:1221:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1594:1605:1623:1699:1730:1771:1792:1803:2111:2194:2198:2199:2200:2525:2527:2528:2539:2543:2559:2565:2682:2685:2693:2771:2859:2890:2902:2909:2911:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4039:4042:4321:4361:4384:4425:4552:4605:5007:6238:6248:6650:6653:6669:6678:7208:7875:8583:8603:8957:9025:9163:10009:10216:10346:11656:11657:12043:12050:12051:12160:12438:12519:12546:12551:12555:12663:12691:12737:12812:12973:12986:13139:13237:13439:14096:14196:14985:20000:21067:21080:21094:21162:21323:21324:21325:21347:21433:21450:21451:21524:21554:21627:21740:21790:21810:21819:21851:21939:2210
+ 6:30001:30003:30016:30054:30055:30059:30070:30075,0,RBL:04ygpx75okn9jmsfitate5wdnghr7yfn96omhi8i7ccd59ayj9qzcj35ofhzzn5.zqndytbfabu77daf78apedqfkys7jx5486cth6s9qz83uunpd9udz8ici5g7nzk.j4h3wbfgmwfwqx5i74h1w1c4p1fxupxoqoaxrmdxua5so97pz4rta7sy-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:,MSBL:0,DNSBL:error,Custom_rules:0:2:0,LFtime:28,LUA_SUMMARY:none
+X-HE-Tag: 1606683753-861578
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 150

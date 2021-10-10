@@ -1,0 +1,34 @@
+From jose@monkey.org Mon Feb 22 10:28:06 2016 +0000
+Return-Path: info@restriction.com
+Delivered-To: jose@monkey.org
+X-FDA: 71215710972.10.turn29_80e5fb1c2fb3e
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=unknown (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 57,3.5,0,7ca61233ac4d9556,d41d8cd98f00b204,info@restriction.com,:info@restriction.com,RULES_HIT:41:355:379:677:871:973:988:989:1260:1261:1313:1314:1345:1381:1437:1516:1517:1518:1540:1575:1594:1699:1711:1730:1747:1764:1777:1792:1803:2194:2199:2393:2553:2560:2692:2693:2890:2892:2894:2897:2901:2912:2924:2926:3040:3138:3139:3140:3141:3142:3352:3421:3865:3866:3867:3868:3870:3871:3872:3873:3874:4042:4361:5007:6119:6261:6687:6748:7281:7398:7652:7903:8501:8568:8661:8829:9108:10013:10234:10265:10400:11604:11658:11914:12214:12295:12561:13110:13144:13161:13229:13230:14037:14096:14513:14596:21080:21212:30001:30003:30004:30006:30008:30009:30011:30012:30018:30019:30021:30026:30028:30029:30034:30037:30039:30041:30051:30052:30054:30055:30062:30064:30066:30067:30069:30070:30075:30080:30082:30090,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:7:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: turn29_80e5fb1c2fb3e
+X-Filterd-Recvd-Size: 80239
+Received: from relay-8.dlfw.twtelecom.net (relay-8.host.twtelecom.net [216.136.82.77])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 22 Feb 2016 10:28:05 +0000 (UTC)
+Received: from localhost (unknown [127.0.0.1])
+	by relay-8.dlfw.twtelecom.net (Postfix) with ESMTP id 1EB98CA83;
+	Mon, 22 Feb 2016 03:28:05 -0700 (MST)
+X-Virus-Scanned: amavisd-new at twtelecom.net
+Received: from relay-8.dlfw.twtelecom.net ([127.0.0.1])
+	by localhost (relay-8.dlfw.twtelecom.net [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QtV-eDIluGel; Mon, 22 Feb 2016 03:28:03 -0700 (MST)
+Received: from [50.59.80.40] (unknown [50.59.80.40])
+	by relay-8.dlfw.twtelecom.net (Postfix) with ESMTP id 924A3C9E6;
+	Mon, 22 Feb 2016 03:28:00 -0700 (MST)
+Content-Type: multipart/mixed; boundary="===============1485131285=="
+MIME-Version: 1.0
+Subject: Account restriction notification
+To: Recipients <info@restriction.com>
+From: "USAA" <info@restriction.com>
+Date: Mon, 22 Feb 2016 04:28:26 -0600
+Message-Id: <20160222102800.924A3C9E6@relay-8.dlfw.twtelecom.net>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 82

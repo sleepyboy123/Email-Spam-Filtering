@@ -1,0 +1,23 @@
+From jose@monkey.org Wed Aug 31 07:57:38 2016 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 71908432596.10.juice24_257e0aaf6b04c
+X-Spam-Summary: 79,5.931,0,7b0b1bdde5c677f4,d41d8cd98f00b204,,:,RULES_HIT:41:72:377:490:494:495:589:800:962:967:973:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1397:1431:1433:1434:1435:1436:1516:1517:1518:1533:1535:1543:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1768:1779:1792:2069:2070:2198:2199:2525:2543:2560:2563:2682:2685:2827:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3770:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4605:5007:6114:6238:6261:6300:6630:6642:6669:6674:6678:7652:8516:8603:8784:8957:8985:9025:9080:9388:10004:10215:11073:11657:11658:11914:12043:12555:12660:12973:13005:13017:13018:13019:13025:13139:13374:13439:14096:14181:14721:14829:21080:21364:21433:21451:30022:30026:30054,0,RBL:192.166.134.171:@imf24.b.hostedemail.com:.lbl8.mailshell.net-62.16.83.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFti
+X-HE-Tag: juice24_257e0aaf6b04c
+X-Filterd-Recvd-Size: 6096
+Received: from mail.majak.ua (mail.majak.ua [192.166.134.171])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 31 Aug 2016 07:57:37 +0000 (UTC)
+Received: from [41.71.190.1] (unknown [41.71.190.1])
+	by mail.majak.ua (Postfix) with ESMTPA id F32811C2293D
+	for <jose@monkey.org>; Wed, 31 Aug 2016 10:57:25 +0300 (EEST)
+Content-Type: multipart/alternative; boundary="===============0041212414=="
+MIME-Version: 1.0
+Subject: Email Suspension Last Warning!!!
+To: jose@monkey.org
+From: Email Service <>
+Date: Wed, 31 Aug 2016 08:57:19 +0100
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 350

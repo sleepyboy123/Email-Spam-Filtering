@@ -1,0 +1,41 @@
+From jose@monkey.org Mon Dec  7 18:17:39 2020 +0000
+Return-Path: noreply@mydomain.org
+Delivered-To: jose@monkey.org
+X-FDA: 77567294238.40.plate70_4e05273273e0
+X-Spam-Summary: 50,0,0,9cefbcb8e4d325a1,d41d8cd98f00b204,noreply@mydomain.org,,RULES_HIT:2:41:72:355:375:379:495:541:543:800:962:967:973:978:983:988:989:1021:1189:1208:1224:1256:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1515:1516:1517:1535:1566:1571:1588:1589:1593:1594:1685:1714:1730:1747:1777:1792:2084:2198:2199:2393:2525:2527:2538:2539:2549:2560:2563:2682:2685:2828:2859:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3868:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4050:4119:4321:4552:5007:6117:6119:6261:6650:6678:7602:7809:7903:8583:8599:8603:8885:8957:9025:9344:9388:9908:10004:10234:10346:11473:11658:11914:12043:12295:12297:12438:12555:12740:12895:12903:12955:12958:12967:12986:13198:13229:13302:13439:13846:13894:14096:21060:21063:21080:21212:21347:21433:21451:21483:21524:21627:21660:21731:21796:21810:21819:21939:21983:21985:30022:30026:30037:30054:30067:30069:30070,0,RBL:95.211.55.193:@mydomain.org:.lbl8.
+X-HE-Tag: plate70_4e05273273e0
+X-Filterd-Recvd-Size: 8772
+Received: from nemoaffiliates.com (unknown [95.211.55.193])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  7 Dec 2020 18:17:38 +0000 (UTC)
+Received: from asdfawbe by server.rszt003.local with local (Exim 4.93)
+	(envelope-from <Noreply@mydomain.org>)
+	id 1kmL4r-00085S-Rd
+	for jose@monkey.org; Mon, 07 Dec 2020 18:17:37 +0000
+To: jose@monkey.org
+Subject: [Email notification]:Incoming Massage Blocked
+X-PHP-Script: www.bestethuisstudie.nl/wp-content/compiled.php for 104.250.166.53, 172.68.221.7
+X-PHP-Originating-Script: 1081:compiled.php(3) : eval()'d code
+Date: Mon, 7 Dec 2020 16:59:59 +0000
+From: Mail Help Center <Noreply@mydomain.org>
+Message-ID: <bcc6c549c1adc5dceb82a6f0eb6aed3b@mydomain.org>
+X-Priority: 1
+X-Mailer: Joker Mailer v1.0 (by eat@goat.si)
+Sensitivity: Company-Confidential
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.rszt003.local
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [1081 993] / [47 12]
+X-AntiAbuse: Sender Address Domain - mydomain.org
+X-Get-Message-Sender-Via: server.rszt003.local: authenticated_id: asdfawbe/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: server.rszt003.local: asdfawbe
+X-Source: 
+X-Source-Args: /opt/cpanel/ea-php71/root/usr/bin/php-cgi 
+X-Source-Dir: bestethuisstudie.nl:/public_html/wp-content
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 152

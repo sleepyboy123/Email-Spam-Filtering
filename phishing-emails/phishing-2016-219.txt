@@ -1,0 +1,35 @@
+From jose@monkey.org Mon May 16 16:39:11 2016 +0000
+Return-Path: loooooooooooo@cppp.com
+Delivered-To: jose@monkey.org
+X-FDA: 71521465302.08.song75_6d4fec46e3542
+X-Spam-Summary: 2,0,0,d41d8cd98f00b204,d41d8cd98f00b204,loooooooooooo@cppp.com,:loooooooooooo@cppp.com,RULES_HIT:41:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:7652:7801:10004:10400:11604:11658:11914:12340:12561:13439:14129:14516:21080:21212:30001:30026:30054:30055,0,RBL:64.8.71.19:@cppp.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: song75_6d4fec46e3542
+X-Filterd-Recvd-Size: 304393
+Received: from smtp.fuse.net (smtpout-fo.fuse.net [64.8.71.19])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 16 May 2016 16:39:10 +0000 (UTC)
+Return-Path: <loooooooooooo@cppp.com>
+X_CMAE_Category: , ,
+X-CNFS-Analysis: v=2.2 cv=JPp5iICb c=1 sm=1 tr=0 a=W3armwGMo+UPR3uCCcxqAQ==:117 a=W3armwGMo+UPR3uCCcxqAQ==:17 a=KXl77lDgDEgIEtoqJYcA:9 a=tclcd6dtLQvEqt9_mmAA:9 a=x4WSvPivEpaap3dwhEUA:9 a=n3BslyFRqc0A:10
+X-CM-Score: 0
+X-Scanned-by: Cloudmark Authority Engine
+X-Authed-Username: bG9vb29vb29vb29vb0BjcHBwLmNvbQ==
+X_CMAE_Category: , ,
+X-CNFS-Analysis: 
+X-CM-Score: 
+X-Scanned-by: Cloudmark Authority Engine
+Received: from [72.49.230.24] ([72.49.230.24:51780] helo=SERVER2.main.local)
+	by smtpout.cincibell.syn-alias.com (envelope-from <loooooooooooo@cppp.com>)
+	(ecelerity 3.6.2.43620 r(Platform:3.6.2.0)) with ESMTP
+	id AF/23-00976-9A7F9375; Mon, 16 May 2016 12:39:09 -0400
+Content-Type: multipart/mixed; boundary="===============1345557261=="
+Message-ID: <AF.23.00976.9A7F9375@smtp01.cbt.cmh.synacor.com>
+MIME-Version: 1.0
+Subject: E-payment Alert on Your Account
+To: Recipients <loooooooooooo@cppp.com>
+From: "Capital One 360" <loooooooooooo@cppp.com>
+Date: Mon, 16 May 2016 12:27:19 -0400
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 218

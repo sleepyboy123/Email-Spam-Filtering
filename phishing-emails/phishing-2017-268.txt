@@ -1,0 +1,36 @@
+From jose@monkey.org Thu Aug  3 14:09:10 2017 +0000
+Return-Path: prvs=9388d83648=michael.kotson@ll.mit.edu
+Delivered-To: jose@monkey.org
+X-FDA: 73132274418.24.chain07_32bfe75069611
+X-Spam-Summary: 2,0,0,a07b4740ae56b4ef,d41d8cd98f00b204,prvs=9388d83648=michael.kotson@ll.mit.edu,:,RULES_HIT:1:10:41:69:355:379:444:582:800:960:962:967:973:988:989:1021:1029:1152:1158:1189:1260:1263:1308:1309:1313:1314:1345:1381:1436:1437:1516:1517:1518:1543:1575:1588:1589:1592:1594:1691:1711:1730:1777:1792:2198:2199:2380:2525:2526:2527:2528:2559:2562:2682:2685:2859:2902:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3622:3834:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4048:4321:4361:4362:4379:5007:6117:6261:6658:6678:7264:7688:7773:8603:8957:9025:9388:9868:10004:10026:10049:10197:10216:10919:11656:11658:11914:12043:12050:12438:12663:12683:12895:12986:13139:13160:13229:13439:14096:14181:14659:14721:14819:21080:21095:21326:21433:21451:21483:21499:21627:30022:30029:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFt
+X-HE-Tag: chain07_32bfe75069611
+X-Filterd-Recvd-Size: 14036
+Received: from llmx2.ll.mit.edu (LLMX2.LL.MIT.EDU [129.55.12.48])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  3 Aug 2017 14:09:08 +0000 (UTC)
+Received: from LLE2K10-HUB01.mitll.ad.local (LLE2K10-HUB01.mitll.ad.local) by llmx2.ll.mit.edu (unknown) with ESMTP id v73E96lw011298 for <jose@monkey.org>; Thu, 3 Aug 2017 10:09:06 -0400
+From: "Kotson, Michael - 0551 - MITLL" <Michael.Kotson@ll.mit.edu>
+To: "jose@monkey.org" <jose@monkey.org>
+Subject: Phishing Email Corpus
+Thread-Topic: Phishing Email Corpus
+Thread-Index: AdMMYOOGBigcGNfASea8wNNjCqOvOQ==
+Date: Thu, 3 Aug 2017 14:09:05 +0000
+Message-ID: <630134B1D7575F4F8114856C694073B038EC5544@LLE2K10-MBX02.mitll.ad.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.25.94.62]
+Content-Type: multipart/signed; protocol="application/x-pkcs7-signature";
+	micalg=SHA1; boundary="----=_NextPart_000_00AC_01D30C40.895FE600"
+MIME-Version: 1.0
+X-Proofpoint-Virus-Version: vendor=fsecure engine=2.50.10432:,, definitions=2017-08-03_07:,,
+ signatures=0
+X-Proofpoint-Spam-Details: rule=notspam policy=default score=0 spamscore=0 suspectscore=0
+ malwarescore=0 phishscore=0 adultscore=0 bulkscore=0 classifier=spam
+ adjust=0 reason=mlx scancount=1 engine=8.0.1-1706020000
+ definitions=main-1708030215
+Status: RO
+X-Status: A
+X-Keywords:                
+X-UID: 269

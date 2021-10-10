@@ -1,0 +1,36 @@
+From xx@pp.com  Mon Sep  7 12:22:56 2015
+Return-Path: <xx@pp.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id E1FAEF409C
+	for <jose@login.monkey.org>; Mon,  7 Sep 2015 12:22:55 -0500 (CDT)
+Received: from smtpin16.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id A67521845C6
+	for <jose@login.monkey.org>; Mon,  7 Sep 2015 17:22:55 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70607117910.16.ball16_53b2b9985a122
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,59e06702bdf3fa83,d41d8cd98f00b204,xx@pp.com,:,RULES_HIT:2:41:72:355:379:581:800:962:967:973:983:988:989:1189:1208:1212:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1566:1570:1571:1575:1588:1592:1594:1606:1710:1714:1730:1777:1792:2145:2525:2527:2560:2568:2610:2627:2682:2685:2859:2890:2892:2895:2896:2901:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3623:3865:3867:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4250:4321:4605:5007:6650:6669:6678:6688:8583:8599:8603:8957:9025:9080:9121:9388:9416:9908:10049:10214:10346:10946:11209:11233:11473:11657:11658:11805:11855:11914:12043:12219:12438:12555:12635:12740:12776:13025:13110:13227:13229:13235:13236:13237:14096:14141:21080,0,RBL:70.28.55.106-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0
+X-HE-Tag: ball16_53b2b9985a122
+X-Filterd-Recvd-Size: 7962
+Received: from ECCEHP7.SAP.COM (TOROON63-1176254314.sdsl.bell.ca [70.28.55.106])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  7 Sep 2015 17:22:55 +0000 (UTC)
+Received: from ECCEHP7.SAP.COM ([127.0.0.1]) by ECCEHP7.SAP.COM with Microsoft SMTPSVC(7.5.7601.17514);
+	 Mon, 7 Sep 2015 22:52:56 +0530
+Content-Type: multipart/alternative; boundary="===============0194573008=="
+MIME-Version: 1.0
+Subject: Amazon account status has been changed
+To: jose@monkey.org
+From: "Amazon" <xx@pp.com>
+Date: Mon, 07 Sep 2015 22:52:56 +0530
+Message-ID: <ECCEHP7FXEdDs01Gijn000473f7@ECCEHP7.SAP.COM>
+X-OriginalArrivalTime: 07 Sep 2015 17:22:56.0130 (UTC) FILETIME=[D5DCEE20:01D0E991]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 169

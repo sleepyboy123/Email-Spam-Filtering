@@ -1,0 +1,50 @@
+From account@intl-dhl.com  Tue Sep 29 11:05:55 2015
+Return-Path: <account@intl-dhl.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 94660F4166
+	for <jose@login.monkey.org>; Tue, 29 Sep 2015 11:05:54 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 7B29527AB80
+	for <jose@login.monkey.org>; Tue, 29 Sep 2015 16:05:48 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70686757176.02.mark76_6c7d6dd34e018
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature";
+	dkim-adsp=temperror reason="'_adsp._domainkey.intl-dhl.com' unexpected reply class/type (-1/-1)" (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 80,6,0,8e893444df489214,d41d8cd98f00b204,account@intl-dhl.com,:delivery@intl-dhl.com,RULES_HIT:21:41:355:379:560:800:871:966:967:969:973:988:989:1000:1260:1261:1313:1314:1345:1381:1437:1516:1518:1538:1568:1575:1594:1711:1714:1730:1747:1764:1777:1792:1823:2044:2111:2196:2199:2380:2393:2549:2559:2562:2693:2734:2737:2829:2890:2895:2908:2909:2924:2926:3138:3139:3140:3141:3142:3740:3865:3866:3867:3868:3873:4042:4321:4361:4385:4605:5007:6001:6119:6120:6261:6506:6684:6747:6748:7281:7398:7602:7907:9121:9973:10004:10394:10400:10426:10459:11604:11658:11914:12050:12051:12219:12324:12517:12519:12679:13161:13219:13229:13348:13846:14037:14486:19902:19997:21080:21088:21120:21121,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:none,Custom_rules:0:0:0
+X-HE-Tag: mark76_6c7d6dd34e018
+X-Filterd-Recvd-Size: 759141
+Received: from mail.gautamcompany.com (unknown [198.57.222.181])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 29 Sep 2015 16:05:45 +0000 (UTC)
+Received: from localhost ([127.0.0.1]:48830 helo=onlinebusiness.com.np)
+	by mail.gautamcompany.com with esmtpa (Exim 4.85)
+	(envelope-from <account@intl-dhl.com>)
+	id 1ZgxOC-0003vh-Fd; Tue, 29 Sep 2015 16:04:24 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_c0de2ba926ba305ad777d14dea279912"
+Date: Tue, 29 Sep 2015 16:04:24 +0000
+From: DHL Express <account@intl-dhl.com>
+To: delivery@intl-dhl.com
+Subject: DHL AWB-1980015-shipment
+Message-ID: <45b7fb5f611bf133fc5b9c5d4bf2fbae@onlinebusiness.com.np>
+X-Sender: account@intl-dhl.com
+User-Agent: Roundcube Webmail/1.0.6
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - mail.gautamcompany.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - intl-dhl.com
+X-Get-Message-Sender-Via: mail.gautamcompany.com: authenticated_id: bijay@onlinebusiness.com.np
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 189

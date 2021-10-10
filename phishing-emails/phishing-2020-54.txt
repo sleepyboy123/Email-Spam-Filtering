@@ -1,0 +1,39 @@
+From jose@monkey.org Thu Apr  9 06:50:03 2020 +0000
+Return-Path: currentaccstate@nedbank.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 76687391844.46.smell59_91137275b9203
+X-Spam-Summary: 2,0,0,31d9f8831a3007a6,d41d8cd98f00b204,currentaccstate@nedbank.co.za,,RULES_HIT:41:72:152:379:421:474:677:871:962:967:973:978:983:988:989:1147:1189:1208:1254:1256:1260:1263:1313:1314:1381:1394:1395:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1546:1547:1550:1555:1571:1575:1588:1592:1594:1685:1730:1764:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2551:2553:2559:2568:2610:2612:2682:2685:2693:2737:2859:2890:2892:2894:2895:2898:2900:2902:2903:2915:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3355:3362:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4310:4321:4552:4700:5007:6119:6238:6261:6284:6354:6653:6669:6678:6688:6703:6748:7281:7689:8516:8518:8599:8603:8660:8829:8885:8957:9025:9059:9121:9388:9411:9416:9901:9908:10004:10049:10079:10265:10346:10394:11026:11233:11473:11604:11658:11914:12043:12050:12051:12219:12295:12297:12324:12438:12530:12555:1
+X-HE-Tag: smell59_91137275b9203
+X-Filterd-Recvd-Size: 458263
+Received: from relay4-whm-lw.tray.net.br (relay4-whm-lw.tray.net.br [177.67.118.136])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  9 Apr 2020 06:49:56 +0000 (UTC)
+X-BYPSHEADER: 17586709
+X-SMScore: 60
+X-LCID: 7290061
+Received: from [(177.67.118.66)] by relay4-whm-lw with Xeams SMTP; Thu, 9 Apr 2020 03:49:54 -0300 (BRT)
+X-SM_EnvelopeFrom: CurrentAccState@Nedbank.co.za
+X-SM_RECEIVED_ON: Thu, 9 Apr 2020 03:49:54 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=jolearmoveis.com.br; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=P7CHKzlt1RJGmWKf0N36j08RvT3o9Y/xC1TCVOZThOM=; b=NmoWbmITvDcOl0h6z1g4pQesl
+	r84bfJjI8sEbxkwhuzT8Jz2/ARna2edxTc/qSKhvXUvHdQ672q7U8D4GpVJ+C3gv3QAp7N0VeR/6r
+	cKrd9jv64pvOqFui8cOH3bIFAy07cbSCvK3djDXw2hDVKcjqBTHQoe45fU03miu/Sb5nWA9cJkOIf
+	yxhHKt/7Q78hQ3007eZYKds7r1zuaS5mGWLX5zjo3Oztv7tepRNMF3xuw/YgSFVg0I0ae9uGxsBer
+	qbhgpTykhA7r6+Oq0qedWNQyvMgXUo6JCx9vKxzD0qIiKco5yHy1wa54G0kHeTpMr2nTSKhsJc9Fc
+	d01OKEp8A==;
+Content-Type: multipart/mixed; boundary="===============1637858784=="
+MIME-Version: 1.0
+Subject: [PossibleSpam] Nedbank Current Account Statement - 20200409 - 2082
+To: You <CurrentAccState@Nedbank.co.za>
+From: "Current Account Statements" <CurrentAccState@Nedbank.co.za>
+Date: Thu, 09 Apr 2020 08:47:14 +0200
+Sensitivity: Company-Confidential
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 53

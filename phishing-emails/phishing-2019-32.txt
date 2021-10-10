@@ -1,0 +1,34 @@
+From jose@monkey.org Thu Feb 14 23:40:21 2019 +0000
+Return-Path: helpdesk@datascrip.co.id
+Delivered-To: jose@monkey.org
+X-FDA: 75165841842.17.start82_5a143cfbc5c21
+X-Spam-Summary: 80,2,0,c1cc8bccff634ae2,d41d8cd98f00b204,helpdesk@datascrip.co.id,:,RULES_HIT:4:41:72:355:375:379:494:495:800:962:967:969:973:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1397:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1593:1594:1719:1730:1747:1777:1792:1803:2194:2196:2198:2199:2200:2201:2393:2525:2527:2553:2560:2566:2610:2640:2682:2685:2693:2737:2828:2859:2890:2895:2899:2900:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3362:3586:3865:3866:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4384:5007:6238:6261:6650:6657:6669:6671:6672:6674:7688:8583:8599:8603:8957:9025:9040:9177:9388:9416:9468:9908:10004:10346:11473:11657:11658:11914:12043:12050:12051:12438:12523:12555:12740:12891:12895:12903:12955:12958:12959:12967:12968:12986:13007:13008:13025:13139:13141:13230:13377:13439:14096:21067:21080:21325:21433:21436:21450:21451:21524:21611:21627:21795:21809:21810:
+X-HE-Tag: start82_5a143cfbc5c21
+X-Filterd-Recvd-Size: 16103
+Received: from ip-172-31-27-94.ap-southeast-1.compute.internal (ec2-13-229-26-233.ap-southeast-1.compute.amazonaws.com [13.229.26.233])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 Feb 2019 23:40:18 +0000 (UTC)
+Received: from datascrip.co.id ([40.86.228.228])
+	(authenticated bits=0)
+	by ip-172-31-27-94.ap-southeast-1.compute.internal (8.14.4/8.14.4) with ESMTP id x1ENcMen025339
+	for <jose@monkey.org>; Fri, 15 Feb 2019 01:40:13 +0200
+X-DKIM: Sendmail DKIM Filter v2.8.3 ip-172-31-27-94.ap-southeast-1.compute.internal x1ENcMen025339
+From: "Web Admin monkey.org"  <helpdesk@datascrip.co.id>
+To: jose@monkey.org
+Subject: Urgent Server Warning  For   jose@monkey.org
+Date: 14 Feb 2019 18:40:11 -0500
+Message-ID: <20190214184011.96A9957D54A4F269@datascrip.co.id>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Status: No, score=4.6 required=5.0 tests=ALL_TRUSTED,BAYES_00,
+	HTML_MESSAGE,MIME_HTML_ONLY,TVD_PH_SUBJ_META1,URG_BIZ,URIBL_DBL_SPAM,
+	URIBL_PH_SURBL,URI_WP_HACKED_2 autolearn=no version=3.3.1
+X-Spam-Level: ****
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	ip-172-31-27-94.ap-southeast-1.compute.internal
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 32

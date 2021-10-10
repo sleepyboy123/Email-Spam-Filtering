@@ -1,0 +1,33 @@
+From jose@monkey.org Sun Mar 27 00:05:53 2016 +0000
+Return-Path: cap360talemail@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71337522186.04.size08_164ae6bae5851
+X-Spam-Summary: 80,6,0,d41d8cd98f00b204,d41d8cd98f00b204,cap360talemail@mail.mil,:cap360talemail@mail.mil,RULES_HIT:41:327:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:10004:10400:10489:11604:11658:11914:12166:12340:12561:13035:13439:14687:21080:30001:30026:30054:30055:30070,0,RBL:132.239.0.7:@mail.mil:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:26,LUA_SUMMARY:none
+X-HE-Tag: size08_164ae6bae5851
+X-Filterd-Recvd-Size: 27036
+Received: from iport-acv4-out.ucsd.edu (iport-acv4-out.ucsd.edu [132.239.0.7])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 27 Mar 2016 00:05:52 +0000 (UTC)
+Message-Id: <9ae35b$3hj64q@iport-acv4-out.ucsd.edu>
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A2DWCwDGIvdW/1EA74Rdgy6BQQGpAYFVAXkChimJDoFwE4Magn6BBDoSAQECAQEBZCeCHgGCMAoILHwbGEOIOjmWGwKDQwKGTJVZiksWj2WBDoFCgkcFjXQ8iTABAYFUgUmMOAEVjSVdhTOIeycHNIQFK4dDgSsJAQID
+X-IPAS-Result: A2DWCwDGIvdW/1EA74Rdgy6BQQGpAYFVAXkChimJDoFwE4Magn6BBDoSAQECAQEBZCeCHgGCMAoILHwbGEOIOjmWGwKDQwKGTJVZiksWj2WBDoFCgkcFjXQ8iTABAYFUgUmMOAEVjSVdhTOIeycHNIQFK4dDgSsJAQID
+X-IronPort-AV: E=Sophos;i="5.24,397,1455004800"; 
+   d="pdf'?scan'208";a="119117978"
+X-Spam-Status: No
+X-Spam-Level: 
+Received: from act-bufferout-b2.ucsd.edu ([132.239.0.81])
+  by iport-acv4-out.ucsd.edu with ESMTP/TLS/DHE-RSA-AES256-SHA; 26 Mar 2016 17:04:16 -0700
+Received: from DESKTOP-7IQE866.ucsd.edu (desktop-7iqe866.dynamic.ucsd.edu [137.110.55.17])
+	by act-bufferout-b2.ucsd.edu (Postfix) with ESMTP id B0BF6100161;
+	Sat, 26 Mar 2016 17:03:47 -0700 (PDT)
+Content-Type: multipart/mixed; boundary="===============1911714231=="
+MIME-Version: 1.0
+Subject: Update Your Checkings/Savings Account Now
+To: Recipients <cap360talemail@mail.mil>
+From: "Capital One" <cap360talemail@mail.mil>
+Date: Sat, 26 Mar 2016 17:03:50 -0700
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 138

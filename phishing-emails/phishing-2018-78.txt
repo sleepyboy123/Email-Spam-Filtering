@@ -1,0 +1,22 @@
+From jose@monkey.org Fri Apr 20 01:21:36 2018 +0000
+Return-Path: root@www.lee.com
+Delivered-To: jose@monkey.org
+X-FDA: 74073828192.03.ghost46_2b0c76bc6ca3d
+X-Spam-Summary: 50,0,0,0d164e6f0e76a1f7,d41d8cd98f00b204,root@www.lee.com,:,RULES_HIT:1:41:72:355:375:379:967:973:983:988:989:1147:1189:1208:1224:1260:1263:1313:1345:1381:1394:1431:1433:1434:1437:1516:1517:1520:1589:1686:1699:1710:1730:1747:1777:1792:2198:2199:2376:2393:2525:2527:2561:2564:2639:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3165:3245:3352:3650:3653:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:5007:6261:6298:6300:6669:6674:6678:6688:8518:8603:8957:9025:9121:9388:9868:9908:10004:10049:10167:10168:10314:10881:11256:11651:11656:11658:11914:12043:12049:12114:12555:12591:12903:12955:12958:12963:12965:12971:12986:13019:13139:14096:21080:21094:21221:21433:21451:21524:21611:21622:21625:30055,0,RBL:185.250.207.161:@www.lee.com:.lbl8.mailshell.net-62.20.127.120 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:37,LUA_SUMMARY:none
+X-HE-Tag: ghost46_2b0c76bc6ca3d
+X-Filterd-Recvd-Size: 14120
+Received: from www.lee.com (unknown [185.250.207.161])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 20 Apr 2018 01:21:35 +0000 (UTC)
+Received: by www.lee.com (Postfix, from userid 0)
+	id F0055DE8F; Fri, 20 Apr 2018 01:37:46 +0300 (EEST)
+content-type: text/html
+Subject: santender@infoemail.com
+From: COMUNICADO@www.lee.com, IMPORTANTE@www.lee.com
+To: jose@monkey.org
+Message-Id: <20180420004620.F0055DE8F@www.lee.com>
+Date: Fri, 20 Apr 2018 01:37:46 +0300 (EEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 468

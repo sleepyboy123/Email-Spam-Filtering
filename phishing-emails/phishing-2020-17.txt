@@ -1,0 +1,63 @@
+From jose@monkey.org Wed Jan 29 04:07:08 2020 +0000
+Return-Path: bburton@greateratlantachristian.org
+Delivered-To: jose@monkey.org
+X-FDA: 76429336536.58.knife87_7882695abf305
+X-Spam-Summary: 86,7.5,0,dcb61f98d80485f5,d41d8cd98f00b204,bburton@greateratlantachristian.org,,RULES_HIT:10:41:355:379:444:582:677:871:960:962:967:968:973:988:989:1000:1021:1029:1152:1189:1260:1261:1263:1313:1314:1345:1381:1436:1437:1516:1517:1518:1542:1568:1575:1588:1589:1592:1594:1691:1711:1714:1730:1764:1777:1792:1823:2525:2526:2527:2528:2559:2562:2682:2685:2693:2859:2890:2898:2902:2916:2917:2919:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3690:3865:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4362:4379:4552:5007:6117:6506:6658:6678:6747:6748:7281:7398:7688:7903:7907:8583:8603:8957:9025:9163:9388:9868:10011:10026:10049:10197:10214:10241:10265:10283:10394:10400:10919:11245:11604:11656:11658:11914:12034:12043:12050:12297:12331:12438:12517:12519:12895:13018:13019:13095:13139:13158:13228:13439:14093:14096:14181:14721:14828:14885:21433:21450:21451:21499:21627:21789:21804:21819:21881:21939:30001:30016:3002
+X-HE-Tag: knife87_7882695abf305
+X-Filterd-Recvd-Size: 86069
+Received: from IMSVASrv01.gacs.inside (smtp01.greateratlantachristian.org [50.202.118.171])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 29 Jan 2020 04:07:08 +0000 (UTC)
+Received: from IMSVASrv01.gacs.inside (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 91D9F16974;
+	Tue, 28 Jan 2020 23:04:39 -0500 (EST)
+Received: from IMSVASrv01.gacs.inside (unknown [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 2D00716973;
+	Tue, 28 Jan 2020 23:04:38 -0500 (EST)
+Received: from ExchSrv02.GACS.inside (unknown [10.12.1.117])
+	by IMSVASrv01.gacs.inside (Postfix) with ESMTPS;
+	Tue, 28 Jan 2020 23:04:38 -0500 (EST)
+Received: from ExchSrv03.GACS.inside (10.12.1.12) by ExchSrv02.GACS.inside
+ (10.12.1.117) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256) id 15.1.1713.5; Tue, 28 Jan
+ 2020 23:04:37 -0500
+Received: from ExchSrv03.GACS.inside ([fe80::f49c:376c:fab8:48c5]) by
+ ExchSrv03.GACS.inside ([fe80::f49c:376c:fab8:48c5%13]) with mapi id
+ 15.01.1591.008; Tue, 28 Jan 2020 23:04:37 -0500
+From: Bill Burton <bburton@greateratlantachristian.org>
+Subject: Your Email account will be deactivated
+Thread-Topic: Your Email account will be deactivated
+Thread-Index: AdXWWPQxpBJhbRKGQKi/r2/3dF0Dnw==
+Date: Wed, 29 Jan 2020 04:04:37 +0000
+Message-ID: <5b7462ec23364ea683d447bcd7c9a986@greateratlantachristian.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+x-originating-ip: [197.220.169.130]
+Content-Type: multipart/mixed;
+	boundary="_004_5b7462ec23364ea683d447bcd7c9a986greateratlantachristian_"
+MIME-Version: 1.0
+X-CrossPremisesHeadersFilteredBySendConnector: ExchSrv02.GACS.inside
+X-OrganizationHeadersPreserved: ExchSrv02.GACS.inside
+To: undisclosed-recipients:;
+X-TM-AS-GCONF: 00
+X-TM-AS-Product-Ver: IMSVA-9.1.0.1960-8.5.0.1020-25196.003
+X-TM-AS-Result: No--19.245-4.5-31-10
+X-imss-scan-details: No--19.245-4.5-31-10
+X-TMASE-Version: IMSVA-9.1.0.1960-8.5.1020-25196.003
+X-TMASE-Result: 10--19.244900-10.000000
+X-TMASE-MatchedRID: DqMUVnnEGEKGcSQXNDcMzPQajs/YwumpGJvXxUL1VEKZt08TfNy6OF1j
+	9O9xW/afCZswPt0aCHwCSxoZhAfMtr7B68mjCRLBKaMQ6tw7oDIx/k92L7R8tkwT3l9orKv743h
+	a6lgJrZeeNTwSuI+8D9fDVpuLSwj6l6CWx2YbZqIYxRF+FCQQstTXYm5MhsCfdDwP5ItpCOy56i
+	TVyHHCq8neOErnG+u954mbosKUuYckvTu2spn7Ld80oP25F8xpcQ43DruBJVxKddiF2Wo8edk2l
+	7i3oc4zRw3fpQHgw3uX6ygEq2dUrd/xBY6jZqnZRR+qE4iJsIeGUvn89UwyEnu4ox6u4PaGaGRL
+	CnKSipUFGQOlfKVDWfcml4T4Z1GdLDC3FGTHI3doUArKobkzYjktG0+d6l3VOOdocdvKxxXhjpR
+	GJ6FeBv6q7EHPZqf6DFuFwhrWhlSNZCyaPpOjcmvfiVSqJzu344v19hunA4PwObHY15DFwORZo9
+	3zPC1I2bNx1HEv7HAo7z/nw4HusmumTbUtcc+btB0JBusf6toPX2bVmrXjzzCnNTfgNSs4V366X
+	htuG65pFsTsQrFcneuqe3pBkfDoryQKghr2KqJBo7W5PUImeD4/p3LM2C4n
+X-TMASE-SNAP-Result: 1.821001.0001-0-1-12:0,22:0,33:0,34:0-0
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 16

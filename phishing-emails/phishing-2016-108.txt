@@ -1,0 +1,46 @@
+From jose@monkey.org Wed Mar  9 16:57:28 2016 +0000
+Return-Path: maillingaddress@ucsd.edu
+Delivered-To: jose@monkey.org
+X-FDA: 71274752976.05.alley41_5e3d036165d5b
+Authentication-Results: auth.b.hostedemail.com; dkim=neutral
+	reason="verification failed; insecure key/testing"
+	header.d=ucsd.edu header.i=@ucsd.edu header.b=V5Q+D5iQ;
+	dkim-adsp=none (insecure policy); dkim-atps=neutral
+X-Spam-Summary: 2,0,0,d41d8cd98f00b204,d41d8cd98f00b204,maillingaddress@ucsd.edu,:maillingaddress@ucsd.edu,RULES_HIT:41:327:355:379:871:988:989:1260:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6653:6687:6748:7281:7398:10004:10400:11604:11658:11914:12340:12561:13439:21080:30026:30054:30055,0,RBL:132.239.0.176:@ucsd.edu:.lbl8.mailshell.net-62.18.0.100 64.100.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:41,LUA_SUMMARY:none
+X-HE-Tag: alley41_5e3d036165d5b
+X-Filterd-Recvd-Size: 20430
+Received: from iport-acv1-out.ucsd.edu (iport-acv1-out.ucsd.edu [132.239.0.176])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  9 Mar 2016 16:57:27 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=ucsd.edu; i=@ucsd.edu; q=dns/txt; s=041709-iport;
+  t=1457542648; x=1489078648;
+  h=mime-version:subject:to:from:date:message-id;
+  bh=jsowmzO64g0JWgIXOp8xt0s3agyj4GK/PwpE48osB+c=;
+  b=V5Q+D5iQXSGMafXYwZxUcnyIFqy+nJhaCt/UMcaYW5X669H1cjzDceOr
+   O+2zcWqMPkPD27MYi4olzxCDUD5lMcqmXTv7TFILnHmodhdDxtX3BWviS
+   EFQjQsMOu5/zlT2pCgafqJqrXf+lRqFxakTgRA5Ym64aesDHOl+8HuBIW
+   A=;
+Message-Id: <542416$e0bvs9@iport-acv1-out.ucsd.edu>
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A2BjXQA6VeBW/xT574RdDgsBAQIQBQECgwaBMAEBqH8CgVMBeQKRDBOFcgEngS07EQEBAgEBAWQnQRIBgUoBgjoILIEXGEOIN5ZGAoNDAoZMlVmFLwGEBQEVkiuBKwWNaTyJEgGBI4FvgWWKSAGNLY5eNiyDKVyGS4NRAQID
+X-IPAS-Result: A2BjXQA6VeBW/xT574RdDgsBAQIQBQECgwaBMAEBqH8CgVMBeQKRDBOFcgEngS07EQEBAgEBAWQnQRIBgUoBgjoILIEXGEOIN5ZGAoNDAoZMlVmFLwGEBQEVkiuBKwWNaTyJEgGBI4FvgWWKSAGNLY5eNiyDKVyGS4NRAQID
+X-IronPort-AV: E=Sophos;i="5.24,311,1455004800"; 
+   d="pdf'?scan'208";a="470155145"
+X-Spam-Status: No
+X-Spam-Level: 
+Received: from act-bufferout-a1.ucsd.edu ([132.239.249.20])
+  by iport-acv1-out.ucsd.edu with ESMTP/TLS/DHE-RSA-AES256-SHA; 09 Mar 2016 08:43:55 -0800
+Received: from hwi-st1113.ucsd.edu (licr-hiseq2.ucsd.edu [132.239.200.242])
+	by act-bufferout-a1.ucsd.edu (Postfix) with ESMTP id 958114375F;
+	Wed,  9 Mar 2016 08:37:23 -0800 (PST)
+Content-Type: multipart/mixed; boundary="===============0147343749=="
+MIME-Version: 1.0
+Subject: Our records indicate that your Capital One 360 Inactive
+To: Recipients <maillingaddress@ucsd.edu>
+From: "Capital One 360" <maillingaddress@ucsd.edu>
+Date: Wed, 09 Mar 2016 08:37:09 -0800
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 107

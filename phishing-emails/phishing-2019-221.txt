@@ -1,0 +1,39 @@
+From jose@monkey.org Wed Nov 27 07:57:20 2019 +0000
+Return-Path: ace@bongard.com
+Delivered-To: jose@monkey.org
+X-FDA: 76201302240.46.mine95_3ff5583976061
+X-Spam-Summary: 75,0,0,8b7a395f71694eb7,d41d8cd98f00b204,ace@bongard.com,:,RULES_HIT:41:72:327:355:379:495:800:871:962:967:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1559:1571:1573:1575:1588:1589:1592:1594:1714:1730:1749:1777:1792:2198:2199:2525:2527:2553:2559:2562:2682:2685:2693:2859:2900:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3366:3866:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4504:4505:4511:4512:6261:6354:6678:7281:7652:7909:8599:8603:8957:8987:9025:9080:9121:9149:9388:10004:10049:10346:10954:11026:11233:11473:11657:11658:11914:12043:12297:12438:12517:12519:12555:12679:12740:12895:12986:13025:13237:13374:13439:13546:14094:14096:18000:21060:21080:21433:21451:21483:21524:21554:21627:21810:21819:21838:30026:30054:30090:30091,0,RBL:31.182.53.61-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:f
+X-HE-Tag: mine95_3ff5583976061
+X-Filterd-Recvd-Size: 22929
+Received: from zimbra.manager.kazar.com (staticline-31-182-53-61.toya.net.pl [31.182.53.61])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 27 Nov 2019 07:57:19 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.manager.kazar.com (Postfix) with ESMTP id 6C084243A1B
+	for <jose@monkey.org>; Mon, 25 Nov 2019 02:23:06 +0100 (CET)
+Received: from zimbra.manager.kazar.com ([127.0.0.1])
+	by localhost (zimbra.manager.kazar.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id jIHmPCAA25qE for <jose@monkey.org>;
+	Mon, 25 Nov 2019 02:23:05 +0100 (CET)
+Received: from localhost (localhost [127.0.0.1])
+	by zimbra.manager.kazar.com (Postfix) with ESMTP id D320615F972
+	for <jose@monkey.org>; Mon, 25 Nov 2019 01:27:05 +0100 (CET)
+X-Virus-Scanned: amavisd-new at manager.kazar.com
+Received: from zimbra.manager.kazar.com ([127.0.0.1])
+	by localhost (zimbra.manager.kazar.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id zrL9QPaO26b4 for <jose@monkey.org>;
+	Mon, 25 Nov 2019 01:27:05 +0100 (CET)
+Received: from [37.72.168.134] (unknown [37.72.168.134])
+	by zimbra.manager.kazar.com (Postfix) with ESMTPSA id 09F111487E2
+	for <jose@monkey.org>; Mon, 25 Nov 2019 01:05:41 +0100 (CET)
+Content-Type: multipart/alternative; boundary="===============1853259171=="
+MIME-Version: 1.0
+Subject: (2) files received via WeTransfer
+To: jose@monkey.org
+From: "WeTransfer <ace"@bongard.com
+Message-Id: <20191125000542.09F111487E2@zimbra.manager.kazar.com>
+Date: Mon, 25 Nov 2019 01:05:41 +0100 (CET)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 220

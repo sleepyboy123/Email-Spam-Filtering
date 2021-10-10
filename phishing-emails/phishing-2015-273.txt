@@ -1,0 +1,28 @@
+From jose@monkey.org Tue Dec  1 20:17:24 2015 +0000
+Return-Path: usaa.protectionsupport@usaaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 70916005608.24.truck50_39addd0d3903
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,5909fc06817eaf3c,d41d8cd98f00b204,usaa.protectionsupport@usaaa.com,:usaa.protectionsupport@usaaa.com,RULES_HIT:41:355:379:581:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2084:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6264:6642:6687:6748:7281:7398:10004:10231:10400:11604:11658:11914:12043:12166:12340:12561:13110:21080:30001:30026:30054:30055:30070,0,RBL:208.74.96.186:@usaaa.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:36,LUA_SUMMARY:none
+X-HE-Tag: truck50_39addd0d3903
+X-Filterd-Recvd-Size: 61610
+Received: from ELCB10MSQL001.ad.fortessahosting.com (unknown [208.74.96.186])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  1 Dec 2015 20:17:01 +0000 (UTC)
+Received: from ELCB10MSQL001.ad.fortessahosting.com ([127.0.0.1]) by ELCB10MSQL001.ad.fortessahosting.com with Microsoft SMTPSVC(7.5.7601.17514);
+	 Tue, 1 Dec 2015 05:01:18 -0800
+Content-Type: multipart/mixed; boundary="===============0453472294=="
+MIME-Version: 1.0
+Subject: Your USAA Checking Account Untrusted Authorization
+To: Recipients <USAA.protectionsupport@usaaa.com>
+From: "USAA" <USAA.protectionsupport@usaaa.com>
+Date: Tue, 01 Dec 2015 05:01:18 -0800
+Return-Path: USAA.protectionsupport@usaaa.com
+Message-ID: <ELCB10MSQL0016nB2J40000740d@ELCB10MSQL001.ad.fortessahosting.com>
+X-OriginalArrivalTime: 01 Dec 2015 13:01:18.0510 (UTC) FILETIME=[5E76F4E0:01D12C38]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 273

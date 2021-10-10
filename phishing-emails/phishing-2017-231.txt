@@ -1,0 +1,37 @@
+From jose@monkey.org Mon Jun 26 05:15:16 2017 +0000
+Return-Path: habitatc@host2.naturecoastdesign.net
+Delivered-To: jose@monkey.org
+X-FDA: 72993034632.06.rate99_10ef153cd1a54
+X-Spam-Summary: 30,2,0,581953715c440e1e,d41d8cd98f00b204,habitatc@host2.naturecoastdesign.net,:,RULES_HIT:41:46:72:150:152:196:355:375:379:543:967:973:983:988:989:1208:1216:1224:1260:1263:1311:1313:1314:1345:1381:1431:1432:1433:1434:1437:1515:1516:1517:1534:1542:1571:1593:1594:1622:1676:1699:1711:1730:1747:1777:1792:2198:2199:2376:2393:2525:2527:2549:2560:2565:2682:2685:2859:2919:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3870:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6119:6238:6261:6650:6669:8599:8603:8957:9025:9080:9388:10004:10049:10234:10346:10400:11026:11658:11783:11914:12043:12114:12555:12903:12956:12958:12963:12967:12971:12973:12986:13139:13894:14093:14181:14659:14687:14721:14827:14849:21080:21212:21325:21433:21450:21451:21483:21524:21627:30001:30054:30064,0,RBL:108.163.165.226:@host2.naturecoastdesign.net:.lbl8.mailshell.net-62.8.55.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:non
+X-HE-Tag: rate99_10ef153cd1a54
+X-Filterd-Recvd-Size: 3714
+Received: from host2.naturecoastdesign.net (host2.naturecoastdesign.net [108.163.165.226])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 26 Jun 2017 05:15:16 +0000 (UTC)
+Received: from habitatc by host2.naturecoastdesign.net with local (Exim 4.89)
+	(envelope-from <habitatc@host2.naturecoastdesign.net>)
+	id 1dP8oF-0003WL-NG
+	for jose@monkey.org; Sun, 25 Jun 2017 10:46:43 -0400
+Date: Sun, 25 Jun 2017 14:46:43 +0000
+To: jose@monkey.org
+From: =?utf-8?Q?=28=31=29=20Message?= <notification@mail.com>
+Subject: =?utf-8?Q?Account=20Notification?=
+Message-ID: <d20ce5bf115f79ad44fb5ec769747fed@habitatcc.org>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - host2.naturecoastdesign.net
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [670 499] / [47 12]
+X-AntiAbuse: Sender Address Domain - host2.naturecoastdesign.net
+X-Get-Message-Sender-Via: host2.naturecoastdesign.net: authenticated_id: habitatc/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: host2.naturecoastdesign.net: habitatc
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 231

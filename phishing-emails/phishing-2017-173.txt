@@ -1,0 +1,39 @@
+From jose@monkey.org Mon May  8 11:42:00 2017 +0000
+Return-Path: poster@mailserver.com
+Delivered-To: jose@monkey.org
+X-FDA: 72816198000.10.bite44_68c73d8b93d02
+X-Spam-Summary: 75,0,0,6ceae6b05b640404,d41d8cd98f00b204,poster@mailserver.com,:,RULES_HIT:1:2:41:72:355:379:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1710:1714:1730:1777:1792:2198:2199:2525:2527:2539:2561:2564:2682:2685:2859:2890:2891:2894:2898:2899:2902:2910:2915:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3804:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4321:4362:4552:4605:5007:6119:6248:6261:6650:6678:7652:8583:8603:9025:9080:9388:9908:10004:10049:10215:10234:10346:11233:11473:11480:11657:11658:11914:12043:12294:12295:12438:12517:12519:12555:12740:12812:12895:12986:13025:13038:13132:13139:13161:13229:13231:13237:13439:14096:14141:14246:14687:14846:21063:21080:21212:21433:21450:21451:21483:21524:21611:21627:30001:30003:30022:30026:30054:30058:30069:30070:30091,0,RBL:202.81.165.142-irl
+X-HE-Tag: bite44_68c73d8b93d02
+X-Filterd-Recvd-Size: 10336
+Received: from mail.kkm-works.com (unknown [202.81.165.142])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 May 2017 11:41:59 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.kkm-works.com (Postfix) with ESMTP id A1F7A349074
+	for <jose@monkey.org>; Mon,  8 May 2017 19:38:05 +0800 (PHT)
+Received: from mail.kkm-works.com ([127.0.0.1])
+	by localhost (mail.kkm-works.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id X1uwryHEkE6J for <jose@monkey.org>;
+	Mon,  8 May 2017 19:38:01 +0800 (PHT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.kkm-works.com (Postfix) with ESMTP id 18EBB348E39
+	for <jose@monkey.org>; Mon,  8 May 2017 19:38:01 +0800 (PHT)
+X-Virus-Scanned: amavisd-new at kkm-works.com
+Received: from mail.kkm-works.com ([127.0.0.1])
+	by localhost (mail.kkm-works.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id x9v9HdIAiQJY for <jose@monkey.org>;
+	Mon,  8 May 2017 19:38:00 +0800 (PHT)
+Received: from [45.76.221.195] (unknown [45.76.221.195])
+	by mail.kkm-works.com (Postfix) with ESMTPSA id 70BB0489C18
+	for <jose@monkey.org>; Mon,  8 May 2017 19:38:00 +0800 (PHT)
+Content-Type: multipart/alternative; boundary="===============1099521278=="
+MIME-Version: 1.0
+Subject: jose@monkey.org warning delivery notification
+To: jose@monkey.org
+From: "Mail Delivary Subsystem" <poster@mailserver.com>
+Date: Mon, 08 May 2017 20:41:49 +0900
+Message-Id: <20170508113800.70BB0489C18@mail.kkm-works.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 173

@@ -1,0 +1,40 @@
+From jose@monkey.org Fri Sep 15 17:19:05 2017 +0000
+Return-Path: aredconsultants@pro09.winwinhosting.com
+Delivered-To: jose@monkey.org
+X-FDA: 73288791450.16.C0E1459
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin16.b.hostedemail.com (Postfix) with ESMTP id 939B22D2BE4
+	for <jose@monkey.org>; Fri, 15 Sep 2017 17:18:14 +0000 (UTC)
+X-Spam-Summary: 50,3,0,d41d8cd98f00b204,d41d8cd98f00b204,aredconsultants@pro09.winwinhosting.com,:,RULES_HIT:41:46:150:153:355:379:543:988:989:1216:1260:1313:1314:1345:1381:1516:1517:1522:1536:1575:1676:1692:1699:1711:1730:1747:1764:1777:1792:2392:2393:2549:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6642:10004:10234:11658:11914:12114:13244:14827:21080:21212:21627:21660,0,RBL:173.224.124.126:@pro09.winwinhosting.com:.lbl8.mailshell.net-62.16.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: trail57_820299cd6f604
+X-Filterd-Recvd-Size: 54209
+Received: from pro09.winwinhosting.com (pro09.winwinhosting.com [173.224.124.126])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 15 Sep 2017 17:18:13 +0000 (UTC)
+Received: from aredconsultants by pro09.winwinhosting.com with local (Exim 4.89)
+	(envelope-from <aredconsultants@pro09.winwinhosting.com>)
+	id 1dsuFX-0004ne-VL
+	for jose@monkey.org; Fri, 15 Sep 2017 21:17:56 +0400
+Date: Fri, 15 Sep 2017 17:17:55 +0000
+To: jose@monkey.org
+From: =?UTF-8?Q?Wells_Fargo_Online?= <alert_customer@ca.net>
+Subject: =?UTF-8?Q?Money_Transfer_Notification?=
+Message-ID: <96290359cae89d527d91da7e194dd9c0@aredconsultants.com>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="b1_96290359cae89d527d91da7e194dd9c0"
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - pro09.winwinhosting.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [509 497] / [47 12]
+X-AntiAbuse: Sender Address Domain - pro09.winwinhosting.com
+X-Get-Message-Sender-Via: pro09.winwinhosting.com: authenticated_id: aredconsultants/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: pro09.winwinhosting.com: aredconsultants
+X-Source: /opt/cpanel/ea-php56/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php56/root/usr/bin/php-cgi 
+X-Source-Dir: aredconsultants.com:/public_html/consultancy/Mailer
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 313

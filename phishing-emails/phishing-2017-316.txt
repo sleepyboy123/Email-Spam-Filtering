@@ -1,0 +1,36 @@
+From jose@monkey.org Thu Sep 21 08:07:17 2017 +0000
+Return-Path: admin@damar.asia
+Delivered-To: jose@monkey.org
+X-FDA: 73309173714.24.humor84_220f88e12463c
+X-Spam-Summary: 75,0,0,267c1cdd13bb3905,d41d8cd98f00b204,admin@damar.asia,:,RULES_HIT:4:41:72:355:379:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1623:1714:1730:1777:1792:2196:2198:2199:2200:2525:2527:2543:2553:2560:2563:2610:2638:2682:2685:2693:2737:2859:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3351:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4157:4321:4361:4552:5007:6653:6674:6678:7652:8595:8599:8603:8797:8987:9025:9121:9388:9908:10004:10049:10215:10346:11233:11473:11657:11658:11914:12043:12295:12438:12517:12519:12555:12658:12764:12895:12986:13025:13139:13237:13374:13439:13846:13868:13975:14096:14246:14254:14877:21080:21433:21451:21483:21524:21611:21627:30001:30002:30003:30004:30005:30006:30007:30008:30009:30010:30011:30012:30013:30014:30015:30016:30017:30018:30019:30020:30021:30022:30023:30024:30025:30026:30
+X-HE-Tag: humor84_220f88e12463c
+X-Filterd-Recvd-Size: 16061
+Received: from sg1.damar.asia (sg1.damar.asia [45.77.33.207])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 21 Sep 2017 08:07:13 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=damar.asia;
+	 s=mail; h=Message-Id:Date:From:To:Subject:MIME-Version:Content-Type:Sender:
+	Reply-To:Cc:Content-Transfer-Encoding:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=GecbSViTUQ8QSQ1Kz3TD2TZjQK5OZq2U8bkhVJNsaw4=; b=WRmMVjWrdhD/5Bt5hi+qhmE6nc
+	TD5XR20rIBg3x0eRwdkGdYCqor0V7dYteoWd0AYqCXWH6uPmRs5s8q/LoxZIqQmWDuescJv+kZYK0
+	EiwtlgHM8mOerUGPqHJKWiT7sMaUSUvogCw4fxLbmnxB6BE45psHYymEg+U+8A4vJkZI=;
+Received: from [84.38.130.173] (helo=IP-130-173.dataclub.biz)
+	by sg1.damar.asia with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.89)
+	(envelope-from <admin@damar.asia>)
+	id 1duwVr-0001ZM-D7
+	for jose@monkey.org; Thu, 21 Sep 2017 08:07:11 +0000
+Content-Type: multipart/alternative; boundary="===============1346816176=="
+MIME-Version: 1.0
+Subject: Attention! You have pending mails.
+To: jose@monkey.org
+From: "Edward Apriandi"<admin@damar.asia>
+Date: Thu, 21 Sep 2017 11:07:06 +0300
+Message-Id: <E1duwVr-0001ZM-D7@sg1.damar.asia>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 316

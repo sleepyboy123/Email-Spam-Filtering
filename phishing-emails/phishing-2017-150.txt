@@ -1,0 +1,28 @@
+From jose@monkey.org Mon Apr 24 15:39:03 2017 +0000
+Return-Path: service@skinny.org
+Delivered-To: jose@monkey.org
+X-FDA: 72765992166.15.thumb90_3034c206e652f
+X-Spam-Summary: 75,0,0,5909fc06817eaf3c,d41d8cd98f00b204,service@skinny.org,:service@skinny.org,RULES_HIT:41:327:355:379:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3043:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6491:6642:6687:10004:10234:11537:11658:11914:12043:12561:13439:14721:14827:14829:21080:21212:21433:30026:30054,0,RBL:128.196.130.69-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: thumb90_3034c206e652f
+X-Filterd-Recvd-Size: 48509
+Received: from mails1n0-route0.email.arizona.edu (mails1n0-route0.email.arizona.edu [128.196.130.69])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 24 Apr 2017 15:38:42 +0000 (UTC)
+Message-Id: <0aa2ea$5r44n5@mails1n0out.email.arizona.edu>
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A2AZBQCIFv5Y/6o00qFchV8BgyqtKoQjgnMHARQXhg2DdVcDAQEBAQEBAWskBIVhMiABCTsYQ4ovmkSSLyaLHJNGgk4FnUEBghOBeYIRkDKHQoZLg22QLFeBBnAIgRIBAYYaPolrAQID
+X-IPAS-Result: A2AZBQCIFv5Y/6o00qFchV8BgyqtKoQjgnMHARQXhg2DdVcDAQEBAQEBAWskBIVhMiABCTsYQ4ovmkSSLyaLHJNGgk4FnUEBghOBeYIRkDKHQoZLg22QLFeBBnAIgRIBAYYaPolrAQID
+X-IronPort-AV: E=Sophos;i="5.37,245,1488870000"; 
+   d="pdf'?scan'208,217";a="196219621"
+Received: from unknown (HELO ANVMV-FSTF-9.campus.dmacc.edu) ([161.210.52.170])
+  by mails1n0out.email.arizona.edu with ESMTP/TLS/DHE-RSA-AES256-SHA; 24 Apr 2017 08:15:30 -0700
+Content-Type: multipart/mixed; boundary="===============0303925708=="
+MIME-Version: 1.0
+Subject: Notification
+To: Recipients <service@skinny.org>
+From: "Navy FederaI" <service@skinny.org>
+Date: Mon, 24 Apr 2017 17:15:22 +0200
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 150

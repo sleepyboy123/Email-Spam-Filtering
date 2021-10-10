@@ -1,0 +1,31 @@
+From jose@monkey.org Sun Aug  7 05:06:27 2016 +0000
+Return-Path: chungntk@dmgchemical.vn
+Delivered-To: jose@monkey.org
+X-FDA: 71820910014.23.sort79_38228172b544c
+X-Spam-Summary: 30,2,0,0ff3f83f590a9cc9,d41d8cd98f00b204,chungntk@dmgchemical.vn,:,RULES_HIT:41:72:379:495:800:962:967:969:973:983:988:989:1147:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1542:1571:1575:1588:1589:1592:1594:1685:1711:1714:1719:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2560:2563:2610:2682:2685:2693:2737:2790:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3351:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:4552:4699:5007:6261:6671:6672:6678:8516:8518:8603:8797:9025:9121:9388:9466:10004:10114:10215:10346:10400:10482:11233:11257:11473:11480:11657:11658:11914:12043:12555:12660:13007:13008:13018:13019:13025:13095:13139:13237:13374:13439:13846:14093:14096:14181:14515:14655:14721:14828:19901:19997:21080:21433:21436:21451:30001:30021:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:n
+X-HE-Tag: sort79_38228172b544c
+X-Filterd-Recvd-Size: 5398
+Received: from ducminhchemical.vn (mail.dmgchemical.vn [210.245.92.21])
+	by imf27.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  7 Aug 2016 05:06:25 +0000 (UTC)
+Received: from server.achievemed.local by ducminhchemical.vn
+	(MDaemon PRO v9.6.1)
+	with ESMTP id md50000220210.msg
+	for <jose@monkey.org>; Sun, 07 Aug 2016 11:10:09 +0700
+Content-Type: multipart/alternative; boundary="===============0936836829=="
+MIME-Version: 1.0
+Subject: DE-ACTIVATION OF EMAIL ON PROCESS
+To: jose@monkey.org
+From: "Email Admin" <chungntk@dmgchemical.vn>
+Date: Sat, 06 Aug 2016 23:06:42 -0500
+X-Authenticated-Sender: chungntk@dmgchemical.vn
+X-Spam-Processed: ducminhchemical.vn, Sun, 07 Aug 2016 11:10:09 +0700
+	(not processed: message from valid local sender)
+X-MDRemoteIP: 50.254.106.237
+X-Return-Path: chungntk@dmgchemical.vn
+X-Envelope-From: chungntk@dmgchemical.vn
+X-MDaemon-Deliver-To: jose@monkey.org
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 321

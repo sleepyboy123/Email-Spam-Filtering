@@ -1,0 +1,28 @@
+From jose@monkey.org Sun Jan 31 21:12:37 2016 +0000
+Return-Path: usaa-account@nuvox.net
+Delivered-To: jose@monkey.org
+X-FDA: 71137501554.15.nose01_5fffb06b49262
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,usaa-account@nuvox.net,:usaa-account@nuvox.net,RULES_HIT:41:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1517:1518:1522:1536:1575:1594:1692:1699:1711:1730:1748:1764:1766:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6120:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:14515:21080:30026:30054:30055:30070,0,RBL:66.83.242.119:@nuvox.net:.lbl8.mailshell.net-62.22.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: nose01_5fffb06b49262
+X-Filterd-Recvd-Size: 95792
+Received: from Termsvr.atd.local (66.83.242.119.nw.nuvox.net [66.83.242.119])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 31 Jan 2016 21:10:59 +0000 (UTC)
+Received: from Termsvr.atd.local ([127.0.0.1]) by Termsvr.atd.local with Microsoft SMTPSVC(8.5.9600.16384);
+	 Sun, 31 Jan 2016 15:09:34 -0500
+Content-Type: multipart/mixed; boundary="===============1456483109=="
+MIME-Version: 1.0
+Subject: PLS READ THE NEW USAA NEW YEAR UPDATE NOW
+To: Recipients <usaa-account@nuvox.net>
+From: "USAA" <usaa-account@nuvox.net>
+Date: Sun, 31 Jan 2016 15:09:33 -0500
+Return-Path: usaa-account@nuvox.net
+Message-ID: <TERMSVRf3ednHM3SOlb00000054@Termsvr.atd.local>
+X-OriginalArrivalTime: 31 Jan 2016 20:09:34.0276 (UTC) FILETIME=[4D887040:01D15C63]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 42

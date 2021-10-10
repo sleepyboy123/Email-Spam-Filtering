@@ -1,0 +1,30 @@
+From jose@monkey.org Thu Oct 20 06:00:01 2016 +0000
+Return-Path: dmarin@giemme-stile.it
+Delivered-To: jose@monkey.org
+X-FDA: 72089576202.08.ducks31_1d39170b2aa4a
+X-Spam-Summary: 50,0,0,b4658f78d8e6c712,d41d8cd98f00b204,dmarin@giemme-stile.it,:,RULES_HIT:2:41:72:379:495:800:962:967:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1606:1623:1730:1776:1792:2194:2198:2199:2200:2525:2527:2539:2543:2553:2565:2682:2685:2731:2859:2890:2894:2901:2903:2915:2917:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3353:3586:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4120:4321:4427:4552:4605:4659:5007:6238:6261:6650:6666:6668:6669:6674:6678:7652:7782:7875:8599:8603:8957:8987:9025:9080:9388:9908:10004:10346:11473:11657:11658:11914:12043:12050:12051:12555:12663:12739:12740:12764:12986:13025:13110:13132:13139:13144:13149:13230:13231:13237:13374:13439:13846:13975:14093:14096:14141:14149:14515:21063:21080:21326:21433:21450:21451:21483:21524:30001:30012:30015:30022:30023:30026:30054:30069:3007
+X-HE-Tag: ducks31_1d39170b2aa4a
+X-Filterd-Recvd-Size: 9068
+Received: from gmx.giemme-stile.it (gmx.giemme-stile.it [46.229.83.115])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 20 Oct 2016 06:00:00 +0000 (UTC)
+Received: from [176.31.15.238] by giemme-stile.it (Cipher TLSv1:-SHA:128) (MDaemon PRO v11.0.3)
+	with ESMTP id md50003275630.msg
+	for <jose@monkey.org>; Thu, 20 Oct 2016 07:28:51 +0200
+X-Spam-Processed: gmx.giemme-stile.it, Thu, 20 Oct 2016 07:28:51 +0200
+	(not processed: message from trusted or authenticated source)
+X-Authenticated-Sender: dmarin@giemme-stile.it
+X-MDRemoteIP: 176.31.15.238
+X-Return-Path: dmarin@giemme-stile.it
+X-Envelope-From: dmarin@giemme-stile.it
+X-MDaemon-Deliver-To: jose@monkey.org
+Content-Type: multipart/alternative; boundary="===============0747480673=="
+MIME-Version: 1.0
+Subject: EMAIL VERIFICATION
+To: jose@monkey.org
+From: "Admin" <dmarin@giemme-stile.it>
+Date: Thu, 20 Oct 2016 04:01:49 -0700
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 398

@@ -1,0 +1,38 @@
+From jose@monkey.org Fri Jun 19 08:33:21 2020 +0000
+Return-Path: bounces+9377615-787c-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76945297002.58.sand16_4d0558a26e17
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+9377615-787c-jose=monkey.org@sendgrid.net,,RULES_HIT:8825:30021:30022:30054:30070,0,RBL:168.245.52.214:@sendgrid.net:.lbl8.mailshell.net-62.18.0.32 64.10.201.10;168.245.52.214-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:hsforms.com-dnsbl7.mailshell.net-127.2.0.192,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: sand16_4d0558a26e17
+X-Filterd-Recvd-Size: 15727
+Received: from xvfrpqds.outbound-mail.sendgrid.net (xvfrpqds.outbound-mail.sendgrid.net [168.245.52.214])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 19 Jun 2020 08:33:20 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=q7VA2yzHg1G+39dkt8d/3FfM/G2v4rWtByBuY9VDqMk=; b=zu
+	/zr5nWbUD0S/aTQZwJtRp3nKHzUkJOhuggHxW9KPzUpZTUnQ4bzVzC254lX0R+e/
+	bS/6z+Dif/84eyR3aMtnjSKUe+DciQvTjMKEva6/ZvP8CSq+CaJj4XKQWO3PjsHe
+	OSKSl1agrtTTPn0BOzo0z4qL5WqusrSJ2RDKs51ps=
+Received: by filter1787p1mdw1.sendgrid.net with SMTP id filter1787p1mdw1-28832-5EEC784F-14
+        2020-06-19 08:33:19.721413044 +0000 UTC m=+144378.901264194
+Received: from hawairesort.com (unknown)
+	by geopod-ismtpd-5-0 (SG) with ESMTP id g7JeBVzlS9Gz7fvRBXbCjg
+	for <jose@monkey.org>; Fri, 19 Jun 2020 08:33:19.621 +0000 (UTC)
+From: monkey.org<hawairesort@hawairesort.com>
+To: jose@monkey.org
+Subject: Email Queue - New Message (undelivered messages)
+Date: Fri, 19 Jun 2020 08:33:19 +0000 (UTC)
+Message-ID: <20200620012426.9A70A848498EE0B5@hawairesort.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDgJdG1BeIWUs7qAbnUAN58ZzzeYme2n9nfhP
+ PwIS3XFstLhJrWZUgptN8ENU4Fy2twe16MA8dp9/+uv5ReMAdL9CRA72m/ryVvx48DKx+6Umgm0m3t
+ n++PxzNBA0fSKLaAWIlIVlw0pEc5pneEGoYtidNQ1Bf7lEXkMjGQZozyqkQuPRBEA/uld1mvejrFL4
+ Q=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 79

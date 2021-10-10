@@ -1,0 +1,37 @@
+From jose@monkey.org Mon Nov 21 17:50:32 2016 +0000
+Return-Path: mikeb@mjboyle.com
+Delivered-To: jose@monkey.org
+X-FDA: 72207488304.23.swing56_5bf9ae67cd321
+X-Spam-Summary: 84,7,0,f308ace100a68ee5,d41d8cd98f00b204,mikeb@mjboyle.com,:mikeb@mjboyle.com,RULES_HIT:41:69:379:677:871:969:973:978:988:989:1254:1260:1313:1314:1381:1437:1516:1517:1518:1538:1568:1575:1594:1699:1711:1714:1730:1747:1764:1777:1792:2145:2194:2198:2199:2200:2393:2549:2559:2562:2731:2741:2890:2892:2897:2900:2904:2926:3138:3139:3140:3141:3142:3865:3867:3868:3870:3873:4042:4362:5007:6261:6684:6687:6748:7281:7398:7907:8829:9040:10004:10265:10283:10394:10400:11529:11604:11658:11908:11914:12043:12217:12295:12517:12519:12561:12683:13116:13132:13231:13439:14037:14095:14686:14828:21080:21450:30001:30026:30054:30055:30066:30069:30070:30075,0,RBL:185.119.175.82:@mjboyle.com:.lbl8.mailshell.net-62.8.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:53,LUA_SUMMARY:none
+X-HE-Tag: swing56_5bf9ae67cd321
+X-Filterd-Recvd-Size: 78028
+Received: from acton.footholds.net (acton.footholds.net [185.119.175.82])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 21 Nov 2016 17:50:31 +0000 (UTC)
+Received: from cablelink191-238.telefonia.intercable.net ([201.172.191.238]:45563 helo=VM-WIN2K8-1563.appvz-dhcp)
+	by acton.footholds.net with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <mikeb@mjboyle.com>)
+	id 1c8sij-002zxW-Q7; Mon, 21 Nov 2016 17:49:40 +0000
+Content-Type: multipart/mixed; boundary="===============1493022387=="
+MIME-Version: 1.0
+Subject: Account: Avoid Service Interruption.
+To: Recipients <mikeb@mjboyle.com>
+From: "Chase. Online." <mikeb@mjboyle.com>
+Date: Mon, 21 Nov 2016 09:46:45 -0800
+Reply-To: chase.alerts@mail.com
+X-OutGoing-Spam-Status: No, score=4.1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - acton.footholds.net
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - mjboyle.com
+X-Get-Message-Sender-Via: acton.footholds.net: authenticated_id: dawnhotc/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: acton.footholds.net: dawnhotc
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 438

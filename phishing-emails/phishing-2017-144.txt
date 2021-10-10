@@ -1,0 +1,26 @@
+From jose@monkey.org Sun Apr 16 22:05:38 2017 +0000
+Return-Path: cmott@septucoeus.com
+Delivered-To: jose@monkey.org
+X-FDA: 72737935956.04.pipe13_314767075b518
+X-Spam-Summary: 50,0,0,b435119b28742468,d41d8cd98f00b204,cmott@septucoeus.com,:,RULES_HIT:41:72:355:379:474:800:962:966:967:973:978:983:988:989:1147:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1534:1542:1567:1571:1575:1588:1589:1592:1594:1686:1710:1711:1714:1730:1777:1792:1803:2196:2198:2199:2200:2525:2560:2563:2682:2685:2693:2790:2859:2890:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3245:3865:3866:3867:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4385:4552:5007:6261:6630:6674:6678:6688:6703:7652:7801:7875:8518:8603:8825:8957:9025:9059:9121:9388:9411:9416:9466:9908:9979:10004:10167:10168:10214:10346:10400:11233:11651:11657:11658:11914:12043:12523:12551:12555:12660:12903:13139:13235:13237:13439:13546:13846:14096:14141:14181:14664:14721:14827:14828:21067:21080:21212:21433:21450:21451:21524:30001:30021:30022:30026:30051:30054:30070:30083,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck
+X-HE-Tag: pipe13_314767075b518
+X-Filterd-Recvd-Size: 4047
+Received: from server1.septucoeus.com (unknown [68.169.50.53])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 16 Apr 2017 22:05:38 +0000 (UTC)
+Received-SPF: pass (server1.septucoeus.com: authenticated connection) receiver=server1.septucoeus.com; client-ip=154.118.65.164; helo=[192.168.8.104]; envelope-from=cmott@septucoeus.com; x-software=spfmilter 0.97 http://www.acme.com/software/spfmilter/ with libspf2-1.0.0;
+Received: from [192.168.8.104] ([154.118.65.164])
+	(authenticated bits=0)
+	by server1.septucoeus.com (8.14.4/8.14.4) with ESMTP id v3GJ5TfT022814
+	for <jose@monkey.org>; Sun, 16 Apr 2017 22:05:39 GMT
+Message-Id: <201704162205.v3GJ5TfT022814@server1.septucoeus.com>
+Content-Type: multipart/alternative; boundary="===============2053308951=="
+MIME-Version: 1.0
+Subject: Email Storage Alert
+To: jose@monkey.org
+From: "EMAIL CENTER" <cmott@septucoeus.com>
+Date: Sun, 16 Apr 2017 23:02:28 +0100
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 144

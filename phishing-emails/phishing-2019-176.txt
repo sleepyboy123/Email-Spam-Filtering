@@ -1,0 +1,29 @@
+From jose@monkey.org Tue Sep 10 21:21:17 2019 +0000
+Return-Path: rohana@cseworldwide.com
+Delivered-To: jose@monkey.org
+X-FDA: 75920281794.56.0CD083A
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin56.b.hostedemail.com (Postfix) with ESMTP id CE8CE10033240;
+	Tue, 10 Sep 2019 21:21:16 +0000 (UTC)
+X-Spam-Summary: 50,0,0,18216c30edc76143,d41d8cd98f00b204,rohana@cseworldwide.com,:,RULES_HIT:69:72:355:379:387:582:967:978:983:988:989:1152:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1518:1568:1571:1575:1594:1685:1699:1714:1730:1777:1792:1801:2196:2198:2199:2200:2525:2527:2560:2563:2610:2682:2685:2693:2737:2859:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3586:3690:3865:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:4605:5007:6261:6669:6678:6692:7264:8516:8599:8603:8987:9025:9080:9121:9149:9908:10004:10128:10346:11233:11657:11914:12043:12295:12658:12683:12764:12903:13019:13110:13139:13219:13229:13237:13439:13868:13975:14096:18000:21433:21451:21524:21554:21627:21809:21819:21939:30021:30022:30054:30070:30090,0,RBL:183.81.164.59:@cseworldwide.com:.lbl8.mailshell.net-62.2.167.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,
+ Custom_r
+X-HE-Tag: tooth31_44f95e681ad50
+X-Filterd-Recvd-Size: 90068
+Received: from mail.cseworldwide.com (mail.cseworldwide.com [183.81.164.59])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP;
+	Tue, 10 Sep 2019 21:21:13 +0000 (UTC)
+Received: by mail.cseworldwide.com via HTTP;
+	Mon, 9 Sep 2019 16:14:47 +0800
+From: "Admin" <Rohana@cseworldwide.com>
+To: 
+Subject: You have (5) incoming mails
+Date: Mon, 9 Sep 2019 16:14:48 +0800
+Reply-To: Rohana@cseworldwide.com
+Message-ID: <bcce646be2b347368fc5bdca27014822@cseworldwide.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary=c285ed3163f64e238d0ea22c2db84d70
+X-Originating-IP: [105.112.96.22]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 175

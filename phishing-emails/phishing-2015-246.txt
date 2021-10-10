@@ -1,0 +1,28 @@
+From jose@monkey.org Fri Nov 13 01:48:03 2015 +0000
+Return-Path: accesspontusaa@usaaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 70847891646.06.unit29_28946892bc115
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,5909fc06817eaf3c,d41d8cd98f00b204,accesspontusaa@usaaa.com,:accesspontusaa@usaaa.com,RULES_HIT:41:327:355:379:581:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6264:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12043:12340:12561:13110:14129:21080:30001:30026:30054:30055:30069,0,RBL:200.160.151.84:@usaaa.com:.lbl8.mailshell.net-62.8.4.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:75,LUA_SUMMARY:none
+X-HE-Tag: unit29_28946892bc115
+X-Filterd-Recvd-Size: 32815
+Received: from SAP-SERVER.intra.tecnodrill.com (mail.tecnodrill.com [200.160.151.84])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 13 Nov 2015 01:47:58 +0000 (UTC)
+Received: from SAP-SERVER.intra.tecnodrill.com ([127.0.0.1]) by SAP-SERVER.intra.tecnodrill.com with Microsoft SMTPSVC(7.5.7601.17514);
+	 Thu, 12 Nov 2015 23:41:50 -0200
+Content-Type: multipart/mixed; boundary="===============1361729411=="
+MIME-Version: 1.0
+Subject: Your Account Has Been Temporarily Restricted For Verification
+To: Recipients <accesspontusaa@usaaa.com>
+From: "USAA" <accesspontusaa@usaaa.com>
+Date: Thu, 12 Nov 2015 23:41:50 -0200
+Return-Path: accesspontusaa@usaaa.com
+Message-ID: <SAP-SERVERb9pPFR6sK000003d7@SAP-SERVER.intra.tecnodrill.com>
+X-OriginalArrivalTime: 13 Nov 2015 01:41:50.0863 (UTC) FILETIME=[779E31F0:01D11DB4]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 246

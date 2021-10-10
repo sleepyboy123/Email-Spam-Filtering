@@ -1,0 +1,36 @@
+From jose@monkey.org Mon Jan 30 15:33:52 2017 +0000
+Return-Path: mujeeb.abdullah@doosan.com
+Delivered-To: jose@monkey.org
+X-FDA: 72461159904.18.alarm68_3eda10ac4dc2c
+X-Spam-Summary: 30,2,0,8e30c51164e9ff4e,d41d8cd98f00b204,mujeeb.abdullah@doosan.com,:mujeeb.abdullah@doosan.com,RULES_HIT:10:41:72:355:379:543:582:599:960:962:967:973:978:983:988:989:1147:1152:1158:1189:1208:1216:1221:1260:1261:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1535:1544:1575:1588:1589:1592:1594:1686:1711:1730:1777:1792:2525:2527:2528:2540:2561:2564:2610:2682:2685:2693:2859:2890:2894:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3586:3865:3866:3867:3868:3870:3871:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4361:5007:6117:6650:6658:6703:7081:8514:8518:8583:8603:8784:8957:9025:9149:9855:10004:10128:10346:11073:11656:11658:11788:11855:11875:11914:12043:12050:12519:12555:12660:13005:13017:13018:13019:13139:13237:13302:13439:13893:13993:14094:14096:14659:14721:14885:21080:21162:21364:21433:21450:21451:30001:30022:30026:30054:30070,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:n
+X-HE-Tag: alarm68_3eda10ac4dc2c
+X-Filterd-Recvd-Size: 7252
+Received: from EUCHS02.corp.doosan.com (mail7.doosan.com [195.89.37.110])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 30 Jan 2017 15:33:51 +0000 (UTC)
+Received: from EUMXA04.corp.doosan.com ([169.254.2.232]) by
+ EUCHS02.corp.doosan.com ([10.31.142.47]) with mapi id 14.03.0266.001; Mon, 30
+ Jan 2017 15:33:50 +0000
+From: Mujeeb Abdullah <Mujeeb.Abdullah@doosan.com>
+To: Mujeeb Abdullah <Mujeeb.Abdullah@doosan.com>
+Subject: RE: INCIDENT CASE NO: 00297
+Thread-Topic: INCIDENT CASE NO: 00297
+Thread-Index: AdJ7B8B7rg9L99exQoKMhHJanJTeDwABegiH
+Importance: high
+X-Priority: 1
+Date: Mon, 30 Jan 2017 15:33:49 +0000
+Message-ID: <6065A6947DB289418A2D054117643AD27EBFD39A@EUMXA04.corp.doosan.com>
+References: <6065A6947DB289418A2D054117643AD27EBD4D5A@EUMXA04.corp.doosan.com>
+In-Reply-To: <6065A6947DB289418A2D054117643AD27EBD4D5A@EUMXA04.corp.doosan.com>
+Accept-Language: en-US, en-GB
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.31.144.29]
+Content-Type: multipart/alternative;
+	boundary="_000_6065A6947DB289418A2D054117643AD27EBFD39AEUMXA04corpdoos_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 41

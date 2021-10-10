@@ -1,0 +1,23 @@
+From jose@monkey.org Mon May  9 02:37:39 2016 +0000
+Return-Path: export@aripet.com
+Delivered-To: jose@monkey.org
+X-FDA: 71493943038.21.snow17_42b83c6fa9742
+X-Spam-Summary: 18,1.407,0,7a4ff1ed7120de16,d41d8cd98f00b204,export@aripet.com,:,RULES_HIT:41:42:72:152:379:495:589:800:962:967:969:973:983:988:989:1147:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1543:1575:1588:1592:1594:1685:1711:1730:1777:1792:2198:2199:2525:2565:2610:2682:2685:2859:2890:2891:2900:2910:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3866:3867:3868:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4361:4552:4605:4647:5007:6261:6669:6678:7223:7652:8512:8516:8517:8518:8599:8603:8957:8987:9025:9080:9121:9388:9908:10004:10216:10314:10346:10400:11233:11480:11658:11914:12043:12295:12555:12698:12737:12764:12973:13017:13018:13019:13025:13139:13237:13846:13975:14093:14096:14181:14515:14721:21067:21080:21347:21433:30001:30022:30026:30054:30058:30070:30082,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rul
+X-HE-Tag: snow17_42b83c6fa9742
+X-Filterd-Recvd-Size: 6157
+Received: from mail.stratejimedya.com (mail.stratejimedya.com [85.159.68.50])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 May 2016 02:37:38 +0000 (UTC)
+X-Sender-Id: env-sender|export@aripet.com
+X-SenderId: env-sender|export@aripet.com
+Received: from [23.249.166.164] ([23.249.166.164]) by stratejimedya.com with MailEnable ESMTP; Mon, 9 May 2016 05:36:38 +0300
+Content-Type: multipart/alternative; boundary="===============1442964010=="
+MIME-Version: 1.0
+Subject: FINAL WARNING!!!
+To: jose@monkey.org
+From: "Mail server" <export@aripet.com>
+Date: Sun, 08 May 2016 22:36:18 -0400
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 205

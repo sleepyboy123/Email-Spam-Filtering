@@ -1,0 +1,34 @@
+From jose@monkey.org Wed Aug 16 19:26:34 2017 +0000
+Return-Path: missy.bowstring@llojibwe.org
+Delivered-To: jose@monkey.org
+X-FDA: 73180248708.25.scale85_566c161deb054
+X-Spam-Summary: 50,3,0,7908b2f8c76e8d77,d41d8cd98f00b204,missy.bowstring@llojibwe.org,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:983:988:989:1021:1029:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1533:1534:1541:1575:1588:1589:1592:1594:1691:1711:1714:1730:1748:1777:1792:2525:2527:2528:2559:2564:2610:2682:2685:2859:2890:2902:2915:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3747:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4321:4379:4416:5007:6117:6261:6642:6658:6659:6678:7688:8583:8603:8957:9025:9080:9388:9855:9868:9873:9874:9908:10004:10026:10049:10197:10243:10346:10400:10919:10920:10921:11257:11656:11658:11914:12043:12225:12438:12519:12521:12663:12895:13132:13139:13163:13229:13231:13237:13439:14093:14181:14659:14721:14827:14885:21212:21326:21433:21450:21451:21499:21627:30001:30022:30054:30069:30091,0,RBL:96.2.187.35:@llojibwe.org:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:n
+X-HE-Tag: scale85_566c161deb054
+X-Filterd-Recvd-Size: 3657
+Received: from llex2013.LLOjibwe.com (mail.lldrm.org [96.2.187.35])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 16 Aug 2017 19:26:33 +0000 (UTC)
+Received: from LLEX2013.LLOjibwe.com (10.1.0.26) by llex2013.LLOjibwe.com
+ (10.1.0.26) with Microsoft SMTP Server (TLS) id 15.0.995.29; Wed, 16 Aug 2017
+ 14:27:01 -0500
+Received: from LLEX2013.LLOjibwe.com ([fe80::5433:fd4b:2273:1e66]) by
+ llex2013.LLOjibwe.com ([fe80::5433:fd4b:2273:1e66%14]) with mapi id
+ 15.00.0995.032; Wed, 16 Aug 2017 14:27:01 -0500
+From: <Missy.Bowstring@llojibwe.org>
+Subject: Message From Administrator
+Thread-Topic: Message From Administrator
+Thread-Index: AdMWw1R3hC3t6I6JRVWTzwGTZiA1jw==
+Date: Wed, 16 Aug 2017 19:27:01 +0000
+Message-ID: <c8644fb3d20d474d95680191918253dc@llex2013.LLOjibwe.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [74.82.35.73]
+Content-Type: multipart/alternative;
+	boundary="_000_c8644fb3d20d474d95680191918253dcllex2013LLOjibwecom_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 284

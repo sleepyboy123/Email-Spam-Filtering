@@ -1,0 +1,32 @@
+From jose@monkey.org Wed Jan 27 01:30:59 2016 +0000
+Return-Path: paul@pauldecarlo.com
+Delivered-To: jose@monkey.org
+X-FDA: 71120008638.22.pets70_25ab023f93628
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 73,5,0,22096fca56fdc918,d41d8cd98f00b204,paul@pauldecarlo.com,,RULES_HIT:41:355:379:387:539:540:541:542:543:567:677:871:962:973:988:989:1000:1155:1189:1260:1308:1309:1313:1314:1345:1381:1437:1516:1517:1535:1538:1559:1575:1587:1588:1589:1594:1623:1685:1711:1714:1730:1747:1764:1777:1792:1823:2073:2076:2194:2199:2393:2543:2557:2565:3138:3139:3140:3141:3142:3586:3642:3865:3867:4120:4362:5007:6261:6506:6703:6747:6748:7281:8518:8568:8603:9898:10004:10265:10394:10400:11604:11657:11658:11914:12225:12231:12555:13139:14197:14387:14516:14659:21324,0,RBL:98.158.146.166:@pauldecarlo.com:.lbl8.mailshell.net-62.4.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:none,Custom_rules:0:0:0,LFtime:73,LUA_SUMMARY:none
+X-HE-Tag: pets70_25ab023f93628
+X-Filterd-Recvd-Size: 9754
+Received: from smtp.pmweb.com (98.158.146.166.uscolo.com [98.158.146.166])
+	by imf30.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Wed, 27 Jan 2016 01:30:58 +0000 (UTC)
+Received: from User (213-188-69.static.cytanet.com.cy [213.149.188.69])
+	by smtp.pmweb.com
+	; Tue, 26 Jan 2016 12:34:05 -0800
+Message-ID: <0A86C3BB-A24F-48EC-9B8D-A455E9E8D6BA@smtp.pmweb.com>
+Reply-To: <paul@pauldeecarlo.com>
+From: "Paul DeCarlo"<paul@pauldecarlo.com>
+Subject: Oil Payment  Approval
+Date: Tue, 26 Jan 2016 22:33:46 +0200
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0026_01C2A9A6.345A712A"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 32

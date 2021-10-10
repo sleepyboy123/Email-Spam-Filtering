@@ -1,0 +1,40 @@
+From jose@monkey.org Tue Sep 17 15:43:59 2019 +0000
+Return-Path: bounces+6995137-6fdb-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75944833398.17.cup28_5ae9e7a79963
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+6995137-6fdb-jose=monkey.org@sendgrid.net,:,RULES_HIT:1803:30001:30009:30054:30055:30069:30075,0,RBL:168.245.94.165:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: cup28_5ae9e7a79963
+X-Filterd-Recvd-Size: 8080
+Received: from xvfrrzxr.outbound-mail.sendgrid.net (xvfrrzxr.outbound-mail.sendgrid.net [168.245.94.165])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 17 Sep 2019 15:43:58 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=jEgD2vbbAqY1VSR/a9Wy4SnxFgk=; b=l0+ry/yzx1DkBJZn8lTVzK68JLlqY
+	vWOp2HUvPbO2Ive8po2xbW9eOCGjsiN+hvVGsiWq4T9+M4SDScIS+rN0ORbE7156
+	Vkjw1UGG4sdAQhzO4/AxaDU5uLRZcBy6omNpYvL9ofIrP3L9LUsVs+1qINZNSd9T
+	BcJi3uqJT1WAYU=
+Received: by filter1263p1las1.sendgrid.net with SMTP id filter1263p1las1-7571-5D80FF39-48
+        2019-09-17 15:43:53.959721363 +0000 UTC m=+99006.987049682
+Received: from WIN-C57BKSN8RPF (ec2-54-90-156-79.compute-1.amazonaws.com [54.90.156.79])
+	by ismtpd0036p1iad1.sendgrid.net (SG) with ESMTP id VBa9bbbKSvGBTxDDxh3CGg
+	for <jose@monkey.org>; Tue, 17 Sep 2019 15:43:53.943 +0000 (UTC)
+MIME-Version: 1.0
+From: "Navy Federal Credit Union" <Keri_godin@brown.edu>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Tue, 17 Sep 2019 15:43:54 +0000 (UTC)
+Subject: Account Frozen 
+Content-Type: multipart/alternative;
+ boundary=--boundary_157643_e1ec1f49-eae1-4221-bdf3-657772986aa0
+Message-ID: <VBa9bbbKSvGBTxDDxh3CGg@ismtpd0036p1iad1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDtY/2xTTB5mXJHlEFsyXLgRow3j/DsTNS7BA
+ NXxdTbsRzhPNe7MWXDyutHid45O1ku15AcymnrYO04nJUmSVUNQQ7GuDWPvk4L8sr5KiOfSL8sLZsE
+ hCUMzSEZiozlb0U8TZjhY65S8qSaAgb1ureh49lheSgFLlk8T0VJJ7YjEDGWUZqghv2enG+pwys1Pl
+ s=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 179

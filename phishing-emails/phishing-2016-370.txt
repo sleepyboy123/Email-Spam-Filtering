@@ -1,0 +1,25 @@
+From jose@monkey.org Sat Sep 24 11:02:08 2016 +0000
+Return-Path: dip@mena.premierinn.com
+Delivered-To: jose@monkey.org
+X-FDA: 71995988694.12.anger07_865bce543383c
+X-Spam-Summary: 40,2.5,0,48d36cc3bec53453,d41d8cd98f00b204,dip@mena.premierinn.com,:,RULES_HIT:41:72:355:455:490:495:581:800:962:966:967:969:973:983:988:989:1042:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1534:1541:1545:1568:1570:1571:1575:1588:1589:1592:1594:1711:1714:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2565:2610:2682:2685:2693:2741:2859:2894:2897:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3865:3866:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4385:4552:5007:6678:7903:8518:8599:8603:8985:9025:9040:9121:9979:10011:10049:10214:10346:10400:11233:11480:11657:11658:11914:12043:12050:12295:12658:12679:13025:13236:13237:13374:13439:13846:14094:14096:14181:14721:14849:21080:21259:21433:21451:30021:30022:30026:30054:30091,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:4:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: anger07_865bce543383c
+X-Filterd-Recvd-Size: 3757
+Received: from PIDXBEGEX01.premierinngulf.com (mail.mena.premierinn.com [83.111.168.181])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 24 Sep 2016 11:02:02 +0000 (UTC)
+Received: from WIN-BGLH5VS4AOR.haiphong.com ([115.146.127.3]) by PIDXBEGEX01.premierinngulf.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Sat, 24 Sep 2016 15:02:00 +0400
+Content-Type: multipart/alternative; boundary="===============0664690589=="
+MIME-Version: 1.0
+Subject: Scan Now Email virus detected on Your mailbox jose@monkey.org
+To: jose@monkey.org
+From: "SECURITY ALERT" <dip>
+Date: Sat, 24 Sep 2016 18:01:57 +0700
+Return-Path: dip@mena.premierinn.com
+Message-ID: <PIDXBEGEX01EIFkiSVu00054d1d@PIDXBEGEX01.premierinngulf.com>
+X-OriginalArrivalTime: 24 Sep 2016 11:02:00.0831 (UTC) FILETIME=[134150F0:01D21653]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 369

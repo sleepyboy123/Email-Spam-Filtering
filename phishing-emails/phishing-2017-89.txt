@@ -1,0 +1,28 @@
+From jose@monkey.org Mon Feb 27 17:06:50 2017 +0000
+Return-Path: istorija@rikis.vdu.lt
+Delivered-To: jose@monkey.org
+X-FDA: 72563000580.16.snail78_1e8cd47939926
+X-Spam-Summary: 30,2,0,87bd5f3339fcf432,d41d8cd98f00b204,istorija@rikis.vdu.lt,:,RULES_HIT:41:72:355:375:379:599:967:969:973:983:988:989:1212:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1437:1515:1516:1517:1522:1534:1543:1571:1699:1711:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2560:2563:2610:2612:2682:2685:2693:2737:2743:2859:2890:2894:2895:2898:2909:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3586:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:4552:4605:5007:6261:6669:6678:8518:8599:8603:8814:9025:9388:9908:10010:10030:10234:10241:10346:10400:10450:10455:11657:11658:11914:12043:12050:12051:12438:12555:12658:12776:12903:12955:12958:12986:13095:13132:13139:13231:13894:14096:14181:14721:14827:14828:14829:14849:19904:19999:21080:21212:21433:21450:21451:21524:30001:30012:30016:30021:30022:30026:30051:30054:30069:30070:30080:30083,0,RBL:193.219.38.37:@rikis.vdu.lt:.lbl8.ma
+X-HE-Tag: snail78_1e8cd47939926
+X-Filterd-Recvd-Size: 4604
+Received: from rikis.vdu.lt (rikis.vdu.lt [193.219.38.37])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 27 Feb 2017 17:06:49 +0000 (UTC)
+Received: from istorija by rikis.vdu.lt with local (Exim 4.82)
+	(envelope-from <istorija@rikis.vdu.lt>)
+	id 1ciOl6-000CjF-Cu
+	for jose@monkey.org; Mon, 27 Feb 2017 19:06:48 +0200
+To: jose@monkey.org
+Subject: Re:Urgent Mail Service Notification
+X-PHP-Originating-Script: 1029:third.php
+From: Mail Service <feedback@email-service.com>
+Reply-To: 
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <E1ciOl6-000CjF-Cu@rikis.vdu.lt>
+Date: Mon, 27 Feb 2017 19:06:48 +0200
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 88

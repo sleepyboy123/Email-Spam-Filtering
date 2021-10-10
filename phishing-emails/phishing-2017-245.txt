@@ -1,0 +1,31 @@
+From jose@monkey.org Fri Jul 14 00:20:52 2017 +0000
+Return-Path: americanexpress@aexpmil.com
+Delivered-To: jose@monkey.org
+X-FDA: 73057611144.16.hair13_5ed5eab175206
+X-Spam-Summary: 2,0,0,96961d0f25fd80b6,d41d8cd98f00b204,americanexpress@aexpmil.com,:americanexpress@aexpmil.com,RULES_HIT:2:41:72:152:327:355:379:962:967:973:983:988:989:1021:1189:1208:1260:1263:1313:1314:1345:1381:1430:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1764:1777:1792:2198:2199:2525:2539:2559:2568:2629:2682:2685:2734:2859:2890:2891:2892:2894:2895:2898:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3770:3863:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4052:4321:4362:4384:4389:4395:4552:4605:4700:5007:6117:6119:6238:6248:6261:6678:6688:7266:7774:7875:7903:7940:8516:8599:8603:9025:9072:9121:9388:9392:9908:10004:10049:10346:10394:11026:11232:11233:11473:11658:11914:12043:12438:12555:12679:13005:13017:13018:13019:13025:13038:13141:13163:13227:13229:13230:13374:14659:21080:21433:21450:21451:21524:21627:30001:30009:30019:30021:30022:30054:30055:30
+X-HE-Tag: hair13_5ed5eab175206
+X-Filterd-Recvd-Size: 21416
+Received: from tohaastire.com (mail.tohaastire.com [40.135.4.21])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 14 Jul 2017 00:20:51 +0000 (UTC)
+Received: by tohaastire.com (Postfix, from userid 500)
+	id 9DECB160F83E; Thu, 13 Jul 2017 19:19:46 -0500 (CDT)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on tohaas.com
+X-Spam-Level: 
+X-Spam-Status: No, score=-46.2 required=3.5 tests=ALL_TRUSTED=-50,BAYES_50=0.8,
+	DCC_CHECK=3,HTML_MESSAGE=0.001,MIME_QP_LONG_LINE=0.001,T_HTML_ATTACH=0.01,
+	T_OBFU_HTML_ATTACH=0.01 autolearn=no version=3.3.2
+Received: from mail.tohaastire.com (mail.tohaastire.com [40.135.4.21])
+	by tohaastire.com (Postfix) with ESMTP id 1EEE116094B1;
+	Thu, 13 Jul 2017 11:38:35 -0500 (CDT)
+From: "American Express" <AmericanExpress@aexpmil.com>
+To: americanexpress@aexpmil.com
+Subject: Information About your CardMember Account.
+Date: Thu, 13 Jul 2017 12:38:34 -0400
+MIME-Version: 1.0
+Message-ID: <1499961258db64ab7fa35b7402d87843540e508b85_@aexpmil.com>
+Content-Type: multipart/mixed; boundary="--=_Next_6773_20161108_EC11.4.5.2391"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 245

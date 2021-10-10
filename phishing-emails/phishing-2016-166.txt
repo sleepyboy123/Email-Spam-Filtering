@@ -1,0 +1,25 @@
+From jose@monkey.org Fri Apr 15 15:32:58 2016 +0000
+Return-Path: usaamailersactivate@usa.net
+Delivered-To: jose@monkey.org
+X-FDA: 71408805636.15.cart76_35c07315ea317
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,usaamailersactivate@usa.net,:usaamailersactivate@usa.net,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6264:6618:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12166:12340:12561:13110:13439:21080:30001:30026:30054:30055,0,RBL:75.144.51.157:@usa.net:.lbl8.mailshell.net-62.16.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:8,LUA_SUMMARY:none
+X-HE-Tag: cart76_35c07315ea317
+X-Filterd-Recvd-Size: 35000
+Received: from CVB-APPSVR.CVB.local (unknown [75.144.51.157])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 15 Apr 2016 15:32:48 +0000 (UTC)
+Received: from CVB-APPSVR.CVB.local ([127.0.0.1]) by CVB-APPSVR.CVB.local with Microsoft SMTPSVC(7.5.7600.16385);
+	 Fri, 15 Apr 2016 10:27:58 -0500
+Content-Type: multipart/mixed; boundary="===============0886699530=="
+MIME-Version: 1.0
+Subject: Don't Loose Your USAA Account - Upgrade it Now
+To: Recipients <USAAmailersactivate@usa.net>
+From: "USAA" <USAAmailersactivate@usa.net>
+Date: Fri, 15 Apr 2016 10:27:58 -0500
+Return-Path: USAAmailersactivate@usa.net
+Message-ID: <CVB-APPSVR3ednHM3SO00000554@CVB-APPSVR.CVB.local>
+X-OriginalArrivalTime: 15 Apr 2016 15:27:58.0999 (UTC) FILETIME=[64250270:01D1972B]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 165

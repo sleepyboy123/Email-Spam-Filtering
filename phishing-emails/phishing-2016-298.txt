@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Jul 14 00:26:10 2016 +0000
+Return-Path: deactivationteam@admin.com
+Delivered-To: jose@monkey.org
+X-FDA: 71733112500.16.pet61_8d12887db9e37
+X-Spam-Summary: 50,0,0,2e8f9c0605f1a6f9,d41d8cd98f00b204,deactivationteam@admin.com,:,RULES_HIT:2:41:72:355:379:495:581:800:962:967:973:983:988:989:1147:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1516:1517:1518:1533:1535:1571:1575:1588:1592:1594:1685:1714:1730:1767:1778:1792:2198:2199:2525:2560:2563:2610:2682:2685:2827:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4120:4321:4605:5007:6114:6300:6642:6669:6678:8516:8518:8599:8603:8987:9025:9080:9121:9388:10004:10215:10241:10346:11233:11473:11658:11914:12043:12438:12555:13005:13017:13018:13019:13025:13110:13139:13237:13439:13846:14093:14096:21080:21433:30026:30054,0,RBL:46.183.223.109:@admin.com:.lbl8.mailshell.net-62.16.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:68,LUA_SUMMARY:none
+X-HE-Tag: pet61_8d12887db9e37
+X-Filterd-Recvd-Size: 9349
+Received: from IP-223-109.dataclub.biz (unknown [46.183.223.109])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 Jul 2016 00:26:09 +0000 (UTC)
+Received: from IP-223-109.dataclub.biz ([127.0.0.1]) by IP-223-109.dataclub.biz with Microsoft SMTPSVC(8.5.9600.16384);
+	 Thu, 14 Jul 2016 03:26:08 +0300
+Content-Type: multipart/alternative; boundary="===============0312151211=="
+MIME-Version: 1.0
+Subject: jose@monkey.org Final Deactivation Warning
+To: jose@monkey.org
+From: "Postmaster" <deactivationteam@admin.com>
+Date: Thu, 14 Jul 2016 03:26:07 +0300
+Return-Path: deactivationteam@admin.com
+Message-ID: <IP-223-109mlX6u1Wy900025dad@IP-223-109.dataclub.biz>
+X-OriginalArrivalTime: 14 Jul 2016 00:26:08.0363 (UTC) FILETIME=[50DEB3B0:01D1DD66]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 297

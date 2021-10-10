@@ -1,0 +1,58 @@
+From jose@monkey.org Fri Jul 22 05:49:38 2016 +0000
+Return-Path: tiziana.borsello@marionegri.it
+Delivered-To: jose@monkey.org
+X-FDA: 71762958036.02.egg91_5410e291e1d26
+X-Spam-Summary: 30,2,0,3762849706cb680c,d41d8cd98f00b204,tiziana.borsello@marionegri.it,,RULES_HIT:2:4:10:41:69:72:152:355:379:474:541:555:800:920:962:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1394:1395:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1730:1776:1792:1801:2525:2527:2553:2561:2564:2610:2682:2685:2741:2859:2895:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3865:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4052:4321:4362:4552:4605:5007:6261:6300:6630:6650:6674:6678:7875:7903:8518:8583:8599:8603:8825:9025:9040:9080:9121:9177:9388:9411:10004:10249:10346:11245:11658:11914:12043:12331:12555:12658:12679:12740:12776:12921:13018:13019:13139:13163:13229:13237:13846:14096:14158:14651:14659:21433:30023:30048:30054:30070:30083:30090,0,RBL:93.51.235.151:@marionegri.it:.lbl8.mailshell.net-62.2.122.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:no
+X-HE-Tag: egg91_5410e291e1d26
+X-Filterd-Recvd-Size: 15200
+Received: from caino.marionegri.it (caino-out-1.marionegri.it [93.51.235.151])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 22 Jul 2016 05:49:37 +0000 (UTC)
+X-AuditID: ac12041f-557ff700000014ee-7e-5791b3ce2cd0
+Received: from telesforo.marionegri.it (telesforo.marionegri.it [172.18.1.45])
+	by  (Symantec Mail Security) with SMTP id F9.98.05358.EC3B1975; Fri, 22 Jul 2016 07:49:02 +0200 (CEST)
+To: undisclosed-recipients:;
+Received: from localhost (localhost [127.0.0.1])
+	by telesforo.marionegri.it (Postfix) with ESMTP id B90EA10279608;
+	Fri, 22 Jul 2016 07:49:25 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at marionegri.it
+Received: from telesforo.marionegri.it ([127.0.0.1])
+	by localhost (telesforo.marionegri.it [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id vfDpHcxpGSNA; Fri, 22 Jul 2016 07:49:25 +0200 (CEST)
+Received: from romolo.marionegri.it (romolo.marionegri.it [172.18.1.39])
+	by telesforo.marionegri.it (Postfix) with ESMTP id 2D10A102797E0;
+	Fri, 22 Jul 2016 07:49:24 +0200 (CEST)
+Date: Fri, 22 Jul 2016 07:49:24 +0200 (CEST)
+From: Tiziana Borsello <tiziana.borsello@marionegri.it>
+Reply-To: crisbyna@live.cn
+Message-ID: <225368384.3640651.1469166564020.JavaMail.zimbra@marionegri.it>
+Subject: 
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3640650_1870669434.1469166564018"
+X-Mailer: Zimbra 8.6.0_GA_1200 (ZimbraWebClient - GC51 (Win)/8.6.0_GA_1200)
+Thread-Topic: 
+Thread-Index: VfC3C1fwxmmDcjWbmRt0lBVjInLrAg==
+X-Brightmail-Tracker: H4sIAAAAAAAAA2WTe0xTdxTH8+u97b0Q2K6FxZ/djN01YwuuhILoMQM2F7Jd0T2SLWNRM3dt
+	b6Bbe8vauuk0rojVAo5XExBmQSjiUtvJynhIGQsgQckcjMecEOaMEGJ88HBsYObYhbrEZL+/
+	Pvme8/2dk5NzaEJZRalog2gTLCJvZBXhpE+JNJqfGksy4otan4O/hpwIcjt9Cnhg75PB174A
+	gjbvDQr+7L1GQPGAi4Tii7+S0H2qloCJniYEZaO5ktZfoIAR/xQCz9UgAdVjx+XwrcuhgMDw
+	TQR1PzaS0NCwBs7OjxEwdsQlhxpnMwmXi07K4ZuFV2GmeZYEzyE40XhMBtdrzkiVxodJuBqo
+	pSA420JB/vDTMO/5Ug5Tiyo40yd9XP1gkYKaI3dkcLTWIQPf6ByCxYZNcKtgL3jPvguFVTky
+	aP5O6m2mQwR7X5CEyfZuBBPefgrq224QcCXvofyVBO5ip4vifL8Mybji3tOIWxq/gLhRp5fg
+	3J335FxpvgtxOfef5Ap/mERcz5VuisvpS+ba587JuNGZSsSNBYso7vaclN84HPH22p12lMyL
+	otnG2wS1XrDqUtg0g1Vn5A0mwaKO+WSf2fZSkjpbYpPBaBRCAqs26FPYBFadbeR1gkkQbSks
+	n50tiHo2NVz9v5cspRlEtSDqzHqDmJnCbnvnLQ1A0haNlk3VaD7sicqqON+syC5/Y79nKZey
+	I2daPgqjMbMRN/lHFPkonFYyLQhfKvyZWg5EM89g91c35aGAG2Fvx4I85NDgh91tKBS4hPAf
+	I9cf2ZsQrjvRsmInmRfxUmM7kY9oWsFsxvN2dllWMio8sFBCLnMksx37B4dXOIoJw4GCfiqk
+	r8KXKyZWdIL5APfk3SJChbfjquOdilB3T+CyqWkyxHHY65mhitGqysfslY/ZQ/w8/rtq8BGv
+	wy13T0lMSxyD6x1sSN6A62tuE6eRwouidNI8zXEm3mIwi0KmxRBnsAXQym2Q61pR/f34LsTQ
+	iI2ItM8WZyjl/KfWA6YuhGmCjY6EQEmGMlLPH/hcsJj3WPYZBWsXSpKmUkKontKZpUsTbXu0
+	CdpNCdqkjQmJmxPj2dWRhw4rMpRMprQkHwuCtA3/+WR0mMqOIkqjhdSJu8LYUVfFonPvdNoX
+	2vfl5QfrXotSmXe66d09paz9pH/65QsDuYM7nJ9N12smN8Q4PO7cjsw4+/o8/72PKne8rj+c
+	uO2axv+7bfW5oOOFod7O/md3vcmPdrSO7z9Yvavc//0/WWvLtmyN352+Nb3qvT7fmmPpv8We
+	D7pj7zhY0prFa2MJi5X/F6beq/kxBAAA
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 304

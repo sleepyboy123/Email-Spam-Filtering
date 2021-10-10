@@ -1,0 +1,29 @@
+From jose@monkey.org Mon Sep 19 01:04:38 2016 +0000
+Return-Path: suneel.eversendai@mail.com
+Delivered-To: jose@monkey.org
+X-FDA: 71976339036.10.actor09_b2904a58a512
+X-Spam-Summary: 37,2.30952,0,edf1cdc52b204c17,d41d8cd98f00b204,suneel.eversendai@mail.com,,RULES_HIT:41:152:355:379:559:560:871:966:969:973:981:988:989:1000:1042:1077:1260:1313:1314:1345:1381:1437:1510:1516:1518:1541:1575:1594:1711:1730:1747:1764:1777:1792:2196:2199:2393:2553:2559:2562:2693:2741:2894:2895:2897:2903:2916:2917:2919:2923:2924:2925:2926:3138:3139:3140:3141:3142:3352:3740:3865:3866:3867:3868:3870:3871:3872:3873:4385:5007:6117:6248:6261:6506:6684:6747:6748:7281:7398:7794:7809:7875:7903:8568:8906:8971:9040:10013:10261:10394:10400:10426:11245:11604:11658:11914:11967:12043:12331:12683:12812:13053:13095:13161:13163:13229:13255:14036:14037:14095:14096:14110:14516:14531:14533:14687:14721:14818:14829:19902:19997:21326:21433:30019:30021:30022:30038:30054:30055:30079:30090:30091,0,RBL:83.149.173.54:@mail.com:.lbl8.mailshell.net-62.20.122.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:5:0,LFtim
+X-HE-Tag: actor09_b2904a58a512
+X-Filterd-Recvd-Size: 330123
+Received: from gualchierani.ipbox.it (mail.industriemeccaniche.it [83.149.173.54])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 19 Sep 2016 01:04:36 +0000 (UTC)
+Received: by gualchierani.ipbox.it (Postfix, from userid 33)
+	id 1C8D0214BA; Mon, 19 Sep 2016 00:46:10 +0200 (CEST)
+To: undisclosed-recipients:;
+Subject: Payment Advice - Advice Ref:[G50320909021] / Customer Transfer /  Customer Ref:[0011509844457]
+X-PHP-Originating-Script: 0:main.inc
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="=_133bca590dbb8a88446a5b70dc73f9ff"
+Date: Mon, 19 Sep 2016 06:46:09 +0800
+From: HSBC Advising Service <suneel.eversendai@mail.com>
+Reply-To: <ptlte@bellsouth.net>
+Mail-Reply-To: <ptlte@bellsouth.net>
+Message-ID: <aaeecda9d743888a4b988ec6031abd1e@mail.industriemeccaniche.it>
+X-Sender: suneel.eversendai@mail.com
+User-Agent: Roundcube Webmail/0.7.2
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 361

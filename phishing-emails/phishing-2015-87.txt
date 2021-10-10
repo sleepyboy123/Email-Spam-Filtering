@@ -1,0 +1,43 @@
+From services@chelsea.com  Sat May  9 10:57:53 2015
+Return-Path: <services@chelsea.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 05152F40B6
+	for <jose@login.monkey.org>; Sat,  9 May 2015 10:57:53 -0500 (CDT)
+Received: from smtpin09.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id B50681846FA
+	for <jose@login.monkey.org>; Sat,  9 May 2015 15:57:52 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70167818784.09.grip38_a8775dc95b14
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,services@chelsea.com,:services@chelsea.com,RULES_HIT:1803,0,RBL:128.111.56.56:@chelsea.com:.lbl8.mailshell.net-62.6.0.2 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:3:0
+X-HE-Tag: grip38_a8775dc95b14
+X-Filterd-Recvd-Size: 3040
+Received: from gate.ece.ucsb.edu (gate.ece.ucsb.edu [128.111.56.56])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  9 May 2015 15:57:52 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by gate.ece.ucsb.edu (Postfix) with ESMTP id 9AF6D122310;
+	Sat,  9 May 2015 08:43:00 -0700 (PDT)
+X-Virus-Scanned: Debian amavisd-new at gate.ece.ucsb.edu
+Received: from gate.ece.ucsb.edu ([127.0.0.1])
+	by localhost (gate.ece.ucsb.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uOzImiWvtS2l; Sat,  9 May 2015 08:42:59 -0700 (PDT)
+Received: from [128.111.19.134] (dean.physics.ucsb.edu [128.111.19.134])
+	by gate.ece.ucsb.edu (Postfix) with ESMTP id 3AEC6121819;
+	Sat,  9 May 2015 08:38:37 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="===============0021550370=="
+MIME-Version: 1.0
+Subject: Security Preferences Updated
+To: Recipients <Services@chelsea.com>
+From: "USAA" <Services@chelsea.com>
+Date: Sat, 09 May 2015 08:38:02 -0700
+Message-Id: <20150509154300.9AF6D122310@gate.ece.ucsb.edu>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 87

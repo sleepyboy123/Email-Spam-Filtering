@@ -1,0 +1,22 @@
+From jose@monkey.org Sat Jan  7 12:56:35 2017 +0000
+Return-Path: service.message.center@customermail.com
+Delivered-To: jose@monkey.org
+X-FDA: 72377301150.05.hair45_73a1fef66f912
+X-Spam-Summary: 73,5,0,d41d8cd98f00b204,d41d8cd98f00b204,service.message.center@customermail.com,:,RULES_HIT:327:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6618:6642:6747:6748:7281:7398:9900:11604:11845:11914:12340:12836:13110:14659:14827:14829:21080:21212:30054:30055,0,RBL:66.42.148.154:@customermail.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:63,LUA_SUMMARY:none
+X-HE-Tag: hair45_73a1fef66f912
+X-Filterd-Recvd-Size: 32162
+Received: from customermail.com (unknown [66.42.148.154])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  7 Jan 2017 12:56:34 +0000 (UTC)
+From: "USAA"<Service.Message.Center@customermail.com>
+To: jose@monkey.org
+Subject: USAA Electronic Wire Transfer Message
+Date: 07 Jan 2017 07:56:52 -0500
+Message-ID: <20170107075652.B3F60F90ABB735F6@customermail.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_B4DFC4D7.2A03294C"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 14

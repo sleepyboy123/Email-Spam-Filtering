@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Jan 14 22:57:25 2016 +0000
+Return-Path: usaa.protectionsupport@usaaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 71076076050.21.mass86_23868b2c29a4f
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 73,5,0,d2475149f5403f65,d41d8cd98f00b204,usaa.protectionsupport@usaaa.com,:,RULES_HIT:41:152:327:355:379:871:973:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1437:1516:1518:1527:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2084:2393:2540:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6642:6747:6748:7281:7398:7809:10004:10231:10400:11604:11658:11863:11914:12166:12196:12340:13110:14659:21080:30001:30054:30055:30070:30075,0,RBL:79.135.38.28:@usaaa.com:.lbl8.mailshell.net-62.8.122.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: mass86_23868b2c29a4f
+X-Filterd-Recvd-Size: 32177
+Received: from usaaa.com (unknown [79.135.38.28])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 Jan 2016 22:57:23 +0000 (UTC)
+From: "USAA" <USAA.protectionsupport@usaaa.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Restriction Removal
+Date: 14 Jan 2016 23:57:19 +0100
+Message-ID: <20160114235719.179980910B5392EB@usaaa.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_54F32E02.0FDD9884"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 17

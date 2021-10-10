@@ -1,0 +1,23 @@
+From jose@monkey.org Tue Jun 28 12:53:20 2016 +0000
+Return-Path: usaa.mailingmembers@won.org
+Delivered-To: jose@monkey.org
+X-FDA: 71676934560.24.scent41_3a3302c1f091c
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,usaa.mailingmembers@won.org,:usaa.mailingmembers@won.org,RULES_HIT:41:379:871:988:989:1254:1260:1313:1314:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6264:6618:6642:6687:6748:7281:7398:10004:10400:11537:11604:11658:11914:12166:12340:12561:13110:13439:14515:21080:30001:30026:30054:30055:30070,0,RBL:69.95.226.22:@won.org:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: scent41_3a3302c1f091c
+X-Filterd-Recvd-Size: 136156
+Received: from smtpbig002.earthlinkbusiness.com (smtpbig002.earthlinkbusiness.com [69.95.226.22])
+	by imf01.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Tue, 28 Jun 2016 12:53:19 +0000 (UTC)
+Received: (qmail 29297 invoked from network); 28 Jun 2016 12:38:15 -0000
+Received: from unknown (HELO RECO01-SP02.ReCommunity.local) (66.32.57.162)
+  by smtpbig002.onecommunications.net with SMTP; 28 Jun 2016 12:38:15 -0000
+Content-Type: multipart/mixed; boundary="===============1323362928=="
+MIME-Version: 1.0
+Subject: KEEP YOUR USAA CHECKING/SAVINGS ACCOUNT SECURE NOW
+To: Recipients <USAA.mailingmembers@won.org>
+From: "USAA" <USAA.mailingmembers@won.org>
+Date: Tue, 28 Jun 2016 07:37:53 -0500
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 283

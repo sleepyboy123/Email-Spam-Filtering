@@ -1,0 +1,38 @@
+From jose@monkey.org Thu Sep 24 02:51:24 2020 +0000
+Return-Path: bounces+6442427-cb33-jose=monkey.org@email.sierraview.com
+Delivered-To: jose@monkey.org
+X-FDA: 77296428888.05.comb37_6014aaf2715b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+6442427-cb33-jose=monkey.org@email.sierraview.com,,RULES_HIT,0,RBL:149.72.237.40:@email.sierraview.com:.lbl8.mailshell.net-62.2.0.32 64.100.201.201;04yr6n3qq5cxkj5sz1nkyfnes95qmyrdwui51bihqp8rrxc5f5mgna4yaf5hf39.tsxtsodsyyxe4fy5wnkzedgb5xsafjie4zn1hx6tzpewk1fj415hffs8j5ax713.4sszg9zket9377tp5sejb1smxycc5sjus5z89g8i5h1atkarr3xy4tiy-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: comb37_6014aaf2715b
+X-Filterd-Recvd-Size: 6438
+Received: from wrqvzdnv.outbound-mail.sendgrid.net (wrqvzdnv.outbound-mail.sendgrid.net [149.72.237.40])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 24 Sep 2020 02:51:23 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; 
+	d=sierraview.com; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=s1; bh=H14Z86fkBhNxBYuVE/ybRxMym1Q3FvgevN9tRn+0uSk=; b=gUeMIlt
+	Q+t3u9t+HI39v8Rrz4h31tTUNJ/fOxadZYa5XafN5gZzoPfrVg+B/AnqwdnBhV//
+	fhWkkzmINPLTAU6smqw1QjUaPByWlAwijcj8sb7edgf/8K6ricqJXYwiTbv6zYsn
+	UgqItTD2/M+atxVns2xn6glzcQ6sKWwq1l/E=
+Received: by filter1047p1iad2.sendgrid.net with SMTP id filter1047p1iad2-3309-5F6C0803-F
+        2020-09-24 02:44:19.716066218 +0000 UTC m=+19848.223709042
+Received: from sierraview.com (unknown)
+	by ismtpd0013p1iad2.sendgrid.net (SG) with ESMTP id c7jme5cNRZCu-hgQQK-E2Q
+	for <jose@monkey.org>; Thu, 24 Sep 2020 02:44:19.637 +0000 (UTC)
+From: monkey.org  <marketing@sierraview.com>
+To: jose@monkey.org
+Subject: =?UTF-8?B?55S15a2Q6YKu5Lu255qE6auY6aOO6Zmp?=
+Date: Thu, 24 Sep 2020 02:44:19 +0000 (UTC)
+Message-ID: <20200924044419.0FD0F48F13C5FEBE@sierraview.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtCNdFHAWdffRamEGySg4nJaA0cAQCKmhfG3Vi
+ u4KV5bWPUPx8r25PEFTLWG7q3iMT8b55h1FIAT8O6qNJuJZtMHr+E2eNSSGLukEvZg40XfOdV/eO5C
+ /GbyCYDjjBLyxA7hK4UOye+Dhywp/zXyFWtRM8HsykP4SHf4Q7j3P9Bl4g==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 130

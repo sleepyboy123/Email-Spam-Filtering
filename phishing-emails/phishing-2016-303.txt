@@ -1,0 +1,24 @@
+From jose@monkey.org Wed Jul 20 23:47:38 2016 +0000
+Return-Path: safeguard@nuvox.net
+Delivered-To: jose@monkey.org
+X-FDA: 71758416996.06.page39_42629b18ca825
+X-Spam-Summary: 50,3,0,c175b36f44697f33,d41d8cd98f00b204,safeguard@nuvox.net,:safeguard@nuvox.net,RULES_HIT:41:355:379:871:962:967:969:988:989:1189:1260:1313:1314:1345:1381:1436:1437:1516:1517:1518:1537:1559:1575:1588:1592:1594:1711:1714:1730:1748:1764:1777:1792:2559:2562:3138:3139:3140:3141:3142:3622:3690:3740:3865:3867:3873:4222:5007:6261:6264:6616:6684:6687:6748:7281:7398:7907:8825:10004:10293:10394:10400:11529:11604:11658:11914:12043:12166:12340:12561:13095:13110:13439:14037:14516:14721:21080:21433,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:0:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: page39_42629b18ca825
+X-Filterd-Recvd-Size: 90000
+Received: from smtp02.atlngahp.sys.nuvox.net (smtp-out2.atlngahp.sys.nuvox.net [70.43.63.19])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 20 Jul 2016 23:47:35 +0000 (UTC)
+Received: from tampasvr.sefoodsupplies.com (173.221.253.2.nw.nuvox.net [173.221.253.2])
+	by smtp02.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id u6KKVIbQ001231;
+	Wed, 20 Jul 2016 19:28:21 -0400
+Message-Id: <201607202328.u6KKVIbQ001231@smtp02.atlngahp.sys.nuvox.net>
+Content-Type: multipart/mixed; boundary="===============0667434984=="
+MIME-Version: 1.0
+Subject: You Have An Incoming E-Payment Transfer
+To: Recipients <Safeguard@Nuvox.net>
+From: "USAA" <Safeguard@Nuvox.net>
+Date: Wed, 20 Jul 2016 19:27:44 -0400
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 302

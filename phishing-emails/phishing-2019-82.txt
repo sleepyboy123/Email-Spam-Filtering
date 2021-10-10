@@ -1,0 +1,39 @@
+From jose@monkey.org Thu Apr 11 15:10:59 2019 +0000
+Return-Path: test@rommer.com.tr
+Delivered-To: jose@monkey.org
+X-FDA: 75367771038.17.533FC68
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin17.b.hostedemail.com (Postfix) with ESMTP id 414B7C2523
+	for <jose@monkey.org>; Thu, 11 Apr 2019 15:05:15 +0000 (UTC)
+X-Spam-Summary: 50,0,0,c5d9f2af7515fca5,d41d8cd98f00b204,test@rommer.com.tr,:,RULES_HIT:41:72:355:379:474:495:800:871:962:967:969:973:978:983:988:989:1000:1189:1208:1260:1261:1263:1308:1309:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1542:1567:1575:1588:1589:1594:1711:1714:1730:1747:1764:1777:1792:1803:2198:2199:2393:2525:2539:2560:2563:2682:2685:2693:2731:2771:2859:2890:2898:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3868:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4119:4321:4552:5007:6261:6506:6678:6688:6747:6748:7281:7628:8599:8603:8957:8987:9025:9059:9080:9388:9411:9908:9977:10004:10346:10400:10482:11473:11604:11658:11914:12043:12050:12051:12517:12519:12555:12740:12764:12895:12986:13025:13439:14093:14094:14096:14149:14181:14659:14714:14721:14828:14849:18000:19901:19997:21080:21433:21450:21451:21524:21627:21657:21804:21810:21819:30001:30016:30022:30029:30054:30069:30070:30074:30079:30091,0,RBL:185.48
+ .183.84:
+X-HE-Tag: clam98_10ac5cf326d10
+X-Filterd-Recvd-Size: 8405
+Received: from mail.rommer.com.tr (mail.rommer.com.tr [185.48.183.84])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 11 Apr 2019 15:05:14 +0000 (UTC)
+Received: from mail.rommer.com.tr (localhost [127.0.0.1])
+	by mail.rommer.com.tr (Postfix) with ESMTPS id C93A1190DB129
+	for <jose@monkey.org>; Thu, 11 Apr 2019 18:04:48 +0300 (+03)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.rommer.com.tr (Postfix) with ESMTP id D2A37190DB13F
+	for <jose@monkey.org>; Thu, 11 Apr 2019 18:04:04 +0300 (+03)
+Received: from mail.rommer.com.tr ([127.0.0.1])
+	by localhost (mail.rommer.com.tr [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id cLagNLenenVo for <jose@monkey.org>;
+	Thu, 11 Apr 2019 18:04:04 +0300 (+03)
+Received: from 185.48.183.84 (unknown [23.108.57.200])
+	by mail.rommer.com.tr (Postfix) with ESMTPA id 34EAA190DB13A
+	for <jose@monkey.org>; Thu, 11 Apr 2019 18:04:04 +0300 (+03)
+From: test@rommer.com.tr
+To: jose@monkey.org
+Subject: Confirm Your Details To Stop Email Shutdown now
+Date: 11 Apr 2019 08:04:03 -0700
+Message-ID: <20190411080403.42FF0CAECA417A14@rommer.com.tr>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_20DFC955.291A08DA"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 82

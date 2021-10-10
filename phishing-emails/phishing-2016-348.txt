@@ -1,0 +1,32 @@
+From jose@monkey.org Mon Aug 29 13:43:02 2016 +0000
+Return-Path: wapproject@justdial.com
+Delivered-To: jose@monkey.org
+X-FDA: 71902045404.10.care84_1a5f5726eec4b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,wapproject@justdial.com,:,RULES_HIT:10167:30001:30022:30026:30051:30054:30070,0,RBL:103.20.126.14:@justdial.com:.lbl8.mailshell.net-62.18.255.100 64.10.201.10;103.20.126.14-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:none,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: care84_1a5f5726eec4b
+X-Filterd-Recvd-Size: 6056
+Received: from justdial.com (nlb2.justdial.com [103.20.126.14])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 29 Aug 2016 13:43:01 +0000 (UTC)
+Received: from [192.168.8.101] (unknown [197.242.114.15])
+	(Authenticated sender: wapproject)
+	by internet.justdial.com (Postfix) with ESMTPA id 78C281B410CF
+	for <jose@monkey.org>; Mon, 29 Aug 2016 19:12:46 +0530 (IST)
+Message-Id: <V1PDWEK-8ULQ-E7J5-TOM3-N7MR3WB016V@justdial.com>
+Mime-Version: 1.0
+X-uucphostname:internet.justdial
+From: Email Alert <wapproject@justdial.com>
+To: "jose" <jose@monkey.org>
+Subject: Your account required an update to avoid being closed
+Date: Mon, 29 Aug 2016 14:42:50 +0100
+X-Bounce-Tracking-Info: <am9zZQkJCWpvc2VAbW9ua2V5Lm9yZwlZb3VyIGFjY291bnQgcmVxdWlyZWQgYW4gdXBkYXRlIHRvIGF2b2lkIGJlaW5nIGNsb3NlZAkyMAkJODcyNDQJYm91bmNlCW5vCW5v>
+Content-type: text/html; charset=iso-8859-1
+Content-transfer-encoding: quoted-printable
+X-MailServ-MailFilter-MailScanner-Information: Please contact the ISP for more information
+X-MailServ-MailFilter-MailScanner-ID: 78C281B410CF.AC720
+X-MailServ-MailFilter-MailScanner: Found to be clean
+X-MailScanner-From: wapproject@justdial.com
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 347

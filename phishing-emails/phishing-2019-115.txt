@@ -1,0 +1,52 @@
+From jose@monkey.org Thu May 23 04:46:50 2019 +0000
+Return-Path: sales@fasindo.com
+Delivered-To: jose@monkey.org
+X-FDA: 75518607780.17.lamp66_75e56ef698442
+X-Spam-Summary: 50,0,0,75d1d7ba442775ae,d41d8cd98f00b204,sales@fasindo.com,:,RULES_HIT:4:41:72:355:375:379:495:800:962:967:968:973:978:983:988:989:1189:1212:1224:1260:1261:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1593:1594:1710:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2568:2610:2627:2682:2685:2693:2731:2734:2737:2828:2859:2892:2895:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3503:3504:3586:3865:3866:3867:3868:3870:3872:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:4552:5007:6119:6238:6248:6261:6669:6674:6688:7809:7903:8511:8583:8603:8825:8957:9025:9080:9153:9416:9545:9908:10004:10346:11473:11657:11658:11914:12043:12050:12438:12523:12555:12663:12740:12812:12895:12955:12958:12959:12967:12968:12986:13139:13161:13229:13436:13439:13546:13870:14096:14827:18000:21080:21121:21212:21433:21450:21451:21483:21554:21627:21780:21790:21810:21819:30018:30019:30022:30026:30054:30
+X-HE-Tag: lamp66_75e56ef698442
+X-Filterd-Recvd-Size: 19374
+Received: from barracuda.folgergraphics.com (barracuda.folgergraphics.com [50.201.23.99])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 23 May 2019 04:46:50 +0000 (UTC)
+X-ASG-Debug-ID: 1558586799-0907fd10107e07000c-6JlXpt
+Received: from mail.folgergraphics.com ([192.168.1.5]) by barracuda.folgergraphics.com with ESMTP id ZF9kAMWkO18YFQqD for <jose@monkey.org>; Wed, 22 May 2019 21:46:46 -0700 (PDT)
+X-Barracuda-Envelope-From: sales@fasindo.com
+Received: from fasindo.com ([37.49.224.133])
+	(authenticated bits=0)
+	by mail.folgergraphics.com (8.14.4/8.14.4) with ESMTP id x4M9XElJ017042
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NO)
+	for <jose@monkey.org>; Wed, 22 May 2019 02:33:43 -0700
+From: "monkey.org"  <sales@fasindo.com>
+X-Barracuda-Effective-Source-IP: UNKNOWN[37.49.224.133]
+X-Barracuda-Apparent-Source-IP: 37.49.224.133
+To: jose@monkey.org
+Subject: jose@monkey.org Messages could not delivered.
+Date: 22 May 2019 02:33:43 -0700
+X-ASG-Orig-Subj: jose@monkey.org Messages could not delivered.
+Message-ID: <20190522023342.1EB774DCF16AF758@fasindo.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Barracuda-Connect: UNKNOWN[192.168.1.5]
+X-Barracuda-Start-Time: 1558586806
+X-Barracuda-URL: https://192.168.1.6:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at folgergraphics.com
+X-Barracuda-Scan-Msg-Size: 16217
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 3.52
+X-Barracuda-Spam-Status: No, SCORE=3.52 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=4.0 tests=BSF_SC0_SA038b, BSF_SC7_MV1009, DATE_IN_PAST_12_24, DATE_IN_PAST_12_24_2, HTML_MESSAGE, MIME_HTML_ONLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.71668
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.01 DATE_IN_PAST_12_24     Date: is 12 to 24 hours before Received: date
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	2.50 BSF_SC7_MV1009         Custom rule MV1009
+	0.20 BSF_SC0_SA038b         Custom Rule SA038b
+	0.80 DATE_IN_PAST_12_24_2   DATE_IN_PAST_12_24_2
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 115

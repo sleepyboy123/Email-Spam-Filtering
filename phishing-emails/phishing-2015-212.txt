@@ -1,0 +1,37 @@
+From aicashop@aicanet.it  Wed Oct 21 07:49:29 2015
+Return-Path: <aicashop@aicanet.it>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 9A38AF412F
+	for <jose@login.monkey.org>; Wed, 21 Oct 2015 07:49:29 -0500 (CDT)
+Received: from smtpin17.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id 6231E27A952
+	for <jose@login.monkey.org>; Wed, 21 Oct 2015 12:49:29 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70766096058.17.smash13_6fd80ff0c7e3b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 75,0,0,7ccf890f3b7f52fa,d41d8cd98f00b204,aicashop@aicanet.it,:,RULES_HIT:1:41:72:355:375:379:920:960:962:967:969:973:978:983:988:989:1189:1208:1224:1260:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1515:1516:1517:1571:1588:1589:1592:1730:1747:1777:1792:1801:1803:2198:2199:2393:2525:2527:2528:2539:2560:2563:2610:2636:2682:2685:2731:2859:2890:2892:2898:2902:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3585:3586:3865:3866:3867:3870:3871:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4605:5007:6117:6119:6238:6248:6261:6650:6678:6686:7809:7903:8514:8583:8603:9025:9028:9080:9121:10128:10231:10346:11233:11323:11656:11657:11658:11914:12043:12295:12438:12555:12767:12943:12955:13139:13374:13546:13551:13894:14250:21063:21067:21080,0,RBL:93.62.254.110-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0
+X-HE-Tag: smash13_6fd80ff0c7e3b
+X-Filterd-Recvd-Size: 11129
+Received: from aicamagento.webscience.it (93-62-254-110.ip25.fastwebnet.it [93.62.254.110])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 21 Oct 2015 12:49:28 +0000 (UTC)
+Received: by aicamagento.webscience.it (Postfix, from userid 48)
+	id DF49331695; Wed, 21 Oct 2015 14:36:56 +0200 (CEST)
+To: jose@monkey.org
+Subject: account temporarily disabled.
+X-PHP-Originating-Script: 48:sas.php
+From: Account Support <no-rr@aicamagento.webscience.it>
+Reply-To: no-rr@aicamagento.webscience.it
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-Id: <20151021123656.DF49331695@aicamagento.webscience.it>
+Date: Wed, 21 Oct 2015 14:36:56 +0200 (CEST)
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 212

@@ -1,0 +1,71 @@
+From jose@monkey.org Wed Sep 11 11:42:49 2019 +0000
+Return-Path: nimcborno@nimc.gov.ng
+Delivered-To: jose@monkey.org
+X-FDA: 75922452858.49.bomb03_188e4d0ad3b5b
+X-Spam-Summary: 85,1,0,8dccfb040269e2bd,d41d8cd98f00b204,nimcborno@nimc.gov.ng,:nimcborno@nimc.gov.ng,RULES_HIT:4:41:72:355:379:962:967:973:978:983:988:989:994:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1436:1437:1516:1517:1518:1559:1575:1588:1589:1592:1594:1714:1719:1730:1737:1748:1769:1792:2194:2198:2199:2200:2525:2527:2561:2565:2637:2682:2685:2771:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6261:6653:6671:6678:6687:7652:7688:8583:8603:8957:9025:9059:9388:9908:10004:10346:11473:11658:11914:12043:12297:12438:12517:12519:12555:12561:12663:12740:12895:12903:12986:13007:13110:13236:13237:13276:13439:14096:14877:21080:21325:21347:21433:21436:21451:21524:21611:21627:21790:21838:21939:30026:30054:30070,0,RBL:104.248.245.3-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:
+X-HE-Tag: bomb03_188e4d0ad3b5b
+X-Filterd-Recvd-Size: 16093
+Received: from milter.nimc.gov.ng (milter.nimc.gov.ng [104.248.245.3])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 11 Sep 2019 11:42:48 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by milter.nimc.gov.ng (Postfix) with ESMTP id 41304E8057C5;
+	Wed, 11 Sep 2019 12:41:53 +0100 (WAT)
+Received: from milter.nimc.gov.ng ([127.0.0.1])
+	by localhost (milter.nimc.gov.ng [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id nFy14dAxrBws; Wed, 11 Sep 2019 12:41:52 +0100 (WAT)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by milter.nimc.gov.ng (Postfix) with ESMTP id C3343E8057C7;
+	Wed, 11 Sep 2019 12:41:51 +0100 (WAT)
+DKIM-Filter: OpenDKIM Filter v2.10.3 milter.nimc.gov.ng C3343E8057C7
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nimc.gov.ng;
+	s=43747DB0-EE55-11E8-B2E7-161786ACFFBF; t=1568202112;
+	bh=ewWPCXQbnXitwM51N2CYNtiN1rzfyV6bsLr7WwNhGuw=;
+	h=MIME-Version:To:From:Date:Message-Id;
+	b=n9U2Ev+4xXHUaWQeDQwrfKfC5P2tOxS3Mr3HH2/UGTvFinDXC96Y7d9EhJh3u6+H7
+	 +j0IRA1QEq/IDLmj35w0Hg07lGGcD6cLzmaTzHDhtGjhPqPKDsE5yTmLw33LIYZSHS
+	 CuZiAIVT+hPx9hdXUI3c6p5Xqr8mFfFTEJZe1bMChILQId+4PgeZXxWYDXXANp5zsY
+	 OK6IzfMrhwP35eIIuEFvTqoUGX0KvyrtomhoUfgXhPk2vS359xehWJO50PgEhB9ASk
+	 ZFsgssIdgFo0iUZw4TNeXffFlFYhUWalBgxGdeeUZUbJIW0hVa7L4facNF0/Svu/f4
+	 VNkeg+eSHQesg==
+X-Virus-Scanned: amavisd-new at 
+Received: from milter.nimc.gov.ng ([127.0.0.1])
+	by localhost (milter.nimc.gov.ng [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 0wdtWRHZsAqm; Wed, 11 Sep 2019 12:41:51 +0100 (WAT)
+Received: from mail.nimc.gov.ng (unknown [216.87.173.150])
+	by milter.nimc.gov.ng (Postfix) with ESMTPSA id E9560E8057C5;
+	Wed, 11 Sep 2019 12:41:44 +0100 (WAT)
+Received: from mail.nimc.gov.ng (localhost [127.0.0.1])
+	by mail.nimc.gov.ng (Postfix) with ESMTPS id B80AC42CE3F;
+	Wed, 11 Sep 2019 07:10:24 +0100 (WAT)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.nimc.gov.ng (Postfix) with ESMTP id D95AA42D510;
+	Tue, 10 Sep 2019 19:19:40 +0100 (WAT)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mail.nimc.gov.ng D95AA42D510
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nimc.gov.ng;
+	s=43747DB0-EE55-11E8-B2E7-161786ACFFBF; t=1568139614;
+	bh=ewWPCXQbnXitwM51N2CYNtiN1rzfyV6bsLr7WwNhGuw=;
+	h=MIME-Version:To:From:Date:Message-Id;
+	b=tcEy8clVzYLeLJSA22ucfmrX0W3vQ/eelpGYXIwb+DY8BoMYvQ7SA1eBlt5hoGgnV
+	 QnV15xUGxi/RK3VfwF2oQD4v5DTqzhpdu4thV4vIWxJiUgyvuGxQHh/6F+INn4W+OC
+	 mieageDwPanjGOazsuGikM1mWS3Bw9ZQzM0Lr2QomotX4xMWSX74Sb84M+X6cVItB5
+	 0UatMtPyKFqRveASeZQptMmp5GaHF5VjvJ/piKOMmMhGheq0ucac+eO/HNOD1OGb3+
+	 zIrhczhrjbPhvhEhM+sfIwfKdakYyeOzAteOSEK+KhmDIxdes/sVZ8hoxuAmP94qR/
+	 OY6ROQ0lUnpYg==
+Received: from mail.nimc.gov.ng ([127.0.0.1])
+	by localhost (mail.nimc.gov.ng [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id cx6p4zMN9SFX; Tue, 10 Sep 2019 19:19:34 +0100 (WAT)
+Received: from [192.168.8.126] (unknown [41.203.78.110])
+	by mail.nimc.gov.ng (Postfix) with ESMTPSA id 0FF7B42D6C5;
+	Tue, 10 Sep 2019 16:00:03 +0100 (WAT)
+Content-Type: multipart/alternative; boundary="===============0368092453=="
+MIME-Version: 1.0
+Subject: Important file update shared with you VIA SharePoint
+To: Recipients <nimcborno@nimc.gov.ng>
+From: "Admin"<nimcborno@nimc.gov.ng>
+Date: Tue, 10 Sep 2019 07:58:00 -0700
+Message-Id: <20190910150005.0FF7B42D6C5@mail.nimc.gov.ng>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 177

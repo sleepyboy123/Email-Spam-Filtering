@@ -1,0 +1,40 @@
+From jose@monkey.org Mon Jan 22 12:08:48 2018 +0000
+Return-Path: godstabernacle@web.gamtel.gm
+Delivered-To: jose@monkey.org
+X-FDA: 73756124736.20.crown98_86ad1f0e1b306
+X-Spam-Summary: 85,1,0,a2c129835decadc6,d41d8cd98f00b204,godstabernacle@web.gamtel.gm,:,RULES_HIT:4:41:72:355:375:379:429:540:541:543:967:969:973:978:979:983:988:989:1208:1224:1260:1313:1314:1324:1345:1381:1431:1433:1434:1437:1516:1517:1571:1593:1594:1699:1730:1747:1777:1792:1801:2084:2198:2199:2393:2525:2527:2538:2539:2549:2553:2560:2563:2610:2640:2682:2685:2692:2828:2859:2890:2894:2901:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3865:3866:3867:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4248:4321:4383:4429:4605:4647:5007:6248:6261:6650:6669:6678:7974:8518:8583:8603:8608:8903:8957:9025:9080:9132:9149:9165:9199:9391:9908:10231:10346:11026:11289:11529:11657:11658:11914:12043:12217:12438:12555:12718:12737:12812:12955:12958:12961:12967:12986:13019:13139:13439:14096:14129:14829:14985:21080:21433:21450:21451:21499:21524:21554:21627:30001:30003:30014:30019:30022:30054:30055:30067:30069:30070:30090,0,RBL:212.60.66.6-irl
+X-HE-Tag: crown98_86ad1f0e1b306
+X-Filterd-Recvd-Size: 15926
+Received: from web.gamtel.gm (web.gamtel.gm [212.60.66.6])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 22 Jan 2018 12:08:45 +0000 (UTC)
+Received: from godstabernacle by web.gamtel.gm with local (Exim 4.89_1)
+	(envelope-from <godstabernacle@web.gamtel.gm>)
+	id 1edatf-0004eS-KK
+	for jose@monkey.org; Mon, 22 Jan 2018 12:08:19 +0000
+To: jose@monkey.org
+Subject: Your account has been Iimited untiI we hear from you
+X-PHP-Script: godstabernacle.gm/templates/wp-mail.php for 41.142.2.131
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: NoReply#PPL <Support@Inc.com>
+Reply-To: Support@Inc.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: godstabernacle.gm
+Message-Id: <E1edatf-0004eS-KK@web.gamtel.gm>
+Date: Mon, 22 Jan 2018 12:08:19 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - web.gamtel.gm
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [510 492] / [47 12]
+X-AntiAbuse: Sender Address Domain - web.gamtel.gm
+X-Get-Message-Sender-Via: web.gamtel.gm: authenticated_id: godstabernacle/only user confirmed/virtual account not confirmed
+X-Authenticated-Sender: web.gamtel.gm: godstabernacle
+X-Source: /opt/cpanel/ea-php55/root/usr/bin/php-cgi
+X-Source-Args: /opt/cpanel/ea-php55/root/usr/bin/php-cgi /home/godstabernacle/public_html/templates/wp-mail.php 
+X-Source-Dir: godstabernacle.gm:/public_html/templates
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 404

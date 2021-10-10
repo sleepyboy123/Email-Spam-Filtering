@@ -1,0 +1,35 @@
+From account@diamondship-jo.com  Wed Sep 23 03:30:52 2015
+Return-Path: <account@diamondship-jo.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 86211F409E
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 03:30:52 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 47D5934E021
+	for <jose@login.monkey.org>; Wed, 23 Sep 2015 08:30:52 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70663837944.07.nut98_77e6ec174e37
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,286d4ba96c7263c3,d41d8cd98f00b204,account@diamondship-jo.com,:,RULES_HIT:2:41:72:355:375:379:495:800:962:966:967:969:973:978:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1571:1588:1589:1593:1594:1606:1623:1685:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2538:2539:2543:2553:2560:2563:2610:2682:2685:2828:2859:2890:2895:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3650:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4117:4157:4385:4552:4641:5007:6261:6630:6650:6669:6674:6678:6703:7903:8518:8583:8603:8987:9025:9072:9080:9388:9416:9908:10004:10044:10049:10249:10250:11473:11658:11914:12043:12260:12555:12658:12740:12764:12955:12958:12959:12967:12968:13025:13374:13975:14096:14158:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rule
+X-HE-Tag: nut98_77e6ec174e37
+X-Filterd-Recvd-Size: 6326
+Received: from diamondship-jo.com (unknown [46.183.221.25])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 23 Sep 2015 08:30:51 +0000 (UTC)
+From: monkey.org  <account@diamondship-jo.com>
+To: jose@monkey.org
+Subject: [ jose@monkey.org ] Upgrade Notice
+Date: 23 Sep 2015 11:30:51 +0300
+Message-ID: <20150923113051.2FCC9E8E711C5948@diamondship-jo.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 184

@@ -1,0 +1,28 @@
+From jose@monkey.org Sun Feb 28 20:12:45 2016 +0000
+Return-Path: web.support@security.org
+Delivered-To: jose@monkey.org
+X-FDA: 71238957090.15.wall75_351316ab0e235
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,b2eaf5ba8b709608,d41d8cd98f00b204,web.support@security.org,:web.support@security.org,RULES_HIT:1:41:72:355:379:581:962:967:969:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1461:1516:1517:1518:1571:1575:1588:1592:1594:1685:1730:1777:1792:2084:2194:2196:2198:2199:2200:2201:2525:2527:2557:2560:2568:2610:2612:2636:2682:2685:2737:2741:2859:2890:2891:2894:2895:2901:2902:2903:2912:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:2975:3000:3022:3138:3139:3140:3141:3142:3148:3352:3585:3586:3865:3867:3868:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4157:4321:4700:5007:6119:6238:6650:6656:6669:6678:6687:6688:7208:7903:7927:8599:8603:8784:8957:9025:9060:9061:9121:9416:9908:10004:10049:10231:10346:10946:11026:11233:11473:11529:11658:11914:12043:12050:12295:12438:12520:12555:12561:12679:12729:12737:12740:12776:12973:13018:13019:13038:13110:13132:13139:13161:13163:13200:13229:13231:13
+X-HE-Tag: wall75_351316ab0e235
+X-Filterd-Recvd-Size: 13965
+Received: from TSSERVER.afcmed.local (wsip-174-79-48-242.ph.ph.cox.net [174.79.48.242])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 28 Feb 2016 20:12:44 +0000 (UTC)
+Received: from TSSERVER.afcmed.local ([127.0.0.1]) by TSSERVER.afcmed.local over TLS secured channel with Microsoft SMTPSVC(7.5.7601.17514);
+	 Sun, 28 Feb 2016 13:19:50 -0700
+Content-Type: multipart/alternative; boundary="===============1869694364=="
+MIME-Version: 1.0
+Subject: Personal Information Security Preference Update
+To: Recipients <web.support@security.org>
+From: "USAA" <web.support@security.org>
+Date: Sun, 28 Feb 2016 13:19:33 -0700
+Return-Path: web.support@security.org
+Message-ID: <TSSERVERaZKY1d66HcA00000904@TSSERVER.afcmed.local>
+X-OriginalArrivalTime: 28 Feb 2016 20:19:52.0795 (UTC) FILETIME=[61C3F2B0:01D17265]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 89

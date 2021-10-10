@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Dec 24 01:37:55 2015 +0000
+Return-Path: usaa.protectionsupport@usaaa.com
+Delivered-To: jose@monkey.org
+X-FDA: 70996646910.14.front61_ae333520791d
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,usaa.protectionsupport@usaaa.com,:,RULES_HIT:327:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2084:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6642:6747:6748:7281:7398:10004:10231:11604:11914:12166:12340:12836:13110:14659:21080:30001:30054:30055:30069:30070,0,RBL:67.22.192.124:@usaaa.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: front61_ae333520791d
+X-Filterd-Recvd-Size: 32077
+Received: from usaaa.com (remote.hullcoop.com [67.22.192.124])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 24 Dec 2015 01:37:54 +0000 (UTC)
+From: "USAA" <USAA.protectionsupport@usaaa.com>
+To: jose@monkey.org
+Subject: Your USAA  Checking/Savings Account Fraud Verification
+Date: 23 Dec 2015 19:37:54 -0600
+Message-ID: <20151223193754.04A36ACEC63E7085@usaaa.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_F6E61B3C.AC249DD7"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 297

@@ -1,0 +1,25 @@
+From jose@monkey.org Mon Feb  1 01:20:58 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71138127396.24.hate01_5f0c1b081df3b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,79ff928f0cca8ed2,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:4:41:72:355:379:455:871:960:967:969:973:983:988:989:1000:1197:1208:1260:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1542:1545:1550:1571:1573:1575:1594:1685:1699:1711:1714:1730:1747:1777:1792:1803:2194:2198:2199:2200:2393:2525:2538:2561:2564:2682:2685:2859:2890:2892:2894:2895:2901:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3351:3552:3554:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4093:4321:4504:4514:6119:6261:6354:6506:6669:6678:6747:7281:7398:7774:7903:8509:8603:9025:10004:10346:10562:11026:11658:11914:12043:12295:12438:12555:12660:12776:13110:13163:13229:14037:14093:14094:14096:14651:14659:21063:21080:30001:30054:30055:30064:30067:30069:30070:30075:30080,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:err
+X-HE-Tag: hate01_5f0c1b081df3b
+X-Filterd-Recvd-Size: 17660
+Received: from approject.com (unknown [79.135.38.28])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  1 Feb 2016 01:20:52 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Urgent  Profile Update
+Date: 01 Feb 2016 02:20:51 +0100
+Message-ID: <20160201022051.AF2ABA5F8263179A@approject.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_96537606.2BD89DEB"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 39

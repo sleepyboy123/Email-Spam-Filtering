@@ -1,0 +1,32 @@
+From jose@monkey.org Fri Jul 14 22:12:07 2017 +0000
+Return-Path: sandy@ghsps.edu.hk
+Delivered-To: jose@monkey.org
+X-FDA: 73060915494.21.mind49_2f9c7df472b39
+X-Spam-Summary: 10,1,0,0cd2313a5a91170e,d41d8cd98f00b204,sandy@ghsps.edu.hk,:,RULES_HIT:41:72:152:379:494:495:800:962:967:973:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1397:1431:1433:1434:1436:1516:1517:1518:1533:1535:1542:1571:1575:1588:1589:1592:1594:1685:1711:1714:1730:1769:1780:1792:2069:2070:2198:2199:2525:2560:2563:2682:2685:2827:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6114:6238:6261:6630:6642:6678:7652:8516:8599:8603:8634:8784:8957:8985:8987:9025:9080:9388:10004:10214:11073:11657:11658:11783:11914:12043:12160:12517:12519:12555:12660:12740:12764:12895:13005:13017:13018:13019:13025:13139:13374:13975:14093:14094:14181:14664:14721:14849:14877:21080:21364:21433:21451:21524:21611:21627:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:non
+X-HE-Tag: mind49_2f9c7df472b39
+X-Filterd-Recvd-Size: 5715
+Received: from mail.touba-aulnay.fr (mail.touba-aulnay.fr [217.182.228.243])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 14 Jul 2017 22:12:07 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.touba-aulnay.fr (Postfix) with ESMTP id 80812363315
+	for <jose@monkey.org>; Sat, 15 Jul 2017 00:07:31 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mail.touba-aulnay.fr
+Received: from mail.touba-aulnay.fr ([127.0.0.1])
+	by localhost (mail.touba-aulnay.fr [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id jVs7bYrnguik for <jose@monkey.org>;
+	Sat, 15 Jul 2017 00:07:30 +0200 (CEST)
+Received: from [81.171.7.163] (unknown [81.171.7.163])
+	(Authenticated sender: postmaster@touba-aulnay.fr)
+	by mail.touba-aulnay.fr (Postfix) with ESMTPSA id 508163CC650
+	for <jose@monkey.org>; Wed, 12 Jul 2017 03:52:23 +0200 (CEST)
+Content-Type: multipart/alternative; boundary="===============1757515195=="
+MIME-Version: 1.0
+Subject: Your Mailbox  Storage Is Running Low, Please Upgrade Now
+To: jose@monkey.org
+From: "Email Server" <sandy@ghsps.edu.hk>
+Date: Wed, 12 Jul 2017 02:50:50 -0700
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 248

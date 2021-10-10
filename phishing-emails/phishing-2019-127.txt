@@ -1,0 +1,37 @@
+From jose@monkey.org Tue Jun 25 22:22:47 2019 +0000
+Return-Path: befab@fabauthority.org
+Delivered-To: jose@monkey.org
+X-FDA: 75641019174.25.light34_35683adfec020
+X-Spam-Summary: 50,0,0,ebc71faf405daf69,d41d8cd98f00b204,befab@fabauthority.org,:,RULES_HIT:2:41:72:355:375:379:495:560:800:962:966:967:969:973:983:988:989:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1560:1571:1588:1589:1714:1719:1730:1747:1777:1792:1873:2194:2196:2198:2199:2200:2201:2393:2525:2527:2549:2560:2565:2610:2682:2685:2693:2859:2894:2895:2900:2902:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3362:3585:3586:3873:3876:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4118:4321:4385:4603:5007:6261:6671:6672:6678:6753:7628:7652:7809:8511:8518:8603:8957:9025:9080:9908:10004:10241:10346:11473:11658:11914:12043:12297:12438:12555:12740:12895:12903:12955:12958:12986:13007:13008:13025:13139:13374:13546:14096:18000:21067:21080:21347:21433:21436:21451:21483:21524:21554:21627:21772:21810:21819:30018:30054:30070,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF
+X-HE-Tag: light34_35683adfec020
+X-Filterd-Recvd-Size: 7601
+Received: from apa.dotblock.com (server.apaconsulting.biz [199.101.50.190])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 25 Jun 2019 22:22:46 +0000 (UTC)
+Received: from [66.154.111.16] (port=64855 helo=fabauthority.org)
+	by apa.dotblock.com with esmtpa (Exim 4.92)
+	(envelope-from <befab@fabauthority.org>)
+	id 1hftqN-0001z3-M9
+	for jose@monkey.org; Tue, 25 Jun 2019 18:23:15 -0400
+From: monkey.org <befab@fabauthority.org>
+To: jose@monkey.org
+Subject: monkey.org RESET CONFIRMATION ACTIVATED!  |
+Date: 25 Jun 2019 15:22:51 -0700
+Message-ID: <20190625152251.526EA7AE38367A03@fabauthority.org>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - apa.dotblock.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - fabauthority.org
+X-Get-Message-Sender-Via: apa.dotblock.com: authenticated_id: befab@fabauthority.org
+X-Authenticated-Sender: apa.dotblock.com: befab@fabauthority.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 127

@@ -1,0 +1,36 @@
+From jose@monkey.org Wed Dec 25 00:40:44 2019 +0000
+Return-Path: bounces+10356878-b90f-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76301808408.57.burn30_4094b58abf440
+X-Spam-Summary: 9,0,0,,d41d8cd98f00b204,bounces+10356878-b90f-jose=monkey.org@sendgrid.net,:noreply@email.chase.com,RULES_HIT:1803:30001:30018:30026:30034:30054:30055:30064:30069:30070:30075,0,RBL:149.72.210.116:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10;149.72.210.116-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0,LFtime:25,LUA_SUMMARY:none
+X-HE-Tag: burn30_4094b58abf440
+X-Filterd-Recvd-Size: 21422
+Received: from wrqvdntq.outbound-mail.sendgrid.net (wrqvdntq.outbound-mail.sendgrid.net [149.72.210.116])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 25 Dec 2019 00:40:43 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-type:mime-version:subject:to:from; s=smtpapi; 
+	bh=c+6y7UuCWc8ZZ7bUkoB0sWlB/LfvHWXNFYaFi0cmCqU=; b=nkm8zrHm+pdEm
+	nQHIbsErHd/o0n0Qh/DOjlnVGyhjWH1BsW/RZsyfc2xRlRd9VnRjhdKf1coz3nFD
+	N7BqIdRxeRTsKO/LVDqlgGjX1d1oJqJbUOBdf+Av71FCMXPaU9epMSJvL1Y3asp4
+	AscqIyRN5pSwj84awIexWuI13Z0TTQ=
+Received: by filter2090p1mdw1.sendgrid.net with SMTP id filter2090p1mdw1-2740-5E02AF35-13
+        2019-12-25 00:37:10.552406575 +0000 UTC m=+610399.234277294
+Received: from [216.170.126.183] (unknown [216.170.126.183])
+	by ismtpd0054p1iad1.sendgrid.net (SG) with ESMTP id ng8R_QEbSdSuggxht0QW9Q
+	Wed, 25 Dec 2019 00:37:09.897 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============1134659011=="
+MIME-Version: 1.0
+Subject: Online Security Update
+To: customer <noreply@email.chase.com>
+From: "chase.com" <noreply@email.chase.com>
+Date: Wed, 25 Dec 2019 00:40:42 +0000 (UTC)
+Message-ID: <ng8R_QEbSdSuggxht0QW9Q@ismtpd0054p1iad1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtALh20FOoGFrwAaPF9ILKVesVvFrgKeWhO62L
+ 1EukFPcMphEJJOH94xfSI4HM8YopmkzLd0rkpEzxLLSV9+aFltwA3WYPo1U56OWto42V3BBHz4AbFG
+ 7i6AyEE+ebPaV7yU2DLa4jYQP9sSVEdJI+USDY2zI3ID6O3iXgeq1WD0oJfsMlQMR0iMjLa7f6RcnR
+ s=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 238

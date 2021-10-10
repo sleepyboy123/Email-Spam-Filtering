@@ -1,0 +1,23 @@
+From jose@monkey.org Tue Apr 19 12:45:01 2016 +0000
+Return-Path: usaaproject@usa.com
+Delivered-To: jose@monkey.org
+X-FDA: 71422897602.24.fall22_83235419b282c
+X-Spam-Summary: 2,0,0,e3a562d4b5dc5e74,d41d8cd98f00b204,usaaproject@usa.com,:usaaproject@usa.com,RULES_HIT:41:72:152:379:962:967:969:973:983:988:989:994:1189:1208:1221:1254:1260:1313:1314:1431:1432:1436:1437:1516:1517:1518:1534:1542:1575:1588:1592:1594:1711:1714:1730:1777:1792:1803:2069:2070:2194:2199:2525:2559:2566:2570:2610:2612:2682:2685:2693:2703:2741:2829:2859:2890:2892:2894:2895:2897:2901:2920:2921:2922:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3351:3585:3865:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:4321:4365:5007:6261:8568:8599:8603:8957:8987:9025:9388:10004:10049:10234:10400:11658:12561,0,RBL:216.135.65.230:@usa.com:.lbl8.mailshell.net-62.20.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:2:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: fall22_83235419b282c
+X-Filterd-Recvd-Size: 4487
+Received: from mail.bluegrass.net (mail.bluegrass.net [216.135.65.230])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 19 Apr 2016 12:45:01 +0000 (UTC)
+Received: from lha-xch-01.hal1.org (mail.hal1.org [216.135.82.131])
+	by mail.bluegrass.net (Postfix) with ESMTP id A544A360915;
+	Tue, 19 Apr 2016 08:11:23 -0400 (EDT)
+Content-Type: multipart/alternative; boundary="===============1784747496=="
+MIME-Version: 1.0
+Subject: Important Notification
+To: Recipients <usaaproject@usa.com>
+From: "USAA" <usaaproject@usa.com>
+Date: Tue, 19 Apr 2016 08:11:21 -0400
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 175

@@ -1,0 +1,30 @@
+From jose@monkey.org Wed Jan  4 01:12:50 2017 +0000
+Return-Path: info@clusakenya.org
+Delivered-To: jose@monkey.org
+X-FDA: 72364641300.21.mice66_35b09048db20c
+X-Spam-Summary: 20,1.5,0,930503d76275f1d9,d41d8cd98f00b204,info@clusakenya.org,:info@clusakenya.org,RULES_HIT:4:41:72:379:856:962:967:973:978:983:988:989:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1432:1436:1437:1516:1517:1518:1547:1560:1575:1588:1589:1592:1594:1714:1730:1749:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2540:2561:2566:2610:2639:2682:2685:2733:2734:2859:2902:2905:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3148:3421:3690:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4361:4605:4699:5007:6119:6120:6261:6687:6688:7809:7974:8603:8784:8957:9025:9059:9108:9388:9416:9871:9908:9973:9979:10009:10049:10346:11026:11256:11257:11657:11658:11914:12043:12076:12079:12295:12438:12555:12561:12895:12903:12986:13139:13235:13236:13237:13285:13439:14096:14196:14515:14596:21080:21121:21325:21407:21433:21450:21451:21524:30026:30034:30046:30054:30055:30070:30075,0,RBL:41.215.60.22:@clusakenya.org:.lbl8.mailshell.net-62.8.126.1
+X-HE-Tag: mice66_35b09048db20c
+X-Filterd-Recvd-Size: 16260
+Received: from clusakenya.org (unknown [41.215.60.22])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  4 Jan 2017 01:12:48 +0000 (UTC)
+Received: from Terminal.highmountainhealth.com by clusakenya.org (MDaemon PRO v13.0.2)
+	with ESMTP id md50000224193.msg
+	for <jose@monkey.org>; Wed, 04 Jan 2017 04:12:32 +0300
+X-Spam-Processed: clusakenya.org, Wed, 04 Jan 2017 04:12:32 +0300
+	(not processed: message from trusted or authenticated source)
+X-Authenticated-Sender: info@clusakenya.org
+X-MDRemoteIP: 173.220.174.140
+X-Return-Path: info@clusakenya.org
+X-Envelope-From: info@clusakenya.org
+X-MDaemon-Deliver-To: jose@monkey.org
+Content-Type: multipart/alternative; boundary="===============1535468000=="
+MIME-Version: 1.0
+Subject: DHL YOUR PACKAGE ARRIVED 
+To: Recipients <info@clusakenya.org>
+From: "DHL EXPRESS " <info@clusakenya.org>
+Date: Mon, 02 Jan 2017 21:01:20 -0500
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 5

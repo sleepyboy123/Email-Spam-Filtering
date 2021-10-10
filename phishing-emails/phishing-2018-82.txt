@@ -1,0 +1,56 @@
+From jose@monkey.org Tue Apr 24 01:28:17 2018 +0000
+Return-Path: official@absa.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 74088360234.18.love55_2b14ca7e6c73c
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,official@absa.co.za,:official@absa.co.za,RULES_HIT:2539:3619:6227:30001:30007:30009:30012:30018:30019:30022:30028:30034:30037:30038:30051:30054:30055:30064:30067:30069:30070:30074:30075:30076:30080:30090,0,RBL:193.109.254.107:@absa.co.za:.lbl8.mailshell.net-62.18.15.100 66.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: love55_2b14ca7e6c73c
+X-Filterd-Recvd-Size: 79048
+Received: from mail1.bemta6.messagelabs.com (mail1.bemta6.messagelabs.com [193.109.254.107])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 24 Apr 2018 01:28:15 +0000 (UTC)
+Return-Path: <official@absa.co.za>
+Received: from [85.158.140.211] (using TLSv1.2 with cipher DHE-RSA-AES256-GCM-SHA384 (256 bits))
+	by server-3.bemta-6.messagelabs.com id 2F/B2-07905-FD78EDA5; Tue, 24 Apr 2018 01:26:55 +0000
+X-Brightmail-Tracker: H4sIAAAAAAAAA21Ta0xbZRj2O/dNSkqZctZIdE1mEAcBf5D3hz/
+  8IXoWMsPUH45E52EeaWMppC2T+cMwJrC1tSKwAuUy6LgNuSgExrhJqbtwteHmWLgMplHpgKIC
+  nZPiacnGlu38ePLkfZ73fZ/vJC+Dy64yckZI1wtaDa9WUHuJoweeb4mYzZlLiCoeC4Sa4QUSZ
+  maV4Ci0UZCT0UhAblcJgot/N+NQ7elA4HUP0ZC3OYNBa3sonLlTgsH1ISXUtYfA+P1JHKo8wz
+  SUra+RMOidw+CufRaDmYlCBFPONhpa+kspmCwxIVgcvUFB6Te/05DdyYJlbZ2CAmMmDr1N+QR
+  srjTSYGtYoWFy8TQOjqUiDPqqvDR85y0jwdxeS4AnW1TL7N+SYK2x0LCYv0LBLy02Gr5a6KDg
+  pzwvAvNdGwadbZs4/DjlxMFze4CAKvP70F1wDLKvLBNQeb2eAKOxioC5zX8ouFhei8DltVCQs
+  SyO/C/TQYJ99E9xxkIWCY251QiacsRfkLPRh4Fz6SYJ9dM5BGy5jeQbuTjXk1eCcx5HPsaZrH
+  Hc9FQWzm1eHie4r+3zJNeaWYFzVfN6bvueG+PmbzXj3JZrg+ZWsz00d89lwLl2bx7G1TkNJHf
+  GVUvGj2EJpEqTmJL+MamsnHYSqd29RHrTwirKQF11uAHtZWTSS4i9teGgDWgPg0tj2QnjZczH
+  JdIgdqD4V8LHg6Vh7GLnkJ/vk4ayW3eWKB+npC+xDafv+3sJ6UF2edtE7vTGsxduj/g9MtHTe
+  uUPKhftsT6ywvrIip16HJvVsE08WY9kb54voJ6sv8rWVLpwK2JE/jK7btDvlCPYIm//U8Y81f
+  64Zbd11+7j8WxGbTeqQNJ6FKYTtCcFbUR0TGSiVpWk1CfzKnVEdFRMZLKg0/FJgppP1EWeSEl
+  uQeJZPCN+HWj+h/h+tJ/BFM9JJj+bS5AFJqZ8ckrJ65THtWlqQdePwhhGulV9w43khCZFIyhY
+  iTFb9AVphSQh/VOVWryzB1aWCVDskxzPEmWJLpVP1qmSdqRB9CFjdRpMONORZxax1+nDs6sFI
+  pr92O/HUT9+X3pexGvjFhMuI5K0/Cl5iAQXz1cm9Q1Vpmkernxw3WMoVB4sQeKDZAGpgjZZpX
+  9cX0IhDFIES173JQ9QafQPky2JoTEx9Nn9M77Qen5XkmcgedcXH/W8lXACK+0MCl9ZH3W+eO1
+  t09BI7UixveJkbLTbnDVrGLQf7Hltg9cf/pmPcVlaD/QVlqxNxL1wePLL+aZ3A4vWlEF4Wmzw
+  QPOFwUNd7n/Z6rbf3jnXGWVTh5x75a9htb28+8ibse8h9aUe2xHH0c+dFhQeX/7B9rNNV5lDU
+  gWhU/LR4bhWx/8PXGrDPNgEAAA=
+X-Env-Sender: official@absa.co.za
+X-Msg-Ref: server-14.tower-194.messagelabs.com!1524533207!100439678!2
+X-Originating-IP: [81.33.22.178]
+X-SYMC-ESS-Client-Auth: outbound-route-from=fail
+X-StarScan-Received:
+X-StarScan-Version: 9.9.15; banners=-,-,-
+Received: (qmail 17235 invoked from network); 24 Apr 2018 01:26:51 -0000
+Received: from 178.red-81-33-22.staticip.rima-tde.net (HELO EXCHANGESRV.bodegasborsao.com) (81.33.22.178)
+  by server-14.tower-194.messagelabs.com with DHE-RSA-AES256-SHA encrypted SMTP; 24 Apr 2018 01:26:51 -0000
+Received: from [64.140.171.76] (64.140.171.76) by
+ EXCHANGESRV.bodegasborsao.com (192.168.6.2) with Microsoft SMTP Server id
+ 14.3.389.1; Tue, 24 Apr 2018 03:25:53 +0200
+Content-Type: multipart/mixed; boundary="===============1312159159=="
+MIME-Version: 1.0
+Subject: Cheque Account Statement 180424
+To: you <official@absa.co.za>
+From: ABSA <official@absa.co.za>
+Date: Mon, 23 Apr 2018 18:15:33 -0700
+Message-ID: <9efbdf35-ac5e-46d1-bcd7-a2e6ba99a6fa@EXCHANGESRV.bodegasborsao.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 472

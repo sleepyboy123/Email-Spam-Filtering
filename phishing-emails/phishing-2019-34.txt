@@ -1,0 +1,61 @@
+From jose@monkey.org Fri Feb 15 15:27:48 2019 +0000
+Return-Path: erica.chisanga@addenbrookes.nhs.uk
+Delivered-To: jose@monkey.org
+X-FDA: 75168229374.33.spot65_43f3a460ac848
+X-Spam-Summary: 10,1,0,657cd0d2b73d8df9,d41d8cd98f00b204,erica.chisanga@addenbrookes.nhs.uk,:erica.chisanga@addenbrookes.nhs.uk,RULES_HIT:10:41:334:355:368:369:379:444:599:677:871:962:967:973:988:989:1000:1158:1260:1261:1313:1314:1345:1359:1381:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1714:1730:1764:1773:1792:1823:2198:2199:2527:2528:2539:2559:2562:2905:3138:3139:3140:3141:3142:3351:3586:3865:3867:3868:3873:4362:5007:6117:6261:6506:6650:6703:6747:6748:7281:7398:8518:8603:8829:8957:9040:9149:10214:10265:10283:10394:11232:11473:11604:11656:11658:11788:11875:11914:12043:12555:12679:12740:12895:12986:13005:13017:13018:13019:13132:13139:13141:13230:13231:13439:13893:14096:14659:21080:21364:21433:21451:21483:21524:21627:21789:21795:21810:30003:30022:30037:30051:30052:30054:30062:30069:30070,0,RBL:213.161.89.103:@addenbrookes.nhs.uk:.lbl8.mailshell.net-62.2.15.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,C
+X-HE-Tag: spot65_43f3a460ac848
+X-Filterd-Recvd-Size: 130665
+Received: from smtp2.e.amses.net (smtp2.e.amses.net [213.161.89.103])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 15 Feb 2019 15:27:46 +0000 (UTC)
+Received: from smtp2.e.amses.net (OP-HEPIMS08.ops.amses.net [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id B3BE1439A54;
+	Fri, 15 Feb 2019 15:27:45 +0000 (GMT)
+Received: from smtp2.e.amses.net (OP-HEPIMS08.ops.amses.net [127.0.0.1])
+	by IMSVA (Postfix) with ESMTP id 2E71E4392CC;
+	Fri, 15 Feb 2019 15:27:45 +0000 (GMT)
+Received: from bsp1.addenbrookes.nhs.uk (mxtreme2.addenbrookes.nhs.uk [10.154.5.8])
+	by smtp2.e.amses.net (Postfix) with SMTP;
+	Fri, 15 Feb 2019 15:27:45 +0000 (GMT)
+From: "Chisanga, Erica (Consultant Nurse - Epilepsies)"
+	<erica.chisanga@addenbrookes.nhs.uk>
+To: "Chisanga, Erica (Consultant Nurse - Epilepsies)"
+	<erica.chisanga@addenbrookes.nhs.uk>
+Subject: RE: HMR,Payroll  Review 
+Thread-Topic: HMR,Payroll  Review 
+Thread-Index: AdTFNWGp6slaFX4MQpmXkxx7ZBWsCwADYQLr
+Date: Fri, 15 Feb 2019 15:27:41 +0000
+Message-ID: <5D815E0BCD161A4A9BC37F5A90AB0E38ECF36641@APC1EXMR04.net.addenbrookes.nhs.uk>
+References: <5D815E0BCD161A4A9BC37F5A90AB0E38ECF2F93F@APC1EXMR04.net.addenbrookes.nhs.uk>
+In-Reply-To: <5D815E0BCD161A4A9BC37F5A90AB0E38ECF2F93F@APC1EXMR04.net.addenbrookes.nhs.uk>
+Accept-Language: en-GB, en-US
+Content-Language: en-GB
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+Content-Type: multipart/mixed;
+	boundary="_004_5D815E0BCD161A4A9BC37F5A90AB0E38ECF36641APC1EXMR04netad_"
+MIME-Version: 1.0
+Received-SPF: none
+X-TM-AS-GCONF: 11111111
+X-TM-AS-SMTP: 1.0 YnNwMS5hZGRlbmJyb29rZXMubmhzLnVr 
+	ZXJpY2EuY2hpc2FuZ2FAYWRkZW5icm9va2VzLm5ocy51aw==
+X-TM-AS-ERS: 0.0.0.0-0.0.0.0
+X-TM-AS-Result: No--15.968-5.0-31-10
+X-imss-scan-details: 
+	No--15.968-5.0-31-10;No--15.968-5.0-31-10;No--15.968-3.0-31-10
+X-TMASE-Version: IMSVA-9.1.0.1844-8.2.1013-24432.000
+X-TMASE-Result: 10--15.968400-10.000000
+X-TMASE-MatchedRID: vbSD0OnL8/JxWR+9hcFWA5ObxJgN/hOxmyqQJWNsukkLfbSiIF780rgd
+	VRJvMmASI8qZxoWaGPW7Qkxz+3syNru/hqHSs8GXEwyZyuMQ413qvccKLF+4pxziuLhElX/VPx1
+	IeaxMoKZYoSISvQETVmbO+r4hht8BRJ61B33TMKsiPTMUjkOgkl4KsHfYo5LQOoj9DXM40dIC1S
+	/6sf6YeFBI4zLqc8MCfAIumH3cPmrLsLxqIdU3Yy+PrAd8gbHJcbVmJQ7kUKXvGpig654QL8CGb
+	JbVFw0jwrUSqTjoH0d+WCHTqr3hQTckKevf5t5NHBTvA9rnva8N5rzymY/8/i8mJ0cqrV8yoEqF
+	+3zMUBKa3614oGqhYyXcOa9M8BCbsSmrR3SFZ50URSScn+QSXotuikALUpnGAKt/NKpkghsrwEL
+	0Di5046AlhyXj30cS2bNx1HEv7HCo4SNM4592CbBd2eBS4lcDJop9tt2leOdM7KSfpbfFlV6AZY
+	Jj+3AE9oDTv7vvbDcINDW0WVEGiZfH1GOL9nsClAUerSBKb45DxsrXpY/JQLDqQl3VZEMXV0wZM
+	tdzfDS2+7MBu86qwAKn/XdTDnpB8UYkx/btaMo=
+X-TMASE-SNAP-Result: 1.821001.0001-0-2-1:0,12:0,22:0,33:0,34:0-0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 34

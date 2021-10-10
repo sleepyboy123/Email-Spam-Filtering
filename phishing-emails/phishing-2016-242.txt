@@ -1,0 +1,26 @@
+From jose@monkey.org Sun May 29 07:30:31 2016 +0000
+Return-Path: postulaonline@udla.edu.ec
+Delivered-To: jose@monkey.org
+X-FDA: 71567257062.03.laugh47_4615a81d134a
+X-Spam-Summary: 64,4,0,d3ba543a24de4308,d41d8cd98f00b204,postulaonline@udla.edu.ec,:,RULES_HIT:41:46:72:150:152:355:379:871:962:967:973:983:988:989:994:1000:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1439:1516:1517:1522:1537:1573:1575:1588:1589:1594:1676:1711:1730:1744:1747:1777:1792:2393:2525:2527:2560:2563:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3552:3691:3863:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4511:4512:4513:4515:6114:6117:6119:6261:6354:6506:6642:6747:7281:7398:7809:9025:9077:9388:9469:9868:10004:10049:10346:11269:11656:11658:11914:12043:12114:12438:12521:13139:13234:13236:13237:13244:14659:14721:21080:21325,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:65,LUA_SUMMARY:none
+X-HE-Tag: laugh47_4615a81d134a
+X-Filterd-Recvd-Size: 60088
+Received: from snexc01.udla-ec.int (smtp2.udla.edu.ec [200.24.220.253])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 29 May 2016 07:30:29 +0000 (UTC)
+Received: from CLOUD2JKIQ7PQE (209.208.110.67) by snexc01.udla-ec.int
+ (192.168.4.3) with Microsoft SMTP Server (TLS) id 8.3.159.2; Sun, 29 May 2016
+ 02:30:26 -0500
+From: =?utf-8?Q?PayPaI?= <postulaonline@udla.edu.ec>
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Sun, 29 May 2016 15:30:24 +0800
+Subject: =?utf-8?Q?CS=20Notifcations?=
+MIME-Version: 1.0
+Content-Type: multipart/related; type="multipart/alternative";
+	boundary="_=aspNetEmail=_c6bafadff59940479713a1538f98dcf3"
+Message-ID: <CLOUD2JKIQ7PQE71a77a5e6d3c4913b6d66efb81871fcc@CLOUD2JKIQ7PQE>
+Return-Path: postulaonline@udla.edu.ec
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 241

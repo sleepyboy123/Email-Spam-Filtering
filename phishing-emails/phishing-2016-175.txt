@@ -1,0 +1,25 @@
+From jose@monkey.org Mon Apr 18 17:45:36 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71420026272.22.wire25_4a27a3314aa29
+X-Spam-Summary: 30,2,0,82f803eeb0e6ddcb,d41d8cd98f00b204,codewizard@approject.com,:codewizard@approject.com,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1437:1516:1518:1529:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2540:2559:2562:3138:3139:3140:3141:3142:3865:3868:5007:6261:6264:6618:6687:6748:7281:7398:7809:10004:10394:10400:10562:11604:11658:11914:12166:12196:12340:12561:13110:13439:21080:30001:30026:30054:30055:30070,0,RBL:189.84.241.130:@approject.com:.lbl8.mailshell.net-62.8.4.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:37,LUA_SUMMARY:none
+X-HE-Tag: wire25_4a27a3314aa29
+X-Filterd-Recvd-Size: 32454
+Received: from servidor.wermar.nf (unknown [189.84.241.130])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 18 Apr 2016 17:45:01 +0000 (UTC)
+Received: from servidor.wermar.nf ([127.0.0.1]) by servidor.wermar.nf with Microsoft SMTPSVC(8.0.9200.16384);
+	 Mon, 18 Apr 2016 13:14:28 -0300
+Content-Type: multipart/mixed; boundary="===============1233682719=="
+MIME-Version: 1.0
+Subject: Your USAA Checking/Savings Account Urgent Profile Update
+To: Recipients <codewizard@approject.com>
+From: "USAA" <codewizard@approject.com>
+Date: Mon, 18 Apr 2016 13:14:27 -0300
+Return-Path: codewizard@approject.com
+Message-ID: <SERVIDORixRXmvBcN7D00002cc6@servidor.wermar.nf>
+X-OriginalArrivalTime: 18 Apr 2016 16:14:28.0669 (UTC) FILETIME=[62281ED0:01D1998D]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 174

@@ -1,0 +1,30 @@
+From jose@monkey.org Thu Apr 13 08:56:34 2017 +0000
+Return-Path: 2001ysk@hanmail.net
+Delivered-To: jose@monkey.org
+X-FDA: 72725061108.13.fang24_736502046a820
+X-Spam-Summary: 80,2,0,27780e6e1697c65c,d41d8cd98f00b204,2001ysk@hanmail.net,:2001ysk@mail.kr,RULES_HIT:1:2:41:72:152:355:375:379:509:541:582:962:967:969:973:983:988:989:1152:1185:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1430:1431:1432:1433:1434:1437:1514:1515:1516:1517:1567:1588:1589:1593:1594:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2560:2564:2682:2685:2693:2827:2859:2890:2898:2899:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3867:3868:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4049:4321:4605:5007:6261:6656:6669:6671:6672:6674:6678:8599:8603:8957:9025:9388:9868:9908:10004:10234:10346:11257:11473:11656:11657:11658:11783:11788:11914:12043:12294:12438:12555:12740:12895:12903:12956:12958:12986:13007:13008:13139:13374:14017:14096:14827:14829:21080:21212:21347:21433:21436:21450:21451:21483:21524:30001:30022:30026:30051:30054:30070,0,RBL:175.126.189.200-irl.urbl.hostedemail.com-127.0.0.150,Cache
+X-HE-Tag: fang24_736502046a820
+X-Filterd-Recvd-Size: 10052
+Received: from mail-smail-vm17.hanmail.net (mail-smail-vm17.daum.net [175.126.189.200])
+	by imf24.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 13 Apr 2017 08:56:32 +0000 (UTC)
+Received: from mail-hmail-was4.s2.krane.9rum.cc ([10.197.10.46])
+        by mail-smail-vm17.hanmail.net (8.13.8/8.9.1) with SMTP id v3D8uNtU012528
+        for <jose@monkey.org>; Thu, 13 Apr 2017 17:56:23 +0900
+X-Hermes-Message-Id: l3DHuNB7M1979503926
+Date: Thu, 13 Apr 2017 17:56:21 +0900 (KST)
+From: Mail Service <2001ysk@hanmail.net>
+To: 2001ysk <2001ysk@mail.kr>
+Message-ID: <20170413175621.2ZlngVIoSZiJ8FoJXV3Qgg@2001ysk.hanmail.net>
+Subject: Email Notification
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+X-Mailer: Daum Mint Web 1.0
+X-Originating-IP: [41.58.120.99]
+X-HM-UT: g99FtllXj48VC1y8l2aVcE5qnPXaB5ZP
+Received: from mail-hammer-was8.s2.krane.9rum.cc ([10.197.10.41]) by hermes of mail-hmail-was4.s2.krane.9rum.cc (10.197.10.46) with ESMTP id l3DHuNB7M1979503926 for <jose@monkey.org>; Thu, 13 Apr 2017 17:56:23 +0900 (KST)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 143

@@ -1,0 +1,55 @@
+From jose@monkey.org Tue Jan 24 07:36:44 2017 +0000
+Return-Path: prvs=190b1ca81=nrahman@dot.nyc.gov
+Delivered-To: jose@monkey.org
+X-FDA: 72438184728.11.sail83_3ac68973ca745
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,prvs=190b1ca81=nrahman@dot.nyc.gov,:nrahman@dot.nyc.gov,RULES_HIT:30001:30021:30022:30054:30070:30075:30090:30091,0,RBL:161.185.2.22:@dot.nyc.gov:.lbl8.mailshell.net-62.18.0.2 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:62,LUA_SUMMARY:none
+X-HE-Tag: sail83_3ac68973ca745
+X-Filterd-Recvd-Size: 14702
+Received: from vwall2-out-all1.nyc.gov (vwall2-out-all1.nyc.gov [161.185.2.22])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 24 Jan 2017 07:36:43 +0000 (UTC)
+Received-SPF: Fail (vwall2.nyc.gov: domain of nrahman@dot.nyc.gov
+  does not designate 10.243.128.101 as permitted sender)
+  identity=mailfrom; client-ip=10.243.128.101;
+  receiver=vwall2.nyc.gov; envelope-from="nrahman@dot.nyc.gov";
+  x-sender="nrahman@dot.nyc.gov"; x-conformance=spf_only;
+  x-record-type="v=spf1"
+Received-SPF: None (vwall2.nyc.gov: no sender authenticity
+  information available from domain of
+  postmaster@DOTCSSEG02.dot.nycnet) identity=helo;
+  client-ip=10.243.128.101; receiver=vwall2.nyc.gov;
+  envelope-from="nrahman@dot.nyc.gov";
+  x-sender="postmaster@DOTCSSEG02.dot.nycnet";
+  x-conformance=spf_only
+X-IronPort-AV: E=Sophos;i="5.33,277,1477972800"; 
+   d="scan'208,217";a="345191634"
+Received: from unknown (HELO DOTCSSEG02.dot.nycnet) ([10.243.128.101])
+  by vwall2.nyc.gov with ESMTP; 24 Jan 2017 02:36:44 -0500
+Received: from DOTHTCAS03.dot.nycnet ([10.243.129.33]) by 
+    DOTCSSEG02.dot.nycnet (8.14.7/8.14.7) with ESMTP id v0O7UbxZ026081; 
+    Tue, 24 Jan 2017 02:30:38 -0500
+Received: from DOT55MAIL05.dot.nycnet ([fe80::14f9:5e27:8584:2746]) by 
+    DOTHTCAS03.dot.nycnet ([::1]) with mapi id 14.03.0224.002; Tue, 24 
+    Jan 2017 02:36:37 -0500
+From: "Rahman, Nicola" <nrahman@dot.nyc.gov>
+To: "Rahman, Nicola" <nrahman@dot.nyc.gov>
+Subject: RE: ICT Technical Support
+Thread-Topic: ICT Technical Support
+Thread-Index: AdJ2Cue3LVF64Aw9RJeX2GV7t9ncIQACXSb2
+Date: Tue, 24 Jan 2017 07:36:35 +0000
+Message-ID: <F02B2F747BF300449F6C5473E809ADEEAC8E13E7@DOT55MAIL05.dot.nycnet>
+References: <F02B2F747BF300449F6C5473E809ADEEAC8E01F3@DOT55MAIL05.dot.nycnet>
+In-Reply-To: <F02B2F747BF300449F6C5473E809ADEEAC8E01F3@DOT55MAIL05.dot.nycnet>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/alternative; 
+    boundary="_000_F02B2F747BF300449F6C5473E809ADEEAC8E13E7DOT55MAIL05dotn_"
+MIME-Version: 1.0
+x-msw-jemd-spam: confirmed
+x-msw-jemd-refid: 99,0,0,,d41d8cd98f00b204,nrahman@dot.nyc.gov,nrahman@dot.nyc.gov,RULES_HIT:30001:30022:30054:30070:30091,0,RBL:04y8oso9jse7wmaft8k4ycz5ijszpyfsymj8uxjtcgp8nmkht9to3gdmofggzcc.4yew8a8u1up8ak5g3xrucdb5ejo4rp9ijj8dy9osh9w4umpewqseayeadxg8i1u.pb3obhuu7jk16g48wmhdg3x44t34j549qa4g61yhoe18aajjoky33nto-lbl8.mailshell.net-192.46.0.190,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:,MSBL:1,DNSBL:d93f277e777249e3281f8cb5427d23f9.co.nf-dnsbl7.mailshell.net-127.1.0.198,Custom_rules:0:0:0,LFtime:0,LUA_SUMMARY:none;dkim:sn
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 30

@@ -1,0 +1,41 @@
+From services-relationship@amerex.net  Mon Sep 21 02:33:46 2015
+Return-Path: <services-relationship@amerex.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 83B75F4152
+	for <jose@login.monkey.org>; Mon, 21 Sep 2015 02:33:46 -0500 (CDT)
+Received: from smtpin07.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 3874418477F
+	for <jose@login.monkey.org>; Mon, 21 Sep 2015 07:33:46 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70656436452.07.hill72_781412e007e18
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,ddd107153c4ed0ab,d41d8cd98f00b204,services-relationship@amerex.net,,RULES_HIT:2:41:72:355:379:455:539:540:541:542:543:567:677:871:962:967:969:973:981:983:988:989:1000:1147:1155:1189:1208:1260:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1575:1587:1588:1589:1592:1594:1606:1685:1730:1747:1764:1777:1792:1823:2073:2076:2107:2194:2198:2199:2200:2288:2393:2525:2527:2538:2539:2553:2559:2566:2682:2685:2731:2734:2741:2771:2790:2859:2890:2891:2892:2893:2898:2900:2901:2911:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3353:3865:3866:3867:3868:3870:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4384:4389:4395:4425:4552:4605:5007:6117:6261:6354:6506:6669:6674:6678:6688:6703:6747:6748:7281:7398:7903:8512:8516:8518:8568:8599:8603:9025:9080:9108:9131:9343:9388:9416:9908:10049:10265:10346:10394:10881:11209:11245:11257:11604:11651:11656:11658:11914:12043:12331:12438:12555:12663:
+X-HE-Tag: hill72_781412e007e18
+X-Filterd-Recvd-Size: 52359
+Received: from smtp2.email.luna.net (smtp2.email.luna.net [217.77.137.85])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 21 Sep 2015 07:33:45 +0000 (UTC)
+Received: from User (155.37.dynamic.dsl.luna.net [217.77.155.37])
+	by smtp2.email.luna.net (Luna.nl mailserver) with SMTP id 78D49118BEF8;
+	Mon, 21 Sep 2015 09:33:15 +0200 (CEST)
+From: "American Express Cards"<services-relationship@amerex.net>
+Subject: Important Review on Your Card
+Date: Mon, 21 Sep 2015 00:33:41 -0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0083_01C2A9A6.22CCE98C"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20150921073316.78D49118BEF8@smtp2.email.luna.net>
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 179

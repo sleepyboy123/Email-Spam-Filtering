@@ -1,0 +1,36 @@
+From jose@monkey.org Wed Oct 21 23:57:25 2020 +0000
+Return-Path: bounces+2529323-ad9e-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 77397596850.57.oven08_090e2182724c
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+2529323-ad9e-jose=monkey.org@sendgrid.net,,RULES_HIT:30026:30054:30055,0,RBL:167.89.82.85:@sendgrid.net:.lbl8.mailshell.net-64.100.201.100 62.18.0.32,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: oven08_090e2182724c
+X-Filterd-Recvd-Size: 226708
+Received: from xtrwrnrr.outbound-mail.sendgrid.net (xtrwrnrr.outbound-mail.sendgrid.net [167.89.82.85])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 21 Oct 2020 23:57:24 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=content-type:mime-version:subject:to:from; s=smtpapi; 
+	bh=z714ys2NjYH+o5gG/EH927Dd1xriX8AFvDzYqvufV6Y=; b=k1ZLYA+xT5p15
+	yICP4Ex5BhWHxmPyBK/6Hfglikqg5MIYohZ1pIELmm96HVB6EjAsZ7lHgzG4HGrw
+	YxUCLy39zoX2t0adaXVZ2he4qsIFPVbgkpapk8np216+ICeqxkz5vJyLz5l6Xcc8
+	PtuOUxYodpLvNCJhaN7bHwrQqSdVIM=
+Received: by filter2272p1las1.sendgrid.net with SMTP id filter2272p1las1-8529-5F90CAE1-11
+        2020-10-21 23:57:21.590190677 +0000 UTC m=+1040.996075462
+Received: from EC2AMAZ-9ATFMGI.ec2.internal (unknown)
+	by geopod-ismtpd-6-7 (SG) with ESMTP id -bt2j1VIQFmAQFsZtstVZg
+	Wed, 21 Oct 2020 23:57:21.319 +0000 (UTC)
+Content-Type: multipart/mixed; boundary="===============1344751323=="
+MIME-Version: 1.0
+Subject: We could not complete your transaction.
+To: Recipients <support@usac.army.mil>
+From: " USAA " <support@usac.army.mil >
+Date: Wed, 21 Oct 2020 23:57:23 +0000 (UTC)
+Message-ID: <-bt2j1VIQFmAQFsZtstVZg@geopod-ismtpd-6-7>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtClb4Dhlvqsv2ygOkkJqQNzus2XXNCqrkkp0T
+ PnNWj4iMMehaLcjgI9c/zzIX1kIpklJgwdMKKwI37nkbe5LwcuPF/r9xutxnJebQd7R+JexVEfE9Vo
+ ZyyH/lq1jP2oDhd/hDMxmYbw3j/aGAh+02+Ln3UrycPPrQOuWRvB/xFxtw==
+X-Entity-ID: CyyulPLDV/GF/nzV5x/HpA==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 134

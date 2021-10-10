@@ -1,0 +1,27 @@
+From jose@monkey.org Tue Dec 22 06:48:01 2015 +0000
+Return-Path: usaa.web.services.info@ubagroup.com
+Delivered-To: jose@monkey.org
+X-FDA: 70990170762.14.roof42_804082402c751
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,27104e2151cc06d1,d41d8cd98f00b204,usaa.web.services.info@ubagroup.com,:usaa.web.services.info@ubagroup.com,RULES_HIT:1:2:41:72:355:379:455:800:962:967:969:973:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1744:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2560:2568:2610:2682:2685:2737:2859:2890:2891:2892:2894:2895:2897:2898:2903:2909:2917:2922:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3148:3154:3352:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4031:4042:4051:4250:4321:4362:4552:4700:5007:6238:6248:6261:6678:6687:6688:7208:7809:8516:8518:8568:8599:8603:8825:8957:9025:9060:9080:9121:9130:9149:9177:9388:9466:9908:10030:10049:10346:10946:11026:11233:11473:11529:11657:11658:11914:12043:12050:12051:12295:12438:12555:12561:12729:12737:12740:12776:12812:12963:13025
+X-HE-Tag: roof42_804082402c751
+X-Filterd-Recvd-Size: 12517
+Received: from smtp02.atlngahp.sys.nuvox.net (smtp-out2.atlngahp.sys.nuvox.net [70.43.63.19])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 22 Dec 2015 06:48:01 +0000 (UTC)
+Received: from Admin-PC.tibaspa.local (70.43.42.42.nw.nuvox.net [70.43.42.42])
+	by smtp02.atlngahp.sys.nuvox.net (8.13.1/8.13.1) with ESMTP id tBLKV49u023762;
+	Tue, 22 Dec 2015 01:21:31 -0500
+Message-Id: <201512220621.tBLKV49u023762@smtp02.atlngahp.sys.nuvox.net>
+Content-Type: multipart/alternative; boundary="===============0317937295=="
+MIME-Version: 1.0
+Subject: Your USAA Account Security Preference Update
+To: Recipients <USAA.Web.Services.Info@ubagroup.com>
+From: USAA <USAA.Web.Services.Info@ubagroup.com>
+Date: Tue, 22 Dec 2015 00:19:26 -0600
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 296

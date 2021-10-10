@@ -1,0 +1,39 @@
+From jose@monkey.org Wed Dec  7 17:44:20 2016 +0000
+Return-Path: alma.vega@williamoslerhs.ca
+Delivered-To: jose@monkey.org
+X-FDA: 72265533480.06.DF42DE3
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin06.b.hostedemail.com (Postfix) with ESMTP id E019E2E45DD
+	for <jose@monkey.org>; Wed,  7 Dec 2016 17:44:04 +0000 (UTC)
+X-Spam-Summary: 44,2.7,0,be7f51521a32bf8e,d41d8cd98f00b204,alma.vega@williamoslerhs.ca,:alma.vega@williamoslerhs.ca,RULES_HIT:2:10:41:72:355:379:599:960:962:966:967:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1535:1575:1588:1589:1592:1594:1719:1730:1776:1792:2194:2196:2199:2200:2525:2527:2528:2538:2540:2553:2559:2566:2682:2685:2859:2892:2895:2901:2902:2913:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3836:3865:3866:3867:3868:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4120:4385:5007:6117:6650:6678:6703:7688:7903:8513:8518:8583:8599:8603:8957:9025:9040:9908:10004:10346:11209:11232:11473:11656:11657:11658:11788:11914:12043:12295:12438:12555:12657:12661:13025:13139:13191:13192:13219:13229:13237:13439:14096:14659:21080:21326:21347:21433:21436:21451:21524:30021:30022:30026:30051:30054:30067:30070:30075:30090:30091,0,RBL:error,CacheIP:none,Bayesia
+ n:0.5,0.
+X-HE-Tag: tub33_5dccfbd69fd3a
+X-Filterd-Recvd-Size: 9499
+Received: from Mail-Firewall-3.oslerhc.org (unknown [142.46.21.85])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  7 Dec 2016 17:44:04 +0000 (UTC)
+Subject: RE: ITS help desk
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_000_27496CB92848BE48896E05144F9E847D013E51D381BCHSPEXMB01os_"
+x-echoworx-msg-id: 7f2982c9-11c4-4039-bad3-c9c2f07cd880
+x-echoworx-emg-received: Wed, 7 Dec 2016 12:44:02.521 -0500
+x-echoworx-message-code-hashed: 68b55542b606887779a549969d927f3cdc207bd500e41c7b5241e509ec7e4879
+x-echoworx-action: delivered
+From: Alma Vega <Alma.Vega@williamoslerhs.ca>
+To: Alma Vega <Alma.Vega@williamoslerhs.ca>
+Thread-Topic: ITS help desk
+Thread-Index: AdJQiWoT7DbF+ZpVS3aBJLKETnF3RAAJWB41
+Date: Wed, 7 Dec 2016 17:44:00 +0000
+Message-ID: <27496CB92848BE48896E05144F9E847D013E51D381@BCHSPEXMB01.oslerhc.org>
+References: <27496CB92848BE48896E05144F9E847D013E515A15@BCHSPEXMB01.oslerhc.org>
+In-Reply-To: <27496CB92848BE48896E05144F9E847D013E515A15@BCHSPEXMB01.oslerhc.org>
+Accept-Language: en-CA, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Received-SPF: none
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 450

@@ -1,0 +1,29 @@
+From jose@monkey.org Tue May 23 13:42:10 2017 +0000
+Return-Path: customer.mail@usaaservice.com
+Delivered-To: jose@monkey.org
+X-FDA: 72870932820.18.jewel51_875b615d9162c
+X-Spam-Summary: 31,0,0,,d41d8cd98f00b204,customer.mail@usaaservice.com,:customer.mail@usaaservice.com,RULES_HIT:1803:30001:30003:30019:30021:30026:30028:30054:30055:30064:30066:30070:30075,0,RBL:68.99.120.54:@usaaservice.com:.lbl8.mailshell.net-62.8.0.32 64.201.201.201;68.99.120.54-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:uicdn.com-tc.dbl.urbl.hostedemail.com-127.0.0.200,Custom_rules:0:1:0,LFtime:16,LUA_SUMMARY:none
+X-HE-Tag: jewel51_875b615d9162c
+X-Filterd-Recvd-Size: 25745
+Received: from dukecmwbtp06.coxmail.com (dukecmwbtp06.coxmail.com [68.99.120.54])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 23 May 2017 13:42:09 +0000 (UTC)
+Received: from dukecmimpo02.coxmail.com ([68.99.120.135])
+          by dukecmmtar04.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20170523122301.RQT9153.dukecmmtar04.coxmail.com@dukecmimpo02.coxmail.com>;
+          Tue, 23 May 2017 08:23:01 -0400
+Received: from Troy-PC.fa.local ([70.182.159.126])
+	by dukecmimpo02.coxmail.com with bizsmtp
+	id PoFQ1v00H2jvA1i01oJhxJ; Tue, 23 May 2017 08:18:42 -0400
+Content-Type: multipart/alternative; boundary="===============1719197927=="
+MIME-Version: 1.0
+Subject: New Account Mail 
+To: Recipients <Customer.mail@usaaservice.com>
+From: "USAA Web Service  " <Customer.mail@usaaservice.com>
+Date: Tue, 23 May 2017 07:18:39 -0500
+Message-Id: <20170523122301.RQT9153.dukecmmtar04.coxmail.com@dukecmimpo02.coxmail.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 196

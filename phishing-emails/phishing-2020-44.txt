@@ -1,0 +1,27 @@
+From jose@monkey.org Fri Mar 20 03:01:37 2020 +0000
+Return-Path: jhmoon@daehye.com
+Delivered-To: jose@monkey.org
+X-FDA: 76614240234.32.death55_2b2d154f33e12
+X-Spam-Summary: 85,1,0,a70a2ead28a01cd8,d41d8cd98f00b204,jhmoon@daehye.com,,RULES_HIT:2:41:46:72:150:153:355:375:379:495:800:962:967:973:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1513:1515:1516:1517:1521:1535:1559:1571:1588:1589:1593:1594:1606:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2560:2563:2682:2685:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4117:4321:5007:6114:6117:6119:6261:6300:6642:6650:6669:6671:6678:7809:8583:8599:8603:8957:9025:9388:9468:10004:10346:11473:11638:11639:11658:11914:12043:12297:12438:12523:12555:12740:12895:12903:12955:12986:13007:13139:13439:14096:14196:18000:21080:21433:21436:21451:21483:21524:21554:21611:21627:21810:21819,0,RBL:61.107.229.7:@daehye.com:.lbl8.mailshell.net-62.2.1.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:ban
+X-HE-Tag: death55_2b2d154f33e12
+X-Filterd-Recvd-Size: 6245
+Received: from ns.daehye.com (mail.daehye.com [61.107.229.7])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 20 Mar 2020 03:01:36 +0000 (UTC)
+Received: from daehye.com ([103.125.191.10])
+	(authenticated bits=0)
+	by ns.daehye.com (8.14.1/8.14.1) with ESMTP id 02K2ZcWl008256
+	for <jose@monkey.org>; Fri, 20 Mar 2020 11:35:40 +0900
+From: "monkey.org" <jhmoon@daehye.com>
+To: jose@monkey.org
+Subject: jose@monkey.org =?UTF-8?B?7ZWg64u565+JIOyXheuNsOydtO2KuCDtlYTsmpQg?=
+Date: 19 Mar 2020 20:01:30 -0700
+Message-ID: <20200319200130.BA3AF5439AD7E001@daehye.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 43

@@ -1,0 +1,23 @@
+From jose@monkey.org Mon Mar 28 02:27:38 2016 +0000
+Return-Path: mzonemilitary@web.info
+Delivered-To: jose@monkey.org
+X-FDA: 71341508196.24.brake18_86acd2bb8a40
+X-Spam-Summary: 10,1,0,d41d8cd98f00b204,d41d8cd98f00b204,mzonemilitary@web.info,:mzonemilitary@web.info,RULES_HIT:41:327:379:871:988:989:1193:1254:1260:1313:1314:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:10004:10400:11527:11537:11604:11658:11914:12340:12561:13110:13439:21080:30026:30054:30055,0,RBL:69.95.226.11:@web.info:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:65,LUA_SUMMARY:none
+X-HE-Tag: brake18_86acd2bb8a40
+X-Filterd-Recvd-Size: 33642
+Received: from smtp001.earthlinkbusiness.com (smtp001.earthlinkbusiness.com [69.95.226.11])
+	by imf20.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Mon, 28 Mar 2016 02:27:37 +0000 (UTC)
+Received: (qmail 3238 invoked from network); 28 Mar 2016 02:27:35 -0000
+Received: from unknown (HELO ?10.10.10.202?) (205.185.184.20)
+  by smtp001.onecommunications.net with SMTP; 28 Mar 2016 02:27:35 -0000
+Content-Type: multipart/mixed; boundary="===============0193670631=="
+MIME-Version: 1.0
+Subject: * Security / Questions Issues
+To: Recipients <mzonemilitary@web.info>
+From: "USAA" <mzonemilitary@web.info>
+Date: Sun, 27 Mar 2016 22:26:36 -0400
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 139

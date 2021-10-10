@@ -1,0 +1,43 @@
+From jose@monkey.org Mon May  9 19:53:15 2016 +0000
+Return-Path: andk@ims.vast.ac.vn
+Delivered-To: jose@monkey.org
+X-FDA: 71496552750.25.end30_5673e7d535c10
+X-Spam-Summary: 50,0,0,0ad6038d813961b8,d41d8cd98f00b204,andk@ims.vast.ac.vn,:,RULES_HIT:4:41:69:72:355:379:474:495:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1714:1730:1777:1792:1801:2196:2199:2525:2527:2560:2563:2639:2682:2685:2693:2737:2859:2899:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3740:3866:3867:3868:3870:3871:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4157:4250:4321:4361:4552:4605:5007:6117:6119:6261:6653:6678:6684:6688:7264:7652:8511:8599:8603:8885:9025:9059:9080:9411:9908:10215:10346:11257:11480:11657:11658:11914:12043:12438:12517:12519:12555:12658:12679:12683:12740:13025:13099:13110:13139:13237:13439:13546:14096:14711:21080:21212:21433:30003:30019:30022:30026:30054:30070,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:65,LUA_SUMM
+X-HE-Tag: end30_5673e7d535c10
+X-Filterd-Recvd-Size: 16654
+Received: from mail.ims.vast.ac.vn (mail.ims.vast.ac.vn [119.15.167.50])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 May 2016 19:53:13 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.ims.vast.ac.vn (Postfix) with ESMTP id 47B482C2B5B
+	for <jose@monkey.org>; Tue, 10 May 2016 02:53:11 +0700 (ICT)
+Authentication-Results: mail.ims.vast.ac.vn (amavisd-new);
+	dkim=pass (1024-bit key) reason="pass (just generated, assumed good)"
+	header.d=ims.vast.ac.vn
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ims.vast.ac.vn;
+	 h=reply-to:date:date:from:from:to:subject:subject:mime-version
+	:content-type:content-type; s=dkim; t=1462823588; x=1463687589;
+	 bh=wolR0YQkYYF7LLbqMgSHeWEC6A+DIItXA7vNT+mm70E=; b=jLhmPN4thNtT
+	3jDVsR1xsM8DLp85DdfoXLB2Lisoiyz9S4ZwUeLggaJ+KK0z/XHoXqNmKjialb+y
+	PZyB7VzDAymY+vkX8mz6s8gZdGulHRCW9UhOht2xbRTDYIm6I/iYbIYodUxmIUec
+	X0Ktv+OzBJVsKYbsXrOIOKsxClPzqa4=
+X-Virus-Scanned: amavisd-new at mail.ims.vast.ac.vn
+Received: from mail.ims.vast.ac.vn ([127.0.0.1])
+	by localhost (mail.ims.vast.ac.vn [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id krlIsPT1pZv9 for <jose@monkey.org>;
+	Tue, 10 May 2016 02:53:08 +0700 (ICT)
+Received: from [151.237.185.105] (unknown [151.237.185.105])
+	by mail.ims.vast.ac.vn (Postfix) with ESMTPSA id 60B9A2C3A0F
+	for <jose@monkey.org>; Mon,  9 May 2016 23:17:07 +0700 (ICT)
+Content-Type: multipart/alternative; boundary="===============2029831012=="
+MIME-Version: 1.0
+Subject: You have 8 contact email messages held pending.
+To: jose@monkey.org
+From: "noreply" <andk@ims.vast.ac.vn>
+Date: Mon, 09 May 2016 08:55:44 -0700
+Reply-To: aotailidaweii@163.com
+Message-Id: <20160509195311.47B482C2B5B@mail.ims.vast.ac.vn>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 207

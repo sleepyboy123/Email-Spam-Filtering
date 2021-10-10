@@ -1,0 +1,56 @@
+From intl_p@ypl.com  Wed Feb 11 04:00:24 2015
+Return-Path: <intl_p@ypl.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id BD800F408E
+	for <jose@login.monkey.org>; Wed, 11 Feb 2015 04:00:24 -0600 (CST)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 0473634E01E
+	for <jose@login.monkey.org>; Wed, 11 Feb 2015 10:00:23 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69851212368.11.pies20_77c39b4a71217
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=ypl.com
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 75,0,0,e5456b0acbdc0f81,d41d8cd98f00b204,intl_p@ypl.com,:,RULES_HIT:41:355:379:539:540:541:542:543:567:677:871:969:973:979:988:989:1000:1155:1260:1261:1308:1309:1313:1314:1345:1381:1437:1516:1517:1518:1538:1575:1587:1594:1699:1711:1714:1730:1747:1764:1777:1792:1823:2073:2076:2198:2199:2393:2524:2568:2693:2731:2892:2895:2896:2900:2904:2924:2925:2926:3138:3139:3140:3141:3142:3351:3622:3690:3740:3865:3867:3870:3871:3873:4362:4383:4384:4395:5007:6227:6261:6506:6684:6747:6748:7281:7398:7628:7903:8829:8957:10004:10264:10265:10394:10400:11604:11658:11914:12517:12519:12740:13161:13229:14036:14037:21080,0,RBL:190.248.12.210-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:none,Custom_rules:0:0:0
+X-HE-Tag: pies20_77c39b4a71217
+X-Filterd-Recvd-Size: 50321
+Received: from lxprincipal.transversaldelasamericas.com (lxprincipal.elcondor.com [190.248.12.210])
+	by imf10.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 11 Feb 2015 10:00:22 +0000 (UTC)
+Received: from localhost (localhost.transversaldelasamericas.com [127.0.0.1])
+	by lxprincipal.transversaldelasamericas.com (Postfix) with ESMTP id 28B8CBB2D9A
+	for <jose@monkey.org>; Wed, 11 Feb 2015 05:04:55 -0500 (COT)
+X-Virus-Scanned: amavisd-new at elcondor.com
+Received: from lxprincipal.transversaldelasamericas.com ([127.0.0.1])
+	by localhost (lxprincipal.transversaldelasamericas.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id WjHFjUHX3nt2; Wed, 11 Feb 2015 05:04:54 -0500 (COT)
+Received: from localhost (localhost.transversaldelasamericas.com [127.0.0.1])
+	by lxprincipal.transversaldelasamericas.com (Postfix) with ESMTP id 6E938BB2E0C
+	for <jose@monkey.org>; Wed, 11 Feb 2015 05:04:54 -0500 (COT)
+X-Virus-Scanned: amavisd-new at elcondor.com
+Received: from lxprincipal.transversaldelasamericas.com ([127.0.0.1])
+	by localhost (lxprincipal.transversaldelasamericas.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id PpIEJk4BeJig; Wed, 11 Feb 2015 05:04:53 -0500 (COT)
+Received: from svemil88.arvixevps.com (svemil88.arvixevps.com [104.171.9.148])
+	by lxprincipal.transversaldelasamericas.com (Postfix) with ESMTPA id 34EDCBB2E05
+	for <jose@monkey.org>; Wed, 11 Feb 2015 05:04:51 -0500 (COT)
+Message-ID: <78E25DE4D2D64F34826A2A615603E7C2@svemil88>
+From: =?windows-1251?B?c2VjdXJlQHBheXBhbC5jb20=?= <intl_p@ypl.com>
+To: <jose@monkey.org>
+Subject: Temporary information confirmed
+Date: Wed, 11 Feb 2015 03:59:25 -0600
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_1BBB_01D045AF.2058FAC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 22

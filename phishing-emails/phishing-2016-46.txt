@@ -1,0 +1,51 @@
+From jose@monkey.org Tue Feb  2 01:02:56 2016 +0000
+Return-Path: yadhi_aristianto@luckytex.com
+Delivered-To: jose@monkey.org
+X-FDA: 71141710752.14.talk63_8db7b42bbb031
+Authentication-Results: auth.b.hostedemail.com; dkim=fail
+	reason="verification failed; insecure key"
+	header.d=luckytex.com header.i=@luckytex.com header.b=zgEkNf2J;
+	dkim-adsp=none (insecure policy); dkim-atps=neutral
+X-Spam-Summary: 30,2,0,07b36bd553bfb43a,d41d8cd98f00b204,yadhi_aristianto@luckytex.com,:yadhi_aristianto@luckytex.com,RULES_HIT:1:2:41:69:72:355:379:474:962:966:967:973:978:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1336:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1589:1592:1594:1606:1730:1776:1792:1801:1803:2145:2196:2198:2199:2200:2525:2527:2539:2553:2560:2563:2682:2685:2693:2859:2890:2892:2898:2913:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3167:3353:3392:3650:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4385:4552:4605:5007:6261:6653:6669:6674:6678:6687:6688:6750:7652:7688:7809:8531:8583:8599:8603:8842:9025:9040:9059:9080:9121:9149:9388:9411:9416:9908:10004:10261:10346:11233:11658:11914:12043:12517:12519:12555:12561:12658:12660:12683:12776:13110:13139:13163:13229:13235:13237:13294:13628:14096:14149:14651:21080:21326:30001:30003:30021:30022:30026:30054:30070:30075:30
+X-HE-Tag: talk63_8db7b42bbb031
+X-Filterd-Recvd-Size: 10393
+Received: from zombrie.luckytex.com (surel.luckytex.com [113.20.136.131])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  2 Feb 2016 01:02:53 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by zombrie.luckytex.com (Postfix) with ESMTP id 6A5BE62F461;
+	Tue,  2 Feb 2016 07:47:56 +0700 (WIB)
+Received: from zombrie.luckytex.com ([127.0.0.1])
+	by localhost (zombrie.luckytex.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id bK0e5AyUR1Ni; Tue,  2 Feb 2016 07:47:55 +0700 (WIB)
+Received: from localhost (localhost [127.0.0.1])
+	by zombrie.luckytex.com (Postfix) with ESMTP id 767F762F45C;
+	Tue,  2 Feb 2016 07:47:55 +0700 (WIB)
+DKIM-Filter: OpenDKIM Filter v2.9.0 zombrie.luckytex.com 767F762F45C
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=luckytex.com;
+	s=498ABCC6-FC35-11E3-80D7-F76BD7FEA301; t=1454374075;
+	bh=3HIuvAQp2cjTYcnfkDdrSih/1a37YmTqUEOK+WjRC0E=;
+	h=Content-Type:MIME-Version:Subject:To:From:Date:Message-Id;
+	b=zgEkNf2Jbp9nVMUNHTeiAQ01sFHQlRvms8YbkzhaEiAu7FwKmZwCH3BrqMzO5TfpJ
+	 1LvMRwc+aKFuzJDIRuJ8NtYWlkq77hg7dogEd1BgxfPfGtd5ZkUjdZqxG4dw1FqTWJ
+	 Y8LBwwP8Ym5wi6wTvqKKIBrK3tN2ltaTX3KYf76U=
+X-Amavis-Modified: Mail body modified (using disclaimer) -
+	zombrie.luckytex.com
+X-Virus-Scanned: amavisd-new at luckytex.com
+Received: from zombrie.luckytex.com ([127.0.0.1])
+	by localhost (zombrie.luckytex.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id XBCJxx82Axjg; Tue,  2 Feb 2016 07:47:55 +0700 (WIB)
+Received: from [192.168.1.2] (unknown [154.118.31.243])
+	by zombrie.luckytex.com (Postfix) with ESMTPA id 08C9162ED5F;
+	Tue,  2 Feb 2016 07:47:42 +0700 (WIB)
+Content-Type: multipart/alternative; boundary="===============0118382495=="
+MIME-Version: 1.0
+Subject: Re-validate your email account
+To: Recipients <yadhi_aristianto@luckytex.com>
+From: "Account"<yadhi_aristianto@luckytex.com>
+Date: Mon, 01 Feb 2016 16:47:18 -0800
+Message-Id: <20160202004743.08C9162ED5F@zombrie.luckytex.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 45

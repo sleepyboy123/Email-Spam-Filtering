@@ -1,0 +1,40 @@
+From jose@monkey.org Mon Feb  4 17:10:49 2019 +0000
+Return-Path: n.chernetskaya@algroup.kz
+Delivered-To: jose@monkey.org
+X-FDA: 75128572218.05.duck30_242ede9563c3a
+X-Spam-Summary: 58,3.595,0,54fe309957591770,d41d8cd98f00b204,n.chernetskaya@algroup.kz,:,RULES_HIT:2:41:72:327:355:379:455:492:495:560:800:871:962:967:969:970:973:983:988:989:1000:1021:1189:1208:1260:1261:1263:1308:1309:1313:1314:1345:1362:1381:1431:1432:1436:1437:1516:1517:1566:1573:1575:1588:1589:1594:1714:1719:1730:1747:1777:1792:2194:2196:2198:2199:2200:2201:2393:2525:2527:2561:2567:2610:2682:2685:2731:2737:2741:2771:2859:2909:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3552:3586:3865:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4051:4180:4321:4361:5007:6117:6119:6261:6354:6506:6650:6671:6672:6678:6703:7281:7398:7809:7875:8518:8599:8603:8824:8869:8957:8987:9025:9388:9468:10049:10346:11026:11257:11473:11657:11658:11914:12043:12438:12517:12519:12555:12663:12740:12764:12895:12903:12986:13007:13008:13025:13026:13139:13190:13229:13439:13975:14516:14633:14659:14877:18000:21080:21325:21347:21433:21436:21451:21483:21499:21524:21554:21627
+X-HE-Tag: duck30_242ede9563c3a
+X-Filterd-Recvd-Size: 22243
+Received: from mail.mail-gd.ru (mail.mail-gd.ru [31.28.25.43])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  4 Feb 2019 17:10:48 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.mail-gd.ru (Postfix) with ESMTP id 808D12C17C044
+	for <jose@monkey.org>; Mon,  4 Feb 2019 20:09:04 +0300 (MSK)
+Received: from mail.mail-gd.ru ([127.0.0.1])
+	by localhost (mail.mail-gd.ru [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id dnoluG1rtMfv for <jose@monkey.org>;
+	Mon,  4 Feb 2019 20:09:04 +0300 (MSK)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.mail-gd.ru (Postfix) with ESMTP id 279542C102A86
+	for <jose@monkey.org>; Mon,  4 Feb 2019 20:09:04 +0300 (MSK)
+X-Virus-Scanned: amavisd-new at mail-gd.ru
+Received: from mail.mail-gd.ru ([127.0.0.1])
+	by localhost (mail.mail-gd.ru [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id E14xj5rkYuwR for <jose@monkey.org>;
+	Mon,  4 Feb 2019 20:09:04 +0300 (MSK)
+Received: from algroup.kz (unknown [162.248.246.238])
+	by mail.mail-gd.ru (Postfix) with ESMTPSA id 2D73F2C1527A7
+	for <jose@monkey.org>; Mon,  4 Feb 2019 20:09:03 +0300 (MSK)
+From: jose  <n.chernetskaya@algroup.kz>
+To: jose@monkey.org
+Subject: Dear jose  Invoice does not bear your Company's Bank details, "
+Date: 04 Feb 2019 09:09:05 -0800
+Message-ID: <20190204090905.2DB6936A6250C75E@algroup.kz>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_211B9D1B.6B3AFCF6"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 25

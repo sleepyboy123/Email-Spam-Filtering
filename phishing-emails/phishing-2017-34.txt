@@ -1,0 +1,33 @@
+From jose@monkey.org Thu Jan 26 10:20:05 2017 +0000
+Return-Path: support@d.pratikkapak.com
+Delivered-To: jose@monkey.org
+X-FDA: 72445853970.24.sheep68_c40c923344c
+X-Spam-Summary: 50,0,0,bdcf40c9e2fd413d,d41d8cd98f00b204,support@d.pratikkapak.com,:support@d.pratikkapak.com,RULES_HIT:41:379:677:871:962:967:988:989:1189:1254:1260:1313:1314:1381:1436:1437:1516:1517:1518:1533:1535:1537:1575:1588:1592:1594:1711:1714:1730:1748:1764:1777:1792:2084:2549:2568:2633:2890:2895:3138:3139:3140:3141:3142:3867:3873:4042:4118:4552:4699:5007:6261:6687:6748:7281:7652:10004:10231:10264:10265:10394:10400:11604:11658:11914:12050:12051:12517:12519:12561:13439:14106:14515:14721:14829:21080:21324:21433:21450:30001:30019:30021:30022:30026:30037:30054:30070,0,RBL:37.123.98.44:@d.pratikkapak.com:.lbl8.mailshell.net-62.8.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:13,LUA_SUMMARY:none
+X-HE-Tag: sheep68_c40c923344c
+X-Filterd-Recvd-Size: 7893
+Received: from server1.opencartkurumsal.com (unknown [37.123.98.44])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 26 Jan 2017 10:20:05 +0000 (UTC)
+Received: from [197.210.25.35] (port=38725 helo=[172.20.10.5])
+	by server1.opencartkurumsal.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.87)
+	(envelope-from <support@d.pratikkapak.com>)
+	id 1cWh9d-0002Z5-W6; Thu, 26 Jan 2017 13:19:47 +0300
+Content-Type: multipart/mixed; boundary="===============0325481336=="
+MIME-Version: 1.0
+Subject: SERVICE DISCONNECTION
+To: Recipients <support@d.pratikkapak.com>
+From: "Mail Service" <support@d.pratikkapak.com>
+Date: Thu, 26 Jan 2017 11:18:42 +0100
+â€œX-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server1.opencartkurumsal.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - d.pratikkapak.com
+X-Get-Message-Sender-Via: server1.opencartkurumsal.com: none
+X-Authenticated-Sender: server1.opencartkurumsal.com: 
+â€
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 33

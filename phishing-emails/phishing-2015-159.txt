@@ -1,0 +1,47 @@
+From fileshare@dropbox.com  Wed Aug 26 13:40:29 2015
+Return-Path: <fileshare@dropbox.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 8D687F4005
+	for <jose@login.monkey.org>; Wed, 26 Aug 2015 13:40:29 -0500 (CDT)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 6021C34E382
+	for <jose@login.monkey.org>; Wed, 26 Aug 2015 18:40:26 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70563767652.05.cats38_3dedc207e794b
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 50,0,0,4028deda69e6493f,d41d8cd98f00b204,fileshare@dropbox.com,:fileshare@dropbox.com,RULES_HIT:2:41:72:379:455:800:962:966:967:973:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1567:1570:1571:1575:1588:1589:1592:1594:1714:1730:1777:1792:2194:2196:2198:2199:2200:2201:2525:2527:2549:2566:2610:2682:2685:2741:2859:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3585:3867:3868:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4119:4180:4181:4385:4552:4699:5007:6261:6650:6678:6687:7652:7903:8568:8603:8957:9025:9040:9388:9416:9908:10004:10049:10214:10234:10346:11233:11473:11657:11658:11914:12043:12438:12517:12519:12561:12679:12740:13110:13235:13236:13237:14106:14195:14515:21063:21080:21212:21222,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: cats38_3dedc207e794b
+X-Filterd-Recvd-Size: 8632
+Received: from server.flowsocietylacrosse.com (server.flowsocietylacrosse.com [192.163.229.113])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 26 Aug 2015 18:40:25 +0000 (UTC)
+Received: from [50.252.200.121] (port=60981 helo=[172.16.32.30])
+	by server.flowsocietylacrosse.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.85)
+	(envelope-from <fileshare@dropbox.com>)
+	id 1ZUfcK-0005uA-FC; Wed, 26 Aug 2015 18:40:13 +0000
+Content-Type: multipart/alternative; boundary="===============0811323890=="
+MIME-Version: 1.0
+Subject: PENDING NOTIFICATION 
+To: Recipients <fileshare@dropbox.com>
+From: "DROPBOX"<fileshare@dropbox.com>>
+Date: Wed, 26 Aug 2015 14:40:07 -0400
+Reply-To: jake_tu
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - server.flowsocietylacrosse.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - dropbox.com
+X-Get-Message-Sender-Via: server.flowsocietylacrosse.com: authenticated_id: smtp@flowsocietylacrosse.com
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 159

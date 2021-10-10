@@ -1,0 +1,29 @@
+From jose@monkey.org Mon Oct 14 23:52:43 2019 +0000
+Return-Path: v.thanakorn@ups.com
+Delivered-To: jose@monkey.org
+X-FDA: 76044042606.14.watch94_164898d331e30
+X-Spam-Summary: 75,0,0,f737aadbbdb17ba6,d41d8cd98f00b204,v.thanakorn@ups.com,,RULES_HIT:41:152:355:379:387:560:800:871:969:973:988:989:1000:1260:1261:1313:1314:1345:1381:1437:1516:1518:1537:1560:1575:1594:1711:1714:1730:1747:1764:1777:1792:2194:2199:2393:2553:2559:2562:3138:3139:3140:3141:3142:3421:3740:3867:3871:3873:4321:4361:5007:6261:6506:6684:6747:6748:7281:7628:7974:9108:9398:10004:10400:11604:11658:11914:12225:12519:12555:14036:14037:14181:14516:14721:21121:21325:21611:21627:21659:30018:30038:30054:30064:30090,0,RBL:103.22.183.243-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: watch94_164898d331e30
+X-Filterd-Recvd-Size: 645142
+Received: from mail.egg.bfgems.com (egg.bfgems.com [103.22.183.243])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 14 Oct 2019 23:52:32 +0000 (UTC)
+Received: from webmail.bfgems.com (localhost [127.0.0.1])
+	by mail.egg.bfgems.com (Postfix) with ESMTP id 879A741E81;
+	Tue, 15 Oct 2019 06:49:57 +0700 (+07)
+Received: from 113.53.228.86
+        (SquirrelMail authenticated user accounts@bfgems.com)
+        by webmail.bfgems.com with HTTP;
+        Tue, 15 Oct 2019 06:49:58 +0700
+Message-ID: <e52b725c1d356ff2a78a02dc22192913.squirrel@webmail.bfgems.com>
+Date: Tue, 15 Oct 2019 06:49:58 +0700
+Subject: Payment Confirmation for 00006V1F44-R.N.
+From: v.thanakorn@ups.com
+Reply-To: v.thanakor@ups.com
+User-Agent: SquirrelMail/1.5.2 [SVN]
+MIME-Version: 1.0
+Content-Type: multipart/mixed;boundary="----=_20191015064958_49141"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 195

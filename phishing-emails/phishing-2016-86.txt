@@ -1,0 +1,40 @@
+From jose@monkey.org Thu Feb 25 14:42:00 2016 +0000
+Return-Path: laura@gaclaser.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 71227237200.05.edge54_2e6f7690d0309
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 2,0,0,81f03c77c6139e02,d41d8cd98f00b204,laura@gaclaser.co.za,:laura@gaclaser.co.za,RULES_HIT:1:2:41:72:355:379:455:474:962:967:969:973:978:979:983:988:989:1189:1208:1221:1256:1260:1261:1313:1314:1345:1431:1432:1433:1434:1436:1437:1516:1517:1518:1571:1575:1588:1592:1594:1685:1730:1777:1792:1803:2194:2198:2199:2200:2525:2527:2538:2539:2559:2568:2570:2610:2627:2682:2685:2693:2703:2741:2859:2890:2891:2892:2893:2894:2897:2898:2910:2916:2917:2922:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3148:3353:3586:3650:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4310:4383:4384:4395:4605:4648:5007:6261:7210:7652:7903:8512:8516:8518:8599:8603:8885:8957:8987:9025:9059:9121:9149:9388:9411:9416:9908:9941:10049:10305:10346:11529:11658:12073:12217:12561:12740:12764:13038:13139:13163:13191:13192:13227:13229:13237:13975:14129,0,RBL:197.97.112.45:@gaclaser.co.za:.lbl8.mailshell.net-62.12.255.100 64.201.201.201,CacheIP
+X-HE-Tag: edge54_2e6f7690d0309
+X-Filterd-Recvd-Size: 12040
+Received: from mta15-dc01.cm.synaq.com (mta15-dc01.cm.synaq.com [197.97.112.45])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <JOSE@MONKEY.ORG>; Thu, 25 Feb 2016 14:41:58 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTP id 689F31405C0;
+	Thu, 25 Feb 2016 16:41:56 +0200 (SAST)
+Received: from mta15-dc01.cm.synaq.com ([127.0.0.1])
+	by localhost (mta15-dc01.cm.synaq.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id S4qJEgNZANFJ; Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+Received: from localhost (localhost [127.0.0.1])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTP id 6283814055D;
+	Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+X-Virus-Scanned: amavisd-new at mta15-dc01.cm.synaq.com
+Received: from mta15-dc01.cm.synaq.com ([127.0.0.1])
+	by localhost (mta15-dc01.cm.synaq.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id EYosliUmjb9f; Thu, 25 Feb 2016 16:41:55 +0200 (SAST)
+Received: from [192.168.1.219] (unknown [197.232.30.102])
+	by mta15-dc01.cm.synaq.com (Postfix) with ESMTPA id 0CB6A14057C;
+	Thu, 25 Feb 2016 16:41:35 +0200 (SAST)
+Content-Type: multipart/alternative; boundary="===============0609948887=="
+MIME-Version: 1.0
+Subject: Important information about your account
+To: Recipients <laura@gaclaser.co.za>
+From: "NatWest" <laura@gaclaser.co.za>
+Date: Thu, 25 Feb 2016 17:41:18 +0300
+Message-Id: <20160225144136.0CB6A14057C@mta15-dc01.cm.synaq.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 85

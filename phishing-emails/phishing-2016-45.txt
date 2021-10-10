@@ -1,0 +1,28 @@
+From jose@monkey.org Mon Feb  1 22:37:56 2016 +0000
+Return-Path: internation-centre@vnn.vn
+Delivered-To: jose@monkey.org
+X-FDA: 71141345352.17.board66_270fb89b77d29
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,9450b5bc2361a72c,d41d8cd98f00b204,internation-centre@vnn.vn,:internation-centre@vnn.vn,RULES_HIT:4:21:41:72:355:379:455:581:800:967:969:973:983:988:989:1208:1221:1260:1261:1263:1313:1314:1345:1381:1390:1431:1432:1433:1434:1437:1516:1517:1518:1571:1575:1594:1685:1699:1730:1744:1777:1792:1801:1803:2194:2196:2198:2199:2200:2201:2380:2525:2527:2528:2540:2553:2560:2568:2610:2640:2682:2685:2693:2737:2741:2859:2890:2891:2894:2895:2900:2901:2903:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3226:3353:3585:3586:3664:3770:3863:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4605:4700:4822:4878:5007:6238:6248:6669:6678:6687:6688:7207:7809:7875:7903:8516:8568:8603:8660:8957:9025:9060:9080:9121:9149:9153:9388:9908:10030:10049:10149:10346:10946:11026:11233:11651:11656:11657:11658:11914:11967:12043:12389:12438:12555:12561:12660:12679:12812:12963:12973:13038:13110:13139:13146:13148:
+X-HE-Tag: board66_270fb89b77d29
+X-Filterd-Recvd-Size: 19632
+Received: from Shal-sharepoint.jobplus02.com (wsip-98-191-52-223.at.at.cox.net [98.191.52.223])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  1 Feb 2016 22:37:47 +0000 (UTC)
+Received: from Shal-sharepoint.jobplus02.com ([127.0.0.1]) by Shal-sharepoint.jobplus02.com with Microsoft SMTPSVC(7.0.6002.18264);
+	 Mon, 1 Feb 2016 16:35:07 -0600
+Content-Type: multipart/alternative; boundary="===============2023389763=="
+MIME-Version: 1.0
+Subject: WE HAVE NOT RECEIVED YOUR ACCOUNT UPDATE - UPDATE NOW
+To: Recipients <internation-centre@vnn.vn>
+From: "USAA" <internation-centre@vnn.vn>
+Date: Mon, 01 Feb 2016 16:34:40 -0600
+Return-Path: internation-centre@vnn.vn
+Message-ID: <SHAL-SHAREPOINTiSnR0000007d@Shal-sharepoint.jobplus02.com>
+X-OriginalArrivalTime: 01 Feb 2016 22:35:07.0565 (UTC) FILETIME=[CD6455D0:01D15D40]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 44

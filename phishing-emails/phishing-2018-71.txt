@@ -1,0 +1,36 @@
+From jose@monkey.org Wed Apr 11 12:32:19 2018 +0000
+Return-Path: mhaupt@washco-md.net
+Delivered-To: jose@monkey.org
+X-FDA: 74042859198.34.front24_88af45b1cb03d
+X-Spam-Summary: 75,0,0,d9be4b95b6b08042,d41d8cd98f00b204,mhaupt@washco-md.net,,RULES_HIT:10:41:72:355:379:387:582:960:962:967:973:978:983:988:989:1021:1029:1152:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1544:1566:1575:1588:1589:1592:1594:1691:1711:1714:1730:1777:1792:1803:2525:2526:2527:2528:2551:2553:2561:2564:2610:2682:2685:2693:2859:2890:2892:2895:2900:2901:2902:2917:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3865:3867:3868:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4048:4118:4321:4362:4379:5007:6117:6261:6658:6678:7688:7903:8603:8957:9025:9388:9868:9908:10004:10026:10049:10197:10214:10346:10919:11656:11658:11914:12043:12050:12295:12438:12519:12521:12555:12660:12895:13139:13237:13439:14096:14181:14721:14828:14885:21326:21433:21450:21451:21499:21627:30001:30022:30054:30070:30075:30090:30091,0,RBL:64.26.77.16-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:
+X-HE-Tag: front24_88af45b1cb03d
+X-Filterd-Recvd-Size: 7192
+Received: from mail.washco-md.net (exch2013mbx.washco-md.net [64.26.77.16])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 11 Apr 2018 12:32:19 +0000 (UTC)
+Received: from exch2013mbx.washco-md.net (192.168.77.74) by
+ exch2013mbx.washco-md.net (192.168.77.74) with Microsoft SMTP Server (TLS) id
+ 15.0.1347.2; Wed, 11 Apr 2018 08:31:49 -0400
+Received: from exch2013mbx.washco-md.net ([fe80::8466:3bf7:a0a8:d66d]) by
+ exch2013mbx.washco-md.net ([fe80::8466:3bf7:a0a8:d66d%12]) with mapi id
+ 15.00.1347.000; Wed, 11 Apr 2018 08:31:49 -0400
+From: "Haupt, Michael" <mhaupt@washco-md.net>
+Subject: Outlook Web Access
+Thread-Topic: Outlook Web Access
+Thread-Index: AdPRkK3gcxBLDpW1gUCfNYQX+eS21w==
+Date: Wed, 11 Apr 2018 12:29:04 +0000
+Message-ID: <4a9a2799e29b43dba4576df7b0f70749@exch2013mbx.washco-md.net>
+Reply-To: "Haupt, Michael" <mhaupt@washco-md.net>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-transport-fromentityheader: Hosted
+x-originating-ip: [196.207.127.188]
+Content-Type: multipart/alternative;
+	boundary="_000_4a9a2799e29b43dba4576df7b0f70749exch2013mbxwashcomdnet_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 461

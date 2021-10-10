@@ -1,0 +1,28 @@
+From jose@monkey.org Sat Feb 13 18:36:05 2016 +0000
+Return-Path: sepo1mlitm@mail.mil
+Delivered-To: jose@monkey.org
+X-FDA: 71184281490.23.pies02_5161328f19531
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 20,1.5,0,5422bd566d3c2459,d41d8cd98f00b204,sepo1mlitm@mail.mil,:sepo1mlitm@mail.mil,RULES_HIT:41:72:355:379:581:967:969:973:983:988:989:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1437:1516:1517:1518:1535:1543:1550:1575:1594:1699:1711:1714:1730:1777:1792:1803:2525:2540:2553:2561:2564:2682:2685:2859:2890:2892:2894:2895:2920:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3350:3690:3865:3866:3867:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4362:4365:5007:6684:6687:6688:7809:7903:8509:8603:8784:9025:9388:9416:9908:10009:10049:10214:10346:10400:11473:11658:11914:12043:12075:12438:12555:12561:12660:12740:12776:13110:13139:13235:13236:13237:14094:14096:14515:14687:21080:30001:30026:30054:30055:30070:30090,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:1:0,LFtime:2000,LUA_SUMMARY:none
+X-HE-Tag: pies02_5161328f19531
+X-Filterd-Recvd-Size: 5522
+Received: from SATURN.GALAXY.LOCAL (208-104-203-60.fm2.cm.dyn.comporium.net [208.104.203.60])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 13 Feb 2016 18:35:59 +0000 (UTC)
+Received: from SATURN.GALAXY.LOCAL ([127.0.0.1]) by SATURN.GALAXY.LOCAL with Microsoft SMTPSVC(7.5.7601.17514);
+	 Sat, 13 Feb 2016 13:24:39 -0500
+Content-Type: multipart/alternative; boundary="===============0093897556=="
+MIME-Version: 1.0
+Subject: WE RECEIVED INVALID CREDETIALS FROM YOU - UPGRADE NOW
+To: Recipients <sepo1mlitm@mail.mil>
+From: "USAA" <sepo1mlitm@mail.mil>
+Date: Sat, 13 Feb 2016 13:24:39 -0500
+Return-Path: sepo1mlitm@mail.mil
+Message-ID: <SATURNxf4yp8ARf3sll000005e4@SATURN.GALAXY.LOCAL>
+X-OriginalArrivalTime: 13 Feb 2016 18:24:39.0560 (UTC) FILETIME=[CCF5C080:01D1668B]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 71

@@ -1,0 +1,35 @@
+From jose@monkey.org Wed Jun  7 15:35:59 2017 +0000
+Return-Path: prvs=0327206ada=deanne.spry@blood.ca
+Delivered-To: jose@monkey.org
+X-FDA: 72925651638.25.leaf76_6e792f2d3133a
+X-Spam-Summary: 50,0,0,16abd9daa9b82f47,d41d8cd98f00b204,prvs=0327206ada=deanne.spry@blood.ca,:deanne.spry@blood.ca,RULES_HIT:2:10:41:72:334:355:368:369:379:582:960:962:967:973:978:983:988:989:1152:1189:1208:1221:1260:1261:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1535:1568:1575:1588:1589:1592:1594:1714:1730:1776:1792:2525:2527:2561:2564:2682:2685:2859:2895:2900:2902:2904:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3866:3867:3868:3872:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4120:4361:5007:6117:6238:6261:6630:6650:6678:6703:8512:8513:8518:8583:8603:8957:9025:9149:10004:10214:10346:11473:11656:11657:11658:11875:11914:12043:12295:12517:12519:12555:12740:12895:12986:13005:13017:13018:13019:13139:13237:13439:13893:14096:14659:21080:21364:21433:21451:21483:21524:21627:30022:30026:30054:30070,0,RBL:204.101.27.102:@blood.ca:.lbl8.mailshell.net-62.8.55.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:n
+X-HE-Tag: leaf76_6e792f2d3133a
+X-Filterd-Recvd-Size: 9381
+Received: from smtp.blood.ca (smtp.blood.ca [204.101.27.102])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  7 Jun 2017 15:35:59 +0000 (UTC)
+Received: from lncexc001.internal.bloodservices.ca (unknown [10.100.20.169])
+	by Forcepoint Email with ESMTPS id 30454D819D2DB;
+	Wed,  7 Jun 2017 11:35:27 -0400 (EDT)
+Received: from ALVEXC001.internal.bloodservices.ca ([169.254.2.41]) by
+ lncexc001 ([10.100.20.169]) with mapi id 14.03.0351.000; Wed, 7 Jun 2017
+ 11:35:27 -0400
+From: Deanne Spry <deanne.spry@blood.ca>
+To: Deanne Spry <deanne.spry@blood.ca>
+Subject: Incident# 31876 - L4 - 1F
+Thread-Topic: Incident# 31876 - L4 - 1F
+Thread-Index: AQHS36OvBZRTMtZyj0SX+r60zmoNhw==
+Date: Wed, 7 Jun 2017 15:35:27 +0000
+Message-ID: <4D6C11C26578354B904C43C96ABB756E0112CE0974@alvexc001.internal.bloodservices.ca>
+Accept-Language: en-CA, en-US
+Content-Language: en-CA
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [192.75.184.38]
+Content-Type: multipart/alternative;
+	boundary="_000_4D6C11C26578354B904C43C96ABB756E0112CE0974alvexc001inte_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 212

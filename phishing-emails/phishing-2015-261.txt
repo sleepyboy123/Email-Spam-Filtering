@@ -1,0 +1,40 @@
+From jose@monkey.org Wed Nov 18 18:56:16 2015 +0000
+Return-Path: aexpgneuscn0006020@amex.com
+Delivered-To: jose@monkey.org
+X-FDA: 70868626710.10.plot31_8d9f31536b732
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,411797733b33dba4,d41d8cd98f00b204,aexpgneuscn0006020@amex.com,,RULES_HIT:41:72:152:355:379:539:540:541:542:543:567:677:871:962:967:969:973:983:988:989:1000:1155:1189:1208:1260:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1461:1516:1517:1518:1571:1575:1587:1588:1589:1592:1594:1685:1730:1764:1777:1792:1823:2073:2076:2107:2194:2198:2199:2200:2525:2527:2539:2561:2568:2682:2685:2693:2731:2734:2741:2859:2890:2891:2892:2894:2897:2900:2901:2909:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3586:3770:3863:3865:3866:3867:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4222:4321:4365:4384:4389:4395:4605:5007:6117:6119:6261:6354:6506:6678:6684:6747:6748:7266:7281:7398:7653:7809:8599:8603:9025:9060:9121:9388:9467:9468:9868:10049:10215:10265:10293:10346:10881:10954:11209:11233:11245:11473:11529:11537:11604:11651:11656:11657:11658:11914:12043:12219:12331:12438:12477:12555:12574:12663:13005:1
+X-HE-Tag: plot31_8d9f31536b732
+X-Filterd-Recvd-Size: 172539
+Received: from mta12.asp.home.ne.jp (mta12.asp.home.ne.jp [203.165.10.207])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 18 Nov 2015 18:56:12 +0000 (UTC)
+Received: from smtp21.asp.home.ne.jp (smtp21.asp.home.ne.jp [203.165.10.106])
+	by mta12.asp.home.ne.jp (8.14.3/a12041600) with ESMTP id tAIInQYr018176;
+	Thu, 19 Nov 2015 03:49:26 +0900 (JST)
+Received: by smtp21.asp.home.ne.jp (8.14.3/s12041900) with ESMTP id tAIInPwo017793;
+	Thu, 19 Nov 2015 03:49:25 +0900 (JST)
+Received: from smtp-auth.kct.ne.jp (smtp33.kct.ne.jp [211.125.115.105])
+	by mxo22.asp.home.ne.jp (8.14.3/o14081200) with ESMTP id tAIInOTZ009929;
+	Thu, 19 Nov 2015 03:49:24 +0900 (JST)
+Received: from Unknown (211-125-102-29.dynamic.cidr1.kct.ad.jp [211.125.102.29])
+	by smtp-auth.kct.ne.jp (Postfix) with SMTP id 1009612E0276;
+	Thu, 19 Nov 2015 03:48:28 +0900 (JST)
+Message-ID: <3DA7F92E7C824563A89A8E21772570C0@coqn>
+From: "American Express" <AEXPGNEUSCN0006020@amex.com>
+Subject: Important Information About Your Card Membership Details!
+Date: Wed, 18 Nov 2015 10:46:49 -0800
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_03E9_01D121EE.6DD98500"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5512
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.5512
+To: undisclosed-recipients:;
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 261

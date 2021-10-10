@@ -1,0 +1,26 @@
+From jose@monkey.org Thu Mar 14 06:23:47 2019 +0000
+Return-Path: gaia@excellentsistemas.com.br
+Delivered-To: jose@monkey.org
+X-FDA: 75264836094.33.art16_5b44edc675926
+X-Spam-Summary: 10,1,0,0082aa049beb8ab3,d41d8cd98f00b204,gaia@excellentsistemas.com.br,:,RULES_HIT:41:46:72:150:153:355:375:379:495:800:967:973:983:988:989:1133:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1432:1513:1515:1516:1517:1521:1533:1534:1543:1565:1593:1594:1699:1711:1714:1719:1730:1747:1777:1792:2194:2199:2393:2525:2527:2557:2561:2565:2610:2682:2685:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3769:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4605:5007:6114:6261:6300:6642:6671:6672:8599:8603:8957:8987:9025:9388:10004:10049:10346:10400:11026:11257:11537:11638:11639:11658:11914:11984:12043:12073:12075:12438:12522:12555:12764:12903:12956:12986:13007:13008:13025:13139:13255:13439:13898:13975:14093:14096:14181:14655:14721:14849:18000:21080:21347:21433:21436:21451:21483:21524:21627:21819,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LF
+X-HE-Tag: art16_5b44edc675926
+X-Filterd-Recvd-Size: 4691
+Received: from mail.excellentsistemas.com.br (mail.excellentsistemas.com.br [177.39.53.182])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 14 Mar 2019 06:23:46 +0000 (UTC)
+Received: (qmail 23861 invoked by uid 500); 14 Mar 2019 05:35:03 -0000
+Received: from unknown (HELO excellentsistemas.com.br) (gaia@excellentsistemas.com.br@23.227.207.215)
+  by mail with ESMTPA; 14 Mar 2019 05:35:02 -0000
+From: "TNT | SfExpress" <gaia@excellentsistemas.com.br>
+To: jose@monkey.org
+Subject: =?UTF-8?B?VE5UIHwgU2ZFeHByZXNzIOmhuuS4sOeUteWtkOWPkeelqOmAmuefpSBUZW1wby8wMDE=?=
+Date: 13 Mar 2019 22:35:00 -0700
+Message-ID: <20190313223459.7992C00A77D89874@excellentsistemas.com.br>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 61

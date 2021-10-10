@@ -1,0 +1,24 @@
+From jose@monkey.org Thu Feb  7 21:17:04 2019 +0000
+Return-Path: chase@socket.net
+Delivered-To: jose@monkey.org
+X-FDA: 75140079168.13.cats91_2096d08be6160
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,chase@socket.net,,RULES_HIT:30001:30022:30026:30046:30054:30055:30064:30070:30075,0,RBL:216.106.62.13:@socket.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:24,LUA_SUMMARY:none
+X-HE-Tag: cats91_2096d08be6160
+X-Filterd-Recvd-Size: 5023
+Received: from mf1.lakemail.com (mf1.lakemail.com [216.106.62.13])
+	by imf05.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu,  7 Feb 2019 21:17:03 +0000 (UTC)
+Received: from [169.254.73.245] (rjhmflex.force9.co.uk [212.159.93.110])
+	(Authenticated sender: younglaw@socket.net)
+	by mf1.lakemail.com (Postfix) with ESMTPA id 4EDCB4250B;
+	Thu,  7 Feb 2019 15:09:01 -0600 (CST)
+Content-Type: multipart/alternative; boundary="===============0642883392=="
+MIME-Version: 1.0
+Subject: Update Your Security Status 
+To: Recipients <Chase>
+From: Chase & Co" <fabio@chase.com>
+Date: Thu, 07 Feb 2019 21:08:49 +0000
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 28

@@ -1,0 +1,29 @@
+From jose@monkey.org Wed Apr  5 19:41:23 2017 +0000
+Return-Path: usaa.web.services.matter@mail.com
+Delivered-To: jose@monkey.org
+X-FDA: 72697655646.10.plate05_29251e2827442
+X-Spam-Summary: 80,5,0,5909fc06817eaf3c,d41d8cd98f00b204,usaa.web.services.matter@mail.com,:usaa.web.services.matter@mail.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6616:6618:6642:6687:6748:7281:7398:7652:10004:10400:11604:11658:11914:12043:12166:12340:12561:13110:13439:14687:14721:14829:21080:21433:21554:30026:30054:30055,0,RBL:68.99.120.49:@mail.com:.lbl8.mailshell.net-62.20.0.32 64.201.201.201;68.99.120.49-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:40,LUA_SUMMARY:none
+X-HE-Tag: plate05_29251e2827442
+X-Filterd-Recvd-Size: 113252
+Received: from dukecmwbtp01.coxmail.com (dukecmwbtp01.coxmail.com [68.99.120.49])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  5 Apr 2017 19:41:22 +0000 (UTC)
+Received: from dukecmimpo01.coxmail.com ([68.99.120.134])
+          by dukecmmtar04.coxmail.com
+          (InterMail vM.8.01.05.06 201-2260-151-112-20120208) with ESMTP
+          id <20170405160034.XAIB6872.dukecmmtar04.coxmail.com@dukecmimpo01.coxmail.com>;
+          Wed, 5 Apr 2017 12:00:34 -0400
+Received: from [192.168.1.17] ([98.191.107.196])
+	by dukecmimpo01.coxmail.com with bizsmtp
+	id 4ebk1v00Z4EGThN01fVmnD; Wed, 05 Apr 2017 11:29:52 -0400
+Content-Type: multipart/mixed; boundary="===============0932648796=="
+MIME-Version: 1.0
+Subject: Incoming Direct Deposit Pending On Your Acount
+To: Recipients <USAA.Web.Services.matter@mail.com>
+From: "USAA" <USAA.Web.Services.matter@mail.com>
+Date: Wed, 05 Apr 2017 08:29:53 -0700
+Message-Id: <20170405160034.XAIB6872.dukecmmtar04.coxmail.com@dukecmimpo01.coxmail.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 134

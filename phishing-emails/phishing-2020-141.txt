@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Nov 12 02:20:55 2020 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 77474163270.06.deer20_3d02ab827302
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,,,RULES_HIT:4310:30001:30022:30026:30054:30069:30070,0,RBL:173.203.187.95:@smtp95.iad3a.emailsrvr.com:.lbl8.mailshell.net-64.10.201.10 62.18.0.100;04y8j7gm7a66f9fqeb8gka7gfm69tyrgq1gy7x3g58xpn8kgtdn51c75yg467z4.97pz7byx5oskn3ucejwq7zcaqzzurfpxaqh86rmme4i9u3edgymahhwnnz15dqc.rqg17m4fiujppu58cqt5o9cwpq7z-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:23,LUA_SUMMARY:none
+X-HE-Tag: deer20_3d02ab827302
+X-Filterd-Recvd-Size: 8626
+Received: from smtp95.iad3a.emailsrvr.com (smtp95.iad3a.emailsrvr.com [173.203.187.95])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 12 Nov 2020 02:20:55 +0000 (UTC)
+Authentication-Results:smtp20.relay.iad3a.emailsrvr.com; dkim=permerror (bad message/signature format)
+X-Auth-ID: tony@grekoprinting.com
+Received: by smtp20.relay.iad3a.emailsrvr.com (Authenticated sender: tony-AT-grekoprinting.com) with ESMTPSA id 28D9724A5E
+	for <jose@monkey.org>; Wed, 11 Nov 2020 21:20:55 -0500 (EST)
+Content-Type: multipart/alternative; boundary="===============1283421527=="
+MIME-Version: 1.0
+Subject: jose@monkey.org Sync Issues
+To: jose@monkey.org
+From: "PostMailer" <>
+Date: Thu, 12 Nov 2020 02:20:55 -0800
+X-Classification-ID: 98e5e830-cb85-445e-99a8-53a609472d2c-963-1
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 140

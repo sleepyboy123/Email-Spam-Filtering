@@ -1,0 +1,29 @@
+From jose@monkey.org Tue Apr  9 00:58:30 2019 +0000
+Return-Path: cwhequipment@alhajricorporation.com
+Delivered-To: jose@monkey.org
+X-FDA: 75358365180.04.fifth51_4a315b58e3a5d
+X-Spam-Summary: 50,0,0,2b1f614cbb3af2dd,d41d8cd98f00b204,cwhequipment@alhajricorporation.com,:,RULES_HIT:41:72:355:375:379:495:800:962:966:967:973:983:988:989:1021:1147:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1534:1543:1561:1571:1588:1589:1593:1594:1686:1710:1711:1714:1719:1730:1747:1777:1792:2194:2196:2198:2199:2200:2201:2393:2525:2560:2563:2682:2685:2693:2790:2828:2859:2893:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3868:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:4385:4552:5007:6117:6119:6261:6630:6669:6671:6678:7809:8518:8599:8603:8957:9025:9388:9908:10004:10249:10346:11473:11657:11658:11914:12043:12295:12438:12523:12555:12660:12740:12895:12955:12958:12986:13007:13139:13374:13439:14096:14181:14721:18000:21080:21433:21436:21451:21483:21524:21627:21810:21819:21863:30022:30026:30054,0,RBL:159.253.98.238:@alhajricorporation.com:.lbl8.mailshell.net-62.12.122.100 6
+X-HE-Tag: fifth51_4a315b58e3a5d
+X-Filterd-Recvd-Size: 4219
+Received: from posta.cofeme.it (posta.cofeme.it [159.253.98.238])
+	by imf11.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Apr 2019 00:58:29 +0000 (UTC)
+Received: from alhajricorporation.com ([84.38.133.15])
+	(authenticated bits=0)
+	by posta.cofeme.it (9.0.0) with ESMTP id x390wDCM014335
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 faxin@cofeme.it verify=NOT)
+	for <jose@monkey.org>; Tue, 9 Apr 2019 02:58:26 +0200
+From: "monkey.org"<cwhequipment@alhajricorporation.com>
+To: jose@monkey.org
+Subject: Upgrade Your Mailbox!!
+Date: 09 Apr 2019 03:58:23 +0300
+Message-ID: <20190409035822.E582914F06E2DA29@alhajricorporation.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Antivirus: verificato in 0.081sec su posta.cofeme.it ([190.168.50.254])
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 76

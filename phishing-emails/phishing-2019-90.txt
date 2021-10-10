@@ -1,0 +1,36 @@
+From jose@monkey.org Wed Apr 17 21:16:25 2019 +0000
+Return-Path: pmm_postmaster_00t6a0jjyuikpedugy6yc%2bltsubm%2bri9iepm3hd@tmset.org
+Delivered-To: jose@monkey.org
+X-FDA: 75390464730.05.leaf66_7243109eaf93b
+X-Spam-Summary: 30,2,0,72befdd004f8354a,d41d8cd98f00b204,pmm_postmaster_00t6a0jjyuikpedugy6yc%2bltsubm%2bri9iepm3hd@tmset.org,:,RULES_HIT:41:72:146:327:355:375:379:455:495:800:962:967:973:978:983:988:989:1147:1189:1208:1213:1224:1260:1263:1311:1313:1314:1345:1362:1381:1431:1432:1433:1434:1436:1437:1461:1513:1515:1516:1517:1521:1571:1588:1589:1593:1594:1685:1710:1730:1747:1777:1792:2194:2196:2198:2199:2200:2201:2393:2525:2527:2551:2553:2565:2610:2682:2685:2693:2737:2828:2859:2897:2900:2902:2910:2917:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3742:3865:3866:3867:3868:3870:3871:3872:3873:3874:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4181:4250:4552:5007:6119:6120:6248:6261:6300:6650:6653:6661:6668:6669:6674:6678:6688:6996:6997:7901:7903:8513:8518:8557:8599:8603:8784:8829:8957:9010:9025:9080:9121:9149:9416:9908:10004:10205:10346:11026:11233:11473:11657:11658:11914:12043:12050:12295:12438:12517:12519:12555:12663:12740:12812:12895:1290
+X-HE-Tag: leaf66_7243109eaf93b
+X-Filterd-Recvd-Size: 29072
+Received: from tmset.org (unknown [188.138.10.202])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 17 Apr 2019 21:16:24 +0000 (UTC)
+Received: from tmset.org (unknown [174.128.224.75])
+	by host.tmset.org (Postfix) with ESMTPSA id 6C7DC588B59
+	for <jose@monkey.org>; Wed, 17 Apr 2019 16:46:36 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=tmset.org;
+	s=default; t=1555533997;
+	bh=GXbpYRPT9OuLsMxxdiKtyW3KSHD0Aai/4rXclMmo7Hg=; l=27767;
+	h=From:To:Subject;
+	b=FqqTxFvNRUyjhU+yek1tNP4lQCcRiPp58/ZFAFx2wi61hCyHzQWvjA8u/74eANlF+
+	 RIbkmgveN98sOhRR1GzL9s1pLK9NNqXTaDcJ8C/y5h6QwhbcNc6nTuFZgBlRpddkfc
+	 nZyWj/Dkbch6B7Xil6q8se6csbMf2BxZ8nsfj97M=
+Authentication-Results: host.tmset.org;
+	spf=pass (sender IP is 174.128.224.75) smtp.mailfrom=pmm_postmaster_00t6a0jjyuikpedugy6yc%2bltsubm%2bri9iepm3hd@tmset.org smtp.helo=tmset.org
+Received-SPF: pass (host.tmset.org: connection is authenticated)
+From: 'Postmaster' <pmm_postmaster_00t6a0jjyuikpedugy6yc%2bltsubm%2bri9iepm3hd@tmset.org>>
+To: jose@monkey.org
+Subject: (1) Pending PMM Message
+Date: 17 Apr 2019 14:49:13 -0600
+Message-ID: <20190417144912.BBB040F8F998BBFC@tmset.org>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 90

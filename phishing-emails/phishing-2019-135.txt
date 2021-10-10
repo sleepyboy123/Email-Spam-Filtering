@@ -1,0 +1,48 @@
+From jose@monkey.org Tue Jul  9 18:35:11 2019 +0000
+Return-Path: civey@powellshvac.com
+Delivered-To: jose@monkey.org
+X-FDA: 75691248822.20.tax94_2d2e5d9bf2321
+X-Spam-Summary: 75,0,0,88f2a5c38aa250a0,d41d8cd98f00b204,civey@powellshvac.com,:,RULES_HIT:2:41:72:355:375:379:800:962:967:973:978:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1535:1568:1571:1588:1589:1593:1594:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2549:2560:2563:2682:2685:2828:2859:2890:2895:2900:2902:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3867:3868:3870:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4049:4119:4321:4552:5007:6117:6119:6261:6630:6650:6653:6671:6678:7652:7809:8513:8515:8518:8583:8599:8603:8957:9025:9080:9388:9466:9908:10249:10346:11253:11473:11657:11658:11914:12043:12050:12295:12297:12438:12517:12519:12555:12658:12660:12740:12895:12955:12958:12967:12986:13007:13139:13374:13439:13546:13551:13868:13997:14096:14254:14877:18000:21080:21212:21433:21436:21450:21451:21483:21524:21554:21627:21810:21819:300
+X-HE-Tag: tax94_2d2e5d9bf2321
+X-Filterd-Recvd-Size: 8652
+Received: from jedro9.adriadns.com (highway.rs [95.211.205.80])
+	by imf20.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue,  9 Jul 2019 18:35:10 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed; d=highway.rs;
+	 s=default; h=Content-Transfer-Encoding:Content-Type:MIME-Version:Message-ID:
+	Date:Subject:To:From:Sender:Reply-To:Cc:Content-ID:Content-Description:
+	Resent-Date:Resent-From:Resent-Sender:Resent-To:Resent-Cc:Resent-Message-ID:
+	In-Reply-To:References:List-Id:List-Help:List-Unsubscribe:List-Subscribe:
+	List-Post:List-Owner:List-Archive;
+	bh=yRlENItAvx2PKIQ1A6jmftcnMwb4zMk3ByeKMySbB7Q=; b=VMnlPr09hjt2Obt0p/oMXyGnng
+	FoJrjbogTBI0WTVXwzruY4t/Tc62tSsxrKZv6F088HOFZ+91Q6VkNemMWfg3BcRlDr5/orwIGVklH
+	MS7LggncD2Eep4FNE4DcKieSGlBK3d+kQn0+8mkB4cWUwDvvfQHkcwWW/oLijbJ0GZ84=;
+Received: from [41.203.78.251] (port=23500 helo=powellshvac.com)
+	by jedro9.adriadns.com with esmtpsa (TLSv1:ECDHE-RSA-AES256-SHA:256)
+	(Exim 4.92)
+	(envelope-from <civey@powellshvac.com>)
+	id 1hknQk-0002Ra-1d
+	for jose@monkey.org; Tue, 09 Jul 2019 12:33:02 +0200
+From: monkey.org  <civey@powellshvac.com>
+To: jose@monkey.org
+Subject: Incoming message(s) on-hold
+Date: 09 Jul 2019 11:33:00 +0100
+Message-ID: <20190709113300.25BE5B2426B97038@powellshvac.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - jedro9.adriadns.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - powellshvac.com
+X-Get-Message-Sender-Via: jedro9.adriadns.com: authenticated_id: n.kiprijanovski@highway.rs
+X-Authenticated-Sender: jedro9.adriadns.com: n.kiprijanovski@highway.rs
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 135

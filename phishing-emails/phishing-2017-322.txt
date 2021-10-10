@@ -1,0 +1,27 @@
+From jose@monkey.org Tue Sep 26 18:11:38 2017 +0000
+Return-Path: americanexpress@amexp.com
+Delivered-To: jose@monkey.org
+X-FDA: 73328840634.21.wine99_4854cace06c13
+X-Spam-Summary: 2,0,0,8e97461d03b59409,d41d8cd98f00b204,americanexpress@amexp.com,:americanexpress@amexp.com,RULES_HIT:2:41:72:152:327:355:379:581:962:967:973:983:988:989:1021:1189:1208:1260:1263:1313:1314:1345:1381:1394:1395:1430:1431:1432:1433:1434:1436:1437:1461:1516:1517:1518:1571:1575:1588:1589:1592:1594:1685:1730:1764:1777:1792:1803:2194:2198:2199:2200:2525:2539:2559:2568:2629:2682:2685:2734:2859:2890:2891:2892:2894:2895:2898:2900:2923:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4321:4362:4384:4389:4395:4552:4700:5007:6117:6238:6248:6261:6650:6678:6688:7774:7809:7875:7903:7940:8516:8599:8603:8784:9025:9121:9388:9392:9908:10004:10049:10216:10346:10394:11026:11232:11233:11473:11658:11914:12043:12438:12551:12555:12679:12963:13019:13025:13038:13141:13163:13227:13229:13230:13374:14094:14659:21080:21433:21450:21451:21524:21627:30001:30009:3
+X-HE-Tag: wine99_4854cace06c13
+X-Filterd-Recvd-Size: 28923
+Received: from VPCODSWSPT57.dms.abacus.prod (abacus-12-158-89-34.abacus-us.com [12.158.89.34])
+	by imf17.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 26 Sep 2017 18:11:36 +0000 (UTC)
+Received: from pmacprelay2.epsilon.com ([159.127.24.61]) by VPCODSWSPT57.dms.abacus.prod with Microsoft SMTPSVC(7.5.7601.17514);
+	 Tue, 26 Sep 2017 13:11:38 -0500
+Received: from aslan.epsilon.com (HELO wakefield-netscaler.epsilon.com) ([159.127.161.10])
+  by pmacprelay2.epsilon.com with ESMTP/TLS/DHE-RSA-AES256-GCM-SHA384; 26 Sep 2017 14:10:47 -0400
+From: "American Express" <AmericanExpress@amexp.com>
+To: americanexpress@amexp.com
+Subject: Information About your CardMember Account.
+Date: Tue, 26 Sep 2017 14:10:44 -0400
+MIME-Version: 1.0
+Message-ID: <1506446647db64ab7fa35b7402d87843540e508b85_@amexp.com>
+Content-Type: multipart/mixed; boundary="--=_Next_6DBC_20161108_EC11.4.5.2391"
+Return-Path: AmericanExpress@amexp.com
+X-OriginalArrivalTime: 26 Sep 2017 18:11:38.0519 (UTC) FILETIME=[E58E9A70:01D336F2]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 322

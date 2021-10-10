@@ -1,0 +1,44 @@
+From jose@monkey.org Mon Apr  6 23:40:21 2020 +0000
+Return-Path: venkatkrishna.b@samrakshana.com
+Delivered-To: jose@monkey.org
+X-FDA: 76679051442.26.park21_3d1d35b63f422
+X-Spam-Summary: 18,1.407,0,12c31d9b57c9e765,d41d8cd98f00b204,venkatkrishna.b@samrakshana.com,,RULES_HIT:1:2:10:41:72:152:355:379:541:582:589:800:871:962:966:967:973:983:988:989:1000:1152:1189:1208:1221:1260:1261:1313:1314:1345:1359:1381:1431:1432:1433:1434:1437:1516:1517:1518:1545:1561:1571:1573:1575:1589:1594:1714:1730:1775:1792:2194:2196:2198:2199:2200:2201:2525:2527:2568:2610:2629:2682:2685:2741:2859:2891:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3366:3865:3867:3870:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4050:4310:4321:4385:4504:4512:6117:6238:6261:6353:6354:6506:6652:6657:6669:6674:6688:6741:6747:6748:7208:7281:7688:8583:8603:8784:8858:8957:9025:9416:9908:10004:10215:10346:11026:11473:11604:11657:11658:11914:12043:12213:12214:12297:12438:12555:12733:12737:12740:12895:12986:13019:13139:13161:13229:13235:13236:13237:13294:13433:14096:21080:21433:21451:21483:21524:21611:21627:21664:21703:21790:21939:30028:30054:30070,0,RBL:111.93
+X-HE-Tag: park21_3d1d35b63f422
+X-Filterd-Recvd-Size: 13846
+Received: from vmail.vijai.co.in (mail.samrakshana.com [111.93.8.117])
+	by imf21.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  6 Apr 2020 23:40:19 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by vmail.vijai.co.in (Postfix) with ESMTP id 6B10FC6910F6;
+	Tue,  7 Apr 2020 05:10:13 +0530 (IST)
+Received: from vmail.vijai.co.in ([127.0.0.1])
+	by localhost (vmail.vijai.co.in [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id WdpcvcqebMjI; Tue,  7 Apr 2020 05:10:13 +0530 (IST)
+Received: from localhost (localhost [127.0.0.1])
+	by vmail.vijai.co.in (Postfix) with ESMTP id 58292C691100;
+	Tue,  7 Apr 2020 05:10:12 +0530 (IST)
+X-Virus-Scanned: amavisd-new at vmail.vijai.co.in
+Received: from vmail.vijai.co.in ([127.0.0.1])
+	by localhost (vmail.vijai.co.in [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Vocv5NE6wh1j; Tue,  7 Apr 2020 05:10:12 +0530 (IST)
+Received: from vmail.vijai.co.in (vmail.vijai.co.in [10.0.1.204])
+	by vmail.vijai.co.in (Postfix) with ESMTP id 09881C6910EE;
+	Tue,  7 Apr 2020 05:09:56 +0530 (IST)
+Date: Tue, 7 Apr 2020 05:09:55 +0530 (IST)
+From: Venkatakrishna B <venkatkrishna.b@samrakshana.com>
+To: john_grant@kindredhealthcare.com
+Message-ID: <782334331.70258.1586216395970.JavaMail.zimbra@samrakshana.com>
+In-Reply-To: <2129398104.69967.1586216281438.JavaMail.zimbra@samrakshana.com>
+References: <20200402090731.3538F8F40B8B881C@carrollndixon.us> <949034515.67887.1586215624281.JavaMail.zimbra@samrakshana.com> <1280400385.68172.1586215744092.JavaMail.zimbra@samrakshana.com> <32251517.68502.1586215838092.JavaMail.zimbra@samrakshana.com> <2037485333.68820.1586215936304.JavaMail.zimbra@samrakshana.com> <267869973.69162.1586216033266.JavaMail.zimbra@samrakshana.com> <1681096141.69633.1586216164780.JavaMail.zimbra@samrakshana.com> <2129398104.69967.1586216281438.JavaMail.zimbra@samrakshana.com>
+Subject: Important Document !!!!!!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="=_dfe56587-97f1-43c0-a0bb-401dcef10e1d"
+X-Originating-IP: [10.0.1.204]
+X-Mailer: Zimbra 8.8.10_GA_3801 (ZimbraWebClient - GC80 (Win)/8.8.10_GA_3786)
+Thread-Topic: Important Document !!!!!!
+Thread-Index: t7AGgc9q/npI7aWqNOaVnRld9IDMm1uJP0bBo8ELQwkSMhNcft8Isnrv4kZnvVHXAuxaObw5cZhYZ6B+VsbWTOQFKOcSMIyUcnloyxLLhosYsRqgWVroHZAQadIxzWoVdbAW5WepT6yFT71Otpa2jg==
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 52

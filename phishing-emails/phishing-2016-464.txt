@@ -1,0 +1,41 @@
+From jose@monkey.org Wed Dec 14 19:20:23 2016 +0000
+Return-Path: transfer.alert@wellsfargo.com
+Delivered-To: jose@monkey.org
+X-FDA: 72291177126.01.drink96_1fbcc4237d21d
+X-Spam-Summary: 57,3.5,0,df099b9b2f454bf1,d41d8cd98f00b204,transfer.alert@wellsfargo.com,,RULES_HIT:41:355:379:387:539:540:541:542:543:567:677:871:988:989:1000:1155:1260:1261:1308:1309:1313:1314:1325:1345:1381:1437:1516:1517:1518:1538:1566:1575:1587:1594:1699:1711:1714:1730:1747:1764:1777:1792:1823:2073:2076:2107:2145:2194:2197:2199:2200:2393:2559:2563:2693:2741:2890:2896:2899:2900:2909:2911:2924:2926:2931:3138:3139:3140:3141:3142:3865:3867:3868:3871:3976:4042:4365:4425:5007:6261:6506:6663:6668:6747:6748:7281:7398:7576:7809:9009:9704:10007:10241:10265:10394:10400:11604:11658:11914:12043:12049:12225:12232:12679:12740:13163:13180:13229:13869:14036:14037:14659:14828:21099:21221:21259:21450:21451:30001:30005:30016:30054:30055:30064:30070:30091,0,RBL:80.73.207.92:@wellsfargo.com:.lbl8.mailshell.net-62.20.3.100 64.201.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:70,LUA_SUMMARY:none
+X-HE-Tag: drink96_1fbcc4237d21d
+X-Filterd-Recvd-Size: 221502
+Received: from mail.tdyv.ru (holding78-2-11.cust.smartspb.net [80.73.207.92])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 14 Dec 2016 19:20:17 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.tdyv.ru (Postfix) with ESMTP id 0429D876DC9D;
+	Wed, 14 Dec 2016 22:21:36 +0300 (MSK)
+Received: from mail.tdyv.ru ([127.0.0.1])
+	by localhost (mail.tdyv.ru [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id AFq92y0t8fC8; Wed, 14 Dec 2016 22:21:35 +0300 (MSK)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.tdyv.ru (Postfix) with ESMTP id 7FF7E876DC9E;
+	Wed, 14 Dec 2016 22:21:35 +0300 (MSK)
+X-Virus-Scanned: amavisd-new at tdyv.ru
+Received: from mail.tdyv.ru ([127.0.0.1])
+	by localhost (mail.tdyv.ru [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Q1e0PuKlZORn; Wed, 14 Dec 2016 22:21:35 +0300 (MSK)
+Received: from User (unknown [123.31.31.120])
+	by mail.tdyv.ru (Postfix) with ESMTPA id 3F6FB876DC95;
+	Wed, 14 Dec 2016 22:21:06 +0300 (MSK)
+From: "Wells Fargo"<transfer.alert@wellsfargo.com>
+Subject: Bank-to-Bank Transfers: Transfer Initiated
+Date: Thu, 15 Dec 2016 02:20:28 +0700
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0075_01C2A9A6.0D706FF8"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20161214192107.3F6FB876DC95@mail.tdyv.ru>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 463

@@ -1,0 +1,22 @@
+From jose@monkey.org Sun Mar  5 15:20:53 2017 +0000
+Return-Path: direct.deposit.usaa@mails.com
+Delivered-To: jose@monkey.org
+X-FDA: 72584506386.18.actor80_24caf6398111e
+X-Spam-Summary: 64,4,0,d41d8cd98f00b204,d41d8cd98f00b204,direct.deposit.usaa@mails.com,:,RULES_HIT:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6618:6642:6747:6748:7281:7398:10004:11604:11914:12166:12340:12836:13110:14659:14687:21080:30001:30054:30055,0,RBL:108.60.199.203:@mails.com:.lbl8.mailshell.net-62.4.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: actor80_24caf6398111e
+X-Filterd-Recvd-Size: 112357
+Received: from mails.com (unknown [108.60.199.203])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  5 Mar 2017 15:20:52 +0000 (UTC)
+From: "USAA"<Direct.Deposit.USAA@mails.com>
+To: jose@monkey.org
+Subject: Direct Deposit Pending On Your USAA Account
+Date: 05 Mar 2017 08:43:10 -0700
+Message-ID: <20170305084310.4B15283693B9567E@mails.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_B757E83B.A799B8DA"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 101

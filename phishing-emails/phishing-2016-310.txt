@@ -1,0 +1,22 @@
+From jose@monkey.org Mon Jul 25 20:53:36 2016 +0000
+Return-Path: citibank-etransfer@etransfer.com
+Delivered-To: jose@monkey.org
+X-FDA: 71776122432.22.teeth10_1cb037042a23
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,citibank-etransfer@etransfer.com,:,RULES_HIT:355:379:560:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6506:6642:7281:7398:10004:10234:11914:12836:14516:14659:14827:21080:21212:30007:30054,0,RBL:24.120.21.178:@etransfer.com:.lbl8.mailshell.net-62.4.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:22,LUA_SUMMARY:none
+X-HE-Tag: teeth10_1cb037042a23
+X-Filterd-Recvd-Size: 142308
+Received: from etransfer.com (wsip-24-120-21-178.lv.lv.cox.net [24.120.21.178])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 25 Jul 2016 20:53:32 +0000 (UTC)
+From: "Citi-Bank"<citibank-etransfer@etransfer.com>
+To: jose@monkey.org
+Subject: E-payment Transfer Notification From Another Citi Bank Customer
+Date: 25 Jul 2016 13:53:31 -0700
+Message-ID: <20160725135330.DFA9FED16482EF0D@etransfer.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_71F4B8A7.BAA2C984"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 309

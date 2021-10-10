@@ -1,0 +1,27 @@
+From jose@monkey.org Mon Mar 11 08:18:59 2019 +0000
+Return-Path: binnssondra194@stedu.ro
+Delivered-To: jose@monkey.org
+X-FDA: 75254239998.07.idea76_313d1a913af32
+X-Spam-Summary: 13,1.2,0,482fe7b9c9fe6d91,d41d8cd98f00b204,binnssondra194@stedu.ro,:,RULES_HIT:4:41:72:355:379:495:800:871:967:973:978:983:988:989:1000:1001:1208:1260:1263:1308:1309:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1559:1571:1575:1594:1685:1699:1714:1730:1747:1777:1792:2069:2070:2198:2199:2393:2525:2527:2561:2564:2682:2685:2693:2771:2859:2902:2915:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3552:3868:3870:3871:3872:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4384:4512:4518:4552:6261:6354:6506:6669:6747:7281:8599:8603:8957:8987:9025:9388:9411:10008:10049:11026:11657:11658:11914:12043:12050:12051:12073:12075:12295:12438:12523:12555:12764:12963:12986:13025:13139:13439:13975:14096:14106:14659:18000:21080:21433:21451:21524:21554:21627:21810:21819:30001:30003:30022:30054:30069,0,RBL:89.36.10.174:@stedu.ro:.lbl8.mailshell.net-62.4.8.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ff,
+X-HE-Tag: idea76_313d1a913af32
+X-Filterd-Recvd-Size: 17049
+Received: from gogu.vnet (unknown [89.36.10.174])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 11 Mar 2019 08:18:58 +0000 (UTC)
+Received: from stedu.ro ([37.49.225.172])
+	(authenticated bits=0)
+	by gogu.vnet (8.14.9/8.14.9) with ESMTP id x2B8IWnX062677
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-GCM-SHA384 bits=256 verify=NOT)
+	for <jose@monkey.org>; Mon, 11 Mar 2019 10:18:56 +0200
+From: "monkey.org"  <binnssondra194@stedu.ro>
+To: jose@monkey.org
+Subject: jose@monkey.org Account Verification.
+Date: 11 Mar 2019 08:18:55 -0700
+Message-ID: <20190311081855.8F614B3AE5D7E41D@stedu.ro>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_AC8C9514.178EB0E4"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 54

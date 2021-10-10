@@ -1,0 +1,36 @@
+From jose@monkey.org Fri Dec 20 01:40:32 2019 +0000
+Return-Path: zimbra@customs.gov.md
+Delivered-To: jose@monkey.org
+X-FDA: 76283815104.28.dirt28_4a4945050644
+X-Spam-Summary: 85,1,0,c12eb82b67a932fd,d41d8cd98f00b204,zimbra@customs.gov.md,:,RULES_HIT:1:41:46:72:150:153:355:375:379:495:800:962:967:973:983:988:989:1021:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1513:1515:1516:1517:1521:1561:1571:1588:1589:1593:1594:1685:1710:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2560:2564:2610:2638:2682:2685:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:2975:3000:3022:3138:3139:3140:3141:3142:3503:3504:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6114:6117:6119:6261:6300:6642:6650:6669:6671:6672:6678:7809:8513:8518:8583:8599:8603:8957:8987:9010:9025:9388:9391:10004:10049:10346:11026:11473:11638:11639:11657:11658:11914:11984:12043:12297:12438:12517:12519:12555:12740:12764:12895:12903:12955:12986:13007:13008:13025:13139:13198:13229:13255:13439:13898:13975:14096:14294:18000:21080:21325:21433:21436:21451:21483:21524:21554:21611:21627:21797:21810:21819,0,RBL:87.248.174.126:@cus
+X-HE-Tag: dirt28_4a4945050644
+X-Filterd-Recvd-Size: 14509
+Received: from mail.customs.gov.md (mail.customs.gov.md [87.248.174.126])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 20 Dec 2019 01:40:31 +0000 (UTC)
+Received: from mail.customs.gov.md (localhost [127.0.0.1])
+	by mail.customs.gov.md (Postfix) with ESMTPS id 692A248B8089
+	for <jose@monkey.org>; Fri, 20 Dec 2019 03:39:35 +0200 (EET)
+Received: from localhost (localhost [127.0.0.1])
+	by mail.customs.gov.md (Postfix) with ESMTP id 5D92355C6B1F
+	for <jose@monkey.org>; Fri, 20 Dec 2019 03:39:35 +0200 (EET)
+Received: from mail.customs.gov.md ([127.0.0.1])
+	by localhost (mail.customs.gov.md [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id Bd1F7GJP0tZB for <jose@monkey.org>;
+	Fri, 20 Dec 2019 03:39:35 +0200 (EET)
+Received: from customs.gov.md (unknown [192.198.87.76])
+	by mail.customs.gov.md (Postfix) with ESMTPSA id CCF6E48B8089
+	for <jose@monkey.org>; Fri, 20 Dec 2019 03:39:34 +0200 (EET)
+From: monkey.org  <Zimbra@customs.gov.md>
+To: jose@monkey.org
+Subject: =?UTF-8?B?0J/QvtC/0LXRgNC10LTQttC10L3QvdGPOiDQutCy0L7RgtCwIA==?=jose@monkey.org =?UTF-8?B?0L/QtdGA0LXQstC40YnQtdC90LAhICjQv9C+0LLQvdC1INC30LHQtdGA0ZbQs9Cw0L3QvdGPKQ==?=
+Date: 19 Dec 2019 17:40:22 -0800
+Message-ID: <20191219174022.5DE8810E19EFE880@customs.gov.md>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 235

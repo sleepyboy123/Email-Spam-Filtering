@@ -1,0 +1,25 @@
+From jose@monkey.org Tue Nov 29 14:22:18 2016 +0000
+Return-Path: secure@alert.org
+Delivered-To: jose@monkey.org
+X-FDA: 72235993956.15.cry98_311aedf832059
+X-Spam-Summary: 2,0,0,d41d8cd98f00b204,d41d8cd98f00b204,secure@alert.org,:secure@alert.org,RULES_HIT:41:327:355:379:581:871:988:989:1260:1261:1313:1314:1345:1381:1516:1518:1522:1536:1575:1594:1692:1711:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6748:7281:7398:10004:10400:11604:11658:11914:12340:13439:14827:21080:21259:30026:30054:30055,0,RBL:216.16.87.154:@alert.org:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: cry98_311aedf832059
+X-Filterd-Recvd-Size: 29833
+Received: from server13.sa2.swinealliance.com (unknown [216.16.87.154])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 29 Nov 2016 14:22:17 +0000 (UTC)
+Received: from server13.sa2.swinealliance.com ([127.0.0.1]) by server13.sa2.swinealliance.com with Microsoft SMTPSVC(7.5.7601.17514);
+	 Tue, 29 Nov 2016 07:36:23 -0600
+Content-Type: multipart/mixed; boundary="===============1827485830=="
+MIME-Version: 1.0
+Subject: Urgent Notice
+To: subscribers <secure@alert.org>
+From: "Navy Federal" <secure@alert.org>
+Date: Tue, 29 Nov 2016 07:36:21 -0600
+Return-Path: secure@alert.org
+Message-ID: <SERVER13bpH71yEXUIE0000010b@server13.sa2.swinealliance.com>
+X-OriginalArrivalTime: 29 Nov 2016 13:36:23.0012 (UTC) FILETIME=[93357A40:01D24A45]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 445

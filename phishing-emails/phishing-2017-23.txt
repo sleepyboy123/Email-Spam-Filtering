@@ -1,0 +1,42 @@
+From jose@monkey.org Thu Jan 19 17:45:42 2017 +0000
+Return-Path: adelson.pessoa@unifap.br
+Delivered-To: jose@monkey.org
+X-FDA: 72421575324.13.CBE709B
+Received: from filter.hostedemail.com (10.5.16.248.rfc1918.com [10.5.16.248])
+	by smtpin13.b.hostedemail.com (Postfix) with ESMTP id EC67A108625
+	for <jose@monkey.org>; Thu, 19 Jan 2017 17:44:08 +0000 (UTC)
+X-Spam-Summary: 10,1,0,c36bbdb17e9f596d,d41d8cd98f00b204,adelson.pessoa@unifap.br,,RULES_HIT:2:10:41:72:152:355:379:387:474:541:582:967:973:978:983:988:989:1152:1208:1221:1260:1261:1263:1313:1314:1345:1373:1381:1431:1432:1433:1434:1437:1516:1517:1518:1535:1571:1575:1594:1606:1699:1710:1719:1730:1777:1792:1803:2194:2197:2198:2199:2200:2201:2525:2527:2560:2564:2682:2685:2859:2890:2902:2903:2915:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3362:3586:3653:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4119:4250:4321:4362:5007:6261:6650:6663:6668:6669:6671:6672:6678:8583:8599:8603:8957:8987:9009:9025:9040:9059:9080:9108:9121:9149:9411:9416:9908:10004:10210:10215:10346:11233:11657:11658:11896:11914:12043:12049:12160:12438:12555:12679:12903:12927:12986:13005:13007:13008:13017:13018:13019:13025:13132:13139:13180:13229:13231:13235:13236:13237:13893:14096:14129:14141:14566:14568:14659:21060:21067:21
+ 221:2132
+X-HE-Tag: beef08_7b5c9a52d0933
+X-Filterd-Recvd-Size: 8135
+Received: from atlantico.unifap.br (atlantico.unifap.br [200.129.167.68])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 19 Jan 2017 17:44:07 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by atlantico.unifap.br (Postfix) with ESMTP id A6BEE2B60310;
+	Thu, 19 Jan 2017 14:40:32 -0300 (BRT)
+Received: from atlantico.unifap.br ([127.0.0.1])
+	by localhost (atlantico.unifap.br [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id AyZrNMpRDm4l; Thu, 19 Jan 2017 14:40:32 -0300 (BRT)
+Received: from atlantico.unifap.br (localhost [127.0.0.1])
+	by atlantico.unifap.br (Postfix) with ESMTP id DC2DD2B602A4;
+	Thu, 19 Jan 2017 14:40:31 -0300 (BRT)
+Received: from atlantico.unifap.br (atlantico.unifap.br [200.129.167.68])
+	by atlantico.unifap.br (Postfix) with ESMTP id 71B2E2B60277;
+	Thu, 19 Jan 2017 14:40:31 -0300 (BRT)
+Date: Thu, 19 Jan 2017 14:40:31 -0300 (BRT)
+From: Adelson de Araujo Pessoa <adelson.pessoa@unifap.br>
+Message-ID: <1437836025.3632235.1484847631391.JavaMail.zimbra@unifap.br>
+Subject: Quick Note On Your Account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_3632234_452274794.1484847631385"
+X-Originating-IP: [197.210.226.107]
+X-Mailer: Zimbra 8.0.6_GA_5922 (zclient/8.0.6_GA_5922)
+Thread-Topic: Quick Note On Your Account
+Thread-Index: A0JvprMI9+EgpXuHajZVras8u9xrEQ==
+To: undisclosed-recipients:;
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 22

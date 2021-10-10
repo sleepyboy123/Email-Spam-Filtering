@@ -1,0 +1,45 @@
+From rm@transservis.az  Wed Jan 21 03:30:32 2015
+Return-Path: <rm@transservis.az>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id C6BD1F40B7
+	for <jose@login.monkey.org>; Wed, 21 Jan 2015 03:30:32 -0600 (CST)
+Received: from smtpin05.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay01.b.hostedemail.com (Postfix) with SMTP id 846D234E373
+	for <jose@login.monkey.org>; Wed, 21 Jan 2015 09:30:32 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69774932304.05.trail33_5bb0c8b7c7410
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=transservis.az
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,5bf615cc116e470b,d41d8cd98f00b204,rm@transservis.az,:,RULES_HIT:41:72:379:474:495:800:962:967:969:973:978:982:983:988:989:1189:1208:1221:1254:1260:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1543:1571:1575:1588:1589:1592:1594:1710:1711:1714:1730:1776:1792:2198:2199:2525:2527:2528:2543:2557:2565:2682:2685:2859:2921:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3350:3362:3586:3650:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4552:4647:5007:6238:6261:6658:6674:6684:6688:7208:7652:7784:8599:8603:8784:8885:8987:9025:9059:9072:9080:9113:9388:9411:9468:9908:10004:10049:10214:10346:10400:11480:11656:11658:11914:12043:12126:12517:12519:12555:12658:12659:12660:12691:12737:13025:13139:13237:13846:14093:14094:14096:14141:14515:21080,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0
+X-HE-Tag: trail33_5bb0c8b7c7410
+X-Filterd-Recvd-Size: 5992
+Received: from transservis.az (mx1.transservis.az [89.147.205.90])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 21 Jan 2015 09:30:29 +0000 (UTC)
+Received: from [176.61.138.175] by transservis.az (Cipher TLSv1:AES-SHA:128) (MDaemon PRO v14.5.2) 
+	with ESMTPSA id md50000492313.msg for <jose@monkey.org>;
+	Wed, 21 Jan 2015 13:29:55 +0400
+X-Spam-Processed: transservis.az, Wed, 21 Jan 2015 13:29:55 +0400
+	(not processed: spam filter heuristic analysis disabled)
+X-MDRemoteIP: 176.61.138.175
+X-MDHelo: [176.61.138.175]
+X-MDArrival-Date: Wed, 21 Jan 2015 13:29:55 +0400
+X-Authenticated-Sender: rm@transservis.az
+X-Return-Path: rm@transservis.az
+X-Envelope-From: rm@transservis.az
+X-MDaemon-Deliver-To: jose@monkey.org
+Content-Type: multipart/alternative; boundary="===============1577155681=="
+MIME-Version: 1.0
+Subject: VERIFICATION!!
+To: jose@monkey.org
+From: "Mail Admin" <rm@transservis.az>
+Date: Wed, 21 Jan 2015 01:29:44 -0800
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 9

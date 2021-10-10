@@ -1,0 +1,40 @@
+From jose@monkey.org Mon Sep  9 20:15:18 2019 +0000
+Return-Path: bounces+10099302-77e3-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75916486716.08.snow08_11234e8f40847
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+10099302-77e3-jose=monkey.org@sendgrid.net,:,RULES_HIT:30001:30006:30009:30016:30025:30054:30055:30069:30070,0,RBL:149.72.181.53:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:10,LUA_SUMMARY:none
+X-HE-Tag: snow08_11234e8f40847
+X-Filterd-Recvd-Size: 8332
+Received: from wrqvbrpr.outbound-mail.sendgrid.net (wrqvbrpr.outbound-mail.sendgrid.net [149.72.181.53])
+	by imf28.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  9 Sep 2019 20:15:17 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=xkqdCki4iOBHOd+gDobugYXEN1M=; b=xpaCUowNvn4rDHljLJEtU9r5yPOeT
+	OnxkiNwQ2Ew3Vov/rKNwGsKHt6Kd9M9+i3JFjJ0r7fAJ+Fyjap0ZIPqG/8c2eBKx
+	kQqEv8v9BmP+EYVTCyUemSXuSxrnhz8zKspL+pOEH17L9W9ukixB3sAKEBMbKtKY
+	rs6G1Xgy4oNZVw=
+Received: by filter0292p1iad2.sendgrid.net with SMTP id filter0292p1iad2-21045-5D76B233-2E
+        2019-09-09 20:12:35.866279837 +0000 UTC m=+526817.833151348
+Received: from WIN-K609A0OTK3F (ec2-3-86-251-87.compute-1.amazonaws.com [3.86.251.87])
+	by ismtpd0003p1iad1.sendgrid.net (SG) with ESMTP id xgaM0FQhTXGUDIX7OvPz5A
+	for <jose@monkey.org>; Mon, 09 Sep 2019 20:12:35.794 +0000 (UTC)
+MIME-Version: 1.0
+From: "Navy Federal Protection" <Erin.McClelland@mtsu.edu>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Mon, 09 Sep 2019 20:12:35 +0000 (UTC)
+Subject: Card Blocked
+Content-Type: multipart/alternative;
+ boundary=--boundary_244593_2c9fdc5c-98dd-443c-9a2f-5c61b25f4635
+Message-ID: <xgaM0FQhTXGUDIX7OvPz5A@ismtpd0003p1iad1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtA+zvBxQqNsZq9CRlGLKPuE8RoPLCnkqOo2c3
+ 8B24eNMp3l7coTifylckgn22uMT7AJ9eAR5wQwjrXWSUGCLBxqyql9dRUAmWK/Jc7r1ChvgFC7Lql8
+ Wttzz+tFGm6UlGyinVMhZm+IZMvxEPM2PEpEtzG653GJ+prd5pFc6d8eOIuENCrrHVHugTuJxGYvQf
+ CXbBRfq9qiz9W+dz6aZYFe
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 174

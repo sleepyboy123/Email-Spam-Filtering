@@ -1,0 +1,40 @@
+From jose@monkey.org Wed Jul 24 07:40:22 2019 +0000
+Return-Path: bounces+9096293-1563-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 75744030684.30.drain37_3356e639d509
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+9096293-1563-jose=monkey.org@sendgrid.net,:,RULES_HIT:2539:4310:30001:30003:30005:30009:30016:30018:30019:30021:30022:30025:30054:30055:30064:30069:30070:30074:30075:30084,0,RBL:149.72.204.131:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: drain37_3356e639d509
+X-Filterd-Recvd-Size: 36525
+Received: from wrqvccvp.outbound-mail.sendgrid.net (wrqvccvp.outbound-mail.sendgrid.net [149.72.204.131])
+	by imf12.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 24 Jul 2019 07:40:21 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=mmtNGVEJD4p0eICHUg4Mb7og4Mk=; b=F3oUbNnuuab99HVYDrYqqy3ID71KO
+	ZU7rOppdw6WdM+eCoBbV93HZy8imfvg/m3rQ5dH1gKvDwk3Nw6PODaGtex3akOEE
+	wDmiI7EWV+sBTKukglS3lXMAq6nr6Xb5AOSgBEa7PFaIb5wgqWSP987UZjuCHPyN
+	KrXYo/sQSzTxAA=
+Received: by filter0509p1iad2.sendgrid.net with SMTP id filter0509p1iad2-2628-5D37E79D-19
+        2019-07-24 05:07:41.901359504 +0000 UTC m=+2274368.826614755
+Received: from WIN-AOV52CK43R8 (ec2-35-155-142-138.us-west-2.compute.amazonaws.com [35.155.142.138])
+	by ismtpd0002p1las1.sendgrid.net (SG) with ESMTP id 9FuGYv2iRbGIExBGE92fZg
+	for <jose@monkey.org>; Wed, 24 Jul 2019 05:07:41.672 +0000 (UTC)
+MIME-Version: 1.0
+From: "American Express" <solution.center.lost.card@al.gov>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Wed, 24 Jul 2019 05:07:41 +0000 (UTC)
+Subject: We Blocked This Transaction
+Content-Type: multipart/alternative;
+ boundary=--boundary_79117_992dda24-4218-4cb8-83c0-46d62fc2951f
+Message-ID: <9FuGYv2iRbGIExBGE92fZg@ismtpd0002p1las1.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDFg+aAb6upDrqAEBPt0BIdhzJGfA9Q9NUGb+
+ +pkAvdxqZbQyMbXgdxcY9AA1KBwUgCpQW8dZXuvb35jOJ69oSI1FGcu+udFNhk2ALOk/ZP5LMx/UeE
+ cW/4+7nJPYXOId3BUDERd6sVM1PkM0yHaMsZnLqq+TyyO19dQdpRTBbMjzNZPauNGi2rW/Mc7fw0vJ
+ k=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 142

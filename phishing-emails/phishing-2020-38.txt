@@ -1,0 +1,38 @@
+From jose@monkey.org Mon Mar  2 18:53:49 2020 +0000
+Return-Path: bounces+4793822-e3a8-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76551321378.28.deer38_2102e6e1a4108
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,bounces+4793822-e3a8-jose=monkey.org@sendgrid.net,,RULES_HIT:30001:30007:30022:30029:30038:30054:30055:30059:30064:30070:30074:30075:30090,0,RBL:192.254.126.64:@sendgrid.net:.lbl8.mailshell.net-64.10.201.10 62.18.0.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:appdomain.cloud-sh.dbl.urbl.hostedemail.com-127.0.0.175,Custom_rules:0:3:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: deer38_2102e6e1a4108
+X-Filterd-Recvd-Size: 81457
+Received: from chfztzqh.outbound-mail.sendgrid.net (chfztzqh.outbound-mail.sendgrid.net [192.254.126.64])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  2 Mar 2020 18:53:46 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=Xg3kTcPI+4gZnikbl4B1AM8dikUI3jKi+4ZJrl4HeCc=; b=Yt
+	QSdj5ibksxILl+eM9qiUoC1hqlMq236vvaGOPRw+2dKjT4eFSNmOvK8xCpy6QeDD
+	2eNNlPNAEXv0FStTyJ1EPLUkGu5xpQBx5YPI06hTlKXFuw2SWjzwHfzx25bOH01T
+	1Ik4+hwEP0kYDMC8i5lBE7T7l0dMYc5VOvNzn7bic=
+Received: by filter0385p1iad2.sendgrid.net with SMTP id filter0385p1iad2-2787-5E5D5639-1
+        2020-03-02 18:53:45.003776402 +0000 UTC m=+715757.895886169
+Received: from scotiabank.com (unknown [162.248.247.94])
+	by ismtpd0035p1iad2.sendgrid.net (SG) with ESMTP id Tc9P6bDpS_es57U11gRzng
+	for <jose@monkey.org>; Mon, 02 Mar 2020 18:53:44.973 +0000 (UTC)
+From: Michael Harfmann <michaell.harfmann@scotiabank.com>
+To: jose@monkey.org
+Subject: Inward Remittance payment  
+Date: Mon, 02 Mar 2020 18:53:45 +0000 (UTC)
+Message-ID: <20200302105344.962F64BB9999E9A3@scotiabank.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtAwDYMfdp+HHtlVEsr1ts/IModaXKqE8WrF2V
+ 7DBflKdC/zhsyq2JgJuk5evv5G8OaHEAmSVJZdB3+WSNop/14kkGfXQokRy8IkX3NbMNAkvu/U5rsd
+ Ii+B0e6CiwGYDOkHD4bbIMGvWWIi7c0t2RrxwFXw5Kkp8Tdt2hyzfzXCcJAP15E6XUqv9MsYhN6jc0
+ w=
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 37

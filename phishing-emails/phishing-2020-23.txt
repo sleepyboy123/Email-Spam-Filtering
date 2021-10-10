@@ -1,0 +1,40 @@
+From jose@monkey.org Sat Feb  8 23:29:49 2020 +0000
+Return-Path: bounces+7697258-3816-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76468554498.16.nest53_559e3eba6f83f
+X-Spam-Summary: 9,0,0,,d41d8cd98f00b204,bounces+7697258-3816-jose=monkey.org@sendgrid.net,:,RULES_HIT:2539:30001:30009:30019:30022:30029:30038:30054:30055:30067:30069:30070,0,RBL:168.245.116.195:@sendgrid.net:.lbl8.mailshell.net-62.18.0.100 64.10.201.10;168.245.116.195-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:4:0,LFtime:77,LUA_SUMMARY:none
+X-HE-Tag: nest53_559e3eba6f83f
+X-Filterd-Recvd-Size: 63321
+Received: from xvfrtqcp.outbound-mail.sendgrid.net (xvfrtqcp.outbound-mail.sendgrid.net [168.245.116.195])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat,  8 Feb 2020 23:29:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=mime-version:from:to:subject:content-type; s=smtpapi; 
+	bh=a3mKr1kJaDlSCpQycUai0QOPC0Rdf2zsUUJi6r3X8Po=; b=w76ZPp6KNr1V2
+	ulELhHEZUy5ipKxP00UIrp/IkUS5XXj5zorJBHW96e3gDW1J6OtHMi4fXk91jl8L
+	+e4YQJpXbccnPL3cDauXB3/ZpyGjCjGqj7ZwD5WXGVDtY7m/nqqyvJip3TCqyIwV
+	ZeG4NFM1Crrtt2dmD50S1tV6HovEgs=
+Received: by filter2097p1mdw1.sendgrid.net with SMTP id filter2097p1mdw1-12155-5E3F3888-C
+        2020-02-08 22:39:04.254713413 +0000 UTC m=+175748.811733781
+Received: from WIN-OTL74N0S5QP (ec2-54-183-108-236.us-west-1.compute.amazonaws.com [54.183.108.236])
+	by ismtpd0006p1sjc2.sendgrid.net (SG) with ESMTP id wn_oIdeXTXO2b7PJalEPzA
+	for <jose@monkey.org>; Sat, 08 Feb 2020 22:39:04.184 +0000 (UTC)
+MIME-Version: 1.0
+From: "American Express" <zvonimir_f@yahoo.com>
+To: jose@monkey.org
+X-Priority: 1
+Priority: urgent
+Importance: high
+Date: Sat, 08 Feb 2020 22:39:04 +0000 (UTC)
+Subject: Payment On Hold
+Content-Type: multipart/alternative;
+ boundary=--boundary_33161_6454bf2a-ced1-4e51-9716-cd4db6a6dbdb
+Message-ID: <wn_oIdeXTXO2b7PJalEPzA@ismtpd0006p1sjc2.sendgrid.net>
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtDPySkkT9Mop7PMxPX1yLpQoi1rwhpw/nv/34
+ AyirjEbntediUhZTTf1CuPKlC/0HJaNqprD+mD/v37CK3L6IsgNmDzY967jnR+NcTcLjF05o4/4jdT
+ FN21k2ON1DD11M3ZYcj8/1EV3TSpHbOdGN2r0GVXlrqZLvkOtWKOdAUVC7xYZe+kVWhDZ+azmbA+Xv
+ s=
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 22

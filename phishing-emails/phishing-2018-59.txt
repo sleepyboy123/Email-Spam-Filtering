@@ -1,0 +1,32 @@
+From jose@monkey.org Tue Mar 13 08:32:48 2018 +0000
+Return-Path: noreply@wetransfer.com
+Delivered-To: jose@monkey.org
+X-FDA: 73937020416.09.way30_8bf10b408b212
+X-Spam-Summary: 40,2.5,0,b3c6589b3165717d,d41d8cd98f00b204,noreply@wetransfer.com,:,RULES_HIT:1:41:72:355:379:495:800:962:967:973:978:983:988:989:994:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1559:1571:1575:1588:1589:1592:1594:1714:1719:1730:1737:1748:1777:1792:2084:2194:2198:2199:2200:2525:2527:2553:2565:2610:2636:2682:2685:2693:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3867:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:5007:6261:6671:6672:7652:7829:8603:8957:9025:9121:9344:9388:9908:10004:10049:10346:11026:11233:11473:11657:11658:11914:12043:12219:12438:12517:12519:12555:12740:12895:12986:13007:13008:13025:13110:13237:13374:13439:13846:14096:14877:21080:21325:21347:21407:21433:21436:21451:21483:21524:21627:21740:30026:30054:30070:30090,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:ft,MSBL:0,DNSBL:error,Custom_rules:0:0:0,LFtime:2000,L
+X-HE-Tag: way30_8bf10b408b212
+X-Filterd-Recvd-Size: 12675
+Received: from lipari.win-net.it (lipari.win-net.it [195.182.225.171])
+	by imf06.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 13 Mar 2018 08:32:41 +0000 (UTC)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by lipari.win-net.it (Postfix) with ESMTP id 0058E7456EDF
+	for <jose@monkey.org>; Tue, 13 Mar 2018 08:29:56 +0100 (CET)
+X-Virus-Scanned: amavisd-new at win-net.it
+Received: from lipari.win-net.it ([127.0.0.1])
+	by localhost (lipari.win-net.it [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id q3to63neB2eR for <jose@monkey.org>;
+	Tue, 13 Mar 2018 08:29:56 +0100 (CET)
+Received: from [23.227.201.137] (unknown [23.227.201.137])
+	by lipari.win-net.it (Postfix) with ESMTPSA id DF9E9753185E
+	for <jose@monkey.org>; Tue, 13 Mar 2018 08:16:56 +0100 (CET)
+Content-Type: multipart/alternative; boundary="===============0870295985=="
+MIME-Version: 1.0
+Subject: Check Your New File that was sent to jose@monkey.org
+To: jose@monkey.org
+From: "WeTransfer"<noreply@wetransfer.com>
+Date: Tue, 13 Mar 2018 00:16:48 -0700
+Message-Id: <20180313071656.DF9E9753185E@lipari.win-net.it>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 449

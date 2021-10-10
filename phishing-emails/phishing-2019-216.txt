@@ -1,0 +1,27 @@
+From jose@monkey.org Mon Nov 11 03:05:23 2019 +0000
+Return-Path: info@innovcentre.am
+Delivered-To: jose@monkey.org
+X-FDA: 76142505726.05.plane14_4c05625f22121
+X-Spam-Summary: 75,0,0,badb9294f05dafe6,d41d8cd98f00b204,info@innovcentre.am,:,RULES_HIT:2:41:72:355:379:495:800:962:967:969:973:983:988:989:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1535:1561:1571:1575:1588:1589:1592:1594:1606:1685:1710:1714:1730:1776:1792:1803:2198:2199:2525:2527:2560:2563:2682:2685:2693:2859:2890:2895:2896:2899:2909:2911:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3040:3138:3139:3140:3141:3142:3866:3867:3868:3872:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4425:4552:4699:5007:6261:6650:6678:8583:8599:8603:8634:8957:9025:9416:9468:9908:10004:10049:10214:10346:11233:11473:11480:11657:11658:11805:11914:12043:12050:12051:12295:12297:12438:12740:12895:12903:12986:13139:13235:13237:13439:14096:14246:14515:14596:21080:21347:21433:21450:21451:21483:21524:21627:21810:21819:21838:30001:30016:30022:30026:30054:30070:30075,0,RBL:217.113.0.245:@innovcentre.am:.lbl8.mailshell.net-62.2.24.100 66
+X-HE-Tag: plane14_4c05625f22121
+X-Filterd-Recvd-Size: 7712
+Received: from plesk.web.am (plesk.web.am [217.113.0.245])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 11 Nov 2019 03:05:22 +0000 (UTC)
+Received: from plesk.web.am (localhost [127.0.0.1])
+	by plesk.web.am (Postfix) with ESMTP id 2F09F20B538
+	for <jose@monkey.org>; Mon, 11 Nov 2019 07:03:46 +0400 (AMT)
+Received: from IP-132-130.dataclub.eu (unknown [84.38.132.130])
+	by plesk.web.am (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 11 Nov 2019 07:03:45 +0400 (AMT)
+Content-Type: multipart/alternative; boundary="===============0991575906=="
+MIME-Version: 1.0
+Subject: URGENT ACCOUNT REVIEW 
+To: jose@monkey.org
+From: "Email Server"<info@innovcentre.am>
+Date: Mon, 11 Nov 2019 05:03:44 +0200
+Message-Id: <20191111030346.2F09F20B538@plesk.web.am>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 215

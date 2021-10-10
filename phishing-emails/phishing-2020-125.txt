@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Sep 10 05:36:41 2020 +0000
+Return-Path: nursahiera@willgroup.com.my
+Delivered-To: jose@monkey.org
+X-FDA: 77246042202.31.nut54_0703aff270e3
+X-Spam-Summary: 10,1,0,a5bdc0cf4783beee,d41d8cd98f00b204,nursahiera@willgroup.com.my,,RULES_HIT:1:41:46:72:150:153:355:375:379:541:800:962:966:967:973:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1592:1593:1594:1730:1747:1777:1792:2194:2196:2198:2199:2200:2201:2393:2525:2527:2528:2553:2561:2565:2612:2636:2682:2685:2693:2828:2859:2890:2892:2902:2911:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3353:3421:3586:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4361:4385:4425:5007:6117:6119:6261:6300:6650:6669:6671:6678:7782:7809:7903:8511:8583:8599:8603:8814:8957:9025:9080:9108:9388:9468:10004:10044:10049:10346:11473:11657:11658:11914:12043:12114:12295:12297:12438:12555:12740:12895:12955:12986:13007:13139:13439:13546:14096:14664:14877:21067:21080:21347:21433:21450:21451:21483:21524:21554:21627:21789:21795:21810:21819:2
+X-HE-Tag: nut54_0703aff270e3
+X-Filterd-Recvd-Size: 11522
+Received: from mail.willgroup.com.my (mail.willgroup.com.my [103.217.92.165])
+	by imf22.b.hostedemail.com (Postfix) with SMTP
+	for <jose@monkey.org>; Thu, 10 Sep 2020 05:36:40 +0000 (UTC)
+Received: from willgroup.com.my ([188.165.89.79]) by mail.willgroup.com.my (MailNow! 6); Thu, 10 Sep 2020 13:36:38 +0800
+From: monkey.org  <nursahiera@willgroup.com.my>
+To: jose@monkey.org
+Subject: =?utf-8?Q?Mailbox__jose@monkey.org_=E2=9C=89_(1)_Storage_Capacity_!!?=
+Date: 10 Sep 2020 07:35:39 +0200
+Message-ID: <20200910073539.98EAD1860C9589D2@willgroup.com.my>
+MIME-Version: 1.0
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-MN-SPAM-DTL: spam=0, scr=0, ver=
+X-Mailer: MailNow! 6 (www.internetnow.com.my)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 124

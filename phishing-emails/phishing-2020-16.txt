@@ -1,0 +1,35 @@
+From jose@monkey.org Mon Jan 27 16:44:41 2020 +0000
+Return-Path: wetransfer@jisiker.space
+Delivered-To: jose@monkey.org
+X-FDA: 76423987962.41.lock58_45eeda177d95f
+X-Spam-Summary: 84,7,0,a4157e92eff9059b,d41d8cd98f00b204,wetransfer@jisiker.space,:,RULES_HIT:41:72:152:327:355:379:455:495:800:962:967:973:978:983:988:989:1189:1208:1221:1260:1313:1314:1345:1381:1394:1431:1432:1433:1434:1436:1437:1516:1517:1518:1566:1571:1575:1588:1589:1592:1594:1710:1714:1719:1730:1776:1792:2194:2198:2199:2200:2525:2527:2553:2568:2610:2633:2682:2685:2693:2731:2859:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3650:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4181:4321:4603:4903:5007:6119:6261:6650:6653:6671:6678:8583:8603:8829:8957:8985:9025:9121:9149:9416:9908:10004:10183:10214:10346:10954:11026:11233:11473:11657:11658:11914:12043:12297:12438:12555:12663:12698:12737:12740:12895:12903:12963:12986:13007:13110:13139:13237:13374:13846:14096:14141:14254:14509:14554:18000:21080:21220:21325:21326:21347:21366:21433:21436:21451:21483:21524:21554:21611:21627:21790:21810:21819:21838:21939:30001:30002:30003:30004:30005:300
+X-HE-Tag: lock58_45eeda177d95f
+X-Filterd-Recvd-Size: 23111
+Received: from slot0.jisiker.space (slot0.jisiker.space [85.204.116.80])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 27 Jan 2020 16:44:40 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=jisiker.space;
+ h=Content-Type:MIME-Version:Subject:To:From:Date:Message-ID; i=wetransfer@jisiker.space;
+ bh=icQPHScMwKD3DZd/BimPi3QUdWg=;
+ b=Uhn09DOktoPKkuFteRvt12gYzLmKhSFkZUUo/Xz4cGilXsXKq/1GKa4ACZlNcyGnoFPKe6M2NLNJ
+   yuZmCKfzaUxRKNkRWOoQNjqusCq0/LyzGp4dpZHVLeDCQe0eRfQdl9Oi1rqIYcP25M7nNdXaBAzz
+   I0yyOr1KX4M3OfhIU5NQ2xOcGTAYzGcuk76lvIq/q5Ch4OBf2jzGRtTUkqbVEXfYM1FlOgUqwBu4
+   evJqLcf9DnrvinEszMN9anUTLUW1g8Tyb4UCwcTA/trzMA89/gp+zjPWH842N2fyQ3dQ20zls2Rc
+   GPkAyY7l6XHM8LDAR0W2uw/g/8ARZSKnRjFhwg==
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=jisiker.space;
+ b=mdHInanynF7RrrxJ6qBfr964n6uLVIEWzSG3ZCHtDbWYncvnKR/lZlOBjhTF94OgtsHJfuhn2Skn
+   /UAwy9+F86dDZ88mSCX/xYR5VfKjDB/N1MS4/SHBiWMCr1m/SAlfUWCBlNbfe7++ZmXVIxjm1sYF
+   A6tgwjvDjl1sp5ry8JIU6VHjJ62YmPcn3Mos9DG21F8ru6me6vO8D8U30z9W6J22eeUBZMzdwHlb
+   zTYl9d6v1o6YrNNwqpDgGRAtMAhtZvT6gk0jcv3bMD0Bd70T4cglko/ZdiWnEpRKiIseJSiFMLAT
+   3kd8Kgm/Gm4n9+sjAmVDinhUqpCDzC0x6F5QVQ==;
+Content-Type: multipart/alternative; boundary="===============1710505846=="
+MIME-Version: 1.0
+Subject: jose@monkey.org you received files via WeTransfer
+To: jose@monkey.org
+From: "WeTransfer" <wetransfer@jisiker.space>
+Date: Mon, 27 Jan 2020 08:44:38 -0800
+Message-ID: <0.0.E.4EC.1D5D53144377766.0@slot0.jisiker.space>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 15

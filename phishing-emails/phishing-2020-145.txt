@@ -1,0 +1,103 @@
+From jose@monkey.org Mon Nov 23 19:05:42 2020 +0000
+Return-Path: care@amazn-usshipping11.co
+Delivered-To: jose@monkey.org
+X-FDA: 77516612124.57.level94_2103ef427367
+X-Spam-Summary: 10,
+X-HE-Tag: level94_2103ef427367
+X-Filterd-Recvd-Size: 346445
+Received: from IND01-MA1-obe.outbound.protection.outlook.com (mail-eopbgr1380102.outbound.protection.outlook.com [40.107.138.102])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 23 Nov 2020 19:05:38 +0000 (UTC)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=EhRHc9XpFt8IQlia5IUIhW883k3wij6tEwVRwQifiRx/3kKLwjgVbTZ/vtYyIUA2q0qYAUVYTeDME3imD7AheQiXmsRVKgRLdtYL3iGyC61iVyJmnCUXWM4CWPh1wa0jzLNXiRe68Gs70Q9sbgUK0OhWMaPmDpiad3ZjW5gUpVLmJC6kjCewFluXGaJPgVtDdU47Xv9XtrfdE7tEZOSxy7/VJc4cgmL+SY0HSBnlOB7brBHwGGDWoaO+valak38uJnO/GTMAmnfq9/Bx6/guPlHxcOCzbH8qykLo8eAKP2f3WRYwfXIUAJCCZ9fB0vV/l4XgQXBWZccD6EVZ2c0gIA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=L1SzBaLG4adjHbg5q3cWxkLKQqd9gqj/gosUu1/EA8I=;
+ b=TPej7kREBcH3H7N7GGpwYrLg98fcuap7wCmUmTu9mrQ8nEjOl5+ym5Z5hRY4O+CjLHP8yz4XSNfd5+FPNtrS/Z2XReRSUlWjECCDbHHikugeJjP2P8orY9qJkLFW2jH4KTVsqaFCrUmwxZu2ntoLYpkKx6J7yC/rdI/PwXQyed9A4l99r4/F6lKCJ/FAsWV2jJJUsr2olTnBdAlmOAdyjtxUgBjHYX2JJ1VArNtz69Pd5G5bIduiCqxTR0JizgaTWQt2U7AHWdDxVN83ko0QVbNoan5mi7oCE/RafYAcdejV7b4dSqZ6RpqBI8MqGS0O06V2jK1U1OADwbHYE6wy/Q==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=amazn-usshipping11.co; dmarc=pass action=none
+ header.from=amazn-usshipping11.co; dkim=pass header.d=amazn-usshipping11.co;
+ arc=none
+Received: from BM1PR01MB3459.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b00:74::12)
+ by BM1PR01MB2115.INDPRD01.PROD.OUTLOOK.COM (2603:1096:b00:43::16) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3589.22; Mon, 23 Nov
+ 2020 19:05:12 +0000
+Received: from BM1PR01MB3459.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::4049:3f65:9557:c7f4]) by BM1PR01MB3459.INDPRD01.PROD.OUTLOOK.COM
+ ([fe80::4049:3f65:9557:c7f4%7]) with mapi id 15.20.3589.030; Mon, 23 Nov 2020
+ 19:05:12 +0000
+From: Order Shipments <care@amazn-usshipping11.co>
+To: "jose@monkey.org" <jose@monkey.org>
+Subject: Shipment details for your order of Sony X800H LED TV with Order ID#
+ 2311-008-5512482469582 ...
+Thread-Topic: Shipment details for your order of Sony X800H LED TV with Order
+ ID# 2311-008-5512482469582 ...
+Thread-Index: AQHWwcrRv2M0D0Q5Lk2vBJr2f9gq3g==
+Date: Mon, 23 Nov 2020 18:59:50 +0000
+Message-ID: <fad41e6f-773f-132e-7c55-38b474b49f02@amazn-usshipping11.co>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-TNEF-Correlator:
+authentication-results: monkey.org; dkim=none (message not signed)
+ header.d=none;monkey.org; dmarc=none action=none
+ header.from=amazn-usshipping11.co;
+x-originating-ip: [18.218.105.123]
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 1458621c-68be-4852-f51b-08d88fe2b494
+x-ms-traffictypediagnostic: BM1PR01MB2115:
+x-microsoft-antispam-prvs:
+ <BM1PR01MB21155BB825206E16C84455968DFC0@BM1PR01MB2115.INDPRD01.PROD.OUTLOOK.COM>
+x-ms-oob-tlc-oobclassifiers: OLM:8882;
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 6H0CaIn4wKkodaNTaBZmkRcFHXTcHxWaeA8z++JcQmrfJ4bTmFVO3/BI9sGThKFI8FYx9aOAOdyh3pHwrFHFYgtNBBTsdv+0Uqm4t/FVUXCmJ8mK/aUkT/LK5z9HdAcQynkWQHpJocjt7zJdvG919RUWP6MhuacPD+pnulXJchrDQMxtrgYfk+SpUL8VwXNuehEUlhH/88mg3VSvBZ43rJW/5umt1uolHtIVWzpLR1GJf1z6cRPAh4m7kWvst8+kI1OfayYhmeceMAmkXkWf7a2DSVOpzUwgGSy9FU07z2wCNfXYeP5mYkjIyHH1R5i5FRL3tSYSyEFLO+aSAdNrCXF09FyvQIkHn0K93j1vV8ij8D8evu11Yw5q4ba1kYUU
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BM1PR01MB3459.INDPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(396003)(39850400004)(136003)(366004)(376002)(34096005)(346002)(186003)(71200400001)(66446008)(76116006)(66946007)(5660300002)(83380400001)(31686004)(8936002)(66616009)(86362001)(91956017)(36756003)(66556008)(66476007)(64756008)(26005)(2906002)(6486002)(6666004)(99936003)(316002)(6512007)(6506007)(6916009)(31696002)(8676002)(478600001)(2616005)(559001)(569008);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata:
+ =?utf-8?B?b05ZbEFwMmlYZkFKWGlJZUhVYURFa3plRDRWMkwrcmFmTnpUMXBpNWh2Y2Jw?=
+ =?utf-8?B?bGVubjFvUTJtWVhSKzcxeS9iY2xFajUydzlNYmxhTUJBaWxmWC9CVHdickRK?=
+ =?utf-8?B?c3p3bTk5ZDNqV0ROM0U2NlQ0QjNpbkN2ak55cklPNGx4cWYwUTJjK05MSFV1?=
+ =?utf-8?B?SGhLaDJieGFzbVlnTVFwWm1FTTZiaXFsVzF1SjBrNGwrNkErRWJoUHlSQzIw?=
+ =?utf-8?B?UHUzTkhtK2lid0VhYUU0dHZOa0dCQm1JQTVtR3kzYnFPOTA0QVk2NDhiaXJn?=
+ =?utf-8?B?YUtveVJBVDVldFZXcFNkdzZxWFIxeWZqbHY2NDVKQXZlcGdNWmlreEk1YVpy?=
+ =?utf-8?B?byt0VS9QK2tFMVhwbWhLQzlGeGhQRE5aOVROMGVSY3ZFYytiSy9VeEtjN1lD?=
+ =?utf-8?B?QmJUMkt0aGxKZ0VYMS94THIyNmZ0aWtlMjFSTUl0RjdMd09USllHbzJTaW53?=
+ =?utf-8?B?b01jSTJ5QVB4Qjl0UkxxQVloK016VEI3bUwvY3F2eXNaUjZwdmMzU0ZROW9W?=
+ =?utf-8?B?c0FGSXBWUkU5OERDSXU2VHppYmc4bFJwN0F6UVNxVnJteEUrYkE4MTRVeDAw?=
+ =?utf-8?B?SUZTMEZRSHZNMkJ3Yi9xVlJIYWFwSm81aEsyeWo2eFVPeStsS1cxQXBGemta?=
+ =?utf-8?B?dmFubXdkWGw3a21ONzZnVVpTdGxuTHB2Tk91SnRpT0kwcWJlaUZSTVc2Q3pz?=
+ =?utf-8?B?Zk9PSkxBQkIzS2Q3TEpISXZlRllNeThpU3JCUVJzdmIvb1hZS0k3Ly84czIv?=
+ =?utf-8?B?c0xiYjFqenMvK0IzOTFhVXpJb0NtYjZMK1dIWFBMQW5zeFYxOVF5RHM1TWoz?=
+ =?utf-8?B?UXJKOXd6QTN0MCtENnNiNkhMdm44SUdHcUNGWHA4Y2piZDBQcXpZM00zeUJq?=
+ =?utf-8?B?YmhsOUxYZmwyNG5uODlKRnN6UzcySUVGSFJjLzdyK1prSFpQSTZGekNNZU1p?=
+ =?utf-8?B?QUZ0MW9JT3o0b1NuMkFGWkFXV2pmZjBpT3dtd1IxV1JHREdsdlQyeFhJNjdC?=
+ =?utf-8?B?QklCL24vdVYwZlBUUjErUFJoWG5vWUhQODIzQ0JhOFZmKzBpQmk2N09BSHBC?=
+ =?utf-8?B?Z01nZXA2Ynl2S1c3aDUxbzY0VWVUSUdmS0pqanoxYmFrbmJTWkFhMDlrbTYx?=
+ =?utf-8?B?QzIxM2ZqdFhVVE9EU1JydEozZHR4R1g1NVhOYjQydVlDNE1mQUEzTU9oVHdS?=
+ =?utf-8?B?a2FmaDZxLzFkdm1MTkwvK2NhdkNKWG0rT1Q0TnFRNnZiZTk3VUY5Qmh5Wks0?=
+ =?utf-8?B?aUNrOGljZnBud1hSMHlXdHp3bnFwZkNFWFgvbkZ4eTMvLzhJNlhBMmREQXJt?=
+ =?utf-8?Q?8oPyYhlxuiUK0=3D?=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/related;
+	boundary="_004_fad41e6f773f132e7c5538b474b49f02amaznusshipping11co_";
+	type="multipart/alternative"
+MIME-Version: 1.0
+X-OriginatorOrg: amazn-usshipping11.co
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BM1PR01MB3459.INDPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1458621c-68be-4852-f51b-08d88fe2b494
+X-MS-Exchange-CrossTenant-originalarrivaltime: 23 Nov 2020 18:59:50.1729
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 83e3e701-8ebb-494e-b4bc-8c11b9d898a4
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: ennIiIcfAn+XeyX72hWdRTiz9OEt8YP34UjXCvtCHBjhzebHPknyTXJ84lK/vn8qqRr3dsjKjOfJjOJ2bWj06yMsxIlCMTt18RA1YcmDUd4=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BM1PR01MB2115
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 144

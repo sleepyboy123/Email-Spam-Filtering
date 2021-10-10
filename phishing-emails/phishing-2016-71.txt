@@ -1,0 +1,25 @@
+From jose@monkey.org Sat Feb 13 14:02:36 2016 +0000
+Return-Path: usaa.customers.support@mailcenter.com
+Delivered-To: jose@monkey.org
+X-FDA: 71183592312.05.air36_1618f40447f10
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,d41d8cd98f00b204,d41d8cd98f00b204,usaa.customers.support@mailcenter.com,:,RULES_HIT:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2084:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:4699:5007:6114:6261:6264:6506:6642:6747:6748:7281:7398:10004:10231:11604:11914:12340:12836:13110:14515:14659:14687:21080:30001:30054:30055:30070,0,RBL:200.160.151.84:@mailcenter.com:.lbl8.mailshell.net-62.8.4.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:69,LUA_SUMMARY:none
+X-HE-Tag: air36_1618f40447f10
+X-Filterd-Recvd-Size: 157599
+Received: from mailcenter.com (mail.tecnodrill.com [200.160.151.84])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sat, 13 Feb 2016 14:02:31 +0000 (UTC)
+From: "USAA" <usaa.customers.support@mailcenter.com>
+To: jose@monkey.org
+Subject: USAA CHECKING ACCOUNT SECURITY PREFERENCE UPDATE STATEMENT
+Date: 13 Feb 2016 12:10:37 -0200
+Message-ID: <20160213121036.F54E011F5F17209B@mailcenter.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_A320EF92.576ACD57"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 70

@@ -1,0 +1,22 @@
+From jose@monkey.org Tue May 17 22:43:02 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71526010962.08.pen06_8eb4738f1131d
+X-Spam-Summary: 73,5,0,d41d8cd98f00b204,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6616:6642:6747:6748:7281:7398:10004:11604:11914:12340:12836:13110:14516:14659:21080:21251,0,RBL:177.53.116.24:@approject.com:.lbl8.mailshell.net-62.8.255.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:93,LUA_SUMMARY:none
+X-HE-Tag: pen06_8eb4738f1131d
+X-Filterd-Recvd-Size: 176956
+Received: from approject.com (177-53-116-24.estreitonet.com.br [177.53.116.24])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 17 May 2016 22:43:00 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Online Payment Verification
+Date: 17 May 2016 19:42:46 -0300
+Message-ID: <20160517194246.3529B6475AF4621E@approject.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_8F49EA66.5CE08B6A"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 220

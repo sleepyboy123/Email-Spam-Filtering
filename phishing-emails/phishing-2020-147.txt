@@ -1,0 +1,51 @@
+From jose@monkey.org Fri Nov 20 01:37:19 2020 +0000
+Return-Path: info@standardbank.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 77503083798.32.4DF3BF4
+Received: from lx2018a.hostrs.com (lx2018a.hostrs.com [195.201.165.59])
+	by imf13.b.hostedemail.com (Postfix) with ESMTP id 4FF82180313DF
+	for <jose@monkey.org>; Fri, 20 Nov 2020 01:35:27 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/relaxed;
+	d=knowyourcountry.in; s=default; h=Date:From:To:Subject:MIME-Version:
+	Content-Type:Sender:Reply-To:Message-ID:Cc:Content-Transfer-Encoding:
+	Content-ID:Content-Description:Resent-Date:Resent-From:Resent-Sender:
+	Resent-To:Resent-Cc:Resent-Message-ID:In-Reply-To:References:List-Id:
+	List-Help:List-Unsubscribe:List-Subscribe:List-Post:List-Owner:List-Archive;
+	 bh=kyUgfHXHKGsaXfco8VVYFeT82gMpWCp84Bm1901w4NM=; b=Ir+JABshq4s+qy2bjMUMvpmUT
+	bePCp2jM7J/F4fRvtapXKo7rEkmQwEBLkLqZY6NZjw3fWcI0G/BK+Bh450n/fo7y4kd1Hbn8bcMed
+	D1IGudmZUh6Fj64E4uQ/lDxHRxs6i0f754g0VHxAQk2SJc5U2xLfeworjUT+Oo9GO/FhE11pGvHst
+	1urK4fqfVDsbwv1F57c0wyrmK86YaS3xiqTBl1Shf6Wch0BnSaA2I0VSV99laE0YF2DN3r/LaaCtH
+	j4DvcmTTeCmf5G8R6Iu1W+P+GURc96oLKoEhFHewjUm6nMPIVNZjLk6dfbC4/SXw411dQDY+kAj5c
+	5DDZO43HA==;
+Received: from ec2-34-219-42-140.us-west-2.compute.amazonaws.com ([34.219.42.140]:54933 helo=EC2AMAZ-0O4TDV5.us-west-2.compute.internal)
+	by lx2018a.hostrs.com with esmtpa (Exim 4.93)
+	(envelope-from <info@standardbank.co.za>)
+	id 1kfvKd-00FHeI-N5; Fri, 20 Nov 2020 07:05:23 +0530
+Content-Type: multipart/alternative; boundary="===============0004450063=="
+MIME-Version: 1.0
+Subject: SBSA IT3(b) Certificate Updated
+To: Recipients <info@standardbank.co.za>
+From: "Standard Bank" <info@standardbank.co.za>
+Date: Fri, 20 Nov 2020 01:35:15 +0000
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - lx2018a.hostrs.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - standardbank.co.za
+X-Get-Message-Sender-Via: lx2018a.hostrs.com: authenticated_id: info@knowyourcountry.in
+X-Authenticated-Sender: lx2018a.hostrs.com: info@knowyourcountry.in
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Status: No, score=15.38
+X-Stat-Signature: c8h4q7habgcw3em5fa9s47uk7jcgbtm5
+X-Rspamd-Queue-Id: 4FF82180313DF
+X-Rspamd-Server: rspam02
+Received-SPF: none (standardbank.co.za>: No applicable sender policy available) receiver=imf13.b.tucows.com; identity=mailfrom; envelope-from="<info@standardbank.co.za>"; helo=lx2018a.hostrs.com; client-ip=195.201.165.59
+X-Spam-Summary: 50,0,0,463e40277da4dfe5,d41d8cd98f00b204,info@standardbank.co.za,jose@monkey.org,RULES_HIT:2:41:72:152:327:379:455:474:800:871:962:966:967:973:978:979:981:983:988:989:1189:1208:1221:1254:1260:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1552:1555:1571:1573:1575:1588:1589:1592:1594:1606:1685:1730:1776:1792:2194:2196:2198:2199:2200:2201:2525:2527:2538:2539:2549:2553:2560:2566:2682:2685:2693:2859:2890:2891:2892:2895:2910:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3040:3138:3139:3140:3141:3142:3148:3167:3353:3554:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4093:4180:4181:4383:4385:4395:4505:4512:4514:4516:6354:6650:6653:6678:6687:7210:7281:7398:7809:7841:7903:8516:8518:8603:8885:8957:9025:9059:9080:9149:9199:9411:9908:10004:10346:10849:11233:11473:11658:12043:12050:12217:12219:12297:12306:12324:12555:12561:12679:12895:12903:12986:13161:13229:13236:13237:13374:13972:14096:14149:145
+ 96:14877:21080:21347:21433:21450:21451:21483:21524:21627:21772:21789:21790:21810:21819:21838:21939:21972:21990:22119:30001:30003:30022:30026:30034:30039:30054:30055:30058:30064:30067:30069:30070:30074:30075:30083:30090:30091,0,RBL:34.219.42.140:@standardbank.co.za:jose@monkey.org.lbl8.mailshell.net-64.201.201.201 62.22.0.100;04yrk6ndjm3tqgspzxe3ompkp5n95orwt7c5z43sf4qhwxr4oc4dyz8hefjp18b.7wb1kmdmst8a9gkph6qbwdne5arf7mjqg6yifrwx8pa5xzaargqgmrr63zb51u1.66nuqakryfiyjg8uww9uobxxd34mbwjij6drz7eba3gam9yaxuft5oao-lbl8.mailshell.net-223.238.255.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fe,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:25,LUA_SUMMARY:none
+X-HE-Tag: 1605836127-415266
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 146

@@ -1,0 +1,42 @@
+From jose@monkey.org Mon Oct 24 14:24:50 2016 +0000
+Return-Path: do-not-reply@ucsd.edu
+Delivered-To: jose@monkey.org
+X-FDA: 72105363540.14.spark95_d0b1ce10425b
+X-Spam-Summary: 2,0,0,0cfca9ea1f33f65c,d41d8cd98f00b204,do-not-reply@ucsd.edu,:do-not-reply@ucsd.edu,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1313:1314:1345:1381:1436:1516:1517:1518:1522:1540:1575:1588:1589:1592:1594:1692:1711:1730:1748:1764:1766:1792:2198:2199:2393:2527:2559:2562:3138:3139:3140:3141:3142:3623:3876:3877:4321:4384:5007:6114:6261:6264:6642:6653:6748:7281:7398:8603:9468:10004:10400:10482:11473:11604:11658:11914:12043:12340:12438:12555:12740:12986:13110:13139:13439:14096:14721:19901:19997:21080:21212:21433:21451:21483:21524:30001:30026:30054:30055,0,RBL:132.239.0.13:@ucsd.edu:.lbl8.mailshell.net-62.48.0.100 64.201.201.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:78,LUA_SUMMARY:none
+X-HE-Tag: spark95_d0b1ce10425b
+X-Filterd-Recvd-Size: 126649
+Received: from iport-acv6-out.ucsd.edu (iport-acv6-out.ucsd.edu [132.239.0.13])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 24 Oct 2016 14:24:49 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=ucsd.edu; i=@ucsd.edu; q=dns/txt; s=041709-iport;
+  t=1477319090; x=1508855090;
+  h=mime-version:subject:to:from:date:message-id;
+  bh=RmpH5+pLDfwRLhwpYvd9aCFsoYS7uPdxlIdKCQdfugA=;
+  b=RXkHsKAJlKnqUyUQmKuTLnlVECeUNMlxNXsfkJe8WzphvZmu+SWpgK38
+   Oi+yC0UQxQ7H4sDCwi/Ey2bd54Bjo2Ud9QIdt1L2SKj3oG/QrrGaTEzdv
+   RN2Kt2S5c8vYQuODWO2D8UqJwhEpnrXAw5kS19DSZNJA2C0jNowAJ9tzQ
+   g=;
+Message-Id: <fb5d5f$5cm1je@iport-acv6-out.ucsd.edu>
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: A2ATBQBqGA5Y/x0A74RcDoMWNgEBAQEBgWIBuH6CBwEWF4YPgUhBEgMBAQEBAQEBYiiEejRSASkbGAU+iGWjJAKBZ5k9AQaDUJAmglSCTAWGTwGIcYo/FAEZghaBEYF5mltjkCQlAyyBDIMncluJEwECAw
+X-IPAS-Result: A2ATBQBqGA5Y/x0A74RcDoMWNgEBAQEBgWIBuH6CBwEWF4YPgUhBEgMBAQEBAQEBYiiEejRSASkbGAU+iGWjJAKBZ5k9AQaDUJAmglSCTAWGTwGIcYo/FAEZghaBEYF5mltjkCQlAyyBDIMncluJEwECAw
+X-IronPort-AV: E=Sophos;i="5.31,542,1473145200"; 
+   d="pdf'?scan'208,217";a="181081122"
+X-Spam-Status: No
+X-Spam-Level: 
+Received: from act-bufferout-a2.ucsd.edu ([132.239.0.29])
+  by iport-acv6-out.ucsd.edu with ESMTP/TLS/DHE-RSA-AES256-SHA; 24 Oct 2016 07:23:13 -0700
+Received: from UNEXLABG-021415.unexlab.ext.ucsd.edu (ext-0394.ucsd.edu [137.110.197.17])
+	by act-bufferout-a2.ucsd.edu (Postfix) with ESMTP id E1FA210A18C;
+	Mon, 24 Oct 2016 07:22:35 -0700 (PDT)
+Content-Type: multipart/mixed; boundary="===============1523429074=="
+MIME-Version: 1.0
+Subject: Account Details Mismatch
+To: YOU <do-not-reply@ucsd.edu>
+From: "USAA" <do-not-reply@ucsd.edu>
+Date: Mon, 24 Oct 2016 07:22:35 -0700
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 402

@@ -1,0 +1,40 @@
+From podlogifracz@podlogifracz.nazwa.pl  Mon Sep 14 09:39:48 2015
+Return-Path: <podlogifracz@podlogifracz.nazwa.pl>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 9E173F4106
+	for <jose@login.monkey.org>; Mon, 14 Sep 2015 09:39:48 -0500 (CDT)
+Received: from smtpin02.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay03.b.hostedemail.com (Postfix) with SMTP id 3C0AF1845FB
+	for <jose@login.monkey.org>; Mon, 14 Sep 2015 14:39:48 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70632108456.02.glove44_5583dfa62dd44
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 77,5.5,0,78b6038e810ee06e,d41d8cd98f00b204,podlogifracz@podlogifracz.nazwa.pl,:,RULES_HIT:41:46:72:150:153:355:375:379:479:543:962:967:969:973:983:988:989:1189:1208:1216:1224:1260:1263:1311:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1513:1515:1516:1517:1521:1534:1543:1545:1567:1570:1588:1589:1592:1593:1594:1676:1711:1712:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2543:2567:2610:2682:2685:2693:2741:2859:2890:2892:2894:2895:2900:2902:2924:2925:2926:2931:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3865:3866:3867:3870:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:3976:3995:4042:4321:4401:4605:5007:6261:6669:6674:6678:6688:7688:7801:8603:8784:8932:8957:9025:9060:9080:9388:9908:10011:10185:10346:11529:11641:11658:11914:11984:12043:12114:12438:12555:12679:12956:12958:12960:13038:13046:13095:13139:13374:13548:14037:14094:14158:21080:21212,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,Dom
+X-HE-Tag: glove44_5583dfa62dd44
+X-Filterd-Recvd-Size: 4216
+Received: from aal154.rev.netart.pl (aal154.rev.netart.pl [77.55.11.154])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 14 Sep 2015 14:39:47 +0000 (UTC)
+Received: from podlogifracz.nazwa.pl (unknown [85.128.142.26])
+	by podlogifracz.nazwa.pl (Postfix) with ESMTP id A99CB38A58F
+	for <jose@monkey.org>; Mon, 14 Sep 2015 16:39:46 +0200 (CEST)
+Date: Mon, 14 Sep 2015 16:39:46 +0200
+To: jose@monkey.org
+From: =?UTF-8?Q?Wells_Fargo_Online_Banking?= <alerts@notify.wellsfargo.com>
+Subject: =?UTF-8?Q?Messages_=26_Alerts=3a_=31_new_message?=
+Message-ID: <f1811c81f3c26ee8535a5586d966ee60@www.podlogifraczak.pl>
+X-Priority: 3
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+X-HTTP-Posting-URI: http://www.podlogifraczak.pl:80/img/maszyny/gallery/min/chiko.php
+X-HTTP-Client: 120.140.74.71
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 173

@@ -1,0 +1,25 @@
+From jose@monkey.org Thu Apr 21 14:23:15 2016 +0000
+Return-Path: capitalonehelp@inet.com
+Delivered-To: jose@monkey.org
+X-FDA: 71430402750.25.chalk88_5638265c92d11
+X-Spam-Summary: 50,0,0,5909fc06817eaf3c,d41d8cd98f00b204,capitalonehelp@inet.com,:capitalonehelp@inet.com,RULES_HIT:41:327:355:379:581:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6264:6642:6687:6748:7281:7398:10004:10400:11604:11658:11914:12043:12340:12561:13439:14516:14721:21080:30001:30026:30054:30055,0,RBL:216.196.235.142-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:14,LUA_SUMMARY:none
+X-HE-Tag: chalk88_5638265c92d11
+X-Filterd-Recvd-Size: 33356
+Received: from CRC-AC.camargo.local (142.235.196.216.DED-DSL.fuse.net [216.196.235.142])
+	by imf09.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 21 Apr 2016 14:23:12 +0000 (UTC)
+Received: from CRC-AC.camargo.local ([127.0.0.1]) by CRC-AC.camargo.local with Microsoft SMTPSVC(7.5.7601.17514);
+	 Thu, 21 Apr 2016 10:04:36 -0400
+Content-Type: multipart/mixed; boundary="===============0804963008=="
+MIME-Version: 1.0
+Subject: Pending E-Payment on Your Capital One Account
+To: Recipients <capitalonehelp@inet.com>
+From: "Capital One" <capitalonehelp@inet.com>
+Date: Thu, 21 Apr 2016 10:04:36 -0400
+Return-Path: capitalonehelp@inet.com
+Message-ID: <CRC-ACOjIL2jpWkfb8100001f80@CRC-AC.camargo.local>
+X-OriginalArrivalTime: 21 Apr 2016 14:04:36.0584 (UTC) FILETIME=[BCF38E80:01D19BD6]
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 182

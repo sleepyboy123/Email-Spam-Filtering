@@ -1,0 +1,36 @@
+From jose@monkey.org Sun Dec  4 15:57:31 2016 +0000
+Return-Path: prvs=1399117a2=soumeya.dalaa@ocmw.antwerpen.be
+Delivered-To: jose@monkey.org
+X-FDA: 72254377902.05.waves20_7678de609051
+X-Spam-Summary: 44,2.7,0,5e23cb69d03ab040,d41d8cd98f00b204,prvs=1399117a2=soumeya.dalaa@ocmw.antwerpen.be,:soumeya.dalaa@ocmw.antwerpen.be,RULES_HIT:2:10:41:72:355:379:582:599:960:962:966:967:973:978:983:988:989:1152:1158:1189:1208:1221:1260:1263:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1535:1568:1575:1588:1589:1592:1594:1606:1714:1719:1730:1776:1792:2194:2196:2199:2200:2525:2527:2528:2538:2540:2559:2566:2682:2685:2859:2895:2901:2902:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3836:3865:3866:3867:3868:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4119:4385:5007:6117:6261:6650:6703:7688:8513:8518:8583:8599:8603:8957:9025:9040:9908:10004:10346:11209:11232:11473:11537:11656:11657:11658:11788:11914:12043:12295:12438:12519:12555:12657:12661:13025:13139:13237:13439:14094:14659:21080:21347:21433:21436:21451:21524:30022:30026:30051:30054:30067:30070:30091,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:n
+X-HE-Tag: waves20_7678de609051
+X-Filterd-Recvd-Size: 8806
+Received: from mailGW1.antwerpen.be (mailgw1.antwerpen.be [212.123.0.106])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  4 Dec 2016 15:57:30 +0000 (UTC)
+Received: from unknown (HELO RMS500.rte.antwerpen.local) ([172.20.4.68])
+  by mailGW1.antwerpen.be with ESMTP; 04 Dec 2016 16:57:29 +0100
+Received: from RMS402.rte.antwerpen.local ([169.254.8.55]) by
+ RMS500.rte.antwerpen.local ([169.254.4.250]) with mapi id 14.03.0301.000;
+ Sun, 4 Dec 2016 16:57:28 +0100
+From: Soumeya Dalaa <soumeya.dalaa@OCMW.Antwerpen.be>
+To: Soumeya Dalaa <soumeya.dalaa@OCMW.Antwerpen.be>
+Subject: RE: ITS help desk
+Thread-Topic: ITS help desk
+Thread-Index: AdJOOcEUHHR9Z9vAQCCQ4+BE9nSzVwADCuOJ
+Date: Sun, 4 Dec 2016 15:57:27 +0000
+Message-ID: <4B80BEC8BFBDF54C8863AF58B2474D0CE6A55CFE@RMS402.rte.antwerpen.local>
+References: <4B80BEC8BFBDF54C8863AF58B2474D0CE69FCE6F@RMS402.rte.antwerpen.local>
+In-Reply-To: <4B80BEC8BFBDF54C8863AF58B2474D0CE69FCE6F@RMS402.rte.antwerpen.local>
+Accept-Language: nl-NL, nl-BE, en-US
+Content-Language: nl-NL
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [172.20.4.71]
+Content-Type: multipart/alternative;
+	boundary="_000_4B80BEC8BFBDF54C8863AF58B2474D0CE6A55CFERMS402rteantwer_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 449

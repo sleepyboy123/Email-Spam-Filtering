@@ -1,0 +1,31 @@
+From jose@monkey.org Mon Nov  4 05:32:41 2019 +0000
+Return-Path: dhl-express.export@dhl.com
+Delivered-To: jose@monkey.org
+X-FDA: 76117475322.27.yard94_519c326c7e841
+X-Spam-Summary: 70,2.5,0,d86c8c15f81de0ce,d41d8cd98f00b204,dhl-express.export@dhl.com,:store@dhl.com,RULES_HIT:1:2:41:69:72:152:196:355:379:455:962:967:973:983:988:989:1077:1189:1208:1221:1260:1261:1263:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1518:1545:1550:1555:1571:1575:1589:1594:1622:1685:1730:1775:1792:2069:2070:2196:2198:2199:2200:2525:2538:2539:2553:2568:2612:2682:2685:2693:2734:2737:2859:2891:2892:2901:2903:2908:2910:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3865:3866:3867:3868:3870:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4051:4250:4321:4362:4886:5007:6117:6119:6120:6261:6650:6669:6688:7264:7464:7602:7809:7875:7903:8516:8596:8599:8603:8660:8784:8884:8885:8957:8985:9025:9388:9908:9972:9973:9979:10009:10030:10049:10079:10346:10394:11026:11253:11473:11657:11658:11805:11854:11914:12043:12438:12555:12776:12903:12986:13130:13139:13141:13148:13161:13163:13229:13230:13231:13236:13237:13374:14096:14
+X-HE-Tag: yard94_519c326c7e841
+X-Filterd-Recvd-Size: 12015
+Received: from tipsa-mail.c.mad.interhost.com (mail.tip-sa.com [213.134.40.72])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  4 Nov 2019 05:32:40 +0000 (UTC)
+Received: from mail.tip-sa.com (localhost [127.0.0.1])
+	by tipsa-mail.c.mad.interhost.com (Postfix) with ESMTP id E631260B2D;
+	Mon,  4 Nov 2019 05:22:06 +0100 (CET)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_68935e7c9981d19668f9c2a9341060f9"
+Date: Mon, 04 Nov 2019 05:22:06 +0100
+From: DHL EXPRESS <DHL-Express.Export@dhl.com>
+To: me <store@dhl.com>
+Subject: DHL On Demand Delivery
+Reply-To: DHL EXPRESS <civettinisrl03@gmail.com>
+Mail-Reply-To: DHL EXPRESS <civettinisrl03@gmail.com>
+Message-ID: <f9e2dca4ad2cc1fb7d539ec6663152d6@mail.tip-sa.com>
+X-Sender: DHL-Express.Export@dhl.com
+User-Agent: Roundcube Webmail/0.9.2
+X-Virus-Scanned: clamav-milter 0.100.2 at tipsa-mail
+X-Virus-Status: Clean
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 214

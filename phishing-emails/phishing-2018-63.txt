@@ -1,0 +1,38 @@
+From jose@monkey.org Mon Mar 19 14:15:53 2018 +0000
+Return-Path: adam.rowicki@wum.edu.pl
+Delivered-To: jose@monkey.org
+X-FDA: 73959657786.21.coat03_8a9f70d9f7e02
+X-Spam-Summary: 50,0,0,4f1aa67750c29d70,d41d8cd98f00b204,adam.rowicki@wum.edu.pl,:adam.rowicki@wum.edu.pl,RULES_HIT:1:2:10:41:72:334:355:368:369:379:582:960:962:967:973:978:983:988:989:1152:1158:1189:1208:1221:1260:1261:1313:1314:1345:1359:1381:1431:1436:1437:1516:1517:1518:1568:1575:1588:1589:1592:1594:1714:1730:1777:1792:1801:2194:2199:2525:2527:2561:2564:2682:2685:2741:2859:2892:2895:2900:2901:2924:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3586:3865:3867:3868:3871:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4052:4250:4321:4605:4699:5007:6117:6261:6650:6659:6678:6703:8583:8603:8777:8957:9025:9080:10004:10215:10346:11656:11657:11658:11788:11914:12043:12438:12555:12657:12661:12903:12986:13019:13139:13237:14096:14659:21080:21325:21433:21451:21605:21611:21627:30021:30028:30034:30054:30069:30070:30075:30080:30091,0,RBL:212.87.25.26:@wum.edu.pl:.lbl8.mailshell.net-62.2.14.100 64.100.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,Domain
+X-HE-Tag: coat03_8a9f70d9f7e02
+X-Filterd-Recvd-Size: 12163
+Received: from mx01.wum.edu.pl (mx01.wum.edu.pl [212.87.25.26])
+	by imf25.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 19 Mar 2018 14:15:52 +0000 (UTC)
+Received: from localhost (unknown [127.0.0.1])
+	by mx01.wum.edu.pl (Postfix) with ESMTP id DB67710504FF4;
+	Mon, 19 Mar 2018 14:15:50 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at wum.edu.pl
+Received: from mx01.wum.edu.pl ([127.0.0.1])
+	by localhost (mx01.wum.edu.pl [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id fVUyvbeeAWfW; Mon, 19 Mar 2018 15:15:48 +0100 (CET)
+From: Adam Rowicki <adam.rowicki@wum.edu.pl>
+To: Adam Rowicki <adam.rowicki@wum.edu.pl>
+Subject: ODP: SERVICE HELP DESK
+Thread-Topic: SERVICE HELP DESK
+Thread-Index: AdO/imfRkzgL6UpMRCCHjZpXVIaxwwAAjhvW
+Date: Mon, 19 Mar 2018 14:15:46 +0000
+Message-ID: <0EB85A93AA23CA4596A336286AB8D9BA01017A1A@BA-RE-EX03.am.edu.pl>
+References: <0EB85A93AA23CA4596A336286AB8D9BA0101665A@BA-RE-EX03.am.edu.pl>
+In-Reply-To: <0EB85A93AA23CA4596A336286AB8D9BA0101665A@BA-RE-EX03.am.edu.pl>
+Accept-Language: pl-PL, en-US
+Content-Language: pl-PL
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [105.112.96.22]
+Content-Type: multipart/alternative;
+	boundary="_000_0EB85A93AA23CA4596A336286AB8D9BA01017A1ABAREEX03amedupl_"
+MIME-Version: 1.0
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 453

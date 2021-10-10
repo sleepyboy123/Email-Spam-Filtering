@@ -1,0 +1,27 @@
+From jose@monkey.org Wed Jan 29 22:38:11 2020 +0000
+Return-Path: service16@edm13.zijiankjsjvhanvbz.xyz
+Delivered-To: jose@monkey.org
+X-FDA: 76432136382.39.bear44_47627bc8f8414
+X-Spam-Summary: 50,3,0,b772735b61f4fcc9,d41d8cd98f00b204,service16@edm13.zijiankjsjvhanvbz.xyz,:,RULES_HIT:1:2:41:46:72:355:379:455:541:543:800:962:967:973:983:988:989:1147:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1432:1433:1434:1436:1516:1517:1518:1545:1567:1571:1575:1588:1589:1592:1594:1685:1714:1730:1748:1767:1778:1792:1801:2198:2199:2525:2527:2551:2553:2559:2562:2610:2682:2685:2827:2859:2933:2937:2939:2942:2945:2947:2951:2954:2975:2976:3000:3022:3138:3139:3140:3141:3142:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4180:4181:4321:4605:5007:6114:6121:6261:6642:6650:6669:6674:6678:6703:8511:8516:8518:8583:8603:9025:9080:9121:9388:10004:10049:10346:11026:11233:11638:11639:11656:11658:11783:11889:11914:12043:12050:12114:12297:12398:12438:12532:12555:12600:12679:12740:12895:12963:12986:13139:13236:13237:13255:13274:13374:13991:14096:14158:14829:21080:21325:21433:21451:21524:21554:21627:21810:21819:21939:30054:30064:30090:30091,0,RBL:23.247.15.118:@edm13.zij
+X-HE-Tag: bear44_47627bc8f8414
+X-Filterd-Recvd-Size: 11588
+Received: from edm3.zijiankjsjvhanvbz.xyz (unknown [23.247.15.118])
+	by imf02.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 29 Jan 2020 22:38:10 +0000 (UTC)
+Received: by edm13.zijiankjsjvhanvbz.xyz id h6bsoc0e97co for <jose@monkey.org>; Thu, 30 Jan 2020 07:43:01 -0800 (envelope-from <service16@edm13.zijiankjsjvhanvbz.xyz>)
+Sender:account-update@amazon.co.jp
+From: Amazon.co.jp <account-update@amazon.co.jp>
+Message-ID: <352BC0BE5F97AAF82CF87E730471ECB5@ekx>
+To: jose <jose@monkey.org>
+Subject: =?shift_jis?B?QW1hem9ug0GDSoNFg5ODZ4/ulfGC8I1YkFaCxYKrgtyCuQ==?=
+	=?shift_jis?B?gvFKYW5XZWQyMg==?=
+Date: Wed, 29 Jan 2020 22:38:01 +000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_001_2701113725de5fbc_=----"
+X-Priority: 3
+X-Mailer: 9SxvI1
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 17

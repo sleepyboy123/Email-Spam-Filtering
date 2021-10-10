@@ -1,0 +1,49 @@
+From jose@monkey.org Sun Mar 29 12:06:29 2020 +0000
+Return-Path: mynxtcar@uscentral409.accountservergroup.com
+Delivered-To: jose@monkey.org
+X-FDA: 76648272498.25.bee62_55b2be1790b0a
+X-Spam-Summary: 50,3,0,774380ac2a4546c7,d41d8cd98f00b204,mynxtcar@uscentral409.accountservergroup.com,,RULES_HIT:1:2:41:72:152:355:375:379:962:967:973:983:988:989:1189:1208:1224:1260:1263:1313:1314:1345:1381:1431:1432:1437:1516:1517:1588:1589:1593:1594:1623:1714:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2538:2543:2549:2560:2563:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3351:3362:3876:3877:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4052:5007:6114:6261:6642:6674:6678:6688:7801:7904:8603:8824:8957:9025:9080:9388:9908:10004:10049:10210:10346:11257:11658:11914:12043:12217:12297:12438:12740:12895:12903:12956:12958:12986:13026:14096:14659:14827:21080:21212:21325:21451:21524:21627:21851:21881:21889:30054:30064:30067:30070,0,RBL:69.89.24.137:@uscentral409.accountservergroup.com:.lbl8.mailshell.net-66.201.201.201 62.14.0.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,
+X-HE-Tag: bee62_55b2be1790b0a
+X-Filterd-Recvd-Size: 11293
+Received: from gateway7.unifiedlayer.com (gateway7.unifiedlayer.com [69.89.24.137])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun, 29 Mar 2020 12:06:28 +0000 (UTC)
+Received: from cm6.websitewelcome.com (unknown [108.167.139.19])
+	by gateway7.unifiedlayer.com (Postfix) with ESMTP id 83350200D22E0
+	for <jose@monkey.org>; Sun, 29 Mar 2020 07:06:27 -0500 (CDT)
+Received: from uscentral409.accountservergroup.com ([174.136.12.58])
+	by cmsmtp with ESMTP
+	id IWhvjZKTf7MgvIWhvjEdPk; Sun, 29 Mar 2020 07:06:27 -0500
+X-Authority-Reason: nr=8
+Received: from mynxtcar by uscentral409.accountservergroup.com with local (Exim 4.91)
+	(envelope-from <mynxtcar@uscentral409.accountservergroup.com>)
+	id 1jIWhv-002HgN-7p
+	for jose@monkey.org; Sun, 29 Mar 2020 07:06:27 -0500
+To: jose@monkey.org
+Subject: Alerta Patagonia e-BanK
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+From: Banco Patagonia<socios@bancopatagonia.com.ar>
+Message-Id: <E1jIWhv-002HgN-7p@uscentral409.accountservergroup.com>
+Date: Sun, 29 Mar 2020 07:06:27 -0500
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - uscentral409.accountservergroup.com
+X-AntiAbuse: Original Domain - monkey.org
+X-AntiAbuse: Originator/Caller UID/GID - [781 499] / [47 12]
+X-AntiAbuse: Sender Address Domain - uscentral409.accountservergroup.com
+X-BWhitelist: no
+X-Source-IP: 
+X-Source-L: No
+X-Exim-ID: 1jIWhv-002HgN-7p
+X-Source: /usr/local/php56/bin/php-cgi
+X-Source-Args: /usr/bin/php-cgi /home/mynxtcar/public_html/maileraso.php 
+X-Source-Dir: mynxtcar.in:/public_html
+X-Source-Sender: 
+X-Source-Auth: mynxtcar
+X-Email-Count: 318
+X-Source-Cap: bXlueHRjYXI7Y3Jlb3dvcms7dXNjZW50cmFsNDA5LmFjY291bnRzZXJ2ZXJncm91cC5jb20=
+X-Local-Domain: yes
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 48

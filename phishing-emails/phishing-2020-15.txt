@@ -1,0 +1,47 @@
+From jose@monkey.org Wed Jan 22 11:13:47 2020 +0000
+Return-Path: smakeev@aeroflot.ru
+Delivered-To: jose@monkey.org
+X-FDA: 76405010094.21.ring77_5b368db06873b
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,smakeev@aeroflot.ru,:smakeev@aeroflot.ru,RULES_HIT:30022:30054:30064:30069:30070:30090:30091,0,RBL:80.92.36.248:@aeroflot.ru:.lbl8.mailshell.net-64.10.201.10 62.18.3.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:25,LUA_SUMMARY:none
+X-HE-Tag: ring77_5b368db06873b
+X-Filterd-Recvd-Size: 16374
+Received: from mx2.aeroflot.ru (mx2.aeroflot.ru [80.92.36.248])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 22 Jan 2020 11:13:46 +0000 (UTC)
+Received: from MLK-EXCH-05.msk.aeroflot.ru (172.16.1.236) by mx2.aeroflot.ru
+ (192.168.41.68) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1847.3; Wed, 22
+ Jan 2020 14:13:43 +0300
+Received: from MLK-EXCH-05.msk.aeroflot.ru (172.16.1.236) by
+ MLK-EXCH-05.msk.aeroflot.ru (172.16.1.236) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1847.3; Wed, 22 Jan 2020 14:13:43 +0300
+Received: from MLK-EXCH-05.msk.aeroflot.ru ([172.16.0.236]) by
+ MLK-EXCH-05.msk.aeroflot.ru ([172.16.0.236]) with mapi id 15.01.1847.003;
+ Wed, 22 Jan 2020 14:13:43 +0300
+From: "Sergey V. Makeev" <smakeev@aeroflot.ru>
+To: "Sergey V. Makeev" <smakeev@aeroflot.ru>
+Subject: =?utf-8?B?UkU6IEF0dWFsaXphw6fDo28gZG8gT3V0bG9vaw==?=
+Thread-Topic: =?utf-8?B?QXR1YWxpemHDp8OjbyBkbyBPdXRsb29r?=
+Thread-Index: AdXRFQH/QB7+y8KG/ke/lE4plG3WoQ==
+Date: Wed, 22 Jan 2020 11:13:43 +0000
+Message-ID: <e728675345554f9a956dcaa47d713223@aeroflot.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [178.73.217.181]
+Content-Type: multipart/alternative;
+	boundary="_000_e728675345554f9a956dcaa47d713223aeroflotru_"
+MIME-Version: 1.0
+Return-Path: smakeev@aeroflot.ru
+X-KSE-ServerInfo: MLK-EDGE-02.aeroflot.ru, 9
+X-KSE-Antivirus-Interceptor-Info: scan successful
+X-KSE-Antivirus-Info: Clean, bases: 22.01.2020 9:25:00
+X-KSE-Attachment-Filter-Triggered-Rules: Clean
+X-KSE-Attachment-Filter-Triggered-Filters: Clean
+X-KSE-BulkMessagesFiltering-Scan-Result: InTheLimit
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 14

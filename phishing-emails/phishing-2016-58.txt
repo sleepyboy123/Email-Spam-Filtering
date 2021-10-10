@@ -1,0 +1,25 @@
+From jose@monkey.org Mon Feb  8 23:49:32 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71166927384.01.chin97_35b261a5e4c35
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 80,2,0,d41d8cd98f00b204,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1516:1522:1575:1692:1730:1747:1764:1777:1792:2392:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6506:6642:6747:6748:7281:7398:10004:11604:11914:12166:12340:12836:13110:14659:21080:30001:30054:30055:30070,0,RBL:189.114.74.213-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:71,LUA_SUMMARY:none
+X-HE-Tag: chin97_35b261a5e4c35
+X-Filterd-Recvd-Size: 59307
+Received: from approject.com (mail.efficientcomex.com.br [189.114.74.213])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Feb 2016 23:49:28 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Urgent Account Review
+Date: 08 Feb 2016 21:49:27 -0200
+Message-ID: <20160208214927.358E4EB5716E1F3B@approject.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_92E998B2.00345BFD"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 57

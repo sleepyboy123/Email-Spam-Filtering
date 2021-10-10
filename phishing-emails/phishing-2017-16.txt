@@ -1,0 +1,33 @@
+From jose@monkey.org Thu Jan 12 21:03:02 2017 +0000
+Return-Path: support@wiremessage.com
+Delivered-To: jose@monkey.org
+X-FDA: 72396671004.04.glue79_8ed0ec95fe25d
+X-Spam-Summary: 50,3,0,5909fc06817eaf3c,d41d8cd98f00b204,support@wiremessage.com,:support@wiremessage.com,RULES_HIT:41:355:379:871:962:967:988:989:1189:1260:1261:1313:1314:1345:1381:1436:1516:1517:1518:1522:1536:1575:1588:1592:1594:1692:1711:1730:1748:1764:1766:1792:2084:2393:2559:2562:3138:3139:3140:3141:3142:3876:3877:5007:6114:6261:6264:6642:6687:6748:7281:7398:7652:10010:10231:10400:11604:11658:11845:11914:12043:12340:12517:12519:12561:13110:13439:14721:14827:14829:21080:21212:21433:30026:30054:30055,0,RBL:128.193.15.36:@wiremessage.com:.lbl8.mailshell.net-62.8.0.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:27,LUA_SUMMARY:none
+X-HE-Tag: glue79_8ed0ec95fe25d
+X-Filterd-Recvd-Size: 110907
+Received: from smtp2.oregonstate.edu (smtp2.oregonstate.edu [128.193.15.36])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 12 Jan 2017 21:03:01 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by smtp2.oregonstate.edu (Postfix) with ESMTP id 7A2403BC3F;
+	Thu, 12 Jan 2017 12:59:34 -0800 (PST)
+X-Virus-Scanned: amavisd-new at oregonstate.edu
+Received: from smtp2.oregonstate.edu ([127.0.0.1])
+	by localhost (mail.oregonstate.edu [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FgQdDdLNRlzF; Thu, 12 Jan 2017 12:59:34 -0800 (PST)
+Received: from [10.1.10.51] (reed126-mac1.science.oregonstate.edu [128.193.189.52])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by smtp2.oregonstate.edu (Postfix) with ESMTPS id 929D63B0A3;
+	Thu, 12 Jan 2017 12:50:01 -0800 (PST)
+Content-Type: multipart/mixed; boundary="===============0257439703=="
+MIME-Version: 1.0
+Subject: USAA Electronic Wire Transfer Message
+To: Recipients <support@wiremessage.com>
+From: "USAA" <support@wiremessage.com>
+Date: Thu, 12 Jan 2017 13:49:43 -0700
+Message-Id: <20170112205934.7A2403BC3F@smtp2.oregonstate.edu>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 15

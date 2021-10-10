@@ -1,0 +1,32 @@
+From jose@monkey.org Wed Apr  3 13:32:49 2019 +0000
+Return-Path: einvoicing.duty.id@tnt.com
+Delivered-To: jose@monkey.org
+X-FDA: 75338493258.25.cakes07_359d904c3ed2b
+X-Spam-Summary: 50,0,0,135d95658e8aeb9a,d41d8cd98f00b204,einvoicing.duty.id@tnt.com,:,RULES_HIT:41:72:327:355:379:455:559:871:962:967:973:978:982:983:988:989:1000:1189:1208:1260:1263:1308:1309:1313:1314:1345:1381:1390:1431:1432:1433:1434:1436:1437:1516:1517:1545:1550:1551:1555:1571:1573:1575:1588:1589:1730:1744:1747:1777:1792:2194:2196:2198:2199:2200:2201:2393:2525:2527:2553:2568:2610:2612:2635:2682:2685:2693:2733:2737:2859:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3352:3362:3552:3865:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4181:4321:4512:4514:4516:4903:6119:6120:6238:6261:6354:6506:6650:6653:6669:6674:6678:6688:6747:7281:7398:7903:7911:8583:8603:8829:8957:9025:9080:9388:9390:9908:10049:10079:10234:10346:11026:11257:11473:11657:11658:11914:11967:12043:12438:12555:12740:12895:12973:12986:13025:13161:13190:13229:13374:14096:14659:14827:21080:21121:21162:21212:21325:21326:21347:21407:21433:21450:21451:215
+X-HE-Tag: cakes07_359d904c3ed2b
+X-Filterd-Recvd-Size: 34919
+Received: from bujurentw.com (static.59.157.4.46.clients.your-server.de [46.4.157.59])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  3 Apr 2019 13:32:48 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=dkim; d=tnt.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type; i=einvoicing.duty.id@tnt.com;
+ bh=qVocsKzBIWdlzYWI3zdmYIswAxo=;
+ b=t8+MKrljXD9/3xRa9p1xC09mpn7HJBmm0B96U7iiAJN4tEI+VhcRBC73gZ1PMoxCut5hhgxfBCQs
+   z2eUGGltGP68pidoDjf2EpOaZyP+fAOzFvpW4DcXzHeP9Q+AcQI8YmFuDNpP3jCgqkNxo9LUOEDv
+   V+bJgwKdgjvCRw+W24g=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=dkim; d=tnt.com;
+ b=Xxtdgb+20MLesL3CItZSLt/jGyOdfVxfunf5MUTFcp2VPcYqYZbft/FYCdYwAijeN6NwVmIDwHhu
+   U4cq+Xuk9tGmdaf8bqyAvH6ziZOJpApdJxWQ9hjmyOiCbY11leeInGU56OcJdpQOjwhf6GUCWTt+
+   p5d3qquUDA7ADj2Sjkw=;
+From: "TNT Express" <einvoicing.duty.id@tnt.com>
+To: jose@monkey.org
+Subject: TNT Express Consignment Notification for 156976718
+Date: 3 Apr 2019 06:27:37 -0700
+Message-ID: <20190403062737.7DBAD509F75B2030@tnt.com>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0012_51D6CCFE.04252D9F"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 71

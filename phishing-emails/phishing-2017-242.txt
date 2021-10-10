@@ -1,0 +1,31 @@
+From jose@monkey.org Wed Jul 12 17:33:19 2017 +0000
+Return-Path: no-reply@dropbox.com
+Delivered-To: jose@monkey.org
+X-FDA: 73052955318.25.talk57_744907cf9e917
+X-Spam-Summary: 50,0,0,3cc25086e8261591,d41d8cd98f00b204,no-reply@dropbox.com,:no-reply@dropbox.com,RULES_HIT:2:41:72:379:962:967:973:983:988:989:1189:1208:1221:1254:1260:1261:1263:1313:1314:1381:1431:1432:1433:1434:1436:1437:1516:1517:1518:1535:1566:1570:1571:1575:1588:1592:1594:1714:1730:1776:1792:2194:2198:2199:2200:2525:2527:2557:2560:2564:2612:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:2975:3000:3022:3138:3139:3140:3141:3142:3148:3651:3769:3865:3867:3868:3870:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4049:4120:4552:4605:5007:6261:6650:6669:6678:6687:8583:8599:8603:8957:9025:9080:9121:9149:9908:10004:10049:10214:10346:11026:11233:11657:11658:11914:12043:12315:12517:12519:12555:12561:12764:12963:13110:13139:13236:13237:13439:13848:14096:14194:14195:14846:21060:21080:21222:21325:21433:21451:21524:21554:21627:30021:30026:30054:30055:30064,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fs,MSBL:0,DNSBL:neutral,Custom
+X-HE-Tag: talk57_744907cf9e917
+X-Filterd-Recvd-Size: 9032
+Received: from smtp86.iad3a.emailsrvr.com (smtp86.iad3a.emailsrvr.com [173.203.187.86])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 12 Jul 2017 17:33:18 +0000 (UTC)
+Received: from smtp19.relay.iad3a.emailsrvr.com (localhost [127.0.0.1])
+	by smtp19.relay.iad3a.emailsrvr.com (SMTP Server) with ESMTP id AD9B450F6;
+	Wed, 12 Jul 2017 13:33:18 -0400 (EDT)
+X-Auth-ID: cclarry@cwgsy.net
+Received: by smtp19.relay.iad3a.emailsrvr.com (Authenticated sender: cclarry-AT-cwgsy.net) with ESMTPSA id EBDBC5A04;
+	Wed, 12 Jul 2017 13:33:06 -0400 (EDT)
+Received: from DESKTOP-ST72L47.bu.edu (vpn-offcampus-168-122-67-144.bu.edu [168.122.67.144])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA)
+	by 0.0.0.0:25 (trex/5.7.12);
+	Wed, 12 Jul 2017 13:33:18 -0400
+Content-Type: multipart/alternative; boundary="===============1210344612=="
+MIME-Version: 1.0
+Subject: You have a new document sent to you (via Dropbox shared folder)
+To: Recipients <no-reply@dropbox.com>
+From: "Dropbox" <no-reply@dropbox.com>
+Date: Wed, 12 Jul 2017 10:32:43 -0700
+Reply-To: no-reply@dropbox.com
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 242

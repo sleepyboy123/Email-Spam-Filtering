@@ -1,0 +1,46 @@
+From bmg.winners2014@talktalk.net  Sun Feb  8 12:04:28 2015
+Return-Path: <bmg.winners2014@talktalk.net>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 7EC40F40B8
+	for <jose@login.monkey.org>; Sun,  8 Feb 2015 12:04:28 -0600 (CST)
+Received: from smtpin11.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id F12D427A9E3
+	for <jose@login.monkey.org>; Sun,  8 Feb 2015 18:04:27 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 69841545774.11.copy46_60f3c43004d47
+Authentication-Results: auth.b.hostedemail.com; dmarc=none header.from=talktalk.net
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 79,5.907,0,bd75311239d48c20,d41d8cd98f00b204,bmg.winners2014@talktalk.net,,RULES_HIT:2:41:72:152:355:379:387:541:589:800:871:973:988:989:1000:1260:1313:1314:1345:1359:1381:1431:1437:1516:1517:1518:1567:1575:1594:1699:1714:1730:1764:1777:1792:2528:2559:2562:2741:2893:3138:3139:3140:3141:3142:3866:4050:4321:4384:5007:6114:6261:6264:6506:6615:6642:6747:6748:7281:7688:7829:8518:8603:8957:9979:10009:10214:11604:11657:11658:11788:11874:11914:12043:12166:12340:12354:12438:12519:12555:12740:13005:13006:13011:13012:13013:13014:13015:13016:13017:13018:13019:13139:13846,0,RBL:neutral,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:none,Custom_rules:0:1:0
+X-HE-Tag: copy46_60f3c43004d47
+X-Filterd-Recvd-Size: 433845
+Received: from out1.ip04ir2.opaltelecom.net (out1.ip04ir2.opaltelecom.net [62.24.128.240])
+	by imf19.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Sun,  8 Feb 2015 18:04:26 +0000 (UTC)
+X-IronPort-Anti-Spam-Filtered: true
+X-IronPort-Anti-Spam-Result: AtoCANyk11TDXSFNYWdsb2JhbADOIoEqAgIBBi4HQg
+X-IPAS-Result: AtoCANyk11TDXSFNYWdsb2JhbADOIoEqAgIBBi4HQg
+X-IronPort-AV: E=Sophos;i="5.09,540,1418083200"; 
+   d="pdf'?scan'208";a="487028731"
+Received: from webmail-vfrr15.sis.aol.com (HELO webmail-vfrr15) ([195.93.33.77])
+  by out1.ip04ir2.opaltelecom.net with ESMTP; 08 Feb 2015 18:04:05 +0000
+Subject: Microsoft Email valide !!!
+Date: Sun, 08 Feb 2015 13:04:05 -0500
+In-Reply-To: <8D211330064E54A-F48-14F39@webmail-vfrr13.sis.aol.com>
+X-MB-Message-Source: WebUI
+MIME-Version: 1.0
+From: MICROSOFT CORPORATION <bmg.winners2014@talktalk.net>
+X-MB-Message-Type: User
+Content-Type: multipart/mixed; 
+ boundary="--------MB_8D211E0C33F4088_14B4_60ED5_webmail-vfrr15.sis.aol.com"
+X-Mailer: Webmail 36992-STANDARD
+Received: from 154.68.4.73 by webmail-vfrr15.sis.aol.com (195.93.33.77) with HTTP (WebMailUI); Sun, 08 Feb 2015 13:03:59 -0500
+Message-Id: <8D211E0BED22E50-14B4-1BDB1@webmail-vfrr15.sis.aol.com>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 21

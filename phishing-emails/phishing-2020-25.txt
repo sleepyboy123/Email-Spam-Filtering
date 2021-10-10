@@ -1,0 +1,30 @@
+From jose@monkey.org Tue Feb 11 00:52:40 2020 +0000
+Return-Path: admin@php.net
+Delivered-To: jose@monkey.org
+X-FDA: 76476020880.16.grip92_345b8aef2083d
+X-Spam-Summary: 87,8,0,f9b28acc9442ff4d,d41d8cd98f00b204,admin@php.net,,RULES_HIT:41:72:152:355:379:962:967:969:983:988:989:1189:1208:1221:1260:1313:1314:1345:1381:1431:1436:1437:1516:1517:1518:1534:1542:1567:1575:1588:1589:1592:1594:1711:1714:1730:1776:1792:1803:2525:2527:2540:2561:2564:2610:2682:2685:2693:2859:2890:2894:2902:2912:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3038:3138:3139:3140:3141:3142:3622:3740:3867:3868:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4552:5007:6119:6261:6659:6678:6684:7801:7809:8568:8603:9025:9040:9080:10011:10214:10346:10400:10971:11245:11658:11914:12037:12043:12050:12051:12331:12555:12679:12903:13161:13163:13229:13237:13439:13548:13972:14051:14093:14096:14181:14686:14721:14827:14828:14985:18000:21067:21212:21433:21450:21451:21524:21627:21660:21795:21810:21819:21939:30001:30022:30026:30028:30051:30054,0,RBL:119.47.119.8:@php.net:.lbl8.mailshell.net-62.0.180.100 64.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck
+X-HE-Tag: grip92_345b8aef2083d
+X-Filterd-Recvd-Size: 4797
+Received: from ak1-mlx-out-c01.webhost.co.nz (ak1-mlx-out-c01.webhost.co.nz [119.47.119.8])
+	by imf22.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 11 Feb 2020 00:52:39 +0000 (UTC)
+Received: from roundcube.webhost.co.nz (roundcube.webhost.co.nz [119.47.119.107])
+	(Authenticated sender: info@quickshrink.co.nz)
+	by ak1-mlx-out-a01.webhost.co.nz (Postfix) with ESMTPA id A0D2561C2D;
+	Tue, 11 Feb 2020 13:52:33 +1300 (NZDT)
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="=_aa0f6d2b841171200f16c917e7569da7"
+Date: Tue, 11 Feb 2020 13:52:33 +1300
+From: IT Administrator <admin@php.net>
+To: undisclosed-recipients:;
+Subject: Mail User Security Alert
+Reply-To: mgtec.mgtecmail@gmail.com
+Mail-Reply-To: mgtec.mgtecmail@gmail.com
+Message-ID: <20947455d647a4ee7185cd93062c699f@php.net>
+X-Sender: admin@php.net
+User-Agent: Roundcube Webmail/1.3.8
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 24

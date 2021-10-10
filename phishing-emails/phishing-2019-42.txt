@@ -1,0 +1,50 @@
+From jose@monkey.org Wed Feb 20 05:23:02 2019 +0000
+Return-Path: robcoblokitruwesmonciszxuter497656-2533@approved-inf.com
+Delivered-To: jose@monkey.org
+X-FDA: 75184849404.29.swing74_1a67a60e32d4d
+X-Spam-Summary: 10,1,0,b97dc5913fa49da7,d41d8cd98f00b204,robcoblokitruwesmonciszxuter497656-2533@approved-inf.com,:,RULES_HIT:41:152:355:379:871:877:969:973:988:989:1000:1260:1313:1314:1345:1381:1437:1516:1517:1518:1533:1542:1575:1594:1699:1711:1714:1730:1748:1764:1777:1792:2527:2559:2562:2892:2900:3138:3139:3140:3141:3142:3622:3865:3867:3868:5007:6261:6264:6506:6653:6747:6748:7281:7398:8603:8829:10004:10400:10482:11245:11473:11604:11658:11914:12043:12166:12340:12341:12895:12986:13005:13017:13018:13019:13139:13255:14096:14658:14721:19901:19997:21433:21444:21451:21483:21524:21627:21703:21810:30054:30065:30069:30070:30075:30090,0,RBL:209.85.210.65:@approved-inf.com:.lbl8.mailshell.net-62.8.0.100 66.201.201.201,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:36,LUA_SUMMARY:none
+X-HE-Tag: swing74_1a67a60e32d4d
+X-Filterd-Recvd-Size: 88253
+Received: from mail-ot1-f65.google.com (mail-ot1-f65.google.com [209.85.210.65])
+	by imf04.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 20 Feb 2019 05:23:01 +0000 (UTC)
+Received: by mail-ot1-f65.google.com with SMTP id b3so38219077otp.4
+        for <jose@monkey.org>; Tue, 19 Feb 2019 21:23:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=approved-inf.com; s=google;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=gK8ZMD9ZS/ZlCSZCmQiM/BYarif+4HWHRj5fipX7q7A=;
+        b=nGZDswUPqOBN7HcqteVc/2Saq9xK2bD8kt2OEig+FO//hJWEYeGESJr8BYYH+tF8FV
+         l+T6NhDC7RCYGxa6swXNkSDlq7YKN9hNZU30y50y2PjMjqtMmBUEn7KOKgSk87VgcmKk
+         TT8YTwNOKlv0orcHkbpjNi7UA7gMsGw7QAGoq0sQ9utcXhN1jbwUTPomsLicw5NPJehN
+         2Erh3drZ3j+MOfYPIgpF9BQ/x/enLs3rZBALu/Llpak+wiFkApFqIf3D1WhNtzpJi+04
+         uNwzdOOa/T6rmZN0Rmhi1ujiFNdQ8NCDEIS5BwK0/1397FBhz6+MEokjKrLlWkqWa+j3
+         WeGg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20161025;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=gK8ZMD9ZS/ZlCSZCmQiM/BYarif+4HWHRj5fipX7q7A=;
+        b=KzXudLVYdAYodoQrrzaajuX0B35QQqc6Y1je2yqZclUUNkD/AME47upOnTMNlwGg2K
+         NjdQTH4l/2s+GHwKxtIwM5K/WPO+mmBDM81zwcpQIxuZe87DumCEf79m0Hfkgp7abnWv
+         q/nqO2kSkw6DsVJkd7WWCK+A893wCStrCIaMo2T0pKH8Xark6+UAQkWvvwraHGZkqEZr
+         eI4SuiKTWA5QsoKtIkLYbWvRDbINj85rDTm1k9sziuZfzX5IatHyYXCNkwD6ihZCz6G/
+         15a2TcNwrQhpP2QMfGWOVVZ5h6xckyX4ffZ6MGAZWmRvkdHs6POyTDt0e5wkWRDJhJ5u
+         SDNg==
+X-Gm-Message-State: AHQUAuaoNWQVbB1WInNBxpl3Jpp7Vo7B2LtT1jP5nuf5sInOZuVYrJRr
+	I2MtDYFVVuoHXHuRgcFyCCjeIB8LWmsqVyTL2qThbw==
+X-Google-Smtp-Source: AHgI3IZBXopkeNwncSLRUqqNPNCQQJARIaiRbWiP9NsgUx8OZpFvQ6nZT5aCdXPoRIC9Yk8wboGuTHVQOd8p9+ysoMk=
+X-Received: by 2002:a9d:4ca:: with SMTP id 68mr10341716otm.96.1550640152063;
+ Tue, 19 Feb 2019 21:22:32 -0800 (PST)
+MIME-Version: 1.0
+From: Apple Info Validation Data <robcoblokitruwesmonciszxuter497656-2533@approved-inf.com>
+Date: Tue, 19 Feb 2019 21:22:15 -0800
+Message-ID: <CAPfG9LN31NQ6bCGkRFHXjCDghxTZxu4jYkLbDHuk_jy-oUWADA@mail.gmail.com>
+Subject: RE : [ Statement Data update] We received a violation report. [Usage]
+ - DATE February 20, 2019
+To: undisclosed-recipients:;
+Content-Type: multipart/mixed; boundary="00000000000070848705824c8b51"
+Bcc: jose@monkey.org
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 42

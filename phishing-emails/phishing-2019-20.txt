@@ -1,0 +1,32 @@
+From jose@monkey.org Tue Jan 29 06:27:24 2019 +0000
+Return-Path: mailbox_service@consultant.com
+Delivered-To: jose@monkey.org
+X-FDA: 75105178008.14.cry52_23783d3e9334a
+X-Spam-Summary: 74,2.2,0,fbd60e5918cded68,d41d8cd98f00b204,mailbox_service@consultant.com,:,RULES_HIT:41:72:327:355:375:379:495:581:800:962:967:969:973:983:988:989:1021:1189:1208:1224:1260:1261:1263:1311:1313:1314:1345:1381:1431:1436:1437:1513:1515:1516:1517:1521:1560:1588:1589:1593:1594:1714:1719:1730:1747:1777:1792:2194:2198:2199:2200:2393:2525:2527:2561:2564:2682:2685:2828:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3043:3138:3139:3140:3141:3142:3585:3586:3650:3865:3866:3867:3870:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4602:5007:6117:6119:6261:6671:6672:6678:7809:8511:8599:8603:8957:8987:9025:9388:10008:10183:10241:10346:11026:11473:11657:11658:11914:12043:12295:12438:12521:12555:12660:12740:12764:12895:12903:12955:12986:13007:13008:13025:13139:13439:13546:13548:13898:13975:14096:14246:14827:14829:18000:21080:21433:21436:21451:21483:21524:21611:21627:21819:30001:30022:30054,0,RBL:138.108.10.206:@consultant.com:.lbl8.mailshell.net-62.20.0.120 64.201.201.201,Cac
+X-HE-Tag: cry52_23783d3e9334a
+X-Filterd-Recvd-Size: 31772
+Received: from TPAWINEXCHP02.enterprisenet.org (titan.nielsen.com [138.108.10.206])
+	by imf23.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 29 Jan 2019 06:27:23 +0000 (UTC)
+Received: from TPAWINEXCHP04.enterprisenet.org (10.8.42.227) by
+ TPAWINEXCHP02.enterprisenet.org (10.8.42.225) with Microsoft SMTP Server
+ (TLS) id 15.0.1395.4; Tue, 29 Jan 2019 01:27:22 -0500
+Received: from TPAWINRELP001Z (10.8.144.181) by smarthost.enterprisenet.org
+ (10.8.42.227) with Microsoft SMTP Server id 15.0.1395.4 via Frontend
+ Transport; Tue, 29 Jan 2019 01:27:22 -0500
+Received: from consultant.com ([115.69.248.167]) by TPAWINRELP001Z with Microsoft SMTPSVC(8.5.9600.16384);
+	 Tue, 29 Jan 2019 01:27:18 -0500
+From: Webmail Upgrade <Mailbox_service@consultant.com>
+To: <jose@monkey.org>
+Subject: Email Service Announcement And Account Verification
+Date: Tue, 29 Jan 2019 11:57:18 +0530
+Message-ID: <20190129115718.B14FB7EDA490763E@consultant.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Return-Path: Mailbox_service@consultant.com
+X-OriginalArrivalTime: 29 Jan 2019 06:27:18.0521 (UTC) FILETIME=[AF0C2690:01D4B79B]
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 20

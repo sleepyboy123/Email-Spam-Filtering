@@ -1,0 +1,24 @@
+From jose@monkey.org Wed Dec 14 07:30:55 2016 +0000
+Return-Path: diamondbank@microsenseindia.com
+Delivered-To: jose@monkey.org
+X-FDA: 72289389270.11.watch83_5eb288e7e6236
+X-Spam-Summary: 71,4.7,0,02ef9d795dafc408,d41d8cd98f00b204,diamondbank@microsenseindia.com,:,RULES_HIT:2:41:72:379:495:800:918:962:967:969:973:983:988:989:1147:1189:1208:1221:1254:1260:1263:1313:1314:1381:1431:1433:1434:1436:1437:1516:1517:1518:1533:1535:1571:1575:1588:1592:1594:1606:1685:1714:1730:1767:1778:1792:2196:2198:2199:2200:2525:2560:2563:2610:2682:2685:2693:2737:2790:2859:2890:2894:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3865:3866:3867:3868:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4118:4361:4552:5007:6261:6300:6669:6678:6996:7652:7801:8516:8517:8518:8603:8797:9025:9121:9388:10008:10049:10114:10215:10346:11233:11480:11657:11658:11914:12043:12591:12986:13025:13139:13237:13439:13846:14051:14093:14096:14149:14827:21080:21212:21433:21450:21451:21524:30001:30021:30022:30026:30054,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:error,Custom_rules:0:1:0,LFtime:
+X-HE-Tag: watch83_5eb288e7e6236
+X-Filterd-Recvd-Size: 7631
+Received: from mail.vps.com (unknown [51.15.52.119])
+	by imf15.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 14 Dec 2016 07:30:50 +0000 (UTC)
+Received: from [86.106.131.244] (unknown [86.106.131.244])
+	(Authenticated sender: admin)
+	by mail.vps.com (Postfix) with ESMTPA id 5324613FA68
+	for <jose@monkey.org>; Wed, 14 Dec 2016 07:11:10 +0000 (UTC)
+Content-Type: multipart/alternative; boundary="===============1924833202=="
+MIME-Version: 1.0
+Subject: Account Termination Alert (jose@monkey.org)
+To: jose@monkey.org
+From: "Email Administrator" <diamondbank@microsenseindia.com>
+Date: Tue, 13 Dec 2016 23:11:03 -0800
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 462

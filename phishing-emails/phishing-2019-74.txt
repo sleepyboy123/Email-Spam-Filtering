@@ -1,0 +1,33 @@
+From jose@monkey.org Mon Apr  8 04:29:52 2019 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 75355269024.23.blade21_7346adf44c94c
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,,,RULES_HIT:30001:30026:30038:30054:30070:30079,0,RBL:202.162.246.159:@smtpout.netcore.co.in:.lbl8.mailshell.net-62.18.117.100 66.10.201.10,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hn,MSBL:0,DNSBL:neutral,Custom_rules:0:1:0,LFtime:74,LUA_SUMMARY:none
+X-HE-Tag: blade21_7346adf44c94c
+X-Filterd-Recvd-Size: 3067
+Received: from smtpout.netcore.co.in (unknown [202.162.246.159])
+	by imf16.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon,  8 Apr 2019 04:29:52 +0000 (UTC)
+Received: from smtp18.netcore.co.in (unknown [192.168.2.219])
+	by smtpout1.netcore.co.in (Postfix) with ESMTP id 8BE00233B2E0;
+	Mon,  8 Apr 2019 09:59:47 +0530 (IST)
+Received: from [192.168.8.100] (unknown [112.196.73.26])
+	(Authenticated sender: Ronak.Panchal@tradebulls.in)
+	by smtp18.netcore.co.in (Postfix) with ESMTPA id 8CB9E1D6059C;
+	Mon,  8 Apr 2019 09:58:19 +0530 (IST)
+Content-Type: multipart/alternative; boundary="===============1882534983=="
+MIME-Version: 1.0
+Subject: Your 2019 TDS Payment Was Declined
+To: me <>
+From: "Tax" <>
+X-Intloopheader: 0
+Date: Mon, 08 Apr 2019 05:25:12 +0100
+X-SMTP33-MailScanner-Information: Please contact the ISP for more information
+X-MailScanner-ID: 8CB9E1D6059C.AF9E6
+X-SMTP33-MailScanner: Found to be clean
+X-MailScanner-From: 
+X-Spam-Status: No
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 74

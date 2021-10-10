@@ -1,0 +1,37 @@
+From jose@monkey.org Tue Apr 24 01:35:43 2018 +0000
+Return-Path: official@absa.co.za
+Delivered-To: jose@monkey.org
+X-FDA: 74088378966.35.money47_6c0c84d0a6938
+X-Spam-Summary: 20,1.5,0,c75b24e794c9ff72,d41d8cd98f00b204,official@absa.co.za,:official@absa.co.za,RULES_HIT:41:72:355:379:800:962:967:973:978:979:981:983:988:989:1189:1208:1256:1260:1261:1263:1313:1314:1345:1381:1394:1395:1431:1432:1433:1434:1436:1437:1516:1517:1518:1545:1546:1549:1550:1552:1571:1575:1588:1592:1594:1685:1710:1730:1764:1777:1792:1801:2194:2198:2199:2200:2525:2539:2553:2559:2568:2610:2682:2685:2693:2741:2859:2890:2892:2894:2909:2933:2937:2939:2942:2945:2947:2951:2954:3000:3022:3138:3139:3140:3141:3142:3148:3167:3353:3362:3619:3865:3866:3867:3868:3870:3871:3872:3873:3874:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4321:4383:4605:4700:5007:6119:6227:6261:6669:7211:7212:7213:7514:7809:7875:7903:8516:8568:8599:8603:8660:8829:8957:9025:9072:9121:9149:9164:9388:9402:9901:10009:10049:10128:10346:10394:10881:11026:11233:11473:11651:11658:11914:12043:12217:12295:12438:12517:12519:12555:12903:12963:12986:13110:13132:13139:13148:13230:13231:13439:13972:14094:14096:21
+X-HE-Tag: money47_6c0c84d0a6938
+X-Filterd-Recvd-Size: 77577
+Received: from email.digital-fintech.com (unknown [201.131.125.18])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 24 Apr 2018 01:35:42 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by email.digital-fintech.com (Postfix) with ESMTP id B803C1A23610;
+	Mon, 23 Apr 2018 20:11:06 -0500 (CDT)
+Received: from email.digital-fintech.com ([127.0.0.1])
+	by localhost (email.digital-fintech.com [127.0.0.1]) (amavisd-new, port 10032)
+	with ESMTP id L0PUhE8jrQDO; Mon, 23 Apr 2018 20:11:03 -0500 (CDT)
+Received: from localhost (localhost [127.0.0.1])
+	by email.digital-fintech.com (Postfix) with ESMTP id CFE431A2360F;
+	Mon, 23 Apr 2018 20:09:19 -0500 (CDT)
+X-Virus-Scanned: amavisd-new at email.digital-fintech.com
+Received: from email.digital-fintech.com ([127.0.0.1])
+	by localhost (email.digital-fintech.com [127.0.0.1]) (amavisd-new, port 10026)
+	with ESMTP id 8XLCy2UIntNd; Mon, 23 Apr 2018 20:09:19 -0500 (CDT)
+Received: from JFSP1.JFSP.local (unknown [164.39.231.89])
+	by email.digital-fintech.com (Postfix) with ESMTPSA id D83971A23426;
+	Mon, 23 Apr 2018 20:07:11 -0500 (CDT)
+Content-Type: multipart/mixed; boundary="===============1350723350=="
+MIME-Version: 1.0
+Subject: Cheque Account Statement 180423
+To: you <official@absa.co.za>
+From: "ABSA"<official@absa.co.za>
+Date: Tue, 24 Apr 2018 02:06:44 +0100
+Message-Id: <20180424010711.D83971A23426@email.digital-fintech.com>
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 473

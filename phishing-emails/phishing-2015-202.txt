@@ -1,0 +1,41 @@
+From cs@sevr.com  Thu Oct 15 12:59:13 2015
+Return-Path: <cs@sevr.com>
+X-Original-To: jose@login.monkey.org
+Delivered-To: jose@login.monkey.org
+Received: from forward.b.hostedemail.com (forward.b.hostedemail.com [64.98.36.17])
+	by l.monkey.org (Postfix) with ESMTP id 19F94F4169
+	for <jose@login.monkey.org>; Thu, 15 Oct 2015 12:59:13 -0500 (CDT)
+Received: from smtpin18.hostedemail.com (10.5.19.248.rfc1918.com [10.5.19.248])
+	by ofarelay02.b.hostedemail.com (Postfix) with SMTP id AC6E327AB92
+	for <jose@login.monkey.org>; Thu, 15 Oct 2015 17:59:12 +0000 (UTC)
+X-Forwarded-For: jose@monkey.org by Hostedemail
+Delivered-To: jose@monkey.org
+X-FDA: 70745103744.18.horse01_8a7c392327c19
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=none (insecure policy);
+	dkim-atps=neutral
+X-Spam-Summary: 30,2,0,3e2a4e9ac43bd76e,d41d8cd98f00b204,cs@sevr.com,:,RULES_HIT:2:41:46:72:150:152:355:379:800:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1431:1433:1434:1437:1516:1517:1535:1571:1575:1588:1589:1594:1676:1710:1714:1730:1747:1777:1792:1801:1803:2194:2198:2199:2200:2393:2525:2527:2538:2539:2553:2568:2610:2627:2682:2685:2859:2890:2892:2895:2901:2902:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3154:3245:3350:3586:3804:3865:3866:3867:3870:3872:3873:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4050:4120:4321:4605:5007:6117:6119:6238:6261:6300:6650:6671:6678:7266:7652:7809:8550:8568:8583:8603:8778:8957:9025:9080:9121:9388:9908:10346:10398:10484:10522:11233:11256:11473:11480:11651:11657:11658:11914:11984:12043:12050:12114:12295:12517:12519:12555:12740:13007:13139:13374:14096:14246:21080:21094,0,RBL:error,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:
+X-HE-Tag: horse01_8a7c392327c19
+X-Filterd-Recvd-Size: 9889
+Received: from smtp-out0128-sv3.telkom.net (smtp-out0128-sv3.telkom.net [125.160.6.128])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 15 Oct 2015 17:59:11 +0000 (UTC)
+Received: from [222.124.18.76] (helo=fm1.smtp.telkom.net)
+	by smtp-out0128-sv3.telkom.net with esmtps (TLSv1:AES256-SHA:256)
+	id 1Zmmnv-0001ac-Bt
+	for jose@monkey.org; Fri, 16 Oct 2015 00:59:03 +0700
+Received: from IrfanPC ([180.254.108.73])
+	by fm1.smtp.telkom.net  with SMTP id t9FHx0sJ023509-t9FHx0sK023509
+	for <jose@monkey.org>; Fri, 16 Oct 2015 00:59:01 +0700
+From: "=?utf-8?Q?Paypal=20Inc=2E?=" <cs@sevr.com>
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Fri, 16 Oct 2015 00:59:50 +0700
+Subject: =?utf-8?Q?We=27ve=20limit=20your=20account=20access?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="_=aspNetEmail=_5e7271fbed7a4074913a300c51489cb6"
+Message-ID: <IRFANPC7363005988d748c0a0649a8423ce2113@IrfanPC>
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 202

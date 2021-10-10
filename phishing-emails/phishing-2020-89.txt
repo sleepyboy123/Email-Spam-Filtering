@@ -1,0 +1,36 @@
+From jose@monkey.org Tue Jun 30 17:15:59 2020 +0000
+Return-Path: bounces+17179945-c66d-jose=monkey.org@sendgrid.net
+Delivered-To: jose@monkey.org
+X-FDA: 76986530838.42.note80_180da2f26e79
+X-Spam-Summary: 41,0,0,,d41d8cd98f00b204,bounces+17179945-c66d-jose=monkey.org@sendgrid.net,,RULES_HIT:30001:30003:30022:30037:30054:30070:30074,0,RBL:149.72.25.253:@sendgrid.net:.lbl8.mailshell.net-64.10.201.10 62.18.0.32;04y89df51yqyti3jr7uyeyorbgoxfyrc3zfr8spgo5ksjcgpkc4pb5okafexbjy.gk6o43t6y9a84xs9qjqwrd814ukwugcxff6kkty9qqyaw948cspj1zadix6cg8t.1pzwmiriow6ct5ihyx1tem73h15qgdmwqgqunqkjfzrr7f4pdejus5hy-lbl8.mailshell.net-223.238.255.190;149.72.25.253-irl.urbl.hostedemail.com-127.0.0.200,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:1,DNSBL:xiaomi-mall.com-dnsbl7.mailshell.net-127.4.0.192,Custom_rules:0:0:0,LFtime:4,LUA_SUMMARY:none
+X-HE-Tag: note80_180da2f26e79
+X-Filterd-Recvd-Size: 26342
+Received: from wrqvkwfd.outbound-mail.sendgrid.net (wrqvkwfd.outbound-mail.sendgrid.net [149.72.25.253])
+	by imf07.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 30 Jun 2020 17:15:57 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=sendgrid.net; 
+	h=from:to:subject:mime-version:content-type; s=smtpapi; 
+	bh=9jfBGHmOlpeAOee3FkrjsjPKFdg0fg/qEKblHO6VMUk=; b=I9ZE3/Lrq0VSB
+	AerklEzPc6/B7CAYJAfQ5XeJJUnaj+Kn5WYEHr/cBFq/YAB5TJdZToG0/ML87gcN
+	RJZfQCY/ruYXDrkDouhetRxoSmKkI5GZ110VQ3M8eu4qZE0lDlFlxgx2gOGjHojQ
+	b3bBbYFOshTrrCJuYP9hi+DTwtOD9E=
+Received: by filter1037p1las1.sendgrid.net with SMTP id filter1037p1las1-16594-5EFB734A-3E
+        2020-06-30 17:15:55.094299869 +0000 UTC m=+67107.973081570
+Received: from avocadoengineering.com (unknown)
+	by geopod-ismtpd-6-3 (SG) with ESMTP id YCaU1YqrTLSAgt6MADGGtA
+	for <jose@monkey.org>; Tue, 30 Jun 2020 17:15:54.910 +0000 (UTC)
+From: imlsf@avocadoengineering.com
+To: jose@monkey.org
+Subject: ap-cncpurchase@ghf.com sent you files Via WeFile Shraing.
+Date: Tue, 30 Jun 2020 17:15:55 +0000 (UTC)
+Message-ID: <20200630171554.2C47EB50C70628C5@avocadoengineering.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_4A532798.EBBD3B4E"
+X-SG-EID: uk4PP0eEjut4P8/eKt92EMT2PN5rig6Ts8EnoW54QtA6hzo55NhcJZTkO4vZeuC5zXcTiNicvdfDpD
+ zjAnvyurtHKrquEG+xxZUu7Q1Rbblz/FplrDChWaEM9GZWNp1XyJwmd5sYmHIKH1Me4pKWGwMXlBdF
+ FPy6nXCguYK9EtJlgEzXxokOXCAx2uEpXnuOnlSV0Wi7+jJvEuF4iU+pjA==
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 88

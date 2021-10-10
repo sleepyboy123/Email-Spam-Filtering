@@ -1,0 +1,22 @@
+From jose@monkey.org Fri Apr  8 17:53:40 2016 +0000
+Return-Path: codewizard@approject.com
+Delivered-To: jose@monkey.org
+X-FDA: 71383758600.23.shape38_2fae1cd80d45
+X-Spam-Summary: 75,0,0,82f803eeb0e6ddcb,d41d8cd98f00b204,codewizard@approject.com,:,RULES_HIT:41:152:355:379:871:988:989:1000:1260:1308:1309:1313:1314:1345:1381:1437:1516:1518:1529:1536:1569:1575:1594:1711:1714:1730:1747:1764:1777:1792:2393:2540:2559:2562:3138:3139:3140:3141:3142:3865:3868:5007:6261:6264:6506:6747:6748:7281:7398:7809:10004:10394:10400:11604:11658:11914:12196:12340:13110:14659:21080:30001:30054:30055:30070,0,RBL:146.115.5.20-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:64,LUA_SUMMARY:none
+X-HE-Tag: shape38_2fae1cd80d45
+X-Filterd-Recvd-Size: 61090
+Received: from approject.com (essgrpips05.e.subnet.rcn.com [146.115.5.20])
+	by imf26.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri,  8 Apr 2016 17:53:40 +0000 (UTC)
+From: "USAA" <codewizard@approject.com>
+To: jose@monkey.org
+Subject: Your USAA Checking/Savings Account Urgent Preference Update
+Date: 08 Apr 2016 13:53:39 -0400
+Message-ID: <20160408135339.0D8902AD497A480C@approject.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_DA08EF8F.DFB7C560"
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 156

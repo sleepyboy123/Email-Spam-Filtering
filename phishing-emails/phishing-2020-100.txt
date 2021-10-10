@@ -1,0 +1,47 @@
+From jose@monkey.org Mon Jul 27 09:13:02 2020 +0000
+Return-Path: zhdorosh@aeroflot.ru
+Delivered-To: jose@monkey.org
+X-FDA: 77083291404.45.stew24_520a68226f60
+X-Spam-Summary: 1,0,0,,d41d8cd98f00b204,zhdorosh@aeroflot.ru,,RULES_HIT:30021:30022:30054:30064:30070,0,RBL:80.92.36.248:@aeroflot.ru:.lbl8.mailshell.net-64.10.201.10 62.18.3.100;04y8hcsrn6hkxkunnt6mr3ntmzomyof8ox5kypb1dx1z7s6c1gm4ep1dyfh7877.b6x5z6wzq8s8anmeikgucdfdejfcjdy6q8tm9xwk1jmds89sojqocbbo19hwfor.dyauhdrgc96hzxspm5pw41u1j5qabfni8y41463iou9zijuid38y3epy-lbl8.mailshell.net-192.46.0.99,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:1,DNSBL:neutral,Custom_rules:0:0:0,LFtime:9,LUA_SUMMARY:none
+X-HE-Tag: stew24_520a68226f60
+X-Filterd-Recvd-Size: 6783
+Received: from mx2.aeroflot.ru (mx2.aeroflot.ru [80.92.36.248])
+	by imf14.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Mon, 27 Jul 2020 09:13:02 +0000 (UTC)
+Received: from MLK-EXCH-03.msk.aeroflot.ru (172.16.1.233) by mx2.aeroflot.ru
+ (192.168.41.68) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id 15.1.1979.3; Mon, 27
+ Jul 2020 12:12:55 +0300
+Received: from MLK-EXCH-01.msk.aeroflot.ru (172.16.1.231) by
+ MLK-EXCH-03.msk.aeroflot.ru (172.16.1.233) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256_P256) id
+ 15.1.1979.3; Mon, 27 Jul 2020 12:12:58 +0300
+Received: from MLK-EXCH-01.msk.aeroflot.ru ([172.16.0.231]) by
+ MLK-EXCH-01.msk.aeroflot.ru ([172.16.0.231]) with mapi id 15.01.1979.003;
+ Mon, 27 Jul 2020 12:12:59 +0300
+From: "Zhanna Y. Dorosh" <zhdorosh@aeroflot.ru>
+Subject: RE: Aviso importante do IT-Helpdesk To All PT Email users
+Thread-Topic: Aviso importante do IT-Helpdesk To All PT Email users
+Thread-Index: AdZj9NfhJGREzwHmQba6UeQeJPyriwAABMxwAAABFHAAAAA1AA==
+Date: Mon, 27 Jul 2020 09:12:58 +0000
+Message-ID: <ff26de3c40cd46a486fa0daf78d5acc9@aeroflot.ru>
+Accept-Language: ru-RU, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [68.235.33.119]
+Content-Type: multipart/alternative;
+	boundary="_000_ff26de3c40cd46a486fa0daf78d5acc9aeroflotru_"
+MIME-Version: 1.0
+To: Undisclosed recipients:;
+Return-Path: zhdorosh@aeroflot.ru
+X-KSE-ServerInfo: MLK-EDGE-02.aeroflot.ru, 9
+X-KSE-Antivirus-Interceptor-Info: scan successful
+X-KSE-Antivirus-Info: Clean, bases: 27.07.2020 8:13:00
+X-KSE-Attachment-Filter-Triggered-Rules: Clean
+X-KSE-Attachment-Filter-Triggered-Filters: Clean
+X-KSE-BulkMessagesFiltering-Scan-Result: InTheLimit
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 99

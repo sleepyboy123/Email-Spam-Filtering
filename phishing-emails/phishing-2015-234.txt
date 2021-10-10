@@ -1,0 +1,30 @@
+From jose@monkey.org Wed Nov  4 21:47:52 2015 +0000
+Return-Path: apache@www.photogalerie.com
+Delivered-To: jose@monkey.org
+X-FDA: 70818255984.12.rub21_61c12ce940242
+Authentication-Results: auth.b.hostedemail.com; dkim=none
+	reason="no signature"; dkim-adsp=nxdomain; dkim-atps=neutral
+X-Spam-Summary: 50,0,0,b27220fb4e6fca1a,d41d8cd98f00b204,apache@www.photogalerie.com,:,RULES_HIT:41:72:355:379:541:543:800:882:962:967:969:973:978:983:988:989:1189:1208:1221:1260:1263:1313:1314:1345:1381:1394:1431:1433:1434:1436:1437:1516:1517:1518:1535:1543:1571:1575:1588:1589:1592:1594:1711:1730:1768:1779:1792:2107:2194:2198:2199:2200:2525:2527:2560:2563:2682:2685:2693:2859:2890:2892:2894:2895:2902:2906:2924:2925:2926:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3245:3352:3865:3866:3867:3868:3870:3871:3872:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4042:4250:5007:6119:6238:6261:6646:6650:6669:6674:6678:6688:7903:8518:8568:8583:8603:8957:9025:9080:9388:9868:9908:10004:10049:10214:10346:10398:10484:11212:11256:11257:11529:11651:11656:11657:11658:11914:12043:12555:12679:12740:12973:13038:13095:13139:13163:13177:13227:13229:13237:13302:13548:14036:14037:14093:14096:14129:21067:21080:21094:30001:30022:30051:30054:30055:30070:30075,0,RBL:error,Ca
+X-HE-Tag: rub21_61c12ce940242
+X-Filterd-Recvd-Size: 5026
+Received: from www.photogalerie.com (magento.maehdros.be [188.65.220.6])
+	by imf08.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed,  4 Nov 2015 21:47:51 +0000 (UTC)
+Received: by www.photogalerie.com (Postfix, from userid 48)
+	id 96FC590D67B8; Wed,  4 Nov 2015 22:47:50 +0100 (CET)
+To: jose@monkey.org
+Subject: Check your account
+X-PHP-Originating-Script: 48:wb.php
+Date: Wed, 4 Nov 2015 22:47:50 +0100
+From: "Pay.service" <root@localhost.photogalerie.com>
+Message-ID: <2ff4a6b05a5657f3e3d2e0cdc501c38f@photogalerie.com>
+X-Priority: 1
+X-Mailer: PHPMailer 5.2.8Wahib Priv8 Mailer
+Reply-To: Pay.service <>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ff4a6b05a5657f3e3d2e0cdc501c38f"
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 234

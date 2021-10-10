@@ -1,0 +1,41 @@
+From jose@monkey.org Fri Jul 24 01:07:35 2020 +0000
+Return-Path: bounce-4893a51dc5192cac05339102db69c93d@smtplw-13.com
+Delivered-To: jose@monkey.org
+X-FDA: 77071181670.46.wren32_110af3726f43
+X-Spam-Summary: 80,6,0,25b4d7908641c96a,d41d8cd98f00b204,bounce-4893a51dc5192cac05339102db69c93d@smtplw-13.com,,RULES_HIT:41:46:72:150:152:327:355:379:455:871:962:967:973:983:988:989:994:1000:1189:1208:1221:1260:1261:1313:1314:1345:1381:1390:1431:1432:1439:1516:1517:1522:1537:1573:1575:1588:1589:1594:1676:1711:1730:1744:1747:1777:1792:2393:2525:2559:2563:2610:2682:2685:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3552:3691:3863:3876:3877:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4180:4181:4287:4511:4513:6114:6117:6119:6261:6354:6506:6642:6747:7281:7398:7809:9025:9077:9469:10004:11658:11914:11984:12043:12114:12297:13234:13236:13244:14181:14659:14721:21068:21080:21325:21451:21524:21627:21911:22017:30054,0,RBL:179.188.7.24:@smtplw-13.com:.lbl8.mailshell.net-64.100.201.201 62.2.4.100,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fp,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,LFtime:11,LUA_SUMMARY:none
+X-HE-Tag: wren32_110af3726f43
+X-Filterd-Recvd-Size: 30753
+Received: from smtp76t7f24.saaspmta0001.correio.biz (smtp76t7f24.saaspmta0001.correio.biz [179.188.7.24])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Fri, 24 Jul 2020 01:07:34 +0000 (UTC)
+Received: from saasmilter0015.correio.biz (10.32.64.19) by smtp76t7f24.saaspmta0001.correio.biz id h38q2k1q62oh for <jose@monkey.org>; Thu, 23 Jul 2020 22:06:48 -0300 (envelope-from <bounce-4893a51dc5192cac05339102db69c93d@smtplw-13.com>)
+Received: from saasqueue0003.smtpdlv.com.br (saasqueue0003.smtpdlv.com.br [10.32.64.6])
+	by saasmilter0015.correio.biz (Postfix) with ESMTP id AC5CCE0357
+	for <jose@monkey.org>; Thu, 23 Jul 2020 22:07:32 -0300 (-03)
+Received: from saasauth0008.correio.pw (saasauth0008.smtpdlv.com.br [10.30.225.253])
+	by saasqueue0003.smtpdlv.com.br (Postfix) with ESMTP id A89638A0057
+	for <jose@monkey.org>; Thu, 23 Jul 2020 22:07:32 -0300 (-03)
+Received: from soufiane (unknown [70.37.99.79])
+	(Authenticated sender: acrsolucoes)
+	by saasauth0008.correio.pw (Postfix) with ESMTPA id 367F2180F02
+	for <jose@monkey.org>; Thu, 23 Jul 2020 22:07:31 -0300 (-03)
+From: "=?utf-8?Q?Notice?=" <netf@v-thevillas.com> 
+To: "jose@monkey.org" <jose@monkey.org>
+Date: Fri, 24 Jul 2020 02:07:30 +0100
+Subject: =?utf-8?Q?Your=20Netflix=20Membership=20is=20on=20hol?=
+	=?utf-8?Q?d=202020?=
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="_=aspNetEmail=_14873e8e920341d09d393e191020eedc"
+Message-ID: <SOUFIANE023680c7d71949c699a7a314ac98d3af@soufiane>
+x-locaweb-id: UDBiK5zk7ElqHmNFvH8bzliBfclQ-zI3e-0KZRUAnlMumpTnUoaAfNFsuGuf23cSEuv3TRc7kZ-W313JWtmnzJUV7vOa6zTyf7OfJqM34lIP5vADUUoIZJWUi5lXXi3MH1Qzpq4VR3dZhYFOjVXml1FAfpWd1D1WkSkT8zv48GIaObOqMg95OcCfJN1ITiSc4HslmRwSOB__OTTps-GOUGnr9HjFbiOPIuZj53SRFnjQzuO0Oyurjm02v9XVdvgTZMfDO-IxMWJdEew5zBDopycl-I19kGBbtBNsCS761BUoswFnuIbF3SV3m-VrjqdkHl-J7-ydQ36rD6u3S_9NrMa2EEQt-PbKG6L8iH6glUz3Z6McMkarYYDkK_r7Iu4KaIA2Xmuu0S7JcuMGu8Y89JDVaCEJNC6wBOGja-vyjJULyxwBTFhfkMLZz57Ii3-F
+x-locaweb-id2: NjE2MzcyNzM2ZjZjNzU2MzZmNjU3Mw==
+x-message-uid: 4893a51dc5192cac05339102db69c93d-1595552852.72
+x-account-uid: 4893a51dc5192cac05339102db69c93d
+x-return-path: bounce-4893a51dc5192cac05339102db69c93d@smtplw-13.com
+x-envid: 4893a51dc5192cac05339102db69c93d-1595552852.72
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 97

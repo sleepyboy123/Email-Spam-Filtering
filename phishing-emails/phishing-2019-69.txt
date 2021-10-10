@@ -1,0 +1,34 @@
+From jose@monkey.org Thu Mar 28 04:39:19 2019 +0000
+Return-Path: MAILER-DAEMON
+Delivered-To: jose@monkey.org
+X-FDA: 75315376038.33.grade09_8b9761fac922b
+X-Spam-Summary: 50,0,0,bd77720876c4ce32,d41d8cd98f00b204,,:,RULES_HIT:41:72:327:355:490:495:582:800:962:967:973:983:988:989:1152:1189:1208:1221:1260:1261:1313:1314:1345:1381:1431:1433:1434:1436:1437:1516:1517:1518:1560:1571:1575:1588:1589:1592:1594:1714:1730:1777:1792:2107:2196:2198:2199:2200:2525:2527:2559:2564:2610:2682:2685:2737:2859:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3865:3867:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4321:4603:5007:6678:6996:6997:7652:8583:8603:8828:8829:8957:9025:9121:9149:9908:9979:10004:10214:10346:11233:11473:11658:11914:12043:12295:12438:12517:12519:12521:12555:12740:12895:12903:12986:13139:13237:13439:13846:13857:13868:14096:14827:14877:21080:21212:21325:21347:21433:21451:21483:21524:21627:21731:21740:21819:21838:21863:21881:30026:30054,0,RBL:129.252.158.29-irl.urbl.hostedemail.com-127.0.0.150,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:hn,MSBL:0,DNSBL:neutral,Custom_rules:0:0:0,
+X-HE-Tag: grade09_8b9761fac922b
+X-Filterd-Recvd-Size: 30745
+Received: from mo5.mail.sc.edu (mo5.mail.sc.edu [129.252.158.29])
+	by imf30.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 28 Mar 2019 04:39:19 +0000 (UTC)
+Received: from mo5.mail.sc.edu (127.0.0.1) id hjh7ve0171su for <jose@monkey.org>; Thu, 28 Mar 2019 00:39:18 -0400 (envelope-from <>)
+Received: from CAE145HUBP03.ds.sc.edu ([172.27.7.170])
+	by mo5.mail.sc.edu ([172.27.1.56]) (SonicWALL 9.0.6.2477 )
+	with ESMTPS (version=TLSv1 cipher=ECDHE-RSA-AES256-SHA bits=256/256)
+	id o201903280439180470856-35; Thu, 28 Mar 2019 00:39:18 -0400
+Received: from [103.207.38.156] (172.27.7.4) by asmtp.mail.sc.edu
+ (172.27.7.170) with Microsoft SMTP Server (TLS) id 14.3.361.1; Thu, 28 Mar
+ 2019 00:39:18 -0400
+Content-Type: multipart/alternative; boundary="===============1729382574=="
+MIME-Version: 1.0
+Subject: Your Mailbox is Almost Full !! Deliver Pending Messages Now
+To: <jose@monkey.org>
+From: MAIL ADMINISTRATION
+Date: Thu, 28 Mar 2019 13:29:19 -0700
+Message-ID: <b1d25e72-1573-4981-ab80-8331e01bf322@CAE145HUBP03.ds.sc.edu>
+Return-Path: <>
+X-Originating-IP: [172.27.7.4]
+X-Mlf-Version: 9.0.6.2477
+X-Mlf-License: BSVKCAP__
+X-Mlf-UniqueId: o201903280439180470856
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 69

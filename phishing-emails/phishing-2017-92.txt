@@ -1,0 +1,28 @@
+From jose@monkey.org Tue Feb 28 00:06:39 2017 +0000
+Return-Path: object@www.acu.ac.th
+Delivered-To: jose@monkey.org
+X-FDA: 72564058476.05.seed17_39dff34f7173f
+X-Spam-Summary: 75,0,0,5358db4e5319cf2f,d41d8cd98f00b204,object@www.acu.ac.th,:,RULES_HIT:41:72:327:355:375:379:455:540:541:543:962:967:973:983:988:989:1189:1208:1224:1260:1263:1313:1314:1345:1381:1431:1432:1433:1434:1437:1516:1517:1545:1571:1589:1593:1594:1685:1710:1730:1747:1777:1792:2194:2198:2199:2200:2380:2393:2525:2527:2553:2568:2610:2682:2685:2730:2731:2828:2859:2891:2910:2916:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3352:3585:3865:3866:3867:3868:3871:3873:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4038:4180:4181:4321:4817:5007:6119:6248:6261:6650:6671:6672:6678:7557:7602:7688:8599:8603:8957:9025:9072:9388:9416:9908:10030:10049:10234:10346:11026:11473:11657:11658:11805:11914:12043:12438:12555:12679:12698:12737:12740:12776:12895:12956:12958:12959:12961:12963:12986:13007:13008:13139:13374:13439:13628:13972:14096:14651:14827:14829:21060:21080:21212:21324:21325:21347:21433:21451:21483:21524:30006:30022:30048:30054:30055:30058:30064:30070:30082:3
+X-HE-Tag: seed17_39dff34f7173f
+X-Filterd-Recvd-Size: 23983
+Received: from www.acu.ac.th (unknown [110.164.58.67])
+	by imf03.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Tue, 28 Feb 2017 00:06:37 +0000 (UTC)
+Received: by www.acu.ac.th (Postfix, from userid 500)
+	id ECC2B5D40CE; Tue, 28 Feb 2017 07:11:20 +0700 (ICT)
+To: jose@monkey.org
+Subject: [Alibaba Inquiry Notification]Hector Rodriguez from Colombia has replied you
+X-PHP-Originating-Script: 500:God.php
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: feedback@service.alibaba.com <feedback@service.alibaba.com>
+Reply-To: feedback@service.alibaba.com
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: www.acu.ac.th
+Message-Id: <20170228001120.ECC2B5D40CE@www.acu.ac.th>
+Date: Tue, 28 Feb 2017 07:11:20 +0700 (ICT)
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 91

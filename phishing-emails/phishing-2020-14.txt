@@ -1,0 +1,36 @@
+From jose@monkey.org Wed Jan 22 11:12:42 2020 +0000
+Return-Path: it@premiumtabak.com
+Delivered-To: jose@monkey.org
+X-FDA: 76405007364.08.stove53_51b51b73e8e22
+X-Spam-Summary: 50,0,0,5eda4154b1b0ce5a,d41d8cd98f00b204,it@premiumtabak.com,:,RULES_HIT:4:41:72:355:375:379:495:800:962:967:968:973:978:983:988:989:1021:1189:1208:1224:1260:1263:1311:1313:1314:1345:1381:1431:1433:1434:1436:1437:1513:1515:1516:1517:1521:1571:1588:1589:1593:1594:1710:1730:1747:1777:1792:2196:2198:2199:2200:2393:2525:2527:2568:2610:2627:2682:2685:2693:2731:2734:2737:2828:2859:2892:2895:2909:2933:2937:2939:2942:2945:2947:2951:2954:3022:3138:3139:3140:3141:3142:3148:3352:3503:3504:3586:3865:3866:3867:3868:3870:3872:3889:3934:3936:3938:3941:3944:3947:3950:3953:3956:3959:4250:4321:4552:5007:6117:6119:6238:6248:6261:6653:6669:6688:7809:7903:8511:8583:8599:8603:8825:8957:8987:9025:9080:9153:9388:9416:9545:9908:10004:10346:11473:11657:11658:11914:12043:12050:12297:12438:12555:12663:12679:12740:12764:12812:12895:12955:12958:12959:12967:12968:12986:13025:13139:13161:13180:13229:13436:13439:13546:13870:13975:14096:14827:18000:21080:21121:21212:21433:21450:21451:21483:21554:21627
+X-HE-Tag: stove53_51b51b73e8e22
+X-Filterd-Recvd-Size: 17923
+Received: from mail.premiumtabak.com (mail.premiumtabak.com [84.53.241.106])
+	by imf29.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Wed, 22 Jan 2020 11:12:41 +0000 (UTC)
+Received: from premiumtabak.com (unknown [196.50.5.1])
+	by mail.premiumtabak.com (Postfix) with ESMTPA id 2E8A26720D18
+	for <jose@monkey.org>; Wed, 22 Jan 2020 14:08:22 +0300 (MSK)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=premiumtabak.com;
+	s=relay; t=1579691304;
+	bh=C0R4CoEZ6olFomC1BKoQvT4SHLSck+1ImThV7TYe3wc=;
+	h=From:To:Subject:Date;
+	b=NIsUONME4a1b8tM5V6Ca0kzUnlVqXhJBetXUnhUAsQl1NG+l/ujdLx+pgoqPUnPc4
+	 LQ/Cr7H/gu6JZ6hXDF9ur2JczVfB8dxAJcLuD6PMWG5lT3VEYHgFYbbzCfjzJpZ57N
+	 sCZX3lcNfi7T7D9mud8QZJH9rLmmSJ/0586HnbXkN9L/KsYgF9+ZhNecidhB2Ged4d
+	 b9kpOVUQV3Bjju5SSJ5XKiC5Z7n+jqRMrnH58DuFXusLo4zOPXysYwhfAfgxAwnCBc
+	 I+6ATocK1b6VqEh/R0mmXwe3XHGFab5dUsv9DgcDZJFWApKedful/1h7zzCUyXWj7A
+	 bEBE/LZo9NlQw==
+From: monkey.org  <it@premiumtabak.com>
+To: jose@monkey.org
+Subject: jose@monkey.org Messages could not be delivered.
+Date: 22 Jan 2020 11:30:15 +0100
+Message-ID: <20200122113015.5AFFDBFEC5E6EA63@premiumtabak.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Status: O
+X-Status: 
+X-Keywords:                  
+X-UID: 13

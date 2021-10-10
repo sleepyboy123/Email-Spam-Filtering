@@ -1,0 +1,27 @@
+From jose@monkey.org Thu Jun 15 07:28:57 2017 +0000
+Return-Path: bpayne1@t-online.de
+Delivered-To: jose@monkey.org
+X-FDA: 72953454714.12.dress33_6b2e8dbb84039
+X-Spam-Summary: 75,0,0,cae81e79cc157269,d41d8cd98f00b204,bpayne1@t-online.de,:bpayne1@t-online.de,RULES_HIT:4:41:152:355:379:560:960:962:967:969:973:988:989:1189:1260:1313:1314:1345:1381:1436:1437:1516:1517:1518:1575:1588:1589:1592:1594:1714:1730:1764:1776:1792:2194:2196:2199:2200:2527:2553:2559:2562:2636:2737:2741:2987:3138:3139:3140:3141:3142:3350:3622:3740:3865:3867:3868:3870:3873:4250:5007:6119:6120:6678:6684:6687:7652:7907:8603:8829:8957:9973:10214:10234:10264:10394:11473:11529:11658:11783:11914:12043:12160:12219:12523:12561:12679:12740:12895:13285:13286:14827:14829:21080:21121:21212:21433:21451:21460:21627:30026:30054:30055:30070:30074:30090,0,RBL:94.143.98.146-irl.urbl.hostedemail.com-127.0.0.175,CacheIP:none,Bayesian:0.5,0.5,0.5,Netcheck:none,DomainCache:0,MSF:not bulk,SPF:fu,MSBL:0,DNSBL:none,Custom_rules:0:4:0,LFtime:8,LUA_SUMMARY:none
+X-HE-Tag: dress33_6b2e8dbb84039
+X-Filterd-Recvd-Size: 18558
+Received: from S510.gigasys (rotomors2.unonet.it [94.143.98.146])
+	by imf01.b.hostedemail.com (Postfix) with ESMTP
+	for <jose@monkey.org>; Thu, 15 Jun 2017 07:28:55 +0000 (UTC)
+Received: from [216.170.126.169] ([216.170.126.169])
+	(authenticated bits=0)
+	by S510.gigasys (9.0.0) with ESMTP id v5F6BunI002890
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 amministrazione verify=NOT);
+	Thu, 15 Jun 2017 09:24:11 +0200
+Message-Id: <201706150724.v5F6BunI002890@S510.gigasys>
+Content-Type: multipart/mixed; boundary="===============2113987865=="
+MIME-Version: 1.0
+Subject: Dhl Shipment Arrival Notification 
+To: Recipients <bpayne1@t-online.de>
+From: "Dhl service" <bpayne1@t-online.de>
+Date: Thu, 15 Jun 2017 00:15:43 -0700
+X-Antivirus: verificato in 0.065sec su S510.gigasys ([94.143.98.146])
+Status: RO
+X-Status: 
+X-Keywords:                 
+X-UID: 228
