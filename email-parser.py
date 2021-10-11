@@ -48,7 +48,7 @@ def parse_email(email_file):
 
 if __name__ == "__main__":
     # Looping Through Directory
-    directory = os.getcwd() + '\phishing-compilation'
+    directory = os.getcwd() + '/phishing-compilation'
     for filename in os.listdir(directory):
         if filename.endswith(".txt"):
             input_file = os.path.join(directory, filename)
