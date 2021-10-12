@@ -11,6 +11,7 @@ def send_email(eml_file, type):
             smtp = smtplib.SMTP('smtp.live.com', 587)
             smtp.ehlo()
             smtp.starttls()
+            # I forgot I am going to zip up this folder and send it over so storing passwords in a .env doesn't hide it.
             # Login Details stored in .env
             smtp.login(os.environ.get('hotmail'), os.environ.get('h_password'))
             smtp.sendmail('sleepyboy123@hotmail.com', 'sleepyboi234@hotmail.com', message)
